@@ -2,9 +2,9 @@
   "brand": "Ram",
   "market": "United States",
   "verified_on": "2026-09-12",
-  "source_policy": "Official Ram Trucks U.S. Build & Price pages only",
+  "source_policy": "Official Ram Trucks U.S. pages only",
   "models": {
-    "1500": {
+    "Ram 1500": {
       "year": "2026",
       "source": "https://www.ramtrucks.com/bmo.ram_1500_dt.html",
       "trims": [
@@ -20,7 +20,7 @@
         {"name":"TUNGSTEN","msrp":88800,"default_cab":"Crew Cab","default_drive":"4x4"}
       ]
     },
-    "2500": {
+    "Ram 2500": {
       "year": "2026",
       "source": "https://www.ramtrucks.com/bmo.ram_2500.html",
       "trims": [
@@ -35,7 +35,7 @@
         {"name":"LIMITED LONGHORN","msrp":74320,"default_cab":"Crew Cab 8' box","default_drive":"4x2"}
       ]
     },
-    "3500": {
+    "Ram 3500": {
       "year": "2026",
       "source": "https://www.ramtrucks.com/bmo.ram_3500.html",
       "trims": [
@@ -46,31 +46,43 @@
         {"name":"LIMITED LONGHORN","msrp":75620,"default_cab":"Crew Cab 8' box","default_drive":"4x2"}
       ]
     },
-    "ProMaster": {
+    "Ram ProMaster": {
       "year": "2026",
       "source": "https://www.ramtrucks.com/bmo.ram_promaster.html",
-      "pricing_note": "Base MSRP depends on weight class, roof and wheelbase; only manufacturer-published configurations should be displayed as exact prices.",
+      "pricing_note": "Base MSRP depends on weight class, roof and wheelbase; only manufacturer-published configurations are shown as exact prices.",
       "trims": [
         {"name":"1500 Tradesman Cargo Van Low Roof 136\" WB","msrp":49065},
         {"name":"2500 Tradesman Cargo Van Low Roof 136\" WB","msrp":50665},
         {"name":"SLT representative configuration","msrp":52675}
       ]
     },
-    "ProMaster EV": {
+    "Ram ProMaster EV": {
       "year": "2026",
       "source": "https://www.ramtrucks.com/electric/ram-promaster-ev.html",
+      "range_miles_up_to":164,
       "trims": [
         {"name":"ProMaster EV entry configuration","msrp":56495},
         {"name":"3500 SLT High Roof Cargo Van","msrp":69995}
       ]
     },
-    "3500 Chassis Cab": {
+    "Ram Chassis Cab": {
       "year": "2026",
       "source": "https://www.ramtrucks.com/ram-chassis-cab.html",
       "trims": [
-        {"name":"Tradesman","msrp":48605}
+        {"name":"3500 Chassis Cab Tradesman","msrp":48605}
       ],
-      "pricing_note":"Additional chassis-cab trims/configurations remain pending exact official Build & Price verification."
+      "pricing_note":"Additional chassis-cab configurations remain pending exact official Build & Price verification."
+    },
+    "Ram 1500 REV": {
+      "year": "2026",
+      "source": "https://www.ramtrucks.com/electric/1500-rev.html",
+      "status":"Preproduction / projected 2026 availability",
+      "horsepower":647,
+      "range_miles_up_to":690,
+      "towing_lbs_up_to":14000,
+      "payload_lbs_up_to":2625,
+      "pricing_note":"Ram has not published a current U.S. starting MSRP on the official product page.",
+      "trims":[]
     }
   }
 }

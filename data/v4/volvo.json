@@ -1,0 +1,103 @@
+{
+  "brand": "Volvo",
+  "market": "United States",
+  "verified_on": "2026-09-12",
+  "source_policy": "Official Volvo Cars USA pages only",
+  "models": {
+    "EX30": {
+      "year": "2026",
+      "source": "https://www.volvocars.com/us/cars/ex30-electric/",
+      "horsepower": {"Single Motor Extended Range": 272, "Twin Motor Performance": 422, "Cross Country Twin Motor": 422},
+      "epa_range_miles": {"Single Motor Extended Range": 261, "Twin Motor Performance": 253, "Cross Country Twin Motor": 227},
+      "mpge_combined": {"Single Motor Extended Range": 116, "Twin Motor Performance": 109, "Cross Country Twin Motor": 99},
+      "trims": [
+        {"name": "EX30 Plus", "msrp": 40345},
+        {"name": "EX30 Ultra", "msrp": 48045},
+        {"name": "EX30 Cross Country Ultra", "msrp": 49545}
+      ]
+    },
+    "EX40": {
+      "year": "2026",
+      "source": "https://www.volvocars.com/us/cars/ex40-electric/",
+      "horsepower": {"Single Motor Extended Range": 268, "Twin Motor": 402},
+      "epa_range_miles": {"Single Motor Extended Range": 296, "Twin Motor": 260},
+      "mpge_combined": {"Single Motor Extended Range": 106, "Twin Motor": 94},
+      "trims": [
+        {"name": "EX40 Plus", "msrp": 56545},
+        {"name": "EX40 Black Edition Ultra", "msrp": 62245}
+      ]
+    },
+    "EX90": {
+      "year": "2026",
+      "source": "https://www.volvocars.com/us/cars/ex90-electric/",
+      "horsepower": {"Twin Motor": 409, "Twin Motor Performance": 670},
+      "epa_range_miles_up_to": 305,
+      "trims": [
+        {"name": "EX90 Plus", "msrp": 78090},
+        {"name": "EX90 Ultra", "msrp": 85740}
+      ]
+    },
+    "XC40": {
+      "year": "2026",
+      "source": "https://www.volvocars.com/us/cars/xc40/",
+      "horsepower": {"B4 FWD": 194, "B5 AWD": 247},
+      "mpg_combined": {"B4 FWD": 27, "B5 AWD": 26},
+      "trims": [
+        {"name": "XC40 Core", "msrp": 41295},
+        {"name": "XC40 Plus", "msrp": 45295},
+        {"name": "XC40 Ultra", "msrp": 52645},
+        {"name": "XC40 Black Edition Ultra", "msrp": 53295}
+      ]
+    },
+    "XC60": {
+      "year": "2026",
+      "source": "https://www.volvocars.com/us/cars/xc60/",
+      "phev_source": "https://www.volvocars.com/us/cars/xc60-hybrid/",
+      "mild_hybrid_horsepower": 247,
+      "mild_hybrid_mpg_combined": 26,
+      "phev_horsepower": 455,
+      "phev_electric_range_miles": 35,
+      "phev_mpge_combined": 63,
+      "phev_mpg_combined": 28,
+      "trims": [
+        {"name": "XC60 Core", "msrp": 51095, "powertrain": "Mild hybrid"},
+        {"name": "XC60 Plus", "msrp": 55695, "powertrain": "Mild hybrid"},
+        {"name": "XC60 Ultra", "msrp": 61045, "powertrain": "Mild hybrid"},
+        {"name": "XC60 Black Edition Ultra", "msrp": 62195, "powertrain": "Mild hybrid"},
+        {"name": "XC60 Plug-in Hybrid Core", "msrp": 62545, "powertrain": "Plug-in hybrid"},
+        {"name": "XC60 Plug-in Hybrid Plus", "msrp": 66995, "powertrain": "Plug-in hybrid"},
+        {"name": "XC60 Plug-in Hybrid Ultra", "msrp": 72345, "powertrain": "Plug-in hybrid"},
+        {"name": "XC60 Black Edition Ultra PHEV", "msrp": 73445, "powertrain": "Plug-in hybrid"},
+        {"name": "XC60 Polestar Engineered", "msrp": 81195, "powertrain": "Plug-in hybrid"}
+      ]
+    },
+    "XC90": {
+      "year": "2026",
+      "source": "https://www.volvocars.com/us/cars/xc90/",
+      "phev_source": "https://www.volvocars.com/us/cars/xc90-hybrid/",
+      "mild_hybrid_horsepower": {"B5 AWD": 247, "B6 AWD": 295},
+      "mild_hybrid_mpg_combined": {"B5 AWD": 24, "B6 AWD": 23},
+      "phev_horsepower": 455,
+      "phev_electric_range_miles": 32,
+      "phev_mpge_combined": 58,
+      "phev_mpg_combined": 27,
+      "trims": [
+        {"name": "XC90 Core", "msrp": 62445, "powertrain": "Mild hybrid"},
+        {"name": "XC90 Plus", "msrp": 66445, "powertrain": "Mild hybrid"},
+        {"name": "XC90 Ultra", "msrp": 71045, "powertrain": "Mild hybrid"},
+        {"name": "XC90 Plug-in Hybrid Core", "msrp": 77595, "powertrain": "Plug-in hybrid"},
+        {"name": "XC90 Plug-in Hybrid Plus", "msrp": 80245, "powertrain": "Plug-in hybrid"},
+        {"name": "XC90 Plug-in Hybrid Ultra", "msrp": 84795, "powertrain": "Plug-in hybrid"}
+      ]
+    },
+    "V60 Cross Country": {
+      "year": "2026",
+      "source": "https://www.volvocars.com/us/cars/v60-cross-country/",
+      "horsepower": 247,
+      "mpg_combined": 26,
+      "trims": [
+        {"name": "V60 Cross Country", "msrp": 48695, "powertrain": "Gas mild hybrid"}
+      ]
+    }
+  }
+}

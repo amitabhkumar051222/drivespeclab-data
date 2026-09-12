@@ -1,0 +1,18 @@
+{
+  "brand":"Subaru",
+  "market":"United States",
+  "verified_on":"2026-09-13",
+  "source_policy":"Official Subaru of America U.S. vehicle pages only",
+  "models":{
+    "Crosstrek":{"year":"2026","source":"https://www.subaru.com/vehicles/crosstrek/2026.html","trims":[{"name":"Base","msrp":26995},{"name":"Premium","msrp":27995},{"name":"Sport","msrp":30625},{"name":"Limited","msrp":32995},{"name":"Wilderness","msrp":33795},{"name":"Sport Hybrid","msrp":33995},{"name":"Limited Hybrid","msrp":34995}]},
+    "Forester":{"year":"2026","source":"https://www.subaru.com/vehicles/forester/2026.html","trims":[{"name":"Base","msrp":29995},{"name":"Premium","msrp":31995},{"name":"Premium Hybrid","msrp":34730},{"name":"Sport","msrp":34795},{"name":"Limited","msrp":35995},{"name":"Wilderness","msrp":36995},{"name":"Sport Hybrid","msrp":37930},{"name":"Limited Hybrid","msrp":38995},{"name":"Touring","msrp":39995},{"name":"Touring Hybrid","msrp":41545}]},
+    "Outback":{"year":"2026","source":"https://www.subaru.com/vehicles/outback/2026.html","trims":[{"name":"Premium","msrp":34995},{"name":"Limited","msrp":41715},{"name":"Limited XT","msrp":44365},{"name":"Wilderness","msrp":44995},{"name":"Touring","msrp":45395},{"name":"Touring XT","msrp":47995}]},
+    "Ascent":{"year":"2027","source":"https://www.subaru.com/vehicles/ascent/2027.html","trims":[{"name":"Premium 8-Passenger","msrp":40795},{"name":"Premium 7-Passenger","msrp":40795},{"name":"Limited 8-Passenger","msrp":47985},{"name":"Limited 7-Passenger","msrp":47985},{"name":"Limited Bronze Edition 7-Passenger","msrp":49095},{"name":"Touring 7-Passenger","msrp":51165},{"name":"Onyx Edition Touring 7-Passenger","msrp":51995}]},
+    "Impreza":{"year":"2026","source":"https://www.subaru.com/vehicles/impreza/2026.html","pricing_note":"Official 2026 page lists Sport and RS. A Base trim price shown by Subaru belongs to model year 2025, so it is not represented as a 2026 trim.","trims":[{"name":"Sport","msrp":26595},{"name":"RS","msrp":29495}]},
+    "WRX":{"year":"2026","source":"https://www.subaru.com/vehicles/wrx/2026.html","trims":[{"name":"Base","msrp":32495},{"name":"Premium","msrp":33995},{"name":"Limited","msrp":38995},{"name":"GT","msrp":44995},{"name":"tS","msrp":44995}]},
+    "BRZ":{"year":"2027","source":"https://www.subaru.com/vehicles/brz/2027.html","trims":[{"name":"Limited","msrp":36140},{"name":"tS","msrp":38770}]},
+    "Solterra":{"year":"2026","source":"https://www.subaru.com/vehicles/solterra/2026.html","trims":[{"name":"Premium","msrp":38495},{"name":"Limited","msrp":41395},{"name":"Limited XT","msrp":42895},{"name":"Touring XT","msrp":45555},{"name":"Touring XT Leather","msrp":45855}]},
+    "Trailseeker":{"year":"2026","source":"https://www.subaru.com/vehicles/trailseeker/2026.html","trims":[{"name":"Premium","msrp":39995},{"name":"Limited","msrp":43995},{"name":"Touring","msrp":46555},{"name":"Touring Leather","msrp":46855}]},
+    "Legacy":{"status":"Discontinued from current Subaru U.S. lineup","source":"https://www.subaru.com/vehicles/index.html","trims":[]}
+  }
+}

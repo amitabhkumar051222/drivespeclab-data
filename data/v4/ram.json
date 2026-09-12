@@ -1,0 +1,76 @@
+{
+  "brand": "Ram",
+  "market": "United States",
+  "verified_on": "2026-09-12",
+  "source_policy": "Official Ram Trucks U.S. Build & Price pages only",
+  "models": {
+    "1500": {
+      "year": "2026",
+      "source": "https://www.ramtrucks.com/bmo.ram_1500_dt.html",
+      "trims": [
+        {"name":"TRADESMAN","msrp":42025,"default_cab":"Quad Cab","default_drive":"4x2"},
+        {"name":"EXPRESS","msrp":44150,"default_cab":"Quad Cab","default_drive":"4x2"},
+        {"name":"BIG HORN","msrp":47280,"default_cab":"Quad Cab","default_drive":"4x2"},
+        {"name":"WARLOCK","msrp":52865,"default_cab":"Crew Cab","default_drive":"4x4"},
+        {"name":"LARAMIE","msrp":61480,"default_cab":"Crew Cab","default_drive":"4x2"},
+        {"name":"REBEL","msrp":65050,"default_cab":"Crew Cab","default_drive":"4x4"},
+        {"name":"RHO","msrp":73795,"default_cab":"Crew Cab","default_drive":"4x4"},
+        {"name":"LIMITED","msrp":76405,"default_cab":"Crew Cab","default_drive":"4x4"},
+        {"name":"LIMITED LONGHORN","msrp":76900,"default_cab":"Crew Cab","default_drive":"4x4"},
+        {"name":"TUNGSTEN","msrp":88800,"default_cab":"Crew Cab","default_drive":"4x4"}
+      ]
+    },
+    "2500": {
+      "year": "2026",
+      "source": "https://www.ramtrucks.com/bmo.ram_2500.html",
+      "trims": [
+        {"name":"TRADESMAN","msrp":46855,"default_cab":"Regular Cab 8' box","default_drive":"4x2"},
+        {"name":"BIG HORN","msrp":50605,"default_cab":"Regular Cab 8' box","default_drive":"4x2"},
+        {"name":"BLACK EXPRESS","msrp":53070,"default_cab":"Crew Cab 6'4\" box","default_drive":"4x2"},
+        {"name":"WARLOCK","msrp":56400,"default_cab":"Crew Cab 6'4\" box","default_drive":"4x4"},
+        {"name":"LARAMIE","msrp":62310,"default_cab":"Crew Cab 6'4\" box","default_drive":"4x2"},
+        {"name":"REBEL","msrp":69755,"default_cab":"Crew Cab 6'4\" box","default_drive":"4x4"},
+        {"name":"POWER WAGON","msrp":73250,"default_cab":"Crew Cab 6'4\" box","default_drive":"4x4"},
+        {"name":"LIMITED","msrp":74320,"default_cab":"Crew Cab 8' box","default_drive":"4x2"},
+        {"name":"LIMITED LONGHORN","msrp":74320,"default_cab":"Crew Cab 8' box","default_drive":"4x2"}
+      ]
+    },
+    "3500": {
+      "year": "2026",
+      "source": "https://www.ramtrucks.com/bmo.ram_3500.html",
+      "trims": [
+        {"name":"TRADESMAN","msrp":48155,"default_cab":"Regular Cab 8' box","default_drive":"4x2"},
+        {"name":"BIG HORN","msrp":51905,"default_cab":"Regular Cab 8' box","default_drive":"4x2"},
+        {"name":"LARAMIE","msrp":63610,"default_cab":"Crew Cab 6'4\" box","default_drive":"4x2"},
+        {"name":"LIMITED","msrp":75620,"default_cab":"Crew Cab 8' box","default_drive":"4x2"},
+        {"name":"LIMITED LONGHORN","msrp":75620,"default_cab":"Crew Cab 8' box","default_drive":"4x2"}
+      ]
+    },
+    "ProMaster": {
+      "year": "2026",
+      "source": "https://www.ramtrucks.com/bmo.ram_promaster.html",
+      "pricing_note": "Base MSRP depends on weight class, roof and wheelbase; only manufacturer-published configurations should be displayed as exact prices.",
+      "trims": [
+        {"name":"1500 Tradesman Cargo Van Low Roof 136\" WB","msrp":49065},
+        {"name":"2500 Tradesman Cargo Van Low Roof 136\" WB","msrp":50665},
+        {"name":"SLT representative configuration","msrp":52675}
+      ]
+    },
+    "ProMaster EV": {
+      "year": "2026",
+      "source": "https://www.ramtrucks.com/electric/ram-promaster-ev.html",
+      "trims": [
+        {"name":"ProMaster EV entry configuration","msrp":56495},
+        {"name":"3500 SLT High Roof Cargo Van","msrp":69995}
+      ]
+    },
+    "3500 Chassis Cab": {
+      "year": "2026",
+      "source": "https://www.ramtrucks.com/ram-chassis-cab.html",
+      "trims": [
+        {"name":"Tradesman","msrp":48605}
+      ],
+      "pricing_note":"Additional chassis-cab trims/configurations remain pending exact official Build & Price verification."
+    }
+  }
+}

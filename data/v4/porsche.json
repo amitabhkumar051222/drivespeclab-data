@@ -1,0 +1,135 @@
+{
+  "brand":"Porsche",
+  "market":"United States",
+  "verified_on":"2026-09-13",
+  "source_policy":"Official Porsche USA current Model Overview and Car Configurator pages only. MSRP excludes options, taxes, title, registration, delivery/processing/handling, dealer charges and potential tariffs unless Porsche states otherwise. Dealer sets actual selling price.",
+  "models":{
+    "718":{
+      "year":"2025 current-listed",
+      "source":"https://www.porsche.com/usa/models/718/configure/",
+      "pricing_note":"Porsche USA currently lists 10 718 variants; model cards remain labeled 2025 at verification time.",
+      "trims":[
+        {"name":"718 Cayman","msrp":75400,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"718 Cayman Style Edition","msrp":82100,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"718 Cayman S","msrp":87900,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"718 Cayman GTS 4.0","msrp":103300,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"718 Boxster","msrp":77600,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"718 Boxster Style Edition","msrp":84200,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"718 Boxster S","msrp":90000,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"718 Boxster GTS 4.0","msrp":105500,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"718 Spyder RS","msrp":170100,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"718 Cayman GT4 RS","msrp":170100,"powertrain":"Gasoline","drivetrain":"RWD"}
+      ]
+    },
+    "911":{
+      "year":"2027 with one current 2026 special edition",
+      "source":"https://www.porsche.com/usa/models/911/configure/",
+      "pricing_note":"Porsche USA current configurator lists 23 911 variants. Spirit 70 remains a current 2026 special edition; the rest below are current 2027 variants.",
+      "trims":[
+        {"name":"911 Carrera","msrp":135500,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"911 Carrera T","msrp":148000,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"911 Carrera S","msrp":156200,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"911 Carrera 4S","msrp":164500,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"911 Carrera S with MT Package","msrp":167100,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"911 Carrera GTS","msrp":181000,"powertrain":"T-Hybrid gasoline","drivetrain":"RWD"},
+        {"name":"911 Carrera 4 GTS","msrp":189300,"powertrain":"T-Hybrid gasoline","drivetrain":"AWD"},
+        {"name":"911 Carrera Cabriolet","msrp":149400,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"911 Carrera T Cabriolet","msrp":161900,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"911 Carrera S Cabriolet","msrp":170100,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"911 Carrera 4S Cabriolet","msrp":178400,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"911 Carrera S Cabriolet with MT Package","msrp":181000,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"911 Carrera GTS Cabriolet","msrp":194900,"powertrain":"T-Hybrid gasoline","drivetrain":"RWD"},
+        {"name":"911 Carrera 4 GTS Cabriolet","msrp":203300,"powertrain":"T-Hybrid gasoline","drivetrain":"AWD"},
+        {"name":"911 Targa 4S","msrp":180200,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"911 Targa 4 GTS","msrp":203300,"powertrain":"T-Hybrid gasoline","drivetrain":"AWD"},
+        {"name":"911 GT3","msrp":235800,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"911 GT3 with Touring Package","msrp":235800,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"911 Spirit 70","msrp":254300,"powertrain":"T-Hybrid gasoline","drivetrain":"RWD","status":"Current 2026 special edition"},
+        {"name":"911 Turbo S","msrp":270300,"powertrain":"T-Hybrid gasoline","drivetrain":"AWD"},
+        {"name":"911 GT3 S/C","msrp":273000,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"911 Turbo S Cabriolet","msrp":284300,"powertrain":"T-Hybrid gasoline","drivetrain":"AWD"},
+        {"name":"911 GT3 90 F. A. Porsche","msrp":387000,"powertrain":"Gasoline","drivetrain":"RWD"}
+      ]
+    },
+    "Taycan":{
+      "year":"2027",
+      "source":"https://www.porsche.com/usa/models/taycan/configure/",
+      "trims":[
+        {"name":"Taycan","msrp":111900,"powertrain":"Battery electric","drivetrain":"RWD"},
+        {"name":"Taycan 4","msrp":116000,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Taycan 4S","msrp":131800,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Taycan GTS","msrp":157000,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Taycan Turbo","msrp":184600,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Taycan Turbo S","msrp":221400,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Taycan Turbo GT","msrp":243700,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Taycan Turbo GT with Weissach Package","msrp":243700,"powertrain":"Battery electric","drivetrain":"AWD"}
+      ]
+    },
+    "Panamera":{
+      "year":"2027",
+      "source":"https://www.porsche.com/usa/models/panamera/",
+      "trims":[
+        {"name":"Panamera","msrp":113000,"powertrain":"Gasoline","drivetrain":"RWD"},
+        {"name":"Panamera 4","msrp":120400,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"Panamera 4 E-Hybrid","msrp":127200,"powertrain":"Plug-in hybrid","drivetrain":"AWD"},
+        {"name":"Panamera 4S E-Hybrid","msrp":139100,"powertrain":"Plug-in hybrid","drivetrain":"AWD"},
+        {"name":"Panamera GTS","msrp":166900,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"Panamera Turbo E-Hybrid","msrp":207900,"powertrain":"Plug-in hybrid","drivetrain":"AWD"},
+        {"name":"Panamera Turbo S E-Hybrid","msrp":245200,"powertrain":"Plug-in hybrid","drivetrain":"AWD"}
+      ]
+    },
+    "Macan":{
+      "year":"2026",
+      "source":"https://www.porsche.com/usa/models/macan/configure/",
+      "trims":[
+        {"name":"Macan","msrp":65400,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"Macan T","msrp":71100,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"Macan S","msrp":78900,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"Macan GTS","msrp":94200,"powertrain":"Gasoline","drivetrain":"AWD"}
+      ]
+    },
+    "Macan Electric":{
+      "year":"2027",
+      "source":"https://www.porsche.com/usa/models/macan/configure/",
+      "trims":[
+        {"name":"Macan Electric","msrp":80300,"powertrain":"Battery electric","drivetrain":"RWD"},
+        {"name":"Macan 4 Electric","msrp":84000,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Macan 4S Electric","msrp":89900,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Macan GTS Electric","msrp":105300,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Macan Turbo Electric","msrp":112700,"powertrain":"Battery electric","drivetrain":"AWD"}
+      ]
+    },
+    "Cayenne":{
+      "year":"2027",
+      "source":"https://www.porsche.com/usa/models/cayenne/",
+      "pricing_note":"This family contains the current gasoline and plug-in-hybrid SUV and Coupe variants. Battery-electric Cayenne variants are separated under Cayenne Electric.",
+      "trims":[
+        {"name":"Cayenne","msrp":89900,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"Cayenne E-Hybrid","msrp":103100,"powertrain":"Plug-in hybrid","drivetrain":"AWD"},
+        {"name":"Cayenne S","msrp":108300,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"Cayenne S E-Hybrid","msrp":111600,"powertrain":"Plug-in hybrid","drivetrain":"AWD"},
+        {"name":"Cayenne GTS","msrp":132400,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"Cayenne Turbo E-Hybrid","msrp":164500,"powertrain":"Plug-in hybrid","drivetrain":"AWD"},
+        {"name":"Cayenne Coupe","msrp":95100,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"Cayenne E-Hybrid Coupe","msrp":107300,"powertrain":"Plug-in hybrid","drivetrain":"AWD"},
+        {"name":"Cayenne S Coupe","msrp":114900,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"Cayenne S E-Hybrid Coupe","msrp":117100,"powertrain":"Plug-in hybrid","drivetrain":"AWD"},
+        {"name":"Cayenne GTS Coupe","msrp":137100,"powertrain":"Gasoline","drivetrain":"AWD"},
+        {"name":"Cayenne Turbo E-Hybrid Coupe","msrp":169100,"powertrain":"Plug-in hybrid","drivetrain":"AWD"},
+        {"name":"Cayenne Turbo GT","msrp":214800,"powertrain":"Gasoline","drivetrain":"AWD"}
+      ]
+    },
+    "Cayenne Electric":{
+      "year":"2026",
+      "source":"https://www.porsche.com/usa/models/cayenne/",
+      "trims":[
+        {"name":"Cayenne Electric","msrp":109000,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Cayenne S Electric","msrp":126300,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Cayenne Turbo Electric","msrp":163000,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Cayenne Coupe Electric","msrp":113800,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Cayenne S Coupe Electric","msrp":131200,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"Cayenne Turbo Coupe Electric","msrp":168000,"powertrain":"Battery electric","drivetrain":"AWD"}
+      ]
+    }
+  }
+}

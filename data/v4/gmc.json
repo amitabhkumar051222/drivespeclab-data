@@ -1,0 +1,24 @@
+{
+  "brand": "GMC",
+  "market": "United States",
+  "verified_on": "2026-09-13",
+  "source_policy": "Official GMC U.S. pages only",
+  "models": {
+    "Terrain": {"year":"2027","source":"https://www.gmc.com/suvs/terrain","trims":[{"name":"Elevation","msrp":30400},{"name":"AT4","msrp":39100},{"name":"Denali","msrp":42200}]},
+    "Acadia": {"year":"2026","source":"https://www.gmc.com/suvs/previous-year/acadia","trims":[{"name":"SLE","msrp":43800},{"name":"SLT","msrp":49150},{"name":"AT4","msrp":55900},{"name":"Denali","msrp":67000}]},
+    "Yukon": {"year":"2026","source":"https://www.gmc.com/suvs/yukon","trims":[{"name":"Pro","msrp":69600},{"name":"SLE","msrp":76600},{"name":"SLT","msrp":80400},{"name":"AT4","msrp":80400},{"name":"Denali","msrp":89900},{"name":"Denali Ultimate","msrp":97200}]},
+    "Yukon XL": {"year":"2026","source":"https://www.gmc.com/suvs/yukon","trims":[{"name":"Pro","msrp":72600},{"name":"SLE","msrp":79300},{"name":"SLT","msrp":83100},{"name":"AT4","msrp":83100},{"name":"Denali","msrp":92600},{"name":"Denali Ultimate","msrp":99900}]},
+    "Canyon": {"year":"2026","source":"https://www.gmc.com/trucks/canyon","trims":[{"name":"Pro","msrp":38900},{"name":"Elevation","msrp":42200},{"name":"SLT","msrp":52500},{"name":"AT4","msrp":53300},{"name":"Denali","msrp":76600},{"name":"Denali Max Edition","msrp":79300}]},
+    "Sierra 1500": {"year":"2026","source":"https://www.gmc.com/trucks/sierra/1500","trims":[{"name":"Pro","msrp":38300},{"name":"Elevation","msrp":45500},{"name":"SLT","msrp":55900},{"name":"AT4","msrp":66100},{"name":"AT4X","msrp":75200},{"name":"Denali","msrp":80400},{"name":"Denali Ultimate","msrp":80400}]},
+    "Sierra 2500HD": {"year":"2026","source":"https://www.gmc.com/trucks/sierra/2500hd-3500hd","trims":[{"name":"Pro","msrp":47000},{"name":"SLE","msrp":52500},{"name":"SLT","msrp":67000},{"name":"AT4","msrp":72200},{"name":"Denali","msrp":79300}]},
+    "Sierra 3500HD": {"year":"2026","source":"https://www.gmc.com/trucks/sierra/2500hd-3500hd","trims":[{"name":"Pro","msrp":47900},{"name":"SLE","msrp":52500},{"name":"SLT","msrp":67000},{"name":"AT4","msrp":72200},{"name":"Denali","msrp":79300}]},
+    "Sierra 3500HD Chassis Cab": {"year":"2026","source":"https://www.gmc.com/trucks/sierra-3500hd-chassis-cab","trims":[{"name":"Pro","msrp":47500},{"name":"SLE","msrp":52500},{"name":"SLT","msrp":67000},{"name":"Denali","msrp":79300}]},
+    "Sierra EV": {"year":"2026","source":"https://www.gmc.com/electric/sierra-ev","trims":[{"name":"Elevation","msrp":62400},{"name":"AT4","msrp":76600},{"name":"Denali","msrp":89900}]},
+    "HUMMER EV SUV": {"year":"2026","source":"https://www.gmc.com/electric/hummer-ev/suv","trims":[{"name":"Edition 1","msrp":97200}]},
+    "HUMMER EV Pickup": {"year":"2026","source":"https://www.gmc.com/electric/hummer-ev/pickup-truck","trims":[{"name":"Edition 1","msrp":97200}]},
+    "Savana Cargo 2500": {"year":"2027","source":"https://www.gmc.com/vans/previous-year/savana/cargo","trims":[{"name":"RWD","msrp":42700},{"name":"AWD","msrp":43600}]},
+    "Savana Cargo 3500": {"year":"2027","source":"https://www.gmc.com/vans/previous-year/savana/cargo","trims":[{"name":"RWD","msrp":46650},{"name":"AWD","msrp":47500}]},
+    "Savana Passenger 2500": {"year":"2027","source":"https://www.gmc.com/vans/previous-year/savana/passenger","trims":[{"name":"RWD","msrp":48550},{"name":"AWD","msrp":49400}]},
+    "Savana Passenger 3500": {"year":"2027","source":"https://www.gmc.com/vans/previous-year/savana/passenger","trims":[{"name":"RWD","msrp":49750},{"name":"AWD","msrp":50600}]}
+  }
+}

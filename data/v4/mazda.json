@@ -1,0 +1,20 @@
+{
+  "brand":"Mazda",
+  "market":"United States",
+  "verified_on":"2026-09-13",
+  "source_policy":"Official Mazda USA vehicle pages only",
+  "models":{
+    "Mazda3 Sedan":{"year":"2026","source":"https://www.mazdausa.com/vehicles/mazda3-sedan","trims":[{"name":"2.5 S","msrp":24650},{"name":"2.5 S Select Sport","msrp":25540},{"name":"2.5 S Preferred","msrp":27290},{"name":"2.5 S Carbon Edition","msrp":29815},{"name":"2.5 Turbo Premium Plus","msrp":36940}]},
+    "Mazda3 Hatchback":{"year":"2026","source":"https://www.mazdausa.com/vehicles/mazda3-hatchback","trims":[{"name":"2.5 S","msrp":25650},{"name":"2.5 S Select Sport","msrp":26840},{"name":"2.5 S Preferred","msrp":28640},{"name":"2.5 S Carbon Edition","msrp":30965},{"name":"2.5 S Premium","msrp":31650},{"name":"2.5 Turbo Premium Plus","msrp":38090}]},
+    "MX-5 Miata":{"year":"2026","source":"https://www.mazdausa.com/vehicles/mx-5-miata","trims":[{"name":"Sport","msrp":30430},{"name":"Club","msrp":33930},{"name":"Grand Touring","msrp":35730}]},
+    "MX-5 Miata RF":{"year":"2026","source":"https://www.mazdausa.com/vehicles/mx-5-miata-rf","trims":[{"name":"Grand Touring","msrp":38450},{"name":"Club","msrp":41900}]},
+    "CX-30":{"year":"2026","source":"https://www.mazdausa.com/vehicles/cx-30","trims":[{"name":"2.5 S","msrp":26375},{"name":"2.5 S Select Sport","msrp":28060},{"name":"2.5 S Preferred","msrp":29690},{"name":"2.5 S Aire Edition","msrp":30250},{"name":"2.5 S Carbon Edition","msrp":31430},{"name":"2.5 S Premium","msrp":33640},{"name":"2.5 Turbo Aire Edition","msrp":34410},{"name":"2.5 Turbo Premium Plus","msrp":37900}]},
+    "CX-5":{"year":"2026","source":"https://www.mazdausa.com/vehicles/cx-5","trims":[{"name":"2.5 S","msrp":29990},{"name":"2.5 S Select","msrp":31990},{"name":"2.5 S Preferred","msrp":34250},{"name":"2.5 S Premium","msrp":36900},{"name":"2.5 S Premium Plus","msrp":38990}]},
+    "CX-50":{"year":"2026","source":"https://www.mazdausa.com/vehicles/cx-50","trims":[{"name":"2.5 S Select","msrp":29900},{"name":"2.5 S Preferred","msrp":32400},{"name":"2.5 S Meridian Edition","msrp":33150},{"name":"2.5 S Premium","msrp":34900},{"name":"2.5 Turbo","msrp":37900},{"name":"2.5 Turbo Meridian Edition","msrp":40400},{"name":"2.5 Turbo Premium Plus","msrp":42900}]},
+    "CX-50 Hybrid":{"year":"2026","source":"https://www.mazdausa.com/vehicles/cx-50-hybrid","trims":[{"name":"Hybrid Preferred","msrp":34750},{"name":"Hybrid Premium","msrp":38150},{"name":"Hybrid Premium Plus","msrp":40450}]},
+    "CX-70":{"year":"2026","source":"https://www.mazdausa.com/vehicles/cx-70","trims":[{"name":"3.3 Turbo Preferred","msrp":42750},{"name":"3.3 Turbo Premium","msrp":46780},{"name":"3.3 Turbo Premium Plus","msrp":49570},{"name":"3.3 Turbo S Premium","msrp":53440},{"name":"3.3 Turbo S Premium Plus","msrp":56870}]},
+    "CX-70 PHEV":{"year":"2026","source":"https://www.mazdausa.com/vehicles/cx-70-phev","trims":[{"name":"PHEV SC","msrp":44450},{"name":"PHEV SC Plus","msrp":47450}]},
+    "CX-90":{"year":"2026","source":"https://www.mazdausa.com/vehicles/cx-90","trims":[{"name":"3.3 Turbo Select","msrp":39300},{"name":"3.3 Turbo Preferred","msrp":43450},{"name":"3.3 Turbo Premium Sport","msrp":47480},{"name":"3.3 Turbo Premium Plus","msrp":50270},{"name":"3.3 Turbo S Premium Sport","msrp":54140},{"name":"3.3 Turbo S Premium Plus","msrp":57570}]},
+    "CX-90 PHEV":{"year":"2026","source":"https://www.mazdausa.com/vehicles/cx-90-phev","trims":[{"name":"PHEV Preferred","msrp":50695},{"name":"PHEV Premium Sport","msrp":55500},{"name":"PHEV Premium Plus","msrp":58700}]}
+  }
+}

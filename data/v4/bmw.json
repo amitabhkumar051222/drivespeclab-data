@@ -1,0 +1,210 @@
+{
+  "brand": "BMW",
+  "market": "United States",
+  "verified_on": "2026-09-13",
+  "source_policy": "Official BMW USA all-models, model pages, Build Your Own and current offer pages only. Starting MSRP excludes destination/handling unless BMW states otherwise; dealer actual price may vary.",
+  "models": {
+    "X1": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"X1 xDrive28i","msrp":43200,"powertrain":"2.0L turbo I4","drivetrain":"AWD"},
+        {"name":"X1 M35i","msrp":52400,"powertrain":"2.0L M turbo I4","drivetrain":"AWD"}
+      ]
+    },
+    "X2": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"X2 xDrive28i","msrp":44700,"powertrain":"2.0L turbo I4","drivetrain":"AWD"},
+        {"name":"X2 M35i","msrp":53900,"powertrain":"2.0L M turbo I4","drivetrain":"AWD"}
+      ]
+    },
+    "X3": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"X3 30 xDrive","msrp":51300,"powertrain":"2.0L turbo I4","drivetrain":"AWD"},
+        {"name":"X3 M50 xDrive","msrp":66500,"powertrain":"3.0L M turbo I6","drivetrain":"AWD"}
+      ]
+    },
+    "X5": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"X5 sDrive40i","msrp":68300,"powertrain":"3.0L turbo I6","drivetrain":"RWD"},
+        {"name":"X5 xDrive40i","msrp":72100,"powertrain":"3.0L turbo I6","drivetrain":"AWD"},
+        {"name":"X5 xDrive50e","msrp":76000,"powertrain":"3.0L turbo I6 plug-in hybrid","drivetrain":"AWD"},
+        {"name":"X5 M60i","msrp":93600,"powertrain":"4.4L M TwinPower Turbo V8","drivetrain":"AWD"},
+        {"name":"X5 M Competition","msrp":131000,"powertrain":"4.4L M TwinPower Turbo V8","drivetrain":"M xDrive AWD"}
+      ]
+    },
+    "X6": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"X6 xDrive40i","msrp":77300,"powertrain":"3.0L turbo I6","drivetrain":"AWD"},
+        {"name":"X6 M60i","msrp":98000,"powertrain":"4.4L M Performance TwinPower Turbo V8","drivetrain":"AWD"},
+        {"name":"X6 M Competition","msrp":136100,"powertrain":"4.4L M TwinPower Turbo V8","drivetrain":"M xDrive AWD"}
+      ]
+    },
+    "X7": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"X7 xDrive40i","msrp":87500,"powertrain":"3.0L turbo I6","drivetrain":"AWD"},
+        {"name":"X7 M60i","msrp":115000,"powertrain":"4.4L M TwinPower Turbo V8","drivetrain":"AWD"},
+        {"name":"ALPINA XB7","msrp":156000,"powertrain":"4.4L ALPINA Bi-Turbo V8","drivetrain":"AWD"}
+      ]
+    },
+    "XM": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "electric_range":"up to 30 miles (BMW estimate)",
+      "trims": [
+        {"name":"XM Label","msrp":159600,"powertrain":"4.4L M TwinPower Turbo V8 plug-in hybrid","drivetrain":"M xDrive AWD"}
+      ]
+    },
+    "iX3": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "range_miles":"383–434 miles stated by BMW depending on configuration/test basis",
+      "trims": [
+        {"name":"iX3 50 xDrive","msrp":61500,"powertrain":"Dual electric motors","drivetrain":"AWD"}
+      ]
+    },
+    "iX": {
+      "year": "2026",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"iX xDrive45","msrp":75150,"powertrain":"Dual electric motors","drivetrain":"AWD"},
+        {"name":"iX xDrive60","msrp":88500,"powertrain":"Dual electric motors","drivetrain":"AWD"},
+        {"name":"iX M70","msrp":111500,"powertrain":"Dual high-performance electric motors","drivetrain":"AWD"}
+      ]
+    },
+    "2 Series": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"228 Gran Coupe","msrp":40000,"powertrain":"2.0L turbo I4","drivetrain":"FWD"},
+        {"name":"228 xDrive Gran Coupe","msrp":42000,"powertrain":"2.0L turbo I4","drivetrain":"AWD"},
+        {"name":"M235 xDrive Gran Coupe","msrp":50000,"powertrain":"2.0L M turbo I4","drivetrain":"AWD"},
+        {"name":"230i Coupe","msrp":42200,"powertrain":"2.0L turbo I4","drivetrain":"RWD"},
+        {"name":"230i xDrive Coupe","msrp":44200,"powertrain":"2.0L turbo I4","drivetrain":"AWD"},
+        {"name":"M240i Coupe","msrp":53600,"powertrain":"3.0L turbo I6","drivetrain":"RWD"},
+        {"name":"M240i xDrive Coupe","msrp":55600,"powertrain":"3.0L turbo I6","drivetrain":"AWD"}
+      ]
+    },
+    "3 Series": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"330i Sedan","msrp":48000,"powertrain":"2.0L turbo I4","drivetrain":"RWD"},
+        {"name":"330i xDrive Sedan","msrp":50000,"powertrain":"2.0L turbo I4","drivetrain":"AWD"},
+        {"name":"M340i Sedan","msrp":62300,"powertrain":"3.0L M turbo I6","drivetrain":"RWD"},
+        {"name":"M340i xDrive Sedan","msrp":64300,"powertrain":"3.0L M turbo I6","drivetrain":"AWD"}
+      ]
+    },
+    "4 Series": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"430i Gran Coupe","msrp":51200,"powertrain":"2.0L turbo I4","drivetrain":"RWD"},
+        {"name":"430i xDrive Gran Coupe","msrp":53200,"powertrain":"2.0L turbo I4","drivetrain":"AWD"},
+        {"name":"M440i Gran Coupe","msrp":65100,"powertrain":"3.0L M turbo I6","drivetrain":"RWD"},
+        {"name":"M440i xDrive Gran Coupe","msrp":67100,"powertrain":"3.0L M turbo I6","drivetrain":"AWD"},
+        {"name":"430i Coupe","msrp":53300,"powertrain":"2.0L turbo I4","drivetrain":"RWD"},
+        {"name":"430i xDrive Coupe","msrp":55300,"powertrain":"2.0L turbo I4","drivetrain":"AWD"},
+        {"name":"M440i Coupe","msrp":67100,"powertrain":"3.0L M turbo I6","drivetrain":"RWD"},
+        {"name":"M440i xDrive Coupe","msrp":69100,"powertrain":"3.0L M turbo I6","drivetrain":"AWD"},
+        {"name":"430i Convertible","msrp":61300,"powertrain":"2.0L turbo I4","drivetrain":"RWD"},
+        {"name":"430i xDrive Convertible","msrp":63300,"powertrain":"2.0L turbo I4","drivetrain":"AWD"},
+        {"name":"M440i Convertible","msrp":75200,"powertrain":"3.0L M turbo I6","drivetrain":"RWD"},
+        {"name":"M440i xDrive Convertible","msrp":77200,"powertrain":"3.0L M turbo I6","drivetrain":"AWD"}
+      ]
+    },
+    "5 Series": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"530i Sedan","msrp":60500,"powertrain":"2.0L turbo I4","drivetrain":"RWD"},
+        {"name":"530i xDrive Sedan","msrp":62800,"powertrain":"2.0L turbo I4","drivetrain":"AWD"},
+        {"name":"540i xDrive Sedan","msrp":67700,"powertrain":"3.0L turbo I6","drivetrain":"AWD"},
+        {"name":"550e xDrive Sedan","msrp":75500,"powertrain":"3.0L turbo I6 plug-in hybrid","drivetrain":"AWD"}
+      ]
+    },
+    "7 Series": {
+      "year": "2026/2027",
+      "source": "https://www.bmwusa.com/vehicles/7-series/sedan/bmw-7-series-sedan.html",
+      "pricing_note":"BMW currently exposes 740i/740i xDrive pricing directly; 750e/760i are retained as current official variants without guessed MSRP.",
+      "trims": [
+        {"name":"740i Sedan","msrp":99800,"powertrain":"3.0L turbo I6","drivetrain":"RWD"},
+        {"name":"740i xDrive Sedan","msrp":102800,"powertrain":"3.0L turbo I6","drivetrain":"AWD"},
+        {"name":"750e xDrive Sedan","msrp":null,"powertrain":"3.0L turbo I6 plug-in hybrid","drivetrain":"AWD","status":"2027 U.S. availability starts 11/2026; exact current MSRP not published on the official overview at verification time"},
+        {"name":"760i xDrive Sedan","msrp":null,"powertrain":"4.4L twin-turbo V8","drivetrain":"AWD","status":"Current 2026 U.S. model; exact current starting MSRP not surfaced on official overview/search at verification time"}
+      ]
+    },
+    "i4": {
+      "year": "2026/2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"i4 eDrive40","msrp":57900,"powertrain":"Single electric motor","drivetrain":"RWD"},
+        {"name":"i4 xDrive40","msrp":62300,"powertrain":"Dual electric motors","drivetrain":"AWD"},
+        {"name":"i4 M60","msrp":70700,"powertrain":"Dual high-performance electric motors","drivetrain":"AWD"}
+      ]
+    },
+    "i5": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"i5 eDrive40","msrp":67100,"powertrain":"Single electric motor","drivetrain":"RWD"},
+        {"name":"i5 xDrive40","msrp":70100,"powertrain":"Dual electric motors","drivetrain":"AWD"},
+        {"name":"i5 M60","msrp":84100,"powertrain":"Dual high-performance electric motors","drivetrain":"AWD"}
+      ]
+    },
+    "i7": {
+      "year": "2026/2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "pricing_note":"i7 M70 price is from BMW's official electric-vehicle range/pricing page; all values exclude destination/handling unless otherwise stated.",
+      "trims": [
+        {"name":"i7 50 xDrive","msrp":106200,"powertrain":"Dual electric motors","drivetrain":"AWD"},
+        {"name":"i7 60 xDrive","msrp":124700,"powertrain":"Dual electric motors","drivetrain":"AWD"},
+        {"name":"i7 M70","msrp":168500,"powertrain":"Dual high-performance electric motors","drivetrain":"AWD"}
+      ]
+    },
+    "M2": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"M2 Coupe","msrp":69500,"powertrain":"3.0L M TwinPower Turbo I6","drivetrain":"RWD"}
+      ]
+    },
+    "M3": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/vehicles/m-series/m3-series/bmw-m3-sedan.html",
+      "trims": [
+        {"name":"M3 Sedan","msrp":79300,"powertrain":"3.0L M TwinPower Turbo I6","drivetrain":"RWD"},
+        {"name":"M3 Competition Sedan","msrp":83500,"powertrain":"3.0L M TwinPower Turbo I6","drivetrain":"RWD"},
+        {"name":"M3 Competition xDrive Sedan","msrp":88600,"powertrain":"3.0L M TwinPower Turbo I6","drivetrain":"AWD"}
+      ]
+    },
+    "M4": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"M4 Coupe","msrp":82200,"powertrain":"3.0L M TwinPower Turbo I6","drivetrain":"RWD"},
+        {"name":"M4 Competition Coupe","msrp":86600,"powertrain":"3.0L M TwinPower Turbo I6","drivetrain":"RWD"},
+        {"name":"M4 Competition xDrive Coupe","msrp":91700,"powertrain":"3.0L M TwinPower Turbo I6","drivetrain":"AWD"},
+        {"name":"M4 Competition xDrive Convertible","msrp":98600,"powertrain":"3.0L M TwinPower Turbo I6","drivetrain":"AWD"}
+      ]
+    },
+    "M5": {
+      "year": "2027",
+      "source": "https://www.bmwusa.com/all-bmws.html",
+      "trims": [
+        {"name":"M5 Sedan","msrp":123300,"powertrain":"4.4L M TwinPower Turbo V8 plug-in hybrid","drivetrain":"M xDrive AWD"},
+        {"name":"M5 Touring","msrp":125300,"powertrain":"4.4L M TwinPower Turbo V8 plug-in hybrid","drivetrain":"M xDrive AWD"}
+      ]
+    }
+  }
+}

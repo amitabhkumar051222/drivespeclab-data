@@ -1,0 +1,51 @@
+{
+  "brand":"Tesla",
+  "market":"United States",
+  "verified_on":"2026-09-13",
+  "source_policy":"Official Tesla U.S. vehicle and Design Studio pages only. Tesla often quotes purchase price rather than a conventional MSRP; no price is inferred when Tesla's current official page does not expose an exact cash price for a configuration.",
+  "models":{
+    "Model 3":{
+      "year":"Current",
+      "source":"https://www.tesla.com/model3",
+      "body":"Electric sedan",
+      "powertrain":"Battery electric",
+      "seats":"5",
+      "pricing_note":"Tesla's Design Studio currently shows Model 3 Rear-Wheel Drive at $36,990 before Destination and Order Fees. Tesla's public Model 3 page quotes $38,630 including Destination and Order Fees. Premium and Performance rows below preserve Tesla's currently published all-in starting prices because separate pre-fee cash prices were not surfaced in the indexed official page during verification.",
+      "trims":[
+        {"name":"Rear-Wheel Drive","msrp":36990,"powertrain":"Battery electric","default_drive":"RWD","range_miles":321,"accel_0_60_sec":5.8,"max_supercharging_kw":225},
+        {"name":"Premium (starting configuration)","msrp":44130,"powertrain":"Battery electric","default_drive":"RWD / AWD","range_miles_up_to":363,"pricing_basis":"Tesla published starting price including Destination and Order Fees"},
+        {"name":"Performance","msrp":56630,"powertrain":"Battery electric","default_drive":"AWD","range_miles":309,"horsepower":510,"accel_0_60_sec":2.9,"max_supercharging_kw":250,"pricing_basis":"Tesla published starting price including Destination and Order Fees"}
+      ]
+    },
+    "Model Y":{
+      "year":"Current",
+      "source":"https://www.tesla.com/modely",
+      "body":"Electric midsize SUV",
+      "powertrain":"Battery electric",
+      "seats":"5; Model Y L Premium has 6 seats",
+      "pricing_note":"Tesla Design Studio currently shows Model Y Rear-Wheel Drive at $39,990 before Destination and Order Fees and a $41,630 current purchase price including those fees. Tesla's public page exposes current Premium and Performance specifications but did not expose an exact cash price for those configurations in the indexed official results used for this verification, so those rows intentionally carry no numeric price. Model Y L Premium is shown by Tesla at $61,990 before Destination and Order Fees ($63,630 including those fees).",
+      "trims":[
+        {"name":"Rear-Wheel Drive","msrp":39990,"powertrain":"Battery electric","default_drive":"RWD","range_miles":321,"accel_0_60_sec":6.8,"max_supercharging_kw":225},
+        {"name":"Premium Rear-Wheel Drive","msrp":null,"powertrain":"Battery electric","default_drive":"RWD","range_miles":357,"accel_0_60_sec":5.4,"max_supercharging_kw":250},
+        {"name":"Premium All-Wheel Drive","msrp":null,"powertrain":"Battery electric","default_drive":"AWD","range_miles":327,"accel_0_60_sec":4.6,"max_supercharging_kw":250},
+        {"name":"L Premium","msrp":61990,"powertrain":"Battery electric","default_drive":"AWD","seats":6,"range_miles":332,"accel_0_60_sec":4.4,"pricing_basis":"Tesla listed price excluding Destination and Order Fees"},
+        {"name":"Performance","msrp":null,"powertrain":"Battery electric","default_drive":"AWD","range_miles":306,"accel_0_60_sec":3.3,"max_supercharging_kw":250}
+      ]
+    },
+    "Cybertruck":{
+      "year":"Current",
+      "source":"https://www.tesla.com/cybertruck/design",
+      "body":"Electric pickup",
+      "powertrain":"Battery electric",
+      "drive":"AWD",
+      "seats":"5",
+      "towing_lbs_up_to":11000,
+      "pricing_note":"Tesla Design Studio lists configuration prices before Destination and Order Fee. A currently selected Premium AWD example shows $87,235 including those fees; the grade-level cash prices below are Tesla's official configuration prices.",
+      "trims":[
+        {"name":"Dual Motor All-Wheel Drive","msrp":74990,"powertrain":"Battery electric","default_drive":"AWD","accel_0_60_sec":4.1},
+        {"name":"Premium All-Wheel Drive","msrp":84990,"powertrain":"Battery electric","default_drive":"AWD"},
+        {"name":"Cyberbeast","msrp":99990,"powertrain":"Battery electric","default_drive":"AWD"}
+      ]
+    }
+  }
+}

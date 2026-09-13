@@ -1,0 +1,18 @@
+{
+  "brand":"Jeep",
+  "market":"United States",
+  "verified_on":"2026-09-13",
+  "source_policy":"Official Jeep USA vehicle pages only",
+  "models":{
+    "Wrangler":{"year":"2026","source":"https://www.jeep.com/wrangler.html","trims":[{"name":"Sport","msrp":36035},{"name":"Sport S","msrp":39685},{"name":"Willys","msrp":43755},{"name":"85th Anniversary Edition","msrp":44740},{"name":"Rewind","msrp":48435},{"name":"Sahara","msrp":49805},{"name":"Willys 41","msrp":46240},{"name":"Rubicon","msrp":45815},{"name":"Rubicon X","msrp":55765},{"name":"Willys 392","msrp":69995},{"name":"Moab 392","msrp":79995}]},
+    "Wrangler 4xe":{"year":"2026","source":"https://www.jeep.com/wrangler-4xe.html","pricing_note":"Official Wrangler 4xe page did not publish a distinct current 4xe trim/MSRP table during verification.","trims":[]},
+    "Gladiator":{"year":"2026","source":"https://www.jeep.com/gladiator.html","trims":[{"name":"Sport","msrp":39820},{"name":"Sport S","msrp":43015},{"name":"Willys","msrp":45750},{"name":"85th Anniversary Edition","msrp":46810},{"name":"Sahara","msrp":48115},{"name":"Willys 41","msrp":48360},{"name":"Rewind","msrp":49245},{"name":"Mojave","msrp":53215},{"name":"Rubicon","msrp":53810},{"name":"Shadow Ops","msrp":57515},{"name":"Rubicon X","msrp":60515},{"name":"Mojave X","msrp":61210}]},
+    "Grand Cherokee":{"year":"2026","source":"https://www.jeep.com/grand-cherokee.html","trims":[{"name":"Laredo","msrp":39515},{"name":"Laredo X","msrp":41415},{"name":"Laredo Altitude","msrp":44360},{"name":"Limited","msrp":44320},{"name":"Limited Reserve","msrp":51915},{"name":"Summit","msrp":60600},{"name":"3-Row Laredo","msrp":41515},{"name":"3-Row Laredo X","msrp":43415},{"name":"3-Row Laredo Altitude","msrp":46360},{"name":"3-Row Limited","msrp":46320},{"name":"3-Row Limited Reserve","msrp":53915},{"name":"3-Row Summit","msrp":62600}]},
+    "Grand Cherokee 4xe":{"year":"2026","source":"https://www.jeep.com/grand-cherokee-4xe.html","status":"No current official product page found during verification","trims":[]},
+    "Compass":{"year":"2026","source":"https://www.jeep.com/compass.html","trims":[{"name":"Latitude","msrp":29550},{"name":"Latitude Altitude","msrp":31665},{"name":"85th Anniversary Edition","msrp":32345},{"name":"Limited","msrp":33560},{"name":"Trailhawk","msrp":34060},{"name":"Limited Altitude","msrp":35555}]},
+    "Wagoneer":{"year":"2026","source":"https://www.jeep.com/wagoneer.html","status":"Discontinued / redirects to Grand Wagoneer information","trims":[]},
+    "Grand Wagoneer":{"year":"2026","source":"https://www.jeep.com/grand-wagoneer.html","trims":[{"name":"Grand Wagoneer","msrp":64690},{"name":"Limited","msrp":72060},{"name":"Limited Altitude","msrp":72060},{"name":"Upland","msrp":73060},{"name":"85th Anniversary Edition","msrp":75990},{"name":"Limited Reserve","msrp":79960},{"name":"Summit","msrp":94310},{"name":"Summit Obsidian","msrp":94310},{"name":"Summit Reserve","msrp":100310}]},
+    "Wagoneer S":{"year":"2026","source":"https://www.jeep.com/wagoneer-s.html","trims":[{"name":"Limited","msrp":65200},{"name":"Launch Edition","msrp":84990}]},
+    "Recon":{"year":"2026","source":"https://www.jeep.com/recon.html","trims":[{"name":"Moab","msrp":66995}]}
+  }
+}

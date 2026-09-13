@@ -20,6 +20,7 @@ Updated: 2026-09-13
 - Ram — `data/v4/ram.json`
 - Subaru — `data/v4/subaru.json`
 - Tata Motors — `data/v4/tata-motors.json` (U.S. market-status case)
+- Tesla — `data/v4/tesla.json` (current Model 3, Model Y and Cybertruck lineup covered; exact Tesla cash prices are used only where surfaced by official Tesla pages, and current Premium/Performance Model Y prices are intentionally left unpublished rather than estimated)
 - Toyota — `data/v4/toyota.json` (25 base model families covered; latest currently priced 2027 model years used where Toyota has published retail pricing, with exact grade MSRP rows and no estimates for unpublished future-year prices)
 - Volkswagen — `data/v4/volkswagen.json`
 - Volvo — `data/v4/volvo.json`
@@ -34,7 +35,7 @@ Updated: 2026-09-13
 - Exposes `window.DriveSpecLabDB` and dispatches `DriveSpecLabDBReady`.
 
 ## Still pending before FINAL READY
-Tesla, BMW, Mercedes-Benz, Audi and Porsche.
+BMW, Mercedes-Benz, Audi and Porsche.
 
 After all brand sidecars are complete: integrate the V4 loader into the latest Blogger XML, migrate homepage Find Your Car/selectors to `window.DriveSpecLabDB`, remove obsolete embedded duplicate database code, validate XML and inline JavaScript, then live-test brand and `#usmodel=` routes.
 

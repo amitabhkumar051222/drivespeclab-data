@@ -1,0 +1,17 @@
+{
+  "brand":"Genesis",
+  "market":"United States",
+  "verified_on":"2026-09-13",
+  "source_policy":"Official Genesis USA model, offers and build-and-price pages only",
+  "models":{
+    "G70":{"year":"2026","source":"https://www.genesis.com/us/en/g70","trims":[{"name":"2.5T RWD","msrp":43450},{"name":"2.5T AWD","msrp":45550},{"name":"2.5T PRESTIGE RWD","msrp":48450},{"name":"2.5T PRESTIGE AWD","msrp":50450},{"name":"3.3T SPORT PRESTIGE RWD","msrp":53600},{"name":"3.3T SPORT PRESTIGE AWD","msrp":55600},{"name":"3.3T PRESTIGE GRAPHITE RWD","msrp":56900},{"name":"3.3T PRESTIGE GRAPHITE AWD","msrp":58900}]},
+    "G80":{"year":"2027","source":"https://www.genesis.com/us/en/g80","trims":[{"name":"2.5T AWD","msrp":59450},{"name":"2.5T ADVANCED AWD","msrp":64550},{"name":"2.5T SPORT PRESTIGE AWD","msrp":70450},{"name":"3.5T SPORT PRESTIGE AWD","msrp":79150},{"name":"3.5T PRESTIGE BLACK AWD","msrp":80150}]},
+    "G90":{"year":"2026","source":"https://www.genesis.com/us/en/build-and-price/2026/g90","trims":[{"name":"3.5T AWD","msrp":92700},{"name":"3.5T E-SC AWD","msrp":103000}]},
+    "GV60":{"year":"2027","source":"https://www.genesis.com/us/en/gv60","trims":[{"name":"RWD","msrp":46250},{"name":"AWD","msrp":49950},{"name":"PRESTIGE AWD","msrp":57500}]},
+    "GV60 Magma":{"year":"2027","source":"https://www.genesis.com/us/en/gv60-magma","trims":[{"name":"AWD","msrp":69950}]},
+    "GV70":{"year":"2027","source":"https://www.genesis.com/us/en/gv70","trims":[{"name":"2.5T AWD","msrp":49350},{"name":"2.5T SELECT AWD","msrp":52550},{"name":"2.5T ADVANCED AWD","msrp":57050},{"name":"2.5T SPORT PRESTIGE AWD","msrp":61550},{"name":"3.5T SPORT PRESTIGE AWD","msrp":70500},{"name":"3.5T PRESTIGE GRAPHITE AWD","msrp":71700}]},
+    "Electrified GV70":{"year":"2027","source":"https://www.genesis.com/us/en/electrified-gv70","trims":[{"name":"AWD","msrp":58500},{"name":"ADVANCED AWD","msrp":66300},{"name":"PRESTIGE AWD","msrp":70650}]},
+    "GV80":{"year":"2027","source":"https://www.genesis.com/us/en/gv80","trims":[{"name":"2.5T RWD","msrp":58850},{"name":"2.5T AWD","msrp":61200},{"name":"2.5T SELECT AWD","msrp":64850},{"name":"2.5T ADVANCED AWD","msrp":68900},{"name":"2.5T PRESTIGE AWD","msrp":74000},{"name":"3.5T ADVANCED AWD","msrp":76250},{"name":"3.5T PRESTIGE AWD","msrp":83100},{"name":"3.5T PRESTIGE BLACK AWD","msrp":84100}]},
+    "GV80 Coupe":{"year":"2027","source":"https://www.genesis.com/us/en/gv80-coupe","trims":[{"name":"3.5T ADVANCED AWD","msrp":77200},{"name":"3.5T E-SC PRESTIGE AWD","msrp":88500},{"name":"3.5T E-SC PRESTIGE BLACK AWD","msrp":90200}]}
+  }
+}

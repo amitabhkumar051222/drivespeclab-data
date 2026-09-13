@@ -3,6 +3,7 @@
 Updated: 2026-09-13
 
 ## V4 sidecars currently committed
+- BMW — `data/v4/bmw.json` (21 base model families covered with current official BMW USA model/trim MSRP data; 750e/760i are retained without guessed MSRP where exact current official starting price was not surfaced)
 - BYD — `data/v4/byd.json` (U.S. market-status case; no mainstream consumer passenger lineup in scope)
 - Chevrolet — `data/v4/chevrolet.json` (current gas, EV, truck/SUV and 2027 Corvette-family pricing covered; unpublished Corvette Grand Sport X 2LT/3LT MSRP values are not estimated)
 - Ford — `data/v4/ford.json` (all base model families covered; all 15 current 2027 Super Duty pickup model rows including F-450 Platinum are verified from Ford Build & Price)
@@ -35,7 +36,7 @@ Updated: 2026-09-13
 - Exposes `window.DriveSpecLabDB` and dispatches `DriveSpecLabDBReady`.
 
 ## Still pending before FINAL READY
-BMW, Mercedes-Benz, Audi and Porsche.
+Mercedes-Benz, Audi and Porsche.
 
 After all brand sidecars are complete: integrate the V4 loader into the latest Blogger XML, migrate homepage Find Your Car/selectors to `window.DriveSpecLabDB`, remove obsolete embedded duplicate database code, validate XML and inline JavaScript, then live-test brand and `#usmodel=` routes.
 

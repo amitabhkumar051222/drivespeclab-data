@@ -1,0 +1,52 @@
+{
+  "brand":"Chevrolet",
+  "market":"United States",
+  "verified_on":"2026-09-13",
+  "source_policy":"Official Chevrolet U.S. vehicle and performance pages only",
+  "models":{
+    "Trax":{"year":"2026","source":"https://www.chevrolet.com/suvs/trax","trims":[
+      {"name":"LS","msrp":21700,"default_drive":"FWD"},
+      {"name":"1RS","msrp":23200,"default_drive":"FWD"},
+      {"name":"LT","msrp":23200,"default_drive":"FWD"},
+      {"name":"2RS","msrp":25400,"default_drive":"FWD"},
+      {"name":"ACTIV","msrp":25400,"default_drive":"FWD"}]},
+    "Trailblazer":{"year":"2026","source":"https://www.chevrolet.com/suvs/trailblazer","trims":[
+      {"name":"LS","msrp":23300},{"name":"LT","msrp":24500},{"name":"ACTIV","msrp":27900},{"name":"RS","msrp":27900}]},
+    "Equinox":{"year":"2027","source":"https://www.chevrolet.com/suvs/equinox","horsepower":175,"towing_lbs_up_to":1500,"trims":[
+      {"name":"LT","msrp":29000},{"name":"RS","msrp":33900},{"name":"ACTIV","msrp":33900}]},
+    "Blazer":{"year":"2026","source":"https://www.chevrolet.com/suvs/blazer","towing_lbs_up_to":4500,"trims":[
+      {"name":"2LT","msrp":34300},{"name":"3LT","msrp":39700},{"name":"RS","msrp":43600}],
+      "pricing_note":"Chevrolet's current 2026 Blazer page lists three gasoline trims; the fourth comparison tile is Blazer EV and is stored separately."},
+    "Traverse":{"year":"2027","source":"https://www.chevrolet.com/suvs/traverse","horsepower":328,"towing_lbs_up_to":5000,"trims":[
+      {"name":"LT","msrp":40800},{"name":"Z71","msrp":49100,"default_drive":"AWD"},{"name":"RS","msrp":55800},{"name":"High Country","msrp":56100}]},
+    "Tahoe":{"year":"2026","source":"https://www.chevrolet.com/suvs/tahoe","trims":[
+      {"name":"LS","msrp":60700},{"name":"LT","msrp":63700},{"name":"RST","msrp":68700},{"name":"Z71","msrp":70700},{"name":"Premier","msrp":75600},{"name":"High Country","msrp":80700}]},
+    "Suburban":{"year":"2026","source":"https://www.chevrolet.com/suvs/suburban","trims":[
+      {"name":"LS","msrp":63700},{"name":"LT","msrp":66700},{"name":"RST","msrp":71700},{"name":"Z71","msrp":73700},{"name":"Premier","msrp":78600},{"name":"High Country","msrp":83700}]},
+    "Colorado":{"year":"2026","source":"https://www.chevrolet.com/trucks/colorado","horsepower":310,"torque":"430 lb-ft","towing_lbs_up_to":7700,"trims":[
+      {"name":"WT","msrp":32400},{"name":"Custom","msrp":33545},{"name":"LT","msrp":36000},{"name":"Trail Boss","msrp":40500},{"name":"Z71","msrp":44600},{"name":"ZR2","msrp":50700}]},
+    "Silverado 1500":{"year":"2026","source":"https://www.chevrolet.com/trucks/silverado/1500","towing_lbs_up_to":13300,"payload_lbs_up_to":2260,"trims":[
+      {"name":"WT","msrp":36900},{"name":"Custom","msrp":42400},{"name":"Custom Trail Boss","msrp":52900},{"name":"LT","msrp":47900},{"name":"RST","msrp":51300},{"name":"LT Trail Boss","msrp":59700},{"name":"LTZ","msrp":58000},{"name":"High Country","msrp":62900},{"name":"ZR2","msrp":71800}]},
+    "Silverado HD":{"year":"2026","source":"https://www.chevrolet.com/trucks/silverado/2500hd-3500hd","towing_lbs_up_to":36000,"trims":[
+      {"name":"WT","msrp":45900},{"name":"Custom","msrp":49200},{"name":"LT","msrp":52600},{"name":"LTZ","msrp":63300},{"name":"ZR2","msrp":73200},{"name":"High Country","msrp":73600}],
+      "pricing_note":"Chevrolet's model comparison uses the lowest published 2500 HD configuration for named trim MSRP. 3500 HD starts separately at $46,800 before trim/configuration differences."},
+    "Silverado EV":{"year":"2026","source":"https://www.chevrolet.com/electric/silverado-ev","range_miles_up_to":478,"towing_lbs_up_to":12500,"trims":[
+      {"name":"Custom","msrp":55895,"default_drive":"4WD"},{"name":"LT","msrp":69100,"default_drive":"4WD"},{"name":"Trail Boss","msrp":70000,"default_drive":"4WD"}]},
+    "Equinox EV":{"year":"2027","source":"https://www.chevrolet.com/electric/equinox-ev","range_miles_up_to":319,"trims":[
+      {"name":"LT 1","msrp":34995},{"name":"LT 2","msrp":41795},{"name":"RS","msrp":44095}]},
+    "Blazer EV":{"year":"2027","source":"https://www.chevrolet.com/electric/blazer-ev","range_miles_up_to":312,"trims":[
+      {"name":"LT","msrp":44700},{"name":"RS","msrp":50500},{"name":"SS","msrp":60700,"default_drive":"AWD"}]},
+    "Bolt":{"year":"2027","source":"https://www.chevrolet.com/electric/bolt-ev","range_miles_up_to":262,
+      "charging":"150 kW+ DC fast charging; GM-estimated 10–80% in 25 minutes under specified conditions.",
+      "trims":[{"name":"LT","msrp":27600},{"name":"RS","msrp":31600}],
+      "pricing_note":"Sidecar-only current Chevrolet model. Product page starting prices are used; Chevrolet comparison/FAQ pages can surface figures including different fee assumptions."},
+    "Corvette":{"year":"2027","source":"https://www.chevrolet.com/performance/corvette","trims":[
+      {"name":"Stingray 1LT","msrp":71000},{"name":"Stingray 2LT","msrp":78100},{"name":"Stingray 3LT","msrp":82750},
+      {"name":"Grand Sport 1LT","msrp":86000},{"name":"Grand Sport 2LT","msrp":93100},{"name":"Grand Sport 3LT","msrp":97750},
+      {"name":"Grand Sport X 1LT","msrp":109700},{"name":"Grand Sport X 2LT","msrp":null},{"name":"Grand Sport X 3LT","msrp":null},
+      {"name":"Z06 1LZ","msrp":121500},{"name":"Z06 2LZ","msrp":130400},{"name":"Z06 3LZ","msrp":135050},
+      {"name":"ZR1 1LZ","msrp":197700},{"name":"ZR1 3LZ","msrp":208700},
+      {"name":"ZR1X 1LZ","msrp":227500},{"name":"ZR1X 3LZ","msrp":238500}],
+      "pricing_note":"Current 2027 Corvette family is consolidated under the existing Corvette series key. Chevrolet confirms Grand Sport X 1LT/2LT/3LT model levels, but its current public page does not surface separate 2LT/3LT MSRP values in the extracted pricing content; those two rows are intentionally left Not published rather than estimated."}
+  }
+}

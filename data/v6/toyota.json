@@ -16,7 +16,16 @@
       "drivetrain_detail": "Available 2WD, part-time 4WD or full-time 4WD, depending on grade",
       "technology": "Available 14-in. Toyota Audio Multimedia touchscreen",
       "safety": "Toyota Safety Sense 3.0 standard",
-      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner//8634/796/36/5.png?fmt=png-alpha&wid=930&qlt=90"
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/1.png?fmt=png-alpha&wid=930&qlt=90",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/1.png?fmt=png-alpha&wid=930&qlt=90",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/2.png?fmt=png-alpha&wid=930&qlt=90",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/3.png?fmt=png-alpha&wid=930&qlt=90",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/4.png?fmt=png-alpha&wid=930&qlt=90",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/3u5/1.png?fmt=png-alpha&wid=930&qlt=90",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/3u5/2.png?fmt=png-alpha&wid=930&qlt=90",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/3u5/3.png?fmt=png-alpha&wid=930&qlt=90"
+      ]
     },
     "bZ": {
       "engine": "Dual-motor all-electric powertrain available; FWD and AWD configurations",

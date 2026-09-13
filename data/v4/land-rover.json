@@ -1,29 +1,15 @@
 {
-  "brand": "Land Rover",
-  "market": "United States",
-  "verified_on": "2026-09-13",
-  "source_policy": "Official Range Rover / Land Rover U.S. pages only",
-  "coverage_note": "Range Rover family verified in this revision; Defender, Discovery and Discovery Sport remain pending exact official trim-price verification.",
-  "models": {
-    "Range Rover": {
-      "year":"2026",
-      "source":"https://www.rangerover.com/en-us/range-rover/models-and-specifications.html",
-      "trims":[
-        {"name":"SE (SWB)","msrp":113300},{"name":"Autobiography (SWB)","msrp":159200},{"name":"First Edition (SWB)","msrp":176700},{"name":"SV (SWB)","msrp":219500},{"name":"SV Black (SWB)","msrp":238900},{"name":"SV Ultra (SWB)","msrp":252800},
-        {"name":"Autobiography (LWB)","msrp":179500},{"name":"First Edition (LWB)","msrp":181400},{"name":"SV (LWB)","msrp":245700},{"name":"SV Black (LWB)","msrp":260900},{"name":"SV Ultra (LWB)","msrp":275000},{"name":"SE (LWB 7-Seat)","msrp":120700},{"name":"Autobiography (LWB 7-Seat)","msrp":177900}
-      ]
-    },
-    "Range Rover Sport": {
-      "year":"2026","source":"https://www.rangerover.com/en-us/range-rover-sport/models-and-specifications.html",
-      "trims":[{"name":"SE","msrp":83700},{"name":"Dynamic SE","msrp":90800},{"name":"Battersea Edition","msrp":112000},{"name":"Autobiography","msrp":120900},{"name":"SV","msrp":152000},{"name":"SV Black","msrp":161600},{"name":"SV Carbon","msrp":170200}]
-    },
-    "Range Rover Velar": {
-      "year":"2026","source":"https://www.rangerover.com/en-us/range-rover-velar/models-and-specifications.html",
-      "trims":[{"name":"S","msrp":61600},{"name":"Belgravia Edition","msrp":63800},{"name":"Autobiography","msrp":78900},{"name":"Belgravia Edition Satin","msrp":80900}]
-    },
-    "Range Rover Evoque": {
-      "year":"2026","source":"https://www.rangerover.com/en-us/range-rover-evoque/models-and-specifications.html",
-      "trims":[{"name":"S","msrp":49900},{"name":"Hoxton Edition","msrp":55100}]
-    }
+  "brand":"Land Rover",
+  "market":"United States",
+  "verified_on":"2026-09-13",
+  "source_policy":"Official Range Rover / Land Rover U.S. pages only",
+  "models":{
+    "Range Rover":{"year":"2026","source":"https://www.rangerover.com/en-us/range-rover/models-and-specifications.html","trims":[{"name":"SE (SWB)","msrp":113300},{"name":"Autobiography (SWB)","msrp":159200},{"name":"First Edition (SWB)","msrp":176700},{"name":"SV (SWB)","msrp":219500},{"name":"SV Black (SWB)","msrp":238900},{"name":"SV Ultra (SWB)","msrp":252800},{"name":"Autobiography (LWB)","msrp":179500},{"name":"First Edition (LWB)","msrp":181400},{"name":"SV (LWB)","msrp":245700},{"name":"SV Black (LWB)","msrp":260900},{"name":"SV Ultra (LWB)","msrp":275000},{"name":"SE (LWB 7-Seat)","msrp":120700},{"name":"Autobiography (LWB 7-Seat)","msrp":177900}]},
+    "Range Rover Sport":{"year":"2026","source":"https://www.rangerover.com/en-us/range-rover-sport/models-and-specifications.html","trims":[{"name":"SE","msrp":83700},{"name":"Dynamic SE","msrp":90800},{"name":"Battersea Edition","msrp":112000},{"name":"Autobiography","msrp":120900},{"name":"SV","msrp":152000},{"name":"SV Black","msrp":161600},{"name":"SV Carbon","msrp":170200}]},
+    "Range Rover Velar":{"year":"2026","source":"https://www.rangerover.com/en-us/range-rover-velar/models-and-specifications.html","trims":[{"name":"S","msrp":61600},{"name":"Belgravia Edition","msrp":63800},{"name":"Autobiography","msrp":78900},{"name":"Belgravia Edition Satin","msrp":80900}]},
+    "Range Rover Evoque":{"year":"2026","source":"https://www.rangerover.com/en-us/range-rover-evoque/models-and-specifications.html","trims":[{"name":"S","msrp":49900},{"name":"Hoxton Edition","msrp":55100}]},
+    "Defender":{"year":"2027","source":"https://www.landroverusa.com/build-your-own/defender.html","pricing_note":"Defender is sold in multiple body lengths; version rows retain the body length so the MSRP is unambiguous.","trims":[{"name":"90 S","msrp":61000},{"name":"110 S","msrp":65000},{"name":"110 X-Dynamic SE","msrp":74400},{"name":"110 Trophy Edition","msrp":87400},{"name":"110 X","msrp":96000},{"name":"110 Vertex","msrp":96000},{"name":"130 S","msrp":74000},{"name":"130 X-Dynamic SE","msrp":83600},{"name":"130 Outbound","msrp":86400},{"name":"130 Vertex","msrp":105000},{"name":"110 OCTA","msrp":158800},{"name":"110 OCTA Black","msrp":169200}]},
+    "Discovery":{"year":"2026","source":"https://www.landroverusa.com/discovery/discovery/models-and-specifications.html","trims":[{"name":"S","msrp":64900},{"name":"Landmark","msrp":70800},{"name":"Tempest","msrp":84300}]},
+    "Discovery Sport":{"year":"2026","source":"https://www.landroverusa.com/discovery/discovery-sport/models-and-specifications.html","trims":[{"name":"Landmark","msrp":49900}]}
   }
 }

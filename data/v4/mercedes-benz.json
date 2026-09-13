@@ -1,0 +1,240 @@
+{
+  "brand": "Mercedes-Benz",
+  "market": "United States",
+  "verified_on": "2026-09-13",
+  "source_policy": "Official Mercedes-Benz USA (MBUSA) class/model/build pages and Mercedes-Benz USA media releases only. Current model-page values take precedence over older model-year pages. Price Coming Soon values are left null rather than estimated.",
+  "models": {
+    "CLA": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/cla/sedan",
+      "trims": [
+        {"name":"CLA 220 Hybrid Sedan","msrp":43900,"powertrain":"Hybrid"},
+        {"name":"CLA 250+ ELECTRIC Sedan","msrp":47950,"powertrain":"Battery electric"},
+        {"name":"CLA 350 4MATIC ELECTRIC Sedan","msrp":50500,"powertrain":"Battery electric","drivetrain":"AWD"}
+      ]
+    },
+    "C-Class": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/c-class/sedan",
+      "trims": [
+        {"name":"C 300 Sedan","msrp":49650},
+        {"name":"C 300 4MATIC Sedan","msrp":51650,"drivetrain":"AWD"},
+        {"name":"AMG C 43 Sedan","msrp":64150,"drivetrain":"AWD"},
+        {"name":"AMG C 63 S E PERFORMANCE Sedan","msrp":88000,"powertrain":"Performance plug-in hybrid","drivetrain":"AWD"}
+      ]
+    },
+    "E-Class": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/e-class/sedan",
+      "trims": [
+        {"name":"E 350 Sedan","msrp":65200},
+        {"name":"E 350 4MATIC Sedan","msrp":67700,"drivetrain":"AWD"},
+        {"name":"E 450 4MATIC Sedan","msrp":73700,"drivetrain":"AWD"},
+        {"name":"AMG E 53 HYBRID Sedan","msrp":91100,"powertrain":"Performance plug-in hybrid","drivetrain":"AWD"}
+      ]
+    },
+    "S-Class": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/s-class/sedan",
+      "trims": [
+        {"name":"S 500 4MATIC Sedan","msrp":112550,"drivetrain":"AWD"},
+        {"name":"S 580 4MATIC Sedan","msrp":134600,"drivetrain":"AWD"}
+      ]
+    },
+    "E-Class Wagon": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/e-class/wagon",
+      "trims": [
+        {"name":"E 450 4MATIC All-Terrain","msrp":80000,"drivetrain":"AWD"},
+        {"name":"AMG E 53 HYBRID Wagon","msrp":95200,"powertrain":"Performance plug-in hybrid","drivetrain":"AWD"}
+      ]
+    },
+    "CLE Coupe": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/cle/coupe",
+      "trims": [
+        {"name":"CLE 300 4MATIC Coupe","msrp":60900,"drivetrain":"AWD"},
+        {"name":"CLE 450 4MATIC Coupe","msrp":70500,"drivetrain":"AWD"},
+        {"name":"AMG CLE 53 Coupe","msrp":77400,"drivetrain":"AWD"}
+      ]
+    },
+    "CLE Cabriolet": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/cle/cabriolet",
+      "trims": [
+        {"name":"CLE 300 4MATIC Cabriolet","msrp":69400,"drivetrain":"AWD"},
+        {"name":"CLE 450 4MATIC Cabriolet","msrp":78900,"drivetrain":"AWD"},
+        {"name":"AMG CLE 53 Cabriolet","msrp":85700,"drivetrain":"AWD"}
+      ]
+    },
+    "AMG GT Coupe": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/amg-gt/coupe",
+      "trims": [
+        {"name":"AMG GT 43 Coupe","msrp":108850},
+        {"name":"AMG GT 55 Coupe","msrp":137450,"drivetrain":"AWD"},
+        {"name":"AMG GT 63 Coupe","msrp":184000,"drivetrain":"AWD"},
+        {"name":"AMG GT 63 S E PERFORMANCE Coupe","msrp":205000,"powertrain":"Performance plug-in hybrid","drivetrain":"AWD"},
+        {"name":"AMG GT 63 PRO 4MATIC+ Coupe","msrp":205000,"drivetrain":"AWD"}
+      ]
+    },
+    "SL Roadster": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/sl/roadster",
+      "pricing_note":"The current 2027 MBUSA class page exposes SL 43, SL 55 and SL 63 pricing. The prior 2026 SL 63 S E PERFORMANCE is not carried forward here as a priced 2027 trim without a current 2027 price.",
+      "trims": [
+        {"name":"AMG SL 43 Roadster","msrp":114900},
+        {"name":"AMG SL 55 Roadster","msrp":147750,"drivetrain":"AWD"},
+        {"name":"AMG SL 63 Roadster","msrp":190500,"drivetrain":"AWD"}
+      ]
+    },
+    "GLA": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/gla/suv",
+      "trims": [
+        {"name":"GLA 250 SUV","msrp":41500},
+        {"name":"GLA 250 4MATIC SUV","msrp":43500,"drivetrain":"AWD"},
+        {"name":"AMG GLA 35 SUV","msrp":58550,"drivetrain":"AWD"}
+      ]
+    },
+    "GLB": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/glb/suv",
+      "trims": [
+        {"name":"GLB 250 SUV","msrp":43800},
+        {"name":"GLB 250 4MATIC SUV","msrp":45800,"drivetrain":"AWD"},
+        {"name":"AMG GLB 35 SUV","msrp":60600,"drivetrain":"AWD"}
+      ]
+    },
+    "GLC": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/glc/suv",
+      "trims": [
+        {"name":"GLC 300 SUV","msrp":52400},
+        {"name":"GLC 300 4MATIC SUV","msrp":54400,"drivetrain":"AWD"},
+        {"name":"GLC 350e 4MATIC SUV","msrp":62700,"powertrain":"Plug-in hybrid","drivetrain":"AWD"},
+        {"name":"AMG GLC 53 4MATIC+ SUV","msrp":69900,"drivetrain":"AWD"}
+      ]
+    },
+    "GLC Coupe": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/glc/coupe",
+      "trims": [
+        {"name":"GLC 300 4MATIC Coupe","msrp":62950,"drivetrain":"AWD"},
+        {"name":"AMG GLC 53 4MATIC+ Coupe","msrp":75900,"drivetrain":"AWD"}
+      ]
+    },
+    "GLE SUV": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/gle/suv",
+      "trims": [
+        {"name":"GLE 350 4MATIC SUV","msrp":68400,"drivetrain":"AWD"},
+        {"name":"GLE 450 4MATIC SUV","msrp":74800,"drivetrain":"AWD"},
+        {"name":"AMG GLE 53 HYBRID SUV","msrp":97000,"powertrain":"Performance plug-in hybrid","drivetrain":"AWD"},
+        {"name":"AMG GLE 63 S 4MATIC+ SUV","msrp":null,"drivetrain":"AWD","status":"Price Coming Soon on current MBUSA page"}
+      ]
+    },
+    "GLE Coupe": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/gle/coupe",
+      "trims": [
+        {"name":"GLE 450 4MATIC Coupe","msrp":81200,"drivetrain":"AWD"},
+        {"name":"AMG GLE 53 HYBRID Coupe","msrp":98000,"powertrain":"Performance plug-in hybrid","drivetrain":"AWD"},
+        {"name":"AMG GLE 63 S 4MATIC+ Coupe","msrp":null,"drivetrain":"AWD","status":"Price Coming Soon on current MBUSA page"}
+      ]
+    },
+    "GLS": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/gls/suv",
+      "trims": [
+        {"name":"GLS 450 4MATIC SUV","msrp":90250,"drivetrain":"AWD"},
+        {"name":"GLS 580 4MATIC SUV","msrp":116150,"drivetrain":"AWD"},
+        {"name":"AMG GLS 63 SUV","msrp":151050,"drivetrain":"AWD"}
+      ]
+    },
+    "G-Class": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/g-class/suv",
+      "trims": [
+        {"name":"G 550 SUV","msrp":153900,"drivetrain":"AWD"},
+        {"name":"G 580 with EQ Technology","msrp":163200,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"AMG G 63 SUV","msrp":198750,"drivetrain":"AWD"}
+      ]
+    },
+    "EQB": {
+      "year": "2025/current-listed",
+      "source": "https://www.mbusa.com/en/vehicles/class/eqb/suv",
+      "pricing_note":"MBUSA continues to expose three EQB models and pricing on its current U.S. class/build pages; model pages are labeled 2025 at verification time.",
+      "trims": [
+        {"name":"EQB 250+ SUV","msrp":53050,"powertrain":"Battery electric","drivetrain":"FWD"},
+        {"name":"EQB 300 4MATIC SUV","msrp":57200,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"EQB 350 4MATIC SUV","msrp":60850,"powertrain":"Battery electric","drivetrain":"AWD"}
+      ]
+    },
+    "EQE Sedan": {
+      "year": "2026",
+      "source": "https://www.mbusa.com/en/vehicles/class/eqe/sedan",
+      "trims": [
+        {"name":"EQE 320+ Sedan","msrp":64950,"powertrain":"Battery electric","drivetrain":"RWD"},
+        {"name":"EQE 320 4MATIC Sedan","msrp":67450,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"AMG EQE Sedan","msrp":96600,"powertrain":"Battery electric","drivetrain":"AWD"}
+      ]
+    },
+    "EQE SUV": {
+      "year": "2026",
+      "source": "https://www.mbusa.com/en/vehicles/class/eqe/suv",
+      "trims": [
+        {"name":"EQE 320+ SUV","msrp":64950,"powertrain":"Battery electric","drivetrain":"RWD"},
+        {"name":"EQE 320 4MATIC SUV","msrp":67450,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"AMG EQE SUV","msrp":97400,"powertrain":"Battery electric","drivetrain":"AWD"}
+      ]
+    },
+    "EQS Sedan": {
+      "year": "2026",
+      "source": "https://www.mbusa.com/en/vehicles/class/eqs/sedan",
+      "trims": [
+        {"name":"EQS 450+ Sedan","msrp":101450,"powertrain":"Battery electric","drivetrain":"RWD"},
+        {"name":"EQS 500 4MATIC Sedan","msrp":104450,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"EQS 580 4MATIC Sedan","msrp":123900,"powertrain":"Battery electric","drivetrain":"AWD"}
+      ]
+    },
+    "EQS SUV": {
+      "year": "2026",
+      "source": "https://www.mbusa.com/en/vehicles/class/eqs/suv",
+      "trims": [
+        {"name":"EQS 400 4MATIC SUV","msrp":89950,"powertrain":"Battery electric","drivetrain":"AWD"},
+        {"name":"EQS 550 4MATIC SUV","msrp":112450,"powertrain":"Battery electric","drivetrain":"AWD"}
+      ]
+    },
+    "GLC Electric": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/glc/electric",
+      "trims": [
+        {"name":"GLC 400 4MATIC Electric SUV","msrp":63500,"powertrain":"Battery electric","drivetrain":"AWD"}
+      ]
+    },
+    "Mercedes-Maybach S-Class": {
+      "year": "2027",
+      "source": "https://www.mbusa.com/en/vehicles/class/maybach-s-class/sedan",
+      "pricing_note":"Current 2027 MBUSA page shows Price Coming Soon for both Maybach S-Class models; prior-year prices are not carried forward as current estimates.",
+      "trims": [
+        {"name":"Mercedes-Maybach S 580 4MATIC","msrp":null,"drivetrain":"AWD","status":"Price Coming Soon"},
+        {"name":"Mercedes-Maybach S 680 4MATIC","msrp":null,"drivetrain":"AWD","status":"Price Coming Soon"}
+      ]
+    },
+    "Mercedes-Maybach GLS": {
+      "year": "2026/2027 current-listed",
+      "source": "https://www.mbusa.com/en/vehicles/class/maybach-gls/suv",
+      "trims": [
+        {"name":"Mercedes-Maybach GLS 600 4MATIC SUV","msrp":180000,"drivetrain":"AWD"}
+      ]
+    },
+    "Mercedes-Maybach EQS SUV": {
+      "year": "2026 current-listed",
+      "source": "https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv",
+      "trims": [
+        {"name":"Mercedes-Maybach EQS 680 SUV","msrp":180000,"powertrain":"Battery electric","drivetrain":"AWD"}
+      ]
+    }
+  }
+}

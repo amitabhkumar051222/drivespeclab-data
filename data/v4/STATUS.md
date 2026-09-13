@@ -3,12 +3,18 @@
 Updated: 2026-09-13
 
 ## V4 sidecars currently committed
+- BYD — `data/v4/byd.json` (U.S. market-status case; no mainstream consumer passenger lineup in scope)
+- Ford — `data/v4/ford.json` (all base model families covered; F-450 Platinum exact Super Duty row still pending final verification)
 - GMC — `data/v4/gmc.json`
-- Jeep — `data/v4/jeep.json`
-- Land Rover — `data/v4/land-rover.json` (Range Rover family complete; Defender/Discovery family still pending)
+- Honda — `data/v4/honda.json`
+- Jeep — `data/v4/jeep.json` (2026 Cherokee Turbo Hybrid added after re-verification)
+- Land Rover — `data/v4/land-rover.json` (Range Rover, Defender, Discovery and Discovery Sport covered)
+- Mahindra — `data/v4/mahindra.json` (U.S. market-status case)
 - Mazda — `data/v4/mazda.json`
 - Ram — `data/v4/ram.json`
 - Subaru — `data/v4/subaru.json`
+- Tata Motors — `data/v4/tata-motors.json` (U.S. market-status case)
+- Volkswagen — `data/v4/volkswagen.json`
 - Volvo — `data/v4/volvo.json`
 
 ## Loader
@@ -20,16 +26,9 @@ Updated: 2026-09-13
 - Hides base models explicitly marked discontinued/not currently sold in the V4 sidecar.
 - Exposes `window.DriveSpecLabDB` and dispatches `DriveSpecLabDBReady`.
 
-## Currently being verified / researched
-- Volkswagen — active official U.S. lineup/trim audit
-- Honda — official U.S. build-and-price/model-page audit
-- Lexus — smaller model-by-model retry required after broad audit timeout
-- Genesis — official build/model-compare audit
-- Land Rover — Defender, Discovery and Discovery Sport still pending
-
 ## Still pending before FINAL READY
-Toyota, Volkswagen, Ford, Honda, Chevrolet, Nissan, Hyundai, Kia, Tesla, BMW, Mercedes-Benz, Audi, Porsche, Lexus, Genesis, plus remaining Land Rover models.
+Toyota, Chevrolet, Nissan, Hyundai, Kia, Tesla, BMW, Mercedes-Benz, Audi, Porsche, Lexus and Genesis, plus the final Ford Super Duty F-450 Platinum price check.
 
-BYD, Mahindra and Tata Motors remain special market-status cases because they do not have a mainstream current U.S. retail passenger-vehicle lineup in the base project scope.
+After all brand sidecars are complete: integrate the V4 loader into the latest Blogger XML, migrate homepage Find Your Car/selectors to `window.DriveSpecLabDB`, remove obsolete embedded duplicate database code, validate XML and inline JavaScript, then live-test brand and `#usmodel=` routes.
 
 Do not label the Blogger theme FINAL READY until all required brand sidecars, loader integration, XML validation, and live route tests pass.

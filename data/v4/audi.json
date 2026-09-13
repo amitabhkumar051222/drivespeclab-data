@@ -1,0 +1,138 @@
+{
+  "brand": "Audi",
+  "market": "United States",
+  "verified_on": "2026-09-13",
+  "source_policy": "Official Audi USA model/build pages and Audi of America Newsroom only. Latest current model-year pages take precedence; unpublished future pricing is left null rather than estimated.",
+  "models": {
+    "Q9": {
+      "year":"2027",
+      "source":"https://www.audiusa.com/en/models/q9/q9/2027/overview/",
+      "trims":[
+        {"name":"Q9 Premium","msrp":87700,"drivetrain":"quattro AWD"},
+        {"name":"Q9 Premium Plus","msrp":93300,"drivetrain":"quattro AWD"},
+        {"name":"Q9 Prestige","msrp":102400,"drivetrain":"quattro AWD"},
+        {"name":"SQ9","msrp":118000,"drivetrain":"quattro AWD"}
+      ]
+    },
+    "Q7": {
+      "year":"2027",
+      "source":"https://www.audiusa.com/en/models/q7/q7/2027/overview/",
+      "trims":[
+        {"name":"Q7 Premium","msrp":70900,"drivetrain":"quattro AWD"},
+        {"name":"Q7 Premium Plus","msrp":75300,"drivetrain":"quattro AWD"},
+        {"name":"Q7 Prestige","msrp":84900,"drivetrain":"quattro AWD"},
+        {"name":"SQ7","msrp":98700,"drivetrain":"quattro AWD"}
+      ]
+    },
+    "Nuvolari": {
+      "year":"2027",
+      "source":"https://www.audiusa.com/en/models/nuvolari/intro/",
+      "status":"Limited-production U.S. launch planned for 2027; pricing not yet announced",
+      "pricing_note":"Audi states U.S.-specific pricing will be announced later; no MSRP is estimated here.",
+      "trims":[{"name":"Nuvolari","msrp":null,"powertrain":"High-performance hybrid","status":"Pricing not announced"}]
+    },
+    "Q3": {
+      "year":"2027",
+      "source":"https://www.audiusa.com/en/models/q3/q3/2027/overview/",
+      "trims":[{"name":"Q3","msrp":44400,"drivetrain":"quattro AWD"}]
+    },
+    "Q5": {
+      "year":"2026",
+      "source":"https://www.audiusa.com/en/models/q5/q5/2026/overview/",
+      "trims":[
+        {"name":"Q5","msrp":52800,"drivetrain":"quattro AWD"},
+        {"name":"Q5 Sportback","msrp":55100,"drivetrain":"quattro AWD"},
+        {"name":"SQ5","msrp":65400,"drivetrain":"quattro AWD"},
+        {"name":"SQ5 Sportback","msrp":66800,"drivetrain":"quattro AWD"}
+      ]
+    },
+    "Q8": {
+      "year":"2027",
+      "source":"https://www.audiusa.com/en/models/q8/q8/2027/overview/",
+      "trims":[
+        {"name":"Q8 Premium","msrp":76900,"drivetrain":"quattro AWD"},
+        {"name":"Q8 Premium Plus","msrp":82100,"drivetrain":"quattro AWD"},
+        {"name":"Q8 Prestige","msrp":87500,"drivetrain":"quattro AWD"},
+        {"name":"SQ8","msrp":100600,"drivetrain":"quattro AWD"},
+        {"name":"RS Q8 performance","msrp":139700,"drivetrain":"quattro AWD"}
+      ]
+    },
+    "A3": {
+      "year":"2026",
+      "source":"https://www.audiusa.com/en/models/a3/a3/2026/overview/",
+      "trims":[
+        {"name":"A3 Premium 40 TFSI quattro","msrp":40100,"drivetrain":"quattro AWD"},
+        {"name":"A3 Premium Plus 40 TFSI quattro","msrp":43000,"drivetrain":"quattro AWD"},
+        {"name":"S3","msrp":52000,"drivetrain":"quattro AWD"},
+        {"name":"RS 3","msrp":66100,"drivetrain":"quattro AWD"}
+      ]
+    },
+    "A5": {
+      "year":"2026",
+      "source":"https://www.audiusa.com/en/models/a5/a5/2026/overview/",
+      "trims":[
+        {"name":"A5","msrp":50200,"drivetrain":"quattro AWD"},
+        {"name":"S5","msrp":63300,"drivetrain":"quattro AWD"}
+      ]
+    },
+    "A6": {
+      "year":"2026",
+      "source":"https://www.audiusa.com/en/models/a6/a6-sedan/2026/overview/",
+      "pricing_note":"The standard S6 Sedan page redirects at verification time; current priced A6-family models shown here are those surfaced on active Audi USA product pages.",
+      "trims":[
+        {"name":"A6 Sedan","msrp":64100,"drivetrain":"quattro AWD"},
+        {"name":"A6 allroad","msrp":73100,"drivetrain":"quattro AWD"},
+        {"name":"RS 6 Avant performance","msrp":130700,"drivetrain":"quattro AWD"}
+      ]
+    },
+    "A7": {
+      "year":"2026 current-listed family",
+      "source":"https://www.audiusa.com/en/models/a7/rs7/2026/overview/",
+      "status":"Standard A7 Sportback page currently redirects; RS 7 performance remains an active priced U.S. model",
+      "pricing_note":"No current standard A7 MSRP is fabricated; the active RS 7 performance price is shown.",
+      "trims":[{"name":"RS 7 performance","msrp":130700,"drivetrain":"quattro AWD"}]
+    },
+    "A8": {
+      "year":"2027",
+      "source":"https://www.audiusa.com/en/models/a8/a8-sedan/2027/overview/",
+      "trims":[
+        {"name":"A8","msrp":95100,"drivetrain":"quattro AWD"},
+        {"name":"S8","msrp":130000,"drivetrain":"quattro AWD"}
+      ]
+    },
+    "Q4 e-tron": {
+      "year":"2026",
+      "source":"https://www.audiusa.com/en/models/q4/q4-e-tron/2026/overview/",
+      "trims":[
+        {"name":"Q4 e-tron","msrp":50600,"powertrain":"Battery electric"},
+        {"name":"Q4 Sportback e-tron","msrp":59000,"powertrain":"Battery electric"}
+      ]
+    },
+    "Q6 e-tron": {
+      "year":"2027",
+      "source":"https://www.audiusa.com/en/models/q6-e-tron/q6-e-tron/2027/overview/",
+      "trims":[
+        {"name":"Q6 e-tron","msrp":64500,"powertrain":"Battery electric"},
+        {"name":"Q6 Sportback e-tron","msrp":68300,"powertrain":"Battery electric"},
+        {"name":"SQ6 e-tron","msrp":73200,"powertrain":"Battery electric","drivetrain":"quattro AWD"},
+        {"name":"SQ6 Sportback e-tron","msrp":75600,"powertrain":"Battery electric","drivetrain":"quattro AWD"}
+      ]
+    },
+    "A6 e-tron": {
+      "year":"2027",
+      "source":"https://www.audiusa.com/en/models/a6-e-tron/a6-sportback-e-tron/2027/overview/",
+      "trims":[
+        {"name":"A6 Sportback e-tron","msrp":66700,"powertrain":"Battery electric"},
+        {"name":"S6 Sportback e-tron","msrp":79600,"powertrain":"Battery electric","drivetrain":"quattro AWD"}
+      ]
+    },
+    "e-tron GT": {
+      "year":"2027",
+      "source":"https://www.audiusa.com/en/models/e-tron-gt/rs-e-tron-gt/2027/overview/",
+      "trims":[
+        {"name":"S e-tron GT","msrp":127700,"powertrain":"Battery electric","drivetrain":"quattro AWD"},
+        {"name":"RS e-tron GT performance","msrp":170500,"powertrain":"Battery electric","drivetrain":"quattro AWD"}
+      ]
+    }
+  }
+}

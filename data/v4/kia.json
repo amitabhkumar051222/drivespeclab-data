@@ -1,0 +1,102 @@
+{
+  "brand": "Kia",
+  "market": "United States",
+  "verified_on": "2026-09-13",
+  "source_policy": "Official Kia USA and Kia America media pages only",
+  "models": {
+    "Telluride": {
+      "year": "2027",
+      "source": "https://www.kia.com/us/en/telluride/specs-compare",
+      "trims": [
+        {"name":"Gas LX","msrp":39190},{"name":"Gas S","msrp":42090},{"name":"Gas EX","msrp":43790},{"name":"Gas X-Line EX AWD","msrp":47290,"default_drive":"AWD"},{"name":"Gas SX","msrp":48790},{"name":"Gas X-Line SX AWD","msrp":51790,"default_drive":"AWD"},{"name":"Gas X-Pro SX AWD","msrp":53690,"default_drive":"AWD"},{"name":"Gas SX Prestige","msrp":53890},{"name":"Gas X-Line SX Prestige AWD","msrp":54890,"default_drive":"AWD"},{"name":"Gas X-Pro SX Prestige AWD","msrp":56790,"default_drive":"AWD"},
+        {"name":"Hybrid EX","msrp":46490},{"name":"Hybrid SX","msrp":51490},{"name":"Hybrid X-Line SX","msrp":54490,"default_drive":"AWD"},{"name":"Hybrid SX Prestige","msrp":56590},{"name":"Hybrid X-Line SX Prestige","msrp":57590,"default_drive":"AWD"}
+      ],
+      "pricing_note": "Gas and turbo-hybrid grades are combined under the Telluride model-series entry."
+    },
+    "EV6": {
+      "year": "2026",
+      "source": "https://www.kia.com/us/en/ev6",
+      "range_miles_up_to": 319,
+      "trims": [
+        {"name":"Light RWD","msrp":37900,"default_drive":"RWD"},{"name":"Light Long Range RWD","msrp":41200,"default_drive":"RWD"},{"name":"Light Long Range AWD","msrp":45200,"default_drive":"AWD"},{"name":"Wind RWD","msrp":44800,"default_drive":"RWD"},{"name":"Wind AWD","msrp":48800,"default_drive":"AWD"},{"name":"GT-Line RWD","msrp":48700,"default_drive":"RWD"},{"name":"GT-Line AWD","msrp":53000,"default_drive":"AWD"}
+      ],
+      "pricing_note": "Current Kia USA EV6 page lists Light, Light Long Range, Wind and GT-Line; drivetrain configurations are shown separately where Kia publishes distinct MSRP."
+    },
+    "Carnival": {
+      "year": "2027",
+      "source": "https://www.kia.com/us/en/carnival-mpv",
+      "trims": [
+        {"name":"Gas LX","msrp":37490},{"name":"Gas LXS","msrp":39490},{"name":"Gas EX","msrp":41690},{"name":"Gas SX","msrp":46590},{"name":"Gas SX Prestige","msrp":51590},
+        {"name":"Hybrid LXS","msrp":41490},{"name":"Hybrid EX","msrp":43690},{"name":"Hybrid SX","msrp":48590},{"name":"Hybrid SX Prestige","msrp":53590}
+      ],
+      "pricing_note": "Gas and hybrid grades are combined under the Carnival model-series entry."
+    },
+    "Sorento": {
+      "year": "2026",
+      "source": "https://www.kia.com/us/en/sorento/specs-compare",
+      "trims": [
+        {"name":"Gas LX","msrp":32390},{"name":"Gas S","msrp":35290},{"name":"Gas EX","msrp":38490},{"name":"Gas SX","msrp":42290},{"name":"Gas X-Line EX AWD","msrp":42790,"default_drive":"AWD"},{"name":"Gas X-Line SX AWD","msrp":44090,"default_drive":"AWD"},{"name":"Gas X-Line SX Prestige AWD","msrp":46790,"default_drive":"AWD"},{"name":"Gas X-Pro SX Prestige AWD","msrp":47790,"default_drive":"AWD"},
+        {"name":"Hybrid EX","msrp":38890},{"name":"Hybrid X-Line SX Prestige AWD","msrp":47190,"default_drive":"AWD"},{"name":"Plug-in Hybrid EX AWD","msrp":48290,"default_drive":"AWD"},{"name":"Plug-in Hybrid X-Line SX Prestige AWD","msrp":53490,"default_drive":"AWD"}
+      ],
+      "pricing_note": "Gas, hybrid and plug-in hybrid grades are combined under Sorento."
+    },
+    "EV9": {
+      "year": "2026",
+      "source": "https://www.kia.com/us/en/ev9/specs-compare",
+      "trims": [
+        {"name":"Light RWD","msrp":54900,"default_drive":"RWD"},{"name":"Light Long Range RWD","msrp":57900,"default_drive":"RWD"},{"name":"Wind AWD","msrp":63900,"default_drive":"AWD"},{"name":"Land AWD","msrp":68900,"default_drive":"AWD"},{"name":"GT-Line AWD","msrp":71900,"default_drive":"AWD"},{"name":"GT AWD","msrp":null,"default_drive":"AWD"}
+      ],
+      "pricing_note": "Kia's current comparison metadata names a GT AWD configuration, but Kia America's current 2026 U.S. pricing table does not publish a GT MSRP; it is therefore shown as Not published rather than estimated."
+    },
+    "Niro": {
+      "year": "2027",
+      "source": "https://www.kia.com/us/en/niro",
+      "trims": [
+        {"name":"Hybrid LX","msrp":29890},{"name":"Hybrid S","msrp":30590},{"name":"Hybrid EX","msrp":31390},{"name":"Hybrid SX","msrp":35440},{"name":"Hybrid SX Touring","msrp":38990}
+      ]
+    },
+    "Niro EV": {
+      "year": "2026",
+      "source": "https://www.kia.com/us/en/niro-ev",
+      "range_miles_up_to": 253,
+      "trims": [{"name":"Wind","msrp":39700,"default_drive":"FWD"},{"name":"Wave","msrp":44700,"default_drive":"FWD"}]
+    },
+    "EV3": {
+      "year": "2027",
+      "source": "https://www.kiamedia.com/us/en/media/pressreleases/25004/kia-announces-pricing-for-2027-ev3",
+      "range_miles_up_to": 321,
+      "trims": [
+        {"name":"Light FWD","msrp":29890,"default_drive":"FWD"},{"name":"Wind FWD","msrp":34990,"default_drive":"FWD"},{"name":"Wind AWD","msrp":38690,"default_drive":"AWD"},{"name":"Land FWD","msrp":38490,"default_drive":"FWD"},{"name":"Land AWD","msrp":41690,"default_drive":"AWD"},{"name":"GT-Line AWD","msrp":43490,"default_drive":"AWD"},{"name":"GT AWD","msrp":45890,"default_drive":"AWD"}
+      ]
+    },
+    "Sportage": {
+      "year": "2027",
+      "source": "https://www.kia.com/us/en/sportage-hybrid",
+      "trims": [
+        {"name":"Gas LX","msrp":28990},{"name":"Gas EX","msrp":30790},{"name":"Gas SX","msrp":34590},{"name":"Gas X-Line","msrp":34790},{"name":"Gas SX Prestige","msrp":36590},{"name":"Gas X-Pro Prestige","msrp":39890},
+        {"name":"Hybrid LX","msrp":30590},{"name":"Hybrid S","msrp":31290},{"name":"Hybrid EX","msrp":32290},{"name":"Hybrid X-Line AWD","msrp":35790,"default_drive":"AWD"},{"name":"Hybrid SX Prestige","msrp":40690},{"name":"Plug-in Hybrid X-Line AWD","msrp":40590,"default_drive":"AWD"},{"name":"Plug-in Hybrid X-Line Prestige AWD","msrp":47390,"default_drive":"AWD"}
+      ],
+      "pricing_note": "Gas, hybrid and plug-in hybrid grades are combined under Sportage."
+    },
+    "K5": {
+      "year": "2027",
+      "source": "https://www.kia.com/us/en/k5",
+      "trims": [{"name":"LXS","msrp":27690},{"name":"GT-Line","msrp":28690},{"name":"GT","msrp":33790}]
+    },
+    "K4": {
+      "year": "2026",
+      "source": "https://www.kiamedia.com/us/en/models/k4/2026/pricing",
+      "trims": [{"name":"LX","msrp":22290},{"name":"LXS","msrp":23390},{"name":"EX","msrp":24490},{"name":"GT-Line","msrp":25490},{"name":"GT-Line Turbo","msrp":28390}]
+    },
+    "K4 Hatchback": {
+      "year": "2026",
+      "source": "https://www.kiamedia.com/us/en/models/k4-hatchback/2026/pricing",
+      "trims": [{"name":"EX","msrp":24990},{"name":"GT-Line","msrp":25990},{"name":"GT-Line Turbo","msrp":28890}]
+    },
+    "Seltos": {
+      "year": "2027",
+      "source": "https://www.kiamedia.com/us/en/models/seltos/2027/pricing",
+      "trims": [{"name":"LX","msrp":24990},{"name":"S","msrp":26390},{"name":"EX","msrp":28390},{"name":"X-Line S","msrp":28990},{"name":"X-Line SX","msrp":32790}]
+    }
+  }
+}

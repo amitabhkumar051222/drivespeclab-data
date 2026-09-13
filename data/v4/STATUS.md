@@ -17,6 +17,7 @@ Updated: 2026-09-13
 - Lexus — `data/v4/lexus.json` (current ES/IS/LC/LS/UX/NX/RX/RZ/TX/GX/LX covered; RC retained as discontinued reference)
 - Mahindra — `data/v4/mahindra.json` (U.S. market-status case)
 - Mazda — `data/v4/mazda.json`
+- Mercedes-Benz — `data/v4/mercedes-benz.json` (26 base model families covered across gas, hybrid, PHEV, EV, AMG and Maybach; current Price Coming Soon values remain null rather than estimated)
 - Nissan — `data/v4/nissan.json` (12 base model families aligned to current Nissan USA model years/pricing; Versa retained at current listed 2025 model year)
 - Ram — `data/v4/ram.json`
 - Subaru — `data/v4/subaru.json`
@@ -36,7 +37,7 @@ Updated: 2026-09-13
 - Exposes `window.DriveSpecLabDB` and dispatches `DriveSpecLabDBReady`.
 
 ## Still pending before FINAL READY
-Mercedes-Benz, Audi and Porsche.
+Audi and Porsche.
 
 After all brand sidecars are complete: integrate the V4 loader into the latest Blogger XML, migrate homepage Find Your Car/selectors to `window.DriveSpecLabDB`, remove obsolete embedded duplicate database code, validate XML and inline JavaScript, then live-test brand and `#usmodel=` routes.
 

@@ -1,0 +1,29 @@
+{
+  "brand": "Land Rover",
+  "market": "United States",
+  "verified_on": "2026-09-13",
+  "source_policy": "Official Range Rover / Land Rover U.S. pages only",
+  "coverage_note": "Range Rover family verified in this revision; Defender, Discovery and Discovery Sport remain pending exact official trim-price verification.",
+  "models": {
+    "Range Rover": {
+      "year":"2026",
+      "source":"https://www.rangerover.com/en-us/range-rover/models-and-specifications.html",
+      "trims":[
+        {"name":"SE (SWB)","msrp":113300},{"name":"Autobiography (SWB)","msrp":159200},{"name":"First Edition (SWB)","msrp":176700},{"name":"SV (SWB)","msrp":219500},{"name":"SV Black (SWB)","msrp":238900},{"name":"SV Ultra (SWB)","msrp":252800},
+        {"name":"Autobiography (LWB)","msrp":179500},{"name":"First Edition (LWB)","msrp":181400},{"name":"SV (LWB)","msrp":245700},{"name":"SV Black (LWB)","msrp":260900},{"name":"SV Ultra (LWB)","msrp":275000},{"name":"SE (LWB 7-Seat)","msrp":120700},{"name":"Autobiography (LWB 7-Seat)","msrp":177900}
+      ]
+    },
+    "Range Rover Sport": {
+      "year":"2026","source":"https://www.rangerover.com/en-us/range-rover-sport/models-and-specifications.html",
+      "trims":[{"name":"SE","msrp":83700},{"name":"Dynamic SE","msrp":90800},{"name":"Battersea Edition","msrp":112000},{"name":"Autobiography","msrp":120900},{"name":"SV","msrp":152000},{"name":"SV Black","msrp":161600},{"name":"SV Carbon","msrp":170200}]
+    },
+    "Range Rover Velar": {
+      "year":"2026","source":"https://www.rangerover.com/en-us/range-rover-velar/models-and-specifications.html",
+      "trims":[{"name":"S","msrp":61600},{"name":"Belgravia Edition","msrp":63800},{"name":"Autobiography","msrp":78900},{"name":"Belgravia Edition Satin","msrp":80900}]
+    },
+    "Range Rover Evoque": {
+      "year":"2026","source":"https://www.rangerover.com/en-us/range-rover-evoque/models-and-specifications.html",
+      "trims":[{"name":"S","msrp":49900},{"name":"Hoxton Edition","msrp":55100}]
+    }
+  }
+}

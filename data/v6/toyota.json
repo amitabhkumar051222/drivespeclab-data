@@ -1,0 +1,261 @@
+{
+  "brand": "Toyota",
+  "market": "United States",
+  "verified_on": "2026-09-13",
+  "source_policy": "V6 enhancement layer. Only official Toyota U.S. retail, specifications, brochure, fleet-guide and Toyota USA Newsroom values are included. Missing fields are omitted instead of filled with generic estimates. V4 trim/MSRP data remains the pricing source unless a V6 value explicitly overrides it.",
+  "models": {
+    "4Runner": {
+      "engine": "2.4L turbocharged 4-cylinder i-FORCE; available i-FORCE MAX hybrid",
+      "horsepower": "278 hp (i-FORCE) / 326 hp (i-FORCE MAX)",
+      "torque_lb_ft": "317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
+      "transmission": "8-speed automatic",
+      "mpg_combined_up_to": 23,
+      "towing_lbs_up_to": 6000,
+      "cargo_cu_ft_up_to": 90.2,
+      "ground_clearance_in_up_to": 10.1,
+      "drivetrain_detail": "Available 2WD, part-time 4WD or full-time 4WD, depending on grade",
+      "technology": "Available 14-in. Toyota Audio Multimedia touchscreen",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner//8634/796/36/5.png?fmt=png-alpha&wid=930&qlt=90"
+    },
+    "bZ": {
+      "engine": "Dual-motor all-electric powertrain available; FWD and AWD configurations",
+      "horsepower": "Up to 338 hp",
+      "range_miles_up_to": 314,
+      "zero_to_60": "As quick as 4.9 sec (AWD configuration)",
+      "charging": "10% to 80% in approximately 30 minutes with compatible DC fast charging under ideal conditions",
+      "technology": "Large Toyota Audio Multimedia touchscreen; NACS charging access on current generation",
+      "safety": "Toyota active-safety suite; equipment varies by grade"
+    },
+    "bZ Woodland": {
+      "engine": "Dual-motor battery-electric powertrain",
+      "horsepower": 375,
+      "range_miles_up_to": 281,
+      "battery_kwh": 74.7,
+      "drivetrain_detail": "Standard AWD with X-MODE",
+      "towing_lbs_up_to": 3500,
+      "charging": "11-kW onboard AC charger; 10% to 80% DC fast charging in around 30 minutes under ideal conditions; NACS charging port",
+      "technology": "14-in. Toyota Audio Multimedia touchscreen",
+      "safety": "Toyota Safety Sense 3.0 standard"
+    },
+    "C-HR": {
+      "engine": "Dual-motor battery-electric powertrain",
+      "horsepower": 338,
+      "drivetrain_detail": "Standard AWD",
+      "zero_to_60": "4.9 sec",
+      "range_miles": "287 miles (SE) / 273 miles (XSE) EPA-estimated",
+      "cargo_cu_ft": 25.3,
+      "charging": "11-kW AC onboard charger; 10% to 80% DC fast charging in around 30 minutes under ideal conditions; NACS charging port",
+      "technology": "14-in. Toyota Audio Multimedia touchscreen",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "ev_battery_warranty": "8 years/100,000 miles"
+    },
+    "Camry": {
+      "engine": "2.5L 4-cylinder with fifth-generation Toyota Hybrid System",
+      "horsepower": "225 net hp (FWD) / 232 net hp (AWD)",
+      "transmission": "Electronically controlled continuously variable transmission (eCVT)",
+      "mpg_combined_up_to": 51,
+      "drivetrain_detail": "FWD or Electronic On-Demand AWD",
+      "technology": "Available 9-speaker JBL Premium Audio; Toyota Audio Multimedia",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry//2558/3u5/36/5.png?fmt=png-alpha&wid=930&qlt=90"
+    },
+    "Corolla": {
+      "engine": "2.0L Dynamic Force 4-cylinder (gas) or 1.8L Toyota Hybrid System",
+      "horsepower": "169 hp (gas) / 138 hp (hybrid system)",
+      "torque_lb_ft": "151 lb-ft (gas engine)",
+      "transmission": "Dynamic-Shift CVT (gas) / electronically controlled CVT (hybrid)",
+      "mpg_combined_up_to": 50,
+      "drivetrain_detail": "FWD; Electronic On-Demand AWD available on selected hybrid grades",
+      "technology": "Available 12.3-in. digital gauge cluster and 10.5-in. Toyota Audio Multimedia touchscreen",
+      "safety": "Toyota Safety Sense 3.0 standard"
+    },
+    "Corolla Cross": {
+      "engine": "2.0L 4-cylinder gas or Toyota Hybrid System",
+      "horsepower": "169 hp (gas) / 196 net hp (hybrid)",
+      "transmission": "CVTi-S (gas) / electronically controlled CVT (hybrid)",
+      "mpg_combined": "Up to 32 MPG gas FWD / up to 42 MPG hybrid",
+      "drivetrain_detail": "FWD or AWD; hybrid uses AWD",
+      "towing_lbs_up_to": 1500,
+      "cargo_cu_ft_up_to": 52.0,
+      "ground_clearance_in": 8.1,
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross//6305/089/36/5.png?fmt=png-alpha&wid=930&qlt=90"
+    },
+    "Corolla Hatchback": {
+      "engine": "2.0L Dynamic Force 4-cylinder",
+      "horsepower": 169,
+      "torque_lb_ft": 151,
+      "transmission": "Dynamic-Shift CVT",
+      "mpg_city_highway": "32 city / 41 highway MPG (SE)",
+      "drivetrain_detail": "FWD",
+      "technology": "Wireless Apple CarPlay and Android Auto compatibility",
+      "safety": "Toyota Safety Sense 3.0 standard"
+    },
+    "GR Corolla": {
+      "engine": "1.6L turbocharged 3-cylinder G16E-GTS",
+      "horsepower": 300,
+      "torque_lb_ft": "295 lb-ft (302 lb-ft on GRMN)",
+      "transmission": "6-speed intelligent manual or 8-speed GAZOO Racing Direct Automatic Transmission",
+      "drivetrain_detail": "GR-FOUR AWD",
+      "mpg_city_highway": "21/28 MPG (manual) or 19/27 MPG (DAT), EPA-estimated",
+      "safety": "Toyota Safety Sense 3.0 standard"
+    },
+    "GR Supra": {
+      "engine": "3.0L turbocharged inline-6",
+      "horsepower": 382,
+      "torque_lb_ft": 368,
+      "transmission": "6-speed manual or 8-speed automatic",
+      "drivetrain_detail": "RWD",
+      "zero_to_60": "3.9 sec with automatic transmission",
+      "mpg_city_highway_combined": "22 city / 29 highway / 25 combined MPG (3.0 automatic)"
+    },
+    "GR86": {
+      "engine": "2.4L naturally aspirated horizontally opposed 4-cylinder",
+      "horsepower": 228,
+      "torque_lb_ft": 184,
+      "transmission": "6-speed manual or 6-speed automatic",
+      "drivetrain_detail": "RWD",
+      "zero_to_60": "6.1 sec (manufacturer figure)",
+      "mpg_city_highway": "20 city / 26 highway MPG (configuration dependent)",
+      "safety": "Active safety suite; features vary by transmission and grade"
+    },
+    "Grand Highlander": {
+      "engine": "2.4L turbo gas, 2.5L hybrid, or Hybrid MAX powertrain",
+      "horsepower": "265 hp (gas) / 245 hp (hybrid) / 362 hp (Hybrid MAX)",
+      "torque_lb_ft": "Up to 400 lb-ft (Hybrid MAX)",
+      "cargo_cu_ft_up_to": 97.5,
+      "towing_lbs_up_to": 5000,
+      "seating": "Up to 8",
+      "mpg_combined": "Up to 36 MPG on selected hybrid configurations",
+      "safety": "Toyota Safety Sense 3.0 standard"
+    },
+    "Highlander": {
+      "engine": "2.4L turbocharged 4-cylinder gas or 2.5L hybrid system",
+      "horsepower": "265 hp (gas)",
+      "torque_lb_ft": "310 lb-ft (gas)",
+      "mpg_combined": "Up to 35 combined MPG (hybrid)",
+      "seating": "Up to 8",
+      "technology": "Wireless Apple CarPlay and Android Auto compatibility",
+      "safety": "Toyota Safety Sense 2.5+ standard"
+    },
+    "Land Cruiser": {
+      "engine": "2.4L turbocharged 4-cylinder i-FORCE MAX hybrid",
+      "horsepower": 326,
+      "torque_lb_ft": 465,
+      "drivetrain_detail": "Full-time 4WD",
+      "towing_lbs_up_to": 6000,
+      "safety": "Toyota Safety Sense 3.0 standard"
+    },
+    "Mirai": {
+      "engine": "Hydrogen fuel-cell electric powertrain",
+      "horsepower": 182,
+      "torque_lb_ft": 300,
+      "drivetrain_detail": "RWD",
+      "range_miles_up_to": 402,
+      "mpge_city_highway_combined": "76 city / 71 highway / 74 combined MPGe",
+      "cargo_cu_ft": 9.6,
+      "fueling": "Hydrogen fuel-cell vehicle; regional fueling availability applies",
+      "technology": "12.3-in. touchscreen with JBL Premium Audio",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "fuel_cell_warranty": "8 years/100,000 miles"
+    },
+    "Prius": {
+      "engine": "2.0L 4-cylinder Toyota Hybrid System",
+      "horsepower": "194 net hp (FWD) / 196 net hp (AWD)",
+      "transmission": "Electronically controlled continuously variable transmission",
+      "mpg_combined": "Up to 55 combined MPG (LE FWD); up to 53 combined MPG (LE AWD)",
+      "drivetrain_detail": "FWD or Electronic On-Demand AWD",
+      "safety": "Toyota Safety Sense 3.0 standard"
+    },
+    "Prius Plug-in Hybrid": {
+      "engine": "2.0L 4-cylinder plug-in hybrid system",
+      "horsepower": 220,
+      "transmission": "Electronically controlled continuously variable transmission",
+      "range_miles_up_to": 44,
+      "mpge_combined": 129,
+      "drivetrain_detail": "FWD",
+      "technology": "Available 12.3-in. Toyota Audio Multimedia touchscreen",
+      "safety": "Toyota Safety Sense 3.0 standard"
+    },
+    "RAV4": {
+      "engine": "2.5L 4-cylinder Toyota Hybrid System",
+      "horsepower": 236,
+      "transmission": "Electronically controlled continuously variable transmission",
+      "mpg_city_highway": "Up to 47 city / 40 highway MPG on selected configuration",
+      "cargo_cu_ft_up_to": 37.8,
+      "towing_lbs_up_to": 3500,
+      "drivetrain_detail": "FWD or AWD depending on grade",
+      "technology": "12.3-in. digital gauge cluster; 10.5-in. Toyota Audio Multimedia standard with available 12.9-in. screen",
+      "safety": "Toyota Safety Sense 4.0 standard"
+    },
+    "RAV4 Plug-in Hybrid": {
+      "engine": "2.5L 4-cylinder plug-in hybrid system",
+      "horsepower": 324,
+      "drivetrain_detail": "AWD",
+      "zero_to_60": "5.4 sec",
+      "range_miles_up_to": 54,
+      "charging": "11-kW onboard AC charging; DC fast charging capability available on current generation",
+      "technology": "Toyota Audio Multimedia; equipment varies by grade",
+      "safety": "Toyota Safety Sense 4.0 standard"
+    },
+    "Sequoia": {
+      "engine": "Twin-turbo V6 i-FORCE MAX hybrid",
+      "horsepower": 437,
+      "torque_lb_ft": 583,
+      "transmission": "10-speed electronically controlled automatic",
+      "mpg_combined_up_to": 22,
+      "towing_lbs_up_to": 9500,
+      "technology": "14-in. Toyota Audio Multimedia touchscreen available/standard on upper grades",
+      "safety": "Toyota Safety Sense 2.5 standard"
+    },
+    "Sienna": {
+      "engine": "2.5L 4-cylinder Toyota Hybrid System",
+      "horsepower": 245,
+      "transmission": "Electronically controlled continuously variable transmission",
+      "mpg_combined_up_to": 36,
+      "drivetrain_detail": "FWD or Electronic On-Demand AWD",
+      "towing_lbs_up_to": 3500,
+      "dimensions": "Approx. 203.7–204.1 in. length; 78.5 in. width; 120.5 in. wheelbase",
+      "ground_clearance_in": 6.37,
+      "seating": "7–8",
+      "safety": "Toyota Safety Sense suite standard"
+    },
+    "Tacoma": {
+      "engine": "2.4L turbocharged 4-cylinder i-FORCE; available i-FORCE MAX hybrid",
+      "horsepower": "Up to 278 hp (i-FORCE) / 326 hp (i-FORCE MAX)",
+      "torque_lb_ft": "Up to 317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
+      "transmission": "8-speed automatic; 6-speed manual available on selected i-FORCE grades",
+      "mpg_combined": "Up to 23 combined MPG on selected hybrid configuration",
+      "drivetrain_detail": "2WD or 4WD; full-time 4WD available on selected grades",
+      "technology": "Available 14-in. Toyota Audio Multimedia touchscreen",
+      "safety": "Toyota Safety Sense suite standard"
+    },
+    "Toyota Crown": {
+      "engine": "2.5L hybrid or 2.4L turbo Hybrid MAX",
+      "horsepower": "236 net hp (hybrid) / 340 net hp (Hybrid MAX)",
+      "mpg_combined": "Up to 40 combined MPG (hybrid)",
+      "drivetrain_detail": "AWD standard",
+      "safety": "Toyota Safety Sense 3.0 standard"
+    },
+    "Toyota Crown Signia": {
+      "engine": "2.5L 4-cylinder Toyota Hybrid System",
+      "drivetrain_detail": "AWD standard",
+      "mpg_combined": 38,
+      "cargo_cu_ft_up_to": 68.8,
+      "towing_lbs_up_to": 2700,
+      "technology": "12.3-in. digital gauge cluster and Toyota Audio Multimedia",
+      "safety": "Toyota Safety Sense 3.0 standard"
+    },
+    "Tundra": {
+      "engine": "Twin-turbo V6 i-FORCE; available i-FORCE MAX hybrid",
+      "horsepower": "Up to 389 hp (i-FORCE) / 437 hp (i-FORCE MAX)",
+      "torque_lb_ft": "Up to 479 lb-ft (i-FORCE) / 583 lb-ft (i-FORCE MAX)",
+      "transmission": "10-speed electronically controlled automatic",
+      "towing_lbs_up_to": 12000,
+      "payload_lbs_up_to": 1850,
+      "bed_lengths": "5.5 ft / 6.5 ft / 8.1 ft depending on configuration",
+      "safety": "Toyota Safety Sense suite standard"
+    }
+  }
+}

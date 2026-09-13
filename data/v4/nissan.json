@@ -1,0 +1,137 @@
+{
+  "brand": "Nissan",
+  "market": "United States",
+  "verified_on": "2026-09-13",
+  "source_policy": "Official Nissan USA vehicle, specs and trim pages only",
+  "models": {
+    "Kicks": {
+      "year": "2027",
+      "source": "https://www.nissanusa.com/vehicles/crossovers-suvs/kicks/specs-trims.html",
+      "horsepower": 141,
+      "trims": [
+        {"name":"S FWD","msrp":22790,"default_drive":"FWD"},
+        {"name":"SV FWD","msrp":24490,"default_drive":"FWD"},
+        {"name":"Rock Creek AWD","msrp":28840,"default_drive":"AWD"},
+        {"name":"SR AWD","msrp":29395,"default_drive":"AWD"}
+      ]
+    },
+    "Rogue": {
+      "year": "2026.5",
+      "source": "https://www.nissanusa.com/vehicles/crossovers-suvs/rogue/specs-trims.html",
+      "horsepower": 201,
+      "trims": [
+        {"name":"S","msrp":29490,"default_drive":"FWD"},
+        {"name":"SV","msrp":30490,"default_drive":"FWD"},
+        {"name":"Dark Armor","msrp":33340,"default_drive":"FWD"},
+        {"name":"Rock Creek","msrp":34390,"default_drive":"AWD"},
+        {"name":"Platinum","msrp":39390,"default_drive":"FWD"}
+      ],
+      "pricing_note": "Named-trim starting MSRPs use the lowest manufacturer-published drivetrain configuration surfaced for each trim; AWD can cost more where optional."
+    },
+    "LEAF": {
+      "year": "2026",
+      "source": "https://www.nissanusa.com/vehicles/electric-cars/leaf/specs-trims.html",
+      "trims": [
+        {"name":"S+ FWD","msrp":29990,"default_drive":"FWD"},
+        {"name":"SV+ FWD","msrp":34230,"default_drive":"FWD"},
+        {"name":"Platinum+ FWD","msrp":38990,"default_drive":"FWD"}
+      ]
+    },
+    "Pathfinder": {
+      "year": "2026",
+      "source": "https://www.nissanusa.com/vehicles/crossovers-suvs/pathfinder/specs-trims.html",
+      "trims": [
+        {"name":"SV","msrp":39990,"default_drive":"FWD"},
+        {"name":"Rock Creek","msrp":45090,"default_drive":"4WD"},
+        {"name":"SL","msrp":42590,"default_drive":"FWD"},
+        {"name":"Platinum","msrp":49790,"default_drive":"FWD"}
+      ],
+      "pricing_note": "Rock Creek is shown with standard 4WD; other named-trim MSRP rows use the lower published FWD starting price where offered."
+    },
+    "Murano": {
+      "year": "2027",
+      "source": "https://www.nissanusa.com/vehicles/crossovers-suvs/murano/specs-trims.html",
+      "horsepower": 241,
+      "trims": [
+        {"name":"SL AWD","msrp":43990,"default_drive":"AWD"},
+        {"name":"Dark Armor AWD","msrp":46990,"default_drive":"AWD"},
+        {"name":"Platinum AWD","msrp":49790,"default_drive":"AWD"}
+      ]
+    },
+    "Rogue Plug-in Hybrid": {
+      "year": "2026",
+      "source": "https://www.nissanusa.com/vehicles/crossovers-suvs/rogue-plug-in-hybrid/specs-trims.html",
+      "epa_range_miles": 38,
+      "trims": [
+        {"name":"SL AWD","msrp":45990,"default_drive":"AWD"},
+        {"name":"Platinum AWD","msrp":49990,"default_drive":"AWD"}
+      ]
+    },
+    "Armada": {
+      "year": "2026",
+      "source": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
+      "towing_lbs_up_to": 8500,
+      "trims": [
+        {"name":"SV","msrp":58840},
+        {"name":"SL","msrp":63530},
+        {"name":"Platinum","msrp":70490},
+        {"name":"PRO-4X","msrp":74300,"default_drive":"4WD"},
+        {"name":"NISMO","msrp":79530,"default_drive":"4WD"},
+        {"name":"Platinum Reserve","msrp":80550,"default_drive":"4WD"}
+      ]
+    },
+    "Versa": {
+      "year": "2025",
+      "source": "https://www.nissanusa.com/vehicles/cars/versa-sedan/specs-trims.html",
+      "status": "Current Nissan USA listed model year during verification",
+      "trims": [
+        {"name":"S 5-speed Manual FWD","msrp":17390,"default_drive":"FWD"},
+        {"name":"S CVT FWD","msrp":19190,"default_drive":"FWD"},
+        {"name":"SV FWD","msrp":20690,"default_drive":"FWD"},
+        {"name":"SR FWD","msrp":21390,"default_drive":"FWD"}
+      ]
+    },
+    "Sentra": {
+      "year": "2027",
+      "source": "https://www.nissanusa.com/vehicles/cars/sentra/specs-trims.html",
+      "horsepower": 149,
+      "trims": [
+        {"name":"S FWD","msrp":22890,"default_drive":"FWD"},
+        {"name":"SV FWD","msrp":23590,"default_drive":"FWD"},
+        {"name":"SR Midnight Edition FWD","msrp":25640,"default_drive":"FWD"},
+        {"name":"SL FWD","msrp":27990,"default_drive":"FWD"}
+      ]
+    },
+    "Altima": {
+      "year": "2026",
+      "source": "https://www.nissanusa.com/vehicles/cars/altima/specs-trims.html",
+      "trims": [
+        {"name":"SV FWD","msrp":27580,"default_drive":"FWD"},
+        {"name":"SV Special Edition FWD","msrp":28880,"default_drive":"FWD"},
+        {"name":"SR FWD","msrp":28980,"default_drive":"FWD"},
+        {"name":"SR Midnight Edition FWD","msrp":30980,"default_drive":"FWD"}
+      ]
+    },
+    "Frontier": {
+      "year": "2026",
+      "source": "https://www.nissanusa.com/vehicles/trucks/frontier/specs-trims.html",
+      "trims": [
+        {"name":"S 4x2","msrp":33550,"default_cab":"Crew Cab","default_drive":"4x2"},
+        {"name":"SV 4x2","msrp":36190,"default_cab":"Crew Cab","default_drive":"4x2"},
+        {"name":"PRO-X 4x2","msrp":38570,"default_cab":"Crew Cab","default_drive":"4x2"},
+        {"name":"PRO-4X 4x4 Long Bed","msrp":42370,"default_cab":"Crew Cab","default_drive":"4x4"}
+      ],
+      "pricing_note": "Nissan's current official Specs & Trims comparison surfaced these Crew Cab configurations. Cab/bed combinations can change MSRP, so only directly verified configurations are shown as exact prices."
+    },
+    "Nissan Z": {
+      "year": "2027",
+      "source": "https://www.nissanusa.com/vehicles/sports-cars/nissan-z/specs-trims.html",
+      "trims": [
+        {"name":"Sport RWD","msrp":44480,"default_drive":"RWD"},
+        {"name":"Performance RWD","msrp":54480,"default_drive":"RWD"},
+        {"name":"NISMO RWD","msrp":67260,"default_drive":"RWD"}
+      ],
+      "pricing_note": "Performance manual/automatic transmission choices can share the same published starting MSRP; table is kept to named grade level."
+    }
+  }
+}

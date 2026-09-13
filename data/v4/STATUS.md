@@ -36,7 +36,7 @@ Updated: 2026-09-13
 - Uses verified V4 trim MSRP as the displayed starting price.
 - Appends current sidecar-only models that are absent from the older base database.
 - Hides base models explicitly marked discontinued/not currently sold in the V4 sidecar.
-- Exposes `window.DriveSpecLabDB` and dispatches `DriveSpecLabDBReady`.
+- Exposes `window.DriveSpecLabDB` and dispatches `DriveSpecLabDBReady` on brand pages.
 
 ## Database phase
 - Brand sidecars: COMPLETE (25/25)
@@ -44,7 +44,14 @@ Updated: 2026-09-13
 - Unpublished manufacturer prices: intentionally left null / Price Coming Soon
 - No guessed trim MSRP values should be introduced during theme integration.
 
-## Remaining before FINAL READY
-Integrate the V4 loader into the latest Blogger XML, migrate homepage Find Your Car/selectors to the external database runtime, remove obsolete embedded duplicate database code, validate XML and inline JavaScript, then live-test brand and `#usmodel=` routes after upload.
+## Blogger theme integration
+- V4 loader reference integrated into the final external-database Blogger XML artifact.
+- Old `drivespeclab-db.js` loader reference removed.
+- Old embedded `var DB=` database absent.
+- Five-part external compact DB bridge retained for homepage Finder compatibility.
+- Strict XML parse: PASS.
+- Custom inline JavaScript syntax checks: PASS (Blogger-generated dynamic script excluded from static Node check).
+- All 25 brand names/shells present in the final XML source.
 
-Do not label the Blogger theme FINAL READY until loader integration, XML validation, and live route tests pass.
+## Remaining before FINAL READY on the live site
+Upload the validated V4 Blogger XML, then live-test the homepage Finder plus representative brand and `#usmodel=` routes (Toyota/RAV4, Honda/CR-V, Ford/F-150, Tesla/Model Y, Land Rover and no-U.S.-lineup brand cases). The theme should only be called fully live/FINAL after those route tests pass.

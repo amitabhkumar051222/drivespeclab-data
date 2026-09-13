@@ -10,6 +10,7 @@ Updated: 2026-09-13
 - Honda — `data/v4/honda.json`
 - Hyundai — `data/v4/hyundai.json` (base U.S. model families covered with current official trim pricing; latest 2027 Santa Fe/Palisade used; current-listed 2025 KONA Electric added as a sidecar-only model)
 - Jeep — `data/v4/jeep.json` (2026 Cherokee Turbo Hybrid added after re-verification)
+- Kia — `data/v4/kia.json` (current Telluride, EV6, Carnival, Sorento, EV9, Niro/Niro EV, EV3, Sportage, K5, K4/K4 Hatchback and Seltos pricing covered; unpublished EV9 GT MSRP is not estimated)
 - Land Rover — `data/v4/land-rover.json` (Range Rover, Defender, Discovery and Discovery Sport covered)
 - Lexus — `data/v4/lexus.json` (current ES/IS/LC/LS/UX/NX/RX/RZ/TX/GX/LX covered; RC retained as discontinued reference)
 - Mahindra — `data/v4/mahindra.json` (U.S. market-status case)
@@ -31,7 +32,7 @@ Updated: 2026-09-13
 - Exposes `window.DriveSpecLabDB` and dispatches `DriveSpecLabDBReady`.
 
 ## Still pending before FINAL READY
-Toyota, Chevrolet, Kia, Tesla, BMW, Mercedes-Benz, Audi and Porsche, plus the final Ford Super Duty F-450 Platinum price check.
+Toyota, Chevrolet, Tesla, BMW, Mercedes-Benz, Audi and Porsche, plus the final Ford Super Duty F-450 Platinum price check.
 
 After all brand sidecars are complete: integrate the V4 loader into the latest Blogger XML, migrate homepage Find Your Car/selectors to `window.DriveSpecLabDB`, remove obsolete embedded duplicate database code, validate XML and inline JavaScript, then live-test brand and `#usmodel=` routes.
 

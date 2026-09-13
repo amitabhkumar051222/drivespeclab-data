@@ -1,0 +1,18 @@
+{
+  "brand": "Volkswagen",
+  "market": "United States",
+  "verified_on": "2026-09-13",
+  "source_policy": "Official Volkswagen of America model and builder pages only",
+  "models": {
+    "Atlas": {"year":"2026","source":"https://www.vw.com/en/builder.html/__app/atlas.app","trims":[{"name":"SE","msrp":39310},{"name":"SE with Technology","msrp":43730},{"name":"Peak Edition","msrp":48060},{"name":"SEL","msrp":49620},{"name":"SEL Premium R-Line","msrp":54630}]},
+    "Atlas Cross Sport": {"year":"2026","source":"https://www.vw.com/en/builder.html/__app/atlas-cross-sport.app","trims":[{"name":"SE","msrp":38300},{"name":"SE with Technology","msrp":42720},{"name":"SEL","msrp":48610},{"name":"SEL R-Line Black","msrp":50560},{"name":"SEL Premium R-Line","msrp":53620}]},
+    "Tiguan": {"year":"2026","source":"https://www.vw.com/en/builder.html/__app/tiguan.app","trims":[{"name":"S","msrp":30805},{"name":"SE","msrp":33605},{"name":"SE R-Line Black","msrp":37245},{"name":"SEL R-Line Turbo","msrp":43085}]},
+    "Taos": {"year":"2027","source":"https://www.vw.com/en/builder.html/__app/taos.app","trims":[{"name":"S","msrp":26500},{"name":"Sport","msrp":27400},{"name":"SE","msrp":29290},{"name":"SE Black","msrp":31540},{"name":"SEL","msrp":35900}]},
+    "ID.4": {"year":"2026","source":"https://www.vw.com/en/builder.html/__app/id-4.app","epa_range_miles_up_to":291,"trims":[{"name":"Pro","msrp":45095,"powertrain":"Electric"},{"name":"AWD Pro","msrp":48995,"powertrain":"Electric","default_drive":"AWD"},{"name":"Pro S","msrp":50195,"powertrain":"Electric"},{"name":"AWD Pro S","msrp":54095,"powertrain":"Electric","default_drive":"AWD"},{"name":"AWD Pro S Plus","msrp":57655,"powertrain":"Electric","default_drive":"AWD"}]},
+    "Jetta": {"year":"2027","source":"https://www.vw.com/en/builder.html/__app/jetta.app","horsepower":158,"trims":[{"name":"S","msrp":23995},{"name":"Sport","msrp":25395},{"name":"SE","msrp":26995},{"name":"SEL","msrp":29995}]},
+    "Jetta GLI": {"year":"2027","source":"https://www.vw.com/en/builder.html/__app/jetta-gli.app","horsepower":228,"trims":[{"name":"Autobahn","msrp":33795}]},
+    "Golf R": {"year":"2026","source":"https://www.vw.com/en/builder.html/__app/golf-r.app","horsepower":328,"trims":[{"name":"Golf R","msrp":49455,"default_drive":"AWD"}]},
+    "Golf GTI": {"year":"2026","source":"https://www.vw.com/en/builder.html/__app/golf-gti.app","horsepower":241,"trims":[{"name":"S","msrp":34590},{"name":"SE","msrp":39080},{"name":"Autobahn","msrp":42480}]},
+    "ID. Buzz": {"year":"2025","source":"https://www.vw.com/en/builder.html/__app/id-buzz.app","trims":[{"name":"Pro S","msrp":59995,"powertrain":"Electric"},{"name":"Pro S Plus","msrp":63495,"powertrain":"Electric"},{"name":"Pro S Plus with 4MOTION","msrp":67995,"powertrain":"Electric","default_drive":"AWD"},{"name":"1st Edition","msrp":65495,"powertrain":"Electric"},{"name":"1st Edition with 4MOTION","msrp":69995,"powertrain":"Electric","default_drive":"AWD"}]}
+  }
+}

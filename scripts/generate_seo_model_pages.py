@@ -321,7 +321,6 @@ def verified_rows(side: dict | None) -> list[tuple[str, str]]:
         val = display_value(v)
         if not val:
             continue
-        # Avoid duplicating very long prose/status-like fields in the spec table.
         if len(val) > 500:
             continue
         rows.append((pretty_label(k), val))
@@ -378,13 +377,11 @@ def vehicle_schema(brand: str, m: dict, s: dict | None, year: str, start_price: 
         "@context": "https://schema.org",
         "@type": "Vehicle",
         "name": f"{year} {brand} {m['name']}",
-        "url": SITE + predicted,
         "brand": {"@type":"Brand", "name": brand},
         "model": m["name"],
         "vehicleModelDate": year,
         "bodyType": m.get("body") or None,
         "fuelType": m.get("power") or None,
-        "vehicleSeatingCapacity": m.get("seats") or None,
         "sameAs": source or None,
         "dateModified": GEN_DATE,
     }
@@ -395,7 +392,7 @@ def vehicle_schema(brand: str, m: dict, s: dict | None, year: str, start_price: 
             "priceCurrency":"USD",
             "price": round(float(lp), 2),
             "availability":"https://schema.org/InStock",
-            "url": source or SITE + predicted,
+            "url": source or None,
         }
     return {k:v for k,v in obj.items() if v not in (None, "")}
 
@@ -407,7 +404,7 @@ def breadcrumb_schema(brand: str, title: str, predicted: str) -> dict:
         "itemListElement":[
             {"@type":"ListItem","position":1,"name":"Home","item":SITE+"/"},
             {"@type":"ListItem","position":2,"name":brand,"item":SITE+"/search/label/"+quote(brand.replace(" ","-"))},
-            {"@type":"ListItem","position":3,"name":title,"item":SITE+predicted},
+            {"@type":"ListItem","position":3,"name":title},
         ],
     }
 
@@ -453,8 +450,8 @@ def post_html(brand: str, brand_obj: dict, m: dict, s: dict | None, siblings: li
     v_schema = vehicle_schema(brand, m, s, year, start_price, predicted, source)
     b_schema = breadcrumb_schema(brand, title, predicted)
     schema_html = (
-        "<script type=\"application/ld+json\">" + html.escape(json.dumps(v_schema, ensure_ascii=False, separators=(",",":"))) + "</script>"
-        "<script type=\"application/ld+json\">" + html.escape(json.dumps(b_schema, ensure_ascii=False, separators=(",",":"))) + "</script>"
+        "<script type=\"application/ld+json\">" + json.dumps(v_schema, ensure_ascii=False, separators=(",",":")) + "</script>"
+        "<script type=\"application/ld+json\">" + json.dumps(b_schema, ensure_ascii=False, separators=(",",":")) + "</script>"
     )
 
     content = f"""
@@ -552,7 +549,6 @@ def main() -> None:
     global_idx = 0
     per_brand_counts = {}
 
-    # Include sidecar-only brands if ever added later.
     brand_names = list(brands.keys())
     for b in sidecars:
         if b not in brand_names:

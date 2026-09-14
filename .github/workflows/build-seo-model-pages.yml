@@ -1,0 +1,65 @@
+name: Build SEO model pages
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/generate_seo_model_pages.py'
+      - 'data/db/**'
+      - 'data/v4/**'
+      - '.github/workflows/build-seo-model-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate Blogger model-page pack
+        run: python scripts/generate_seo_model_pages.py
+
+      - name: Validate generated Atom XML
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+          files=[Path('dist/blogger-model-pages-all.atom.xml'), *Path('dist/blogger-import-by-brand').glob('*.atom.xml')]
+          for p in files:
+              ET.parse(p)
+          print(f'Validated {len(files)} Atom XML files')
+          PY
+
+      - name: Commit generated manifests and import pack
+        run: |
+          git config user.name 'DriveSpecLab Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add dist data/seo/model-routes-predicted.json
+          if git diff --cached --quiet; then
+            echo 'No generated changes to commit.'
+          else
+            git commit -m 'Build SEO model page import pack'
+            git push
+          fi
+
+      - name: Upload SEO import artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: drivespeclab-seo-model-pages
+          path: |
+            dist/blogger-model-pages-all.atom.xml
+            dist/blogger-import-by-brand/
+            dist/model-pages-manifest.csv
+            dist/SEO_MODEL_PAGES_README.txt
+            data/seo/model-routes-predicted.json
+          if-no-files-found: error
+          retention-days: 30

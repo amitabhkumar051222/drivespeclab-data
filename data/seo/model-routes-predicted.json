@@ -1,0 +1,2239 @@
+{
+  "generated": "2026-09-14",
+  "note": "Predicted Blogger paths only. Crawl the live site after import before switching production links.",
+  "count": 279,
+  "routes": {
+    "Toyota|4Runner": {
+      "brand": "Toyota",
+      "model": "4Runner",
+      "year": "2026",
+      "title": "2026 Toyota 4Runner Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-4runner-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|bZ": {
+      "brand": "Toyota",
+      "model": "bZ",
+      "year": "2027",
+      "title": "2027 Toyota bZ Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-toyota-bz-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|bZ Woodland": {
+      "brand": "Toyota",
+      "model": "bZ Woodland",
+      "year": "2027",
+      "title": "2027 Toyota bZ Woodland Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-toyota-bz-woodland-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|C-HR": {
+      "brand": "Toyota",
+      "model": "C-HR",
+      "year": "2027",
+      "title": "2027 Toyota C-HR Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-toyota-c-hr-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Camry": {
+      "brand": "Toyota",
+      "model": "Camry",
+      "year": "2026",
+      "title": "2026 Toyota Camry Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-camry-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Corolla": {
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": "2027",
+      "title": "2027 Toyota Corolla Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-toyota-corolla-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Corolla Cross": {
+      "brand": "Toyota",
+      "model": "Corolla Cross",
+      "year": "2026",
+      "title": "2026 Toyota Corolla Cross Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-corolla-cross-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Corolla Hatchback": {
+      "brand": "Toyota",
+      "model": "Corolla Hatchback",
+      "year": "2027",
+      "title": "2027 Toyota Corolla Hatchback Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-toyota-corolla-hatchback-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|GR Corolla": {
+      "brand": "Toyota",
+      "model": "GR Corolla",
+      "year": "2026",
+      "title": "2026 Toyota GR Corolla Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-gr-corolla-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|GR Supra": {
+      "brand": "Toyota",
+      "model": "GR Supra",
+      "year": "2026",
+      "title": "2026 Toyota GR Supra Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-gr-supra-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|GR86": {
+      "brand": "Toyota",
+      "model": "GR86",
+      "year": "2027",
+      "title": "2027 Toyota GR86 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-toyota-gr86-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Grand Highlander": {
+      "brand": "Toyota",
+      "model": "Grand Highlander",
+      "year": "2026",
+      "title": "2026 Toyota Grand Highlander Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-grand-highlander-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Highlander": {
+      "brand": "Toyota",
+      "model": "Highlander",
+      "year": "2026",
+      "title": "2026 Toyota Highlander Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-highlander-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Land Cruiser": {
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "year": "2027",
+      "title": "2027 Toyota Land Cruiser Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-toyota-land-cruiser-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Mirai": {
+      "brand": "Toyota",
+      "model": "Mirai",
+      "year": "2026",
+      "title": "2026 Toyota Mirai Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-mirai-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Prius": {
+      "brand": "Toyota",
+      "model": "Prius",
+      "year": "2027",
+      "title": "2027 Toyota Prius Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-toyota-prius-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Prius Plug-in Hybrid": {
+      "brand": "Toyota",
+      "model": "Prius Plug-in Hybrid",
+      "year": "2027",
+      "title": "2027 Toyota Prius Plug-in Hybrid Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-toyota-prius-plug-in-hybrid-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|RAV4": {
+      "brand": "Toyota",
+      "model": "RAV4",
+      "year": "2026",
+      "title": "2026 Toyota RAV4 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-rav4-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|RAV4 Plug-in Hybrid": {
+      "brand": "Toyota",
+      "model": "RAV4 Plug-in Hybrid",
+      "year": "2026",
+      "title": "2026 Toyota RAV4 Plug-in Hybrid Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-rav4-plug-in-hybrid-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Sequoia": {
+      "brand": "Toyota",
+      "model": "Sequoia",
+      "year": "2026",
+      "title": "2026 Toyota Sequoia Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-sequoia-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Sienna": {
+      "brand": "Toyota",
+      "model": "Sienna",
+      "year": "2026",
+      "title": "2026 Toyota Sienna Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-sienna-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Tacoma": {
+      "brand": "Toyota",
+      "model": "Tacoma",
+      "year": "2026",
+      "title": "2026 Toyota Tacoma Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-tacoma-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Toyota Crown": {
+      "brand": "Toyota",
+      "model": "Toyota Crown",
+      "year": "2027",
+      "title": "2027 Toyota Toyota Crown Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-toyota-toyota-crown-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Toyota Crown Signia": {
+      "brand": "Toyota",
+      "model": "Toyota Crown Signia",
+      "year": "2026",
+      "title": "2026 Toyota Toyota Crown Signia Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-toyota-crown-signia-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Toyota|Tundra": {
+      "brand": "Toyota",
+      "model": "Tundra",
+      "year": "2026",
+      "title": "2026 Toyota Tundra Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-toyota-tundra-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volkswagen|Atlas": {
+      "brand": "Volkswagen",
+      "model": "Atlas",
+      "year": "2026",
+      "title": "2026 Volkswagen Atlas Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-volkswagen-atlas-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volkswagen|Atlas Cross Sport": {
+      "brand": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "year": "2026",
+      "title": "2026 Volkswagen Atlas Cross Sport Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-volkswagen-atlas-cross-sport-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volkswagen|Tiguan": {
+      "brand": "Volkswagen",
+      "model": "Tiguan",
+      "year": "2026",
+      "title": "2026 Volkswagen Tiguan Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-volkswagen-tiguan-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volkswagen|Taos": {
+      "brand": "Volkswagen",
+      "model": "Taos",
+      "year": "2027",
+      "title": "2027 Volkswagen Taos Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-volkswagen-taos-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volkswagen|ID.4": {
+      "brand": "Volkswagen",
+      "model": "ID.4",
+      "year": "2026",
+      "title": "2026 Volkswagen ID.4 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-volkswagen-id-4-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volkswagen|Jetta": {
+      "brand": "Volkswagen",
+      "model": "Jetta",
+      "year": "2027",
+      "title": "2027 Volkswagen Jetta Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-volkswagen-jetta-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volkswagen|Jetta GLI": {
+      "brand": "Volkswagen",
+      "model": "Jetta GLI",
+      "year": "2027",
+      "title": "2027 Volkswagen Jetta GLI Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-volkswagen-jetta-gli-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volkswagen|Golf R": {
+      "brand": "Volkswagen",
+      "model": "Golf R",
+      "year": "2026",
+      "title": "2026 Volkswagen Golf R Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-volkswagen-golf-r-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volkswagen|Golf GTI": {
+      "brand": "Volkswagen",
+      "model": "Golf GTI",
+      "year": "2026",
+      "title": "2026 Volkswagen Golf GTI Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-volkswagen-golf-gti-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volkswagen|ID. Buzz": {
+      "brand": "Volkswagen",
+      "model": "ID. Buzz",
+      "year": "2025",
+      "title": "2025 Volkswagen ID. Buzz Specs, Price & Trims",
+      "predicted_path": "/2026/08/2025-volkswagen-id-buzz-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ford|Escape": {
+      "brand": "Ford",
+      "model": "Escape",
+      "year": "2026",
+      "title": "2026 Ford Escape Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ford-escape-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ford|Bronco Sport": {
+      "brand": "Ford",
+      "model": "Bronco Sport",
+      "year": "2026",
+      "title": "2026 Ford Bronco Sport Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ford-bronco-sport-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ford|Mustang Mach-E": {
+      "brand": "Ford",
+      "model": "Mustang Mach-E",
+      "year": "2026",
+      "title": "2026 Ford Mustang Mach-E Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ford-mustang-mach-e-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ford|Explorer": {
+      "brand": "Ford",
+      "model": "Explorer",
+      "year": "2027",
+      "title": "2027 Ford Explorer Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-ford-explorer-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ford|Bronco": {
+      "brand": "Ford",
+      "model": "Bronco",
+      "year": "2026",
+      "title": "2026 Ford Bronco Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ford-bronco-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ford|Expedition": {
+      "brand": "Ford",
+      "model": "Expedition",
+      "year": "2027",
+      "title": "2027 Ford Expedition Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-ford-expedition-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ford|Maverick": {
+      "brand": "Ford",
+      "model": "Maverick",
+      "year": "2026",
+      "title": "2026 Ford Maverick Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ford-maverick-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ford|Ranger": {
+      "brand": "Ford",
+      "model": "Ranger",
+      "year": "2026",
+      "title": "2026 Ford Ranger Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ford-ranger-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ford|F-150": {
+      "brand": "Ford",
+      "model": "F-150",
+      "year": "2026",
+      "title": "2026 Ford F-150 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ford-f-150-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ford|Super Duty": {
+      "brand": "Ford",
+      "model": "Super Duty",
+      "year": "2027",
+      "title": "2027 Ford Super Duty Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-ford-super-duty-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ford|Transit": {
+      "brand": "Ford",
+      "model": "Transit",
+      "year": "2027",
+      "title": "2027 Ford Transit Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-ford-transit-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ford|Mustang": {
+      "brand": "Ford",
+      "model": "Mustang",
+      "year": "2026",
+      "title": "2026 Ford Mustang Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ford-mustang-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|HR-V": {
+      "brand": "Honda",
+      "model": "HR-V",
+      "year": "2027",
+      "title": "2027 Honda HR-V Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-honda-hr-v-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|CR-V": {
+      "brand": "Honda",
+      "model": "CR-V",
+      "year": "2027",
+      "title": "2027 Honda CR-V Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-honda-cr-v-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|Prologue": {
+      "brand": "Honda",
+      "model": "Prologue",
+      "year": "2026",
+      "title": "2026 Honda Prologue Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-honda-prologue-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|Pilot": {
+      "brand": "Honda",
+      "model": "Pilot",
+      "year": "2026",
+      "title": "2026 Honda Pilot Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-honda-pilot-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|Passport": {
+      "brand": "Honda",
+      "model": "Passport",
+      "year": "2026",
+      "title": "2026 Honda Passport Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-honda-passport-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|CR-V e:FCEV": {
+      "brand": "Honda",
+      "model": "CR-V e:FCEV",
+      "year": "2026",
+      "title": "2026 Honda CR-V e:FCEV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-honda-cr-v-e-fcev-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|Civic Sedan": {
+      "brand": "Honda",
+      "model": "Civic Sedan",
+      "year": "2026",
+      "title": "2026 Honda Civic Sedan Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-honda-civic-sedan-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|Civic Hatchback": {
+      "brand": "Honda",
+      "model": "Civic Hatchback",
+      "year": "2026",
+      "title": "2026 Honda Civic Hatchback Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-honda-civic-hatchback-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|Civic Si": {
+      "brand": "Honda",
+      "model": "Civic Si",
+      "year": "2026",
+      "title": "2026 Honda Civic Si Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-honda-civic-si-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|Civic Type R": {
+      "brand": "Honda",
+      "model": "Civic Type R",
+      "year": "2026",
+      "title": "2026 Honda Civic Type R Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-honda-civic-type-r-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|Accord": {
+      "brand": "Honda",
+      "model": "Accord",
+      "year": "2026",
+      "title": "2026 Honda Accord Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-honda-accord-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|Prelude": {
+      "brand": "Honda",
+      "model": "Prelude",
+      "year": "2027",
+      "title": "2027 Honda Prelude Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-honda-prelude-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|Ridgeline": {
+      "brand": "Honda",
+      "model": "Ridgeline",
+      "year": "2026",
+      "title": "2026 Honda Ridgeline Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-honda-ridgeline-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Honda|Odyssey": {
+      "brand": "Honda",
+      "model": "Odyssey",
+      "year": "2027",
+      "title": "2027 Honda Odyssey Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-honda-odyssey-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Trax": {
+      "brand": "Chevrolet",
+      "model": "Trax",
+      "year": "2026",
+      "title": "2026 Chevrolet Trax Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-chevrolet-trax-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Trailblazer": {
+      "brand": "Chevrolet",
+      "model": "Trailblazer",
+      "year": "2026",
+      "title": "2026 Chevrolet Trailblazer Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-chevrolet-trailblazer-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Equinox": {
+      "brand": "Chevrolet",
+      "model": "Equinox",
+      "year": "2027",
+      "title": "2027 Chevrolet Equinox Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-chevrolet-equinox-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Blazer": {
+      "brand": "Chevrolet",
+      "model": "Blazer",
+      "year": "2026",
+      "title": "2026 Chevrolet Blazer Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-chevrolet-blazer-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Traverse": {
+      "brand": "Chevrolet",
+      "model": "Traverse",
+      "year": "2027",
+      "title": "2027 Chevrolet Traverse Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-chevrolet-traverse-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Tahoe": {
+      "brand": "Chevrolet",
+      "model": "Tahoe",
+      "year": "2026",
+      "title": "2026 Chevrolet Tahoe Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-chevrolet-tahoe-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Suburban": {
+      "brand": "Chevrolet",
+      "model": "Suburban",
+      "year": "2026",
+      "title": "2026 Chevrolet Suburban Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-chevrolet-suburban-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Colorado": {
+      "brand": "Chevrolet",
+      "model": "Colorado",
+      "year": "2026",
+      "title": "2026 Chevrolet Colorado Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-chevrolet-colorado-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Silverado 1500": {
+      "brand": "Chevrolet",
+      "model": "Silverado 1500",
+      "year": "2026",
+      "title": "2026 Chevrolet Silverado 1500 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-chevrolet-silverado-1500-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Silverado HD": {
+      "brand": "Chevrolet",
+      "model": "Silverado HD",
+      "year": "2026",
+      "title": "2026 Chevrolet Silverado HD Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-chevrolet-silverado-hd-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Silverado EV": {
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "year": "2026",
+      "title": "2026 Chevrolet Silverado EV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-chevrolet-silverado-ev-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Equinox EV": {
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "year": "2027",
+      "title": "2027 Chevrolet Equinox EV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-chevrolet-equinox-ev-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Blazer EV": {
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "year": "2027",
+      "title": "2027 Chevrolet Blazer EV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-chevrolet-blazer-ev-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Corvette": {
+      "brand": "Chevrolet",
+      "model": "Corvette",
+      "year": "2027",
+      "title": "2027 Chevrolet Corvette Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-chevrolet-corvette-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Chevrolet|Bolt": {
+      "brand": "Chevrolet",
+      "model": "Bolt",
+      "year": "2027",
+      "title": "2027 Chevrolet Bolt Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-chevrolet-bolt-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Nissan|Kicks": {
+      "brand": "Nissan",
+      "model": "Kicks",
+      "year": "2027",
+      "title": "2027 Nissan Kicks Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-nissan-kicks-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Nissan|Rogue": {
+      "brand": "Nissan",
+      "model": "Rogue",
+      "year": "2026",
+      "title": "2026 Nissan Rogue Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-nissan-rogue-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Nissan|LEAF": {
+      "brand": "Nissan",
+      "model": "LEAF",
+      "year": "2026",
+      "title": "2026 Nissan LEAF Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-nissan-leaf-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Nissan|Pathfinder": {
+      "brand": "Nissan",
+      "model": "Pathfinder",
+      "year": "2026",
+      "title": "2026 Nissan Pathfinder Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-nissan-pathfinder-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Nissan|Murano": {
+      "brand": "Nissan",
+      "model": "Murano",
+      "year": "2027",
+      "title": "2027 Nissan Murano Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-nissan-murano-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Nissan|Rogue Plug-in Hybrid": {
+      "brand": "Nissan",
+      "model": "Rogue Plug-in Hybrid",
+      "year": "2026",
+      "title": "2026 Nissan Rogue Plug-in Hybrid Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-nissan-rogue-plug-in-hybrid-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Nissan|Armada": {
+      "brand": "Nissan",
+      "model": "Armada",
+      "year": "2026",
+      "title": "2026 Nissan Armada Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-nissan-armada-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Nissan|Versa": {
+      "brand": "Nissan",
+      "model": "Versa",
+      "year": "2025",
+      "title": "2025 Nissan Versa Specs, Price & Trims",
+      "predicted_path": "/2026/08/2025-nissan-versa-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Nissan|Sentra": {
+      "brand": "Nissan",
+      "model": "Sentra",
+      "year": "2027",
+      "title": "2027 Nissan Sentra Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-nissan-sentra-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Nissan|Altima": {
+      "brand": "Nissan",
+      "model": "Altima",
+      "year": "2026",
+      "title": "2026 Nissan Altima Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-nissan-altima-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Nissan|Frontier": {
+      "brand": "Nissan",
+      "model": "Frontier",
+      "year": "2026",
+      "title": "2026 Nissan Frontier Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-nissan-frontier-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Nissan|Nissan Z": {
+      "brand": "Nissan",
+      "model": "Nissan Z",
+      "year": "2027",
+      "title": "2027 Nissan Nissan Z Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-nissan-nissan-z-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Hyundai|Venue": {
+      "brand": "Hyundai",
+      "model": "Venue",
+      "year": "2026",
+      "title": "2026 Hyundai Venue Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-hyundai-venue-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Hyundai|Kona": {
+      "brand": "Hyundai",
+      "model": "Kona",
+      "year": "2026",
+      "title": "2026 Hyundai Kona Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-hyundai-kona-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Hyundai|Tucson": {
+      "brand": "Hyundai",
+      "model": "Tucson",
+      "year": "2026",
+      "title": "2026 Hyundai Tucson Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-hyundai-tucson-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Hyundai|Santa Fe": {
+      "brand": "Hyundai",
+      "model": "Santa Fe",
+      "year": "2027",
+      "title": "2027 Hyundai Santa Fe Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-hyundai-santa-fe-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Hyundai|Palisade": {
+      "brand": "Hyundai",
+      "model": "Palisade",
+      "year": "2027",
+      "title": "2027 Hyundai Palisade Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-hyundai-palisade-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Hyundai|Santa Cruz": {
+      "brand": "Hyundai",
+      "model": "Santa Cruz",
+      "year": "2026",
+      "title": "2026 Hyundai Santa Cruz Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-hyundai-santa-cruz-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Hyundai|Elantra": {
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "year": "2026",
+      "title": "2026 Hyundai Elantra Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-hyundai-elantra-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Hyundai|Sonata": {
+      "brand": "Hyundai",
+      "model": "Sonata",
+      "year": "2026",
+      "title": "2026 Hyundai Sonata Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-hyundai-sonata-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Hyundai|IONIQ 5": {
+      "brand": "Hyundai",
+      "model": "IONIQ 5",
+      "year": "2026",
+      "title": "2026 Hyundai IONIQ 5 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-hyundai-ioniq-5-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Hyundai|IONIQ 5 N": {
+      "brand": "Hyundai",
+      "model": "IONIQ 5 N",
+      "year": "2026",
+      "title": "2026 Hyundai IONIQ 5 N Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-hyundai-ioniq-5-n-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Hyundai|IONIQ 6": {
+      "brand": "Hyundai",
+      "model": "IONIQ 6",
+      "year": "2025",
+      "title": "2025 Hyundai IONIQ 6 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2025-hyundai-ioniq-6-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Hyundai|IONIQ 9": {
+      "brand": "Hyundai",
+      "model": "IONIQ 9",
+      "year": "2026",
+      "title": "2026 Hyundai IONIQ 9 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-hyundai-ioniq-9-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Hyundai|Kona Electric": {
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "year": "2025",
+      "title": "2025 Hyundai Kona Electric Specs, Price & Trims",
+      "predicted_path": "/2026/08/2025-hyundai-kona-electric-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Kia|Telluride": {
+      "brand": "Kia",
+      "model": "Telluride",
+      "year": "2027",
+      "title": "2027 Kia Telluride Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-kia-telluride-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Kia|EV6": {
+      "brand": "Kia",
+      "model": "EV6",
+      "year": "2026",
+      "title": "2026 Kia EV6 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-kia-ev6-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Kia|Carnival": {
+      "brand": "Kia",
+      "model": "Carnival",
+      "year": "2027",
+      "title": "2027 Kia Carnival Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-kia-carnival-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Kia|Sorento": {
+      "brand": "Kia",
+      "model": "Sorento",
+      "year": "2026",
+      "title": "2026 Kia Sorento Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-kia-sorento-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Kia|EV9": {
+      "brand": "Kia",
+      "model": "EV9",
+      "year": "2026",
+      "title": "2026 Kia EV9 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-kia-ev9-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Kia|Niro": {
+      "brand": "Kia",
+      "model": "Niro",
+      "year": "2027",
+      "title": "2027 Kia Niro Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-kia-niro-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Kia|EV3": {
+      "brand": "Kia",
+      "model": "EV3",
+      "year": "2027",
+      "title": "2027 Kia EV3 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-kia-ev3-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Kia|Sportage": {
+      "brand": "Kia",
+      "model": "Sportage",
+      "year": "2027",
+      "title": "2027 Kia Sportage Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-kia-sportage-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Kia|K5": {
+      "brand": "Kia",
+      "model": "K5",
+      "year": "2027",
+      "title": "2027 Kia K5 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-kia-k5-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Kia|K4": {
+      "brand": "Kia",
+      "model": "K4",
+      "year": "2026",
+      "title": "2026 Kia K4 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-kia-k4-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Kia|K4 Hatchback": {
+      "brand": "Kia",
+      "model": "K4 Hatchback",
+      "year": "2026",
+      "title": "2026 Kia K4 Hatchback Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-kia-k4-hatchback-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Kia|Seltos": {
+      "brand": "Kia",
+      "model": "Seltos",
+      "year": "2027",
+      "title": "2027 Kia Seltos Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-kia-seltos-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Kia|Niro EV": {
+      "brand": "Kia",
+      "model": "Niro EV",
+      "year": "2026",
+      "title": "2026 Kia Niro EV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-kia-niro-ev-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Tesla|Model 3": {
+      "brand": "Tesla",
+      "model": "Model 3",
+      "year": "2026",
+      "title": "2026 Tesla Model 3 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-tesla-model-3-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Tesla|Model Y": {
+      "brand": "Tesla",
+      "model": "Model Y",
+      "year": "2026",
+      "title": "2026 Tesla Model Y Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-tesla-model-y-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Tesla|Cybertruck": {
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "year": "2026",
+      "title": "2026 Tesla Cybertruck Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-tesla-cybertruck-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|X1": {
+      "brand": "BMW",
+      "model": "X1",
+      "year": "2027",
+      "title": "2027 BMW X1 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-x1-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|X2": {
+      "brand": "BMW",
+      "model": "X2",
+      "year": "2027",
+      "title": "2027 BMW X2 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-x2-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|X3": {
+      "brand": "BMW",
+      "model": "X3",
+      "year": "2027",
+      "title": "2027 BMW X3 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-x3-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|X5": {
+      "brand": "BMW",
+      "model": "X5",
+      "year": "2027",
+      "title": "2027 BMW X5 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-x5-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|X6": {
+      "brand": "BMW",
+      "model": "X6",
+      "year": "2027",
+      "title": "2027 BMW X6 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-x6-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|X7": {
+      "brand": "BMW",
+      "model": "X7",
+      "year": "2027",
+      "title": "2027 BMW X7 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-x7-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|XM": {
+      "brand": "BMW",
+      "model": "XM",
+      "year": "2027",
+      "title": "2027 BMW XM Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-xm-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|iX3": {
+      "brand": "BMW",
+      "model": "iX3",
+      "year": "2027",
+      "title": "2027 BMW iX3 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-ix3-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|iX": {
+      "brand": "BMW",
+      "model": "iX",
+      "year": "2026",
+      "title": "2026 BMW iX Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-bmw-ix-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|2 Series": {
+      "brand": "BMW",
+      "model": "2 Series",
+      "year": "2027",
+      "title": "2027 BMW 2 Series Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-2-series-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|3 Series": {
+      "brand": "BMW",
+      "model": "3 Series",
+      "year": "2027",
+      "title": "2027 BMW 3 Series Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-3-series-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|4 Series": {
+      "brand": "BMW",
+      "model": "4 Series",
+      "year": "2027",
+      "title": "2027 BMW 4 Series Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-4-series-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|5 Series": {
+      "brand": "BMW",
+      "model": "5 Series",
+      "year": "2027",
+      "title": "2027 BMW 5 Series Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-5-series-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|7 Series": {
+      "brand": "BMW",
+      "model": "7 Series",
+      "year": "2027",
+      "title": "2027 BMW 7 Series Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-7-series-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|i4": {
+      "brand": "BMW",
+      "model": "i4",
+      "year": "2027",
+      "title": "2027 BMW i4 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-i4-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|i5": {
+      "brand": "BMW",
+      "model": "i5",
+      "year": "2027",
+      "title": "2027 BMW i5 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-i5-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|i7": {
+      "brand": "BMW",
+      "model": "i7",
+      "year": "2027",
+      "title": "2027 BMW i7 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-i7-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|M2": {
+      "brand": "BMW",
+      "model": "M2",
+      "year": "2027",
+      "title": "2027 BMW M2 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-m2-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|M3": {
+      "brand": "BMW",
+      "model": "M3",
+      "year": "2027",
+      "title": "2027 BMW M3 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-m3-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|M4": {
+      "brand": "BMW",
+      "model": "M4",
+      "year": "2027",
+      "title": "2027 BMW M4 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-m4-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "BMW|M5": {
+      "brand": "BMW",
+      "model": "M5",
+      "year": "2027",
+      "title": "2027 BMW M5 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-bmw-m5-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|CLA": {
+      "brand": "Mercedes-Benz",
+      "model": "CLA",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz CLA Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-cla-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|C-Class": {
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz C-Class Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-c-class-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|E-Class": {
+      "brand": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz E-Class Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-e-class-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|S-Class": {
+      "brand": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz S-Class Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-s-class-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|E-Class Wagon": {
+      "brand": "Mercedes-Benz",
+      "model": "E-Class Wagon",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz E-Class Wagon Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-e-class-wagon-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|CLE Coupe": {
+      "brand": "Mercedes-Benz",
+      "model": "CLE Coupe",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz CLE Coupe Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-cle-coupe-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|CLE Cabriolet": {
+      "brand": "Mercedes-Benz",
+      "model": "CLE Cabriolet",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz CLE Cabriolet Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-cle-cabriolet-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|AMG GT Coupe": {
+      "brand": "Mercedes-Benz",
+      "model": "AMG GT Coupe",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz AMG GT Coupe Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-amg-gt-coupe-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|SL Roadster": {
+      "brand": "Mercedes-Benz",
+      "model": "SL Roadster",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz SL Roadster Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-sl-roadster-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|GLA": {
+      "brand": "Mercedes-Benz",
+      "model": "GLA",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz GLA Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-gla-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|GLB": {
+      "brand": "Mercedes-Benz",
+      "model": "GLB",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz GLB Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-glb-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|GLC": {
+      "brand": "Mercedes-Benz",
+      "model": "GLC",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz GLC Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-glc-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|GLC Coupe": {
+      "brand": "Mercedes-Benz",
+      "model": "GLC Coupe",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz GLC Coupe Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-glc-coupe-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|GLE SUV": {
+      "brand": "Mercedes-Benz",
+      "model": "GLE SUV",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz GLE SUV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-gle-suv-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|GLE Coupe": {
+      "brand": "Mercedes-Benz",
+      "model": "GLE Coupe",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz GLE Coupe Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-gle-coupe-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|GLS": {
+      "brand": "Mercedes-Benz",
+      "model": "GLS",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz GLS Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-gls-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|G-Class": {
+      "brand": "Mercedes-Benz",
+      "model": "G-Class",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz G-Class Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-g-class-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|EQB": {
+      "brand": "Mercedes-Benz",
+      "model": "EQB",
+      "year": "2025",
+      "title": "2025 Mercedes-Benz EQB Specs, Price & Trims",
+      "predicted_path": "/2026/08/2025-mercedes-benz-eqb-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|EQE Sedan": {
+      "brand": "Mercedes-Benz",
+      "model": "EQE Sedan",
+      "year": "2026",
+      "title": "2026 Mercedes-Benz EQE Sedan Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mercedes-benz-eqe-sedan-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|EQE SUV": {
+      "brand": "Mercedes-Benz",
+      "model": "EQE SUV",
+      "year": "2026",
+      "title": "2026 Mercedes-Benz EQE SUV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mercedes-benz-eqe-suv-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|EQS Sedan": {
+      "brand": "Mercedes-Benz",
+      "model": "EQS Sedan",
+      "year": "2026",
+      "title": "2026 Mercedes-Benz EQS Sedan Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mercedes-benz-eqs-sedan-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|EQS SUV": {
+      "brand": "Mercedes-Benz",
+      "model": "EQS SUV",
+      "year": "2026",
+      "title": "2026 Mercedes-Benz EQS SUV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mercedes-benz-eqs-suv-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|GLC Electric": {
+      "brand": "Mercedes-Benz",
+      "model": "GLC Electric",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz GLC Electric Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-glc-electric-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|Mercedes-Maybach S-Class": {
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach S-Class",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz Mercedes-Maybach S-Class Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-mercedes-maybach-s-class-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|Mercedes-Maybach GLS": {
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach GLS",
+      "year": "2027",
+      "title": "2027 Mercedes-Benz Mercedes-Maybach GLS Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mercedes-benz-mercedes-maybach-gls-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mercedes-Benz|Mercedes-Maybach EQS SUV": {
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach EQS SUV",
+      "year": "2026",
+      "title": "2026 Mercedes-Benz Mercedes-Maybach EQS SUV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mercedes-benz-mercedes-maybach-eqs-suv-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|Q9": {
+      "brand": "Audi",
+      "model": "Q9",
+      "year": "2027",
+      "title": "2027 Audi Q9 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-audi-q9-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|Q7": {
+      "brand": "Audi",
+      "model": "Q7",
+      "year": "2027",
+      "title": "2027 Audi Q7 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-audi-q7-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|Nuvolari": {
+      "brand": "Audi",
+      "model": "Nuvolari",
+      "year": "2027",
+      "title": "2027 Audi Nuvolari Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-audi-nuvolari-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|Q3": {
+      "brand": "Audi",
+      "model": "Q3",
+      "year": "2027",
+      "title": "2027 Audi Q3 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-audi-q3-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|Q5": {
+      "brand": "Audi",
+      "model": "Q5",
+      "year": "2026",
+      "title": "2026 Audi Q5 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-audi-q5-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|Q8": {
+      "brand": "Audi",
+      "model": "Q8",
+      "year": "2027",
+      "title": "2027 Audi Q8 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-audi-q8-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|A3": {
+      "brand": "Audi",
+      "model": "A3",
+      "year": "2026",
+      "title": "2026 Audi A3 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-audi-a3-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|A5": {
+      "brand": "Audi",
+      "model": "A5",
+      "year": "2026",
+      "title": "2026 Audi A5 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-audi-a5-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|A6": {
+      "brand": "Audi",
+      "model": "A6",
+      "year": "2026",
+      "title": "2026 Audi A6 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-audi-a6-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|A7": {
+      "brand": "Audi",
+      "model": "A7",
+      "year": "2026",
+      "title": "2026 Audi A7 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-audi-a7-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|A8": {
+      "brand": "Audi",
+      "model": "A8",
+      "year": "2027",
+      "title": "2027 Audi A8 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-audi-a8-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|Q4 e-tron": {
+      "brand": "Audi",
+      "model": "Q4 e-tron",
+      "year": "2026",
+      "title": "2026 Audi Q4 e-tron Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-audi-q4-e-tron-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|Q6 e-tron": {
+      "brand": "Audi",
+      "model": "Q6 e-tron",
+      "year": "2027",
+      "title": "2027 Audi Q6 e-tron Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-audi-q6-e-tron-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|A6 e-tron": {
+      "brand": "Audi",
+      "model": "A6 e-tron",
+      "year": "2027",
+      "title": "2027 Audi A6 e-tron Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-audi-a6-e-tron-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Audi|e-tron GT": {
+      "brand": "Audi",
+      "model": "e-tron GT",
+      "year": "2027",
+      "title": "2027 Audi e-tron GT Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-audi-e-tron-gt-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Porsche|718": {
+      "brand": "Porsche",
+      "model": "718",
+      "year": "2025",
+      "title": "2025 Porsche 718 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2025-porsche-718-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Porsche|911": {
+      "brand": "Porsche",
+      "model": "911",
+      "year": "2026",
+      "title": "2026 Porsche 911 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-porsche-911-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Porsche|Taycan": {
+      "brand": "Porsche",
+      "model": "Taycan",
+      "year": "2027",
+      "title": "2027 Porsche Taycan Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-porsche-taycan-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Porsche|Panamera": {
+      "brand": "Porsche",
+      "model": "Panamera",
+      "year": "2027",
+      "title": "2027 Porsche Panamera Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-porsche-panamera-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Porsche|Macan": {
+      "brand": "Porsche",
+      "model": "Macan",
+      "year": "2026",
+      "title": "2026 Porsche Macan Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-porsche-macan-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Porsche|Macan Electric": {
+      "brand": "Porsche",
+      "model": "Macan Electric",
+      "year": "2027",
+      "title": "2027 Porsche Macan Electric Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-porsche-macan-electric-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Porsche|Cayenne": {
+      "brand": "Porsche",
+      "model": "Cayenne",
+      "year": "2027",
+      "title": "2027 Porsche Cayenne Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-porsche-cayenne-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Porsche|Cayenne Electric": {
+      "brand": "Porsche",
+      "model": "Cayenne Electric",
+      "year": "2026",
+      "title": "2026 Porsche Cayenne Electric Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-porsche-cayenne-electric-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Lexus|IS": {
+      "brand": "Lexus",
+      "model": "IS",
+      "year": "2026",
+      "title": "2026 Lexus IS Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-lexus-is-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Lexus|ES": {
+      "brand": "Lexus",
+      "model": "ES",
+      "year": "2027",
+      "title": "2027 Lexus ES Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-lexus-es-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Lexus|LS": {
+      "brand": "Lexus",
+      "model": "LS",
+      "year": "2026",
+      "title": "2026 Lexus LS Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-lexus-ls-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Lexus|LC": {
+      "brand": "Lexus",
+      "model": "LC",
+      "year": "2026",
+      "title": "2026 Lexus LC Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-lexus-lc-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Lexus|UX": {
+      "brand": "Lexus",
+      "model": "UX",
+      "year": "2026",
+      "title": "2026 Lexus UX Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-lexus-ux-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Lexus|NX": {
+      "brand": "Lexus",
+      "model": "NX",
+      "year": "2026",
+      "title": "2026 Lexus NX Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-lexus-nx-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Lexus|RX": {
+      "brand": "Lexus",
+      "model": "RX",
+      "year": "2026",
+      "title": "2026 Lexus RX Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-lexus-rx-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Lexus|TX": {
+      "brand": "Lexus",
+      "model": "TX",
+      "year": "2026",
+      "title": "2026 Lexus TX Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-lexus-tx-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Lexus|GX": {
+      "brand": "Lexus",
+      "model": "GX",
+      "year": "2026",
+      "title": "2026 Lexus GX Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-lexus-gx-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Lexus|LX": {
+      "brand": "Lexus",
+      "model": "LX",
+      "year": "2026",
+      "title": "2026 Lexus LX Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-lexus-lx-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Lexus|RZ": {
+      "brand": "Lexus",
+      "model": "RZ",
+      "year": "2026",
+      "title": "2026 Lexus RZ Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-lexus-rz-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volvo|EX30": {
+      "brand": "Volvo",
+      "model": "EX30",
+      "year": "2026",
+      "title": "2026 Volvo EX30 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-volvo-ex30-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volvo|EX40": {
+      "brand": "Volvo",
+      "model": "EX40",
+      "year": "2026",
+      "title": "2026 Volvo EX40 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-volvo-ex40-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volvo|EX90": {
+      "brand": "Volvo",
+      "model": "EX90",
+      "year": "2026",
+      "title": "2026 Volvo EX90 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-volvo-ex90-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volvo|XC40": {
+      "brand": "Volvo",
+      "model": "XC40",
+      "year": "2026",
+      "title": "2026 Volvo XC40 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-volvo-xc40-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volvo|XC60": {
+      "brand": "Volvo",
+      "model": "XC60",
+      "year": "2026",
+      "title": "2026 Volvo XC60 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-volvo-xc60-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volvo|XC90": {
+      "brand": "Volvo",
+      "model": "XC90",
+      "year": "2026",
+      "title": "2026 Volvo XC90 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-volvo-xc90-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Volvo|V60 Cross Country": {
+      "brand": "Volvo",
+      "model": "V60 Cross Country",
+      "year": "2026",
+      "title": "2026 Volvo V60 Cross Country Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-volvo-v60-cross-country-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Subaru|Outback": {
+      "brand": "Subaru",
+      "model": "Outback",
+      "year": "2026",
+      "title": "2026 Subaru Outback Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-subaru-outback-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Subaru|Crosstrek": {
+      "brand": "Subaru",
+      "model": "Crosstrek",
+      "year": "2026",
+      "title": "2026 Subaru Crosstrek Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-subaru-crosstrek-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Subaru|Forester": {
+      "brand": "Subaru",
+      "model": "Forester",
+      "year": "2026",
+      "title": "2026 Subaru Forester Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-subaru-forester-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Subaru|Uncharted": {
+      "brand": "Subaru",
+      "model": "Uncharted",
+      "year": "2027",
+      "title": "2027 Subaru Uncharted Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-subaru-uncharted-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Subaru|Solterra": {
+      "brand": "Subaru",
+      "model": "Solterra",
+      "year": "2026",
+      "title": "2026 Subaru Solterra Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-subaru-solterra-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Subaru|Trailseeker": {
+      "brand": "Subaru",
+      "model": "Trailseeker",
+      "year": "2026",
+      "title": "2026 Subaru Trailseeker Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-subaru-trailseeker-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Subaru|Ascent": {
+      "brand": "Subaru",
+      "model": "Ascent",
+      "year": "2027",
+      "title": "2027 Subaru Ascent Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-subaru-ascent-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Subaru|Impreza": {
+      "brand": "Subaru",
+      "model": "Impreza",
+      "year": "2026",
+      "title": "2026 Subaru Impreza Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-subaru-impreza-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Subaru|BRZ": {
+      "brand": "Subaru",
+      "model": "BRZ",
+      "year": "2027",
+      "title": "2027 Subaru BRZ Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-subaru-brz-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Subaru|WRX": {
+      "brand": "Subaru",
+      "model": "WRX",
+      "year": "2026",
+      "title": "2026 Subaru WRX Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-subaru-wrx-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mazda|Mazda3": {
+      "brand": "Mazda",
+      "model": "Mazda3",
+      "year": "2027",
+      "title": "2027 Mazda Mazda3 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-mazda-mazda3-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mazda|CX-90": {
+      "brand": "Mazda",
+      "model": "CX-90",
+      "year": "2026",
+      "title": "2026 Mazda CX-90 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mazda-cx-90-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mazda|CX-70": {
+      "brand": "Mazda",
+      "model": "CX-70",
+      "year": "2026",
+      "title": "2026 Mazda CX-70 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mazda-cx-70-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mazda|CX-50": {
+      "brand": "Mazda",
+      "model": "CX-50",
+      "year": "2026",
+      "title": "2026 Mazda CX-50 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mazda-cx-50-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mazda|CX-30": {
+      "brand": "Mazda",
+      "model": "CX-30",
+      "year": "2026",
+      "title": "2026 Mazda CX-30 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mazda-cx-30-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mazda|CX-5": {
+      "brand": "Mazda",
+      "model": "CX-5",
+      "year": "2026",
+      "title": "2026 Mazda CX-5 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mazda-cx-5-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mazda|MX-5 Miata": {
+      "brand": "Mazda",
+      "model": "MX-5 Miata",
+      "year": "2026",
+      "title": "2026 Mazda MX-5 Miata Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mazda-mx-5-miata-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mazda|Mazda3 Sedan": {
+      "brand": "Mazda",
+      "model": "Mazda3 Sedan",
+      "year": "2026",
+      "title": "2026 Mazda Mazda3 Sedan Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mazda-mazda3-sedan-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mazda|Mazda3 Hatchback": {
+      "brand": "Mazda",
+      "model": "Mazda3 Hatchback",
+      "year": "2026",
+      "title": "2026 Mazda Mazda3 Hatchback Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mazda-mazda3-hatchback-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mazda|MX-5 Miata RF": {
+      "brand": "Mazda",
+      "model": "MX-5 Miata RF",
+      "year": "2026",
+      "title": "2026 Mazda MX-5 Miata RF Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mazda-mx-5-miata-rf-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mazda|CX-50 Hybrid": {
+      "brand": "Mazda",
+      "model": "CX-50 Hybrid",
+      "year": "2026",
+      "title": "2026 Mazda CX-50 Hybrid Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mazda-cx-50-hybrid-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mazda|CX-70 PHEV": {
+      "brand": "Mazda",
+      "model": "CX-70 PHEV",
+      "year": "2026",
+      "title": "2026 Mazda CX-70 PHEV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mazda-cx-70-phev-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Mazda|CX-90 PHEV": {
+      "brand": "Mazda",
+      "model": "CX-90 PHEV",
+      "year": "2026",
+      "title": "2026 Mazda CX-90 PHEV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-mazda-cx-90-phev-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Jeep|Compass": {
+      "brand": "Jeep",
+      "model": "Compass",
+      "year": "2026",
+      "title": "2026 Jeep Compass Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-jeep-compass-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Jeep|Cherokee": {
+      "brand": "Jeep",
+      "model": "Cherokee",
+      "year": "2026",
+      "title": "2026 Jeep Cherokee Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-jeep-cherokee-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Jeep|Wrangler": {
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "year": "2026",
+      "title": "2026 Jeep Wrangler Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-jeep-wrangler-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Jeep|Grand Cherokee": {
+      "brand": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "2026",
+      "title": "2026 Jeep Grand Cherokee Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-jeep-grand-cherokee-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Jeep|Gladiator": {
+      "brand": "Jeep",
+      "model": "Gladiator",
+      "year": "2026",
+      "title": "2026 Jeep Gladiator Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-jeep-gladiator-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Jeep|Grand Wagoneer": {
+      "brand": "Jeep",
+      "model": "Grand Wagoneer",
+      "year": "2026",
+      "title": "2026 Jeep Grand Wagoneer Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-jeep-grand-wagoneer-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Jeep|Wagoneer S": {
+      "brand": "Jeep",
+      "model": "Wagoneer S",
+      "year": "2026",
+      "title": "2026 Jeep Wagoneer S Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-jeep-wagoneer-s-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Jeep|Recon": {
+      "brand": "Jeep",
+      "model": "Recon",
+      "year": "2026",
+      "title": "2026 Jeep Recon Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-jeep-recon-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Jeep|Wrangler 4xe": {
+      "brand": "Jeep",
+      "model": "Wrangler 4xe",
+      "year": "2026",
+      "title": "2026 Jeep Wrangler 4xe Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-jeep-wrangler-4xe-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Land Rover|Range Rover": {
+      "brand": "Land Rover",
+      "model": "Range Rover",
+      "year": "2026",
+      "title": "2026 Land Rover Range Rover Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-land-rover-range-rover-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Land Rover|Range Rover Sport": {
+      "brand": "Land Rover",
+      "model": "Range Rover Sport",
+      "year": "2026",
+      "title": "2026 Land Rover Range Rover Sport Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-land-rover-range-rover-sport-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Land Rover|Range Rover Velar": {
+      "brand": "Land Rover",
+      "model": "Range Rover Velar",
+      "year": "2026",
+      "title": "2026 Land Rover Range Rover Velar Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-land-rover-range-rover-velar-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Land Rover|Range Rover Evoque": {
+      "brand": "Land Rover",
+      "model": "Range Rover Evoque",
+      "year": "2026",
+      "title": "2026 Land Rover Range Rover Evoque Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-land-rover-range-rover-evoque-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Land Rover|Defender": {
+      "brand": "Land Rover",
+      "model": "Defender",
+      "year": "2027",
+      "title": "2027 Land Rover Defender Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-land-rover-defender-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Land Rover|Discovery": {
+      "brand": "Land Rover",
+      "model": "Discovery",
+      "year": "2026",
+      "title": "2026 Land Rover Discovery Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-land-rover-discovery-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Land Rover|Discovery Sport": {
+      "brand": "Land Rover",
+      "model": "Discovery Sport",
+      "year": "2026",
+      "title": "2026 Land Rover Discovery Sport Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-land-rover-discovery-sport-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Genesis|G70": {
+      "brand": "Genesis",
+      "model": "G70",
+      "year": "2026",
+      "title": "2026 Genesis G70 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-genesis-g70-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Genesis|G80": {
+      "brand": "Genesis",
+      "model": "G80",
+      "year": "2027",
+      "title": "2027 Genesis G80 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-genesis-g80-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Genesis|G90": {
+      "brand": "Genesis",
+      "model": "G90",
+      "year": "2026",
+      "title": "2026 Genesis G90 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-genesis-g90-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Genesis|GV60": {
+      "brand": "Genesis",
+      "model": "GV60",
+      "year": "2027",
+      "title": "2027 Genesis GV60 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-genesis-gv60-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Genesis|GV60 Magma": {
+      "brand": "Genesis",
+      "model": "GV60 Magma",
+      "year": "2027",
+      "title": "2027 Genesis GV60 Magma Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-genesis-gv60-magma-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Genesis|GV70": {
+      "brand": "Genesis",
+      "model": "GV70",
+      "year": "2027",
+      "title": "2027 Genesis GV70 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-genesis-gv70-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Genesis|Electrified GV70": {
+      "brand": "Genesis",
+      "model": "Electrified GV70",
+      "year": "2027",
+      "title": "2027 Genesis Electrified GV70 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-genesis-electrified-gv70-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Genesis|GV80": {
+      "brand": "Genesis",
+      "model": "GV80",
+      "year": "2027",
+      "title": "2027 Genesis GV80 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-genesis-gv80-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Genesis|GV80 Coupe": {
+      "brand": "Genesis",
+      "model": "GV80 Coupe",
+      "year": "2027",
+      "title": "2027 Genesis GV80 Coupe Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-genesis-gv80-coupe-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Terrain": {
+      "brand": "GMC",
+      "model": "Terrain",
+      "year": "2027",
+      "title": "2027 GMC Terrain Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-gmc-terrain-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Canyon": {
+      "brand": "GMC",
+      "model": "Canyon",
+      "year": "2026",
+      "title": "2026 GMC Canyon Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-gmc-canyon-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Acadia": {
+      "brand": "GMC",
+      "model": "Acadia",
+      "year": "2026",
+      "title": "2026 GMC Acadia Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-gmc-acadia-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Yukon": {
+      "brand": "GMC",
+      "model": "Yukon",
+      "year": "2026",
+      "title": "2026 GMC Yukon Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-gmc-yukon-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Yukon XL": {
+      "brand": "GMC",
+      "model": "Yukon XL",
+      "year": "2026",
+      "title": "2026 GMC Yukon XL Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-gmc-yukon-xl-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Sierra 1500": {
+      "brand": "GMC",
+      "model": "Sierra 1500",
+      "year": "2026",
+      "title": "2026 GMC Sierra 1500 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-gmc-sierra-1500-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Sierra HD": {
+      "brand": "GMC",
+      "model": "Sierra HD",
+      "year": "2027",
+      "title": "2027 GMC Sierra HD Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-gmc-sierra-hd-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Sierra EV": {
+      "brand": "GMC",
+      "model": "Sierra EV",
+      "year": "2026",
+      "title": "2026 GMC Sierra EV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-gmc-sierra-ev-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|HUMMER EV Pickup": {
+      "brand": "GMC",
+      "model": "HUMMER EV Pickup",
+      "year": "2026",
+      "title": "2026 GMC HUMMER EV Pickup Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-gmc-hummer-ev-pickup-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|HUMMER EV SUV": {
+      "brand": "GMC",
+      "model": "HUMMER EV SUV",
+      "year": "2026",
+      "title": "2026 GMC HUMMER EV SUV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-gmc-hummer-ev-suv-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Savana Cargo": {
+      "brand": "GMC",
+      "model": "Savana Cargo",
+      "year": "2027",
+      "title": "2027 GMC Savana Cargo Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-gmc-savana-cargo-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Savana Passenger": {
+      "brand": "GMC",
+      "model": "Savana Passenger",
+      "year": "2027",
+      "title": "2027 GMC Savana Passenger Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-gmc-savana-passenger-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Sierra 2500HD": {
+      "brand": "GMC",
+      "model": "Sierra 2500HD",
+      "year": "2026",
+      "title": "2026 GMC Sierra 2500HD Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-gmc-sierra-2500hd-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Sierra 3500HD": {
+      "brand": "GMC",
+      "model": "Sierra 3500HD",
+      "year": "2026",
+      "title": "2026 GMC Sierra 3500HD Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-gmc-sierra-3500hd-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Sierra 3500HD Chassis Cab": {
+      "brand": "GMC",
+      "model": "Sierra 3500HD Chassis Cab",
+      "year": "2026",
+      "title": "2026 GMC Sierra 3500HD Chassis Cab Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-gmc-sierra-3500hd-chassis-cab-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Savana Cargo 2500": {
+      "brand": "GMC",
+      "model": "Savana Cargo 2500",
+      "year": "2027",
+      "title": "2027 GMC Savana Cargo 2500 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-gmc-savana-cargo-2500-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Savana Cargo 3500": {
+      "brand": "GMC",
+      "model": "Savana Cargo 3500",
+      "year": "2027",
+      "title": "2027 GMC Savana Cargo 3500 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-gmc-savana-cargo-3500-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Savana Passenger 2500": {
+      "brand": "GMC",
+      "model": "Savana Passenger 2500",
+      "year": "2027",
+      "title": "2027 GMC Savana Passenger 2500 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-gmc-savana-passenger-2500-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "GMC|Savana Passenger 3500": {
+      "brand": "GMC",
+      "model": "Savana Passenger 3500",
+      "year": "2027",
+      "title": "2027 GMC Savana Passenger 3500 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2027-gmc-savana-passenger-3500-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ram|Ram 1500": {
+      "brand": "Ram",
+      "model": "Ram 1500",
+      "year": "2026",
+      "title": "2026 Ram Ram 1500 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ram-ram-1500-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ram|Ram 2500": {
+      "brand": "Ram",
+      "model": "Ram 2500",
+      "year": "2026",
+      "title": "2026 Ram Ram 2500 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ram-ram-2500-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ram|Ram 3500": {
+      "brand": "Ram",
+      "model": "Ram 3500",
+      "year": "2026",
+      "title": "2026 Ram Ram 3500 Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ram-ram-3500-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ram|Ram Chassis Cab": {
+      "brand": "Ram",
+      "model": "Ram Chassis Cab",
+      "year": "2026",
+      "title": "2026 Ram Ram Chassis Cab Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ram-ram-chassis-cab-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ram|Ram ProMaster": {
+      "brand": "Ram",
+      "model": "Ram ProMaster",
+      "year": "2026",
+      "title": "2026 Ram Ram ProMaster Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ram-ram-promaster-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ram|Ram ProMaster EV": {
+      "brand": "Ram",
+      "model": "Ram ProMaster EV",
+      "year": "2026",
+      "title": "2026 Ram Ram ProMaster EV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ram-ram-promaster-ev-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    },
+    "Ram|Ram 1500 REV": {
+      "brand": "Ram",
+      "model": "Ram 1500 REV",
+      "year": "2026",
+      "title": "2026 Ram Ram 1500 REV Specs, Price & Trims",
+      "predicted_path": "/2026/08/2026-ram-ram-1500-rev-specs-price-and-trims.html",
+      "url_status": "predicted-before-import"
+    }
+  }
+}

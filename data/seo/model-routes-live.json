@@ -1,0 +1,32 @@
+{
+  "generated": "2026-09-14",
+  "mode": "live-only-hybrid",
+  "note": "Only confirmed live Blogger model URLs belong here. Theme falls back to hash routes for every other model.",
+  "count": 3,
+  "routes": {
+    "Tesla|Model 3": {
+      "brand": "Tesla",
+      "model": "Model 3",
+      "year": "2026",
+      "url": "https://www.drivespeclab.com/2026/08/2026-tesla-model-3-specs-price-trims.html",
+      "url_status": "live",
+      "verified_on": "2026-09-14"
+    },
+    "Tesla|Model Y": {
+      "brand": "Tesla",
+      "model": "Model Y",
+      "year": "2026",
+      "url": "https://www.drivespeclab.com/2026/08/2026-tesla-model-y-specs-price-trims.html",
+      "url_status": "live",
+      "verified_on": "2026-09-14"
+    },
+    "Tesla|Cybertruck": {
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "year": "2026",
+      "url": "https://www.drivespeclab.com/2026/08/2026-tesla-cybertruck-specs-price-trims.html",
+      "url_status": "live",
+      "verified_on": "2026-09-14"
+    }
+  }
+}

@@ -1,0 +1,3353 @@
+{
+  "generated": "2026-09-14T13:53:50+00:00",
+  "changes": [
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "A3",
+      "new": {
+        "year": "2026",
+        "price": 40100,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "A5",
+      "new": {
+        "year": "2026",
+        "price": 50200,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "A6",
+      "new": {
+        "year": "2026",
+        "price": 64100,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "A6 e-tron",
+      "new": {
+        "year": "2027",
+        "price": 66700,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "A7",
+      "new": {
+        "year": "2026",
+        "price": 130700,
+        "status": "Standard A7 Sportback page currently redirects; RS 7 performance remains an active priced U.S. model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "A8",
+      "new": {
+        "year": "2027",
+        "price": 95100,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "Nuvolari",
+      "new": {
+        "year": "2027",
+        "price": null,
+        "status": "Limited-production U.S. launch planned for 2027; pricing not yet announced",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "Q3",
+      "new": {
+        "year": "2027",
+        "price": 44400,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "Q4 e-tron",
+      "new": {
+        "year": "2026",
+        "price": 50600,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "Q5",
+      "new": {
+        "year": "2026",
+        "price": 52800,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "Q6 e-tron",
+      "new": {
+        "year": "2027",
+        "price": 64500,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "Q7",
+      "new": {
+        "year": "2027",
+        "price": 70900,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "Q8",
+      "new": {
+        "year": "2027",
+        "price": 76900,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "Q9",
+      "new": {
+        "year": "2027",
+        "price": 87700,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Audi",
+      "model": "e-tron GT",
+      "new": {
+        "year": "2027",
+        "price": 127700,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "2 Series",
+      "new": {
+        "year": "2027",
+        "price": 40000,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "3 Series",
+      "new": {
+        "year": "2027",
+        "price": 48000,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "4 Series",
+      "new": {
+        "year": "2027",
+        "price": 51200,
+        "status": "Current U.S. retail model",
+        "trim_count": 12
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "5 Series",
+      "new": {
+        "year": "2027",
+        "price": 60500,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "7 Series",
+      "new": {
+        "year": "2027",
+        "price": 99800,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "M2",
+      "new": {
+        "year": "2027",
+        "price": 69500,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "M3",
+      "new": {
+        "year": "2027",
+        "price": 79300,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "M4",
+      "new": {
+        "year": "2027",
+        "price": 82200,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "M5",
+      "new": {
+        "year": "2027",
+        "price": 123300,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "X1",
+      "new": {
+        "year": "2027",
+        "price": 43200,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "X2",
+      "new": {
+        "year": "2027",
+        "price": 44700,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "X3",
+      "new": {
+        "year": "2027",
+        "price": 51300,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "X5",
+      "new": {
+        "year": "2027",
+        "price": 68300,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "X6",
+      "new": {
+        "year": "2027",
+        "price": 77300,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "X7",
+      "new": {
+        "year": "2027",
+        "price": 87500,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "XM",
+      "new": {
+        "year": "2027",
+        "price": 159600,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "i4",
+      "new": {
+        "year": "2027",
+        "price": 57900,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "i5",
+      "new": {
+        "year": "2027",
+        "price": 67100,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "i7",
+      "new": {
+        "year": "2027",
+        "price": 106200,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "iX",
+      "new": {
+        "year": "2026",
+        "price": 75150,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "BMW",
+      "model": "iX3",
+      "new": {
+        "year": "2027",
+        "price": 61500,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Blazer",
+      "new": {
+        "year": "2026",
+        "price": 34300,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "new": {
+        "year": "2027",
+        "price": 44700,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Bolt",
+      "new": {
+        "year": "2027",
+        "price": 27600,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Colorado",
+      "new": {
+        "year": "2026",
+        "price": 32400,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Corvette",
+      "new": {
+        "year": "2027",
+        "price": 71000,
+        "status": "Current U.S. retail model",
+        "trim_count": 16
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Equinox",
+      "new": {
+        "year": "2027",
+        "price": 29000,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "new": {
+        "year": "2027",
+        "price": 34995,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Silverado 1500",
+      "new": {
+        "year": "2026",
+        "price": 36900,
+        "status": "Current U.S. retail model",
+        "trim_count": 9
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "new": {
+        "year": "2026",
+        "price": 55895,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Silverado HD",
+      "new": {
+        "year": "2026",
+        "price": 45900,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Suburban",
+      "new": {
+        "year": "2026",
+        "price": 63700,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Tahoe",
+      "new": {
+        "year": "2026",
+        "price": 60700,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Trailblazer",
+      "new": {
+        "year": "2026",
+        "price": 23300,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Traverse",
+      "new": {
+        "year": "2027",
+        "price": 40800,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Chevrolet",
+      "model": "Trax",
+      "new": {
+        "year": "2026",
+        "price": 21700,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ford",
+      "model": "Bronco",
+      "new": {
+        "year": "2026",
+        "price": 40795,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ford",
+      "model": "Bronco Sport",
+      "new": {
+        "year": "2026",
+        "price": 32340,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ford",
+      "model": "Escape",
+      "new": {
+        "year": "2026",
+        "price": 30350,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ford",
+      "model": "Expedition",
+      "new": {
+        "year": "2027",
+        "price": 64095,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ford",
+      "model": "Explorer",
+      "new": {
+        "year": "2027",
+        "price": 38860,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ford",
+      "model": "F-150",
+      "new": {
+        "year": "2026",
+        "price": 37290,
+        "status": "Current U.S. retail model",
+        "trim_count": 8
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ford",
+      "model": "Maverick",
+      "new": {
+        "year": "2026",
+        "price": 27145,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ford",
+      "model": "Mustang",
+      "new": {
+        "year": "2026",
+        "price": 33490,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ford",
+      "model": "Mustang Mach-E",
+      "new": {
+        "year": "2026",
+        "price": 38290,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ford",
+      "model": "Ranger",
+      "new": {
+        "year": "2026",
+        "price": 33550,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ford",
+      "model": "Super Duty",
+      "new": {
+        "year": "2027",
+        "price": 45975,
+        "status": "Current U.S. retail model",
+        "trim_count": 15
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ford",
+      "model": "Transit",
+      "new": {
+        "year": "2027",
+        "price": 48400,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Acadia",
+      "new": {
+        "year": "2026",
+        "price": 43800,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Canyon",
+      "new": {
+        "year": "2026",
+        "price": 38900,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "HUMMER EV Pickup",
+      "new": {
+        "year": "2026",
+        "price": 97200,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "HUMMER EV SUV",
+      "new": {
+        "year": "2026",
+        "price": 97200,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Savana Cargo",
+      "new": {
+        "year": "2027",
+        "price": 42200,
+        "status": "Current U.S. retail model",
+        "trim_count": 0
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Savana Cargo 2500",
+      "new": {
+        "year": "2027",
+        "price": 42700,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Savana Cargo 3500",
+      "new": {
+        "year": "2027",
+        "price": 46650,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Savana Passenger",
+      "new": {
+        "year": "2027",
+        "price": 47950,
+        "status": "Current U.S. retail model",
+        "trim_count": 0
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Savana Passenger 2500",
+      "new": {
+        "year": "2027",
+        "price": 48550,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Savana Passenger 3500",
+      "new": {
+        "year": "2027",
+        "price": 49750,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Sierra 1500",
+      "new": {
+        "year": "2026",
+        "price": 38300,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Sierra 2500HD",
+      "new": {
+        "year": "2026",
+        "price": 47000,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Sierra 3500HD",
+      "new": {
+        "year": "2026",
+        "price": 47900,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Sierra 3500HD Chassis Cab",
+      "new": {
+        "year": "2026",
+        "price": 47500,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Sierra EV",
+      "new": {
+        "year": "2026",
+        "price": 62400,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Sierra HD",
+      "new": {
+        "year": "2027",
+        "price": 47000,
+        "status": "Current U.S. retail model",
+        "trim_count": 0
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Terrain",
+      "new": {
+        "year": "2027",
+        "price": 30400,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Yukon",
+      "new": {
+        "year": "2026",
+        "price": 69600,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "GMC",
+      "model": "Yukon XL",
+      "new": {
+        "year": "2026",
+        "price": 72600,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Genesis",
+      "model": "Electrified GV70",
+      "new": {
+        "year": "2027",
+        "price": 58500,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Genesis",
+      "model": "G70",
+      "new": {
+        "year": "2026",
+        "price": 43450,
+        "status": "Current U.S. retail model",
+        "trim_count": 8
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Genesis",
+      "model": "G80",
+      "new": {
+        "year": "2027",
+        "price": 59450,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Genesis",
+      "model": "G90",
+      "new": {
+        "year": "2026",
+        "price": 92700,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Genesis",
+      "model": "GV60",
+      "new": {
+        "year": "2027",
+        "price": 46250,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Genesis",
+      "model": "GV60 Magma",
+      "new": {
+        "year": "2027",
+        "price": 69950,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Genesis",
+      "model": "GV70",
+      "new": {
+        "year": "2027",
+        "price": 49350,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Genesis",
+      "model": "GV80",
+      "new": {
+        "year": "2027",
+        "price": 58850,
+        "status": "Current U.S. retail model",
+        "trim_count": 8
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Genesis",
+      "model": "GV80 Coupe",
+      "new": {
+        "year": "2027",
+        "price": 77200,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "Accord",
+      "new": {
+        "year": "2026",
+        "price": 28395,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "CR-V",
+      "new": {
+        "year": "2027",
+        "price": 31520,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "CR-V e:FCEV",
+      "new": {
+        "year": "2026",
+        "price": 50000,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "Civic Hatchback",
+      "new": {
+        "year": "2026",
+        "price": 27895,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "Civic Sedan",
+      "new": {
+        "year": "2026",
+        "price": 24695,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "Civic Si",
+      "new": {
+        "year": "2026",
+        "price": 31495,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "Civic Type R",
+      "new": {
+        "year": "2026",
+        "price": 47395,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "HR-V",
+      "new": {
+        "year": "2027",
+        "price": 26600,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "Odyssey",
+      "new": {
+        "year": "2027",
+        "price": 43195,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "Passport",
+      "new": {
+        "year": "2026",
+        "price": 44950,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "Pilot",
+      "new": {
+        "year": "2026",
+        "price": 42395,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "Prelude",
+      "new": {
+        "year": "2027",
+        "price": 42400,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "Prologue",
+      "new": {
+        "year": "2026",
+        "price": 39900,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Honda",
+      "model": "Ridgeline",
+      "new": {
+        "year": "2026",
+        "price": 40795,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "new": {
+        "year": "2026",
+        "price": 22825,
+        "status": "Current U.S. retail model",
+        "trim_count": 9
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Hyundai",
+      "model": "IONIQ 5",
+      "new": {
+        "year": "2026",
+        "price": 35000,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Hyundai",
+      "model": "IONIQ 5 N",
+      "new": {
+        "year": "2026",
+        "price": 59900,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Hyundai",
+      "model": "IONIQ 6",
+      "new": {
+        "year": "2025",
+        "price": 37850,
+        "status": "Current Hyundai USA listed model year during verification",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Hyundai",
+      "model": "IONIQ 9",
+      "new": {
+        "year": "2026",
+        "price": 58955,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Hyundai",
+      "model": "Kona",
+      "new": {
+        "year": "2026",
+        "price": 25500,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
+      "new": {
+        "year": "2025",
+        "price": 32975,
+        "status": "Current Hyundai USA listed model year during verification",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Hyundai",
+      "model": "Palisade",
+      "new": {
+        "year": "2027",
+        "price": 39735,
+        "status": "Current U.S. retail model",
+        "trim_count": 11
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Hyundai",
+      "model": "Santa Cruz",
+      "new": {
+        "year": "2026",
+        "price": 29750,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Hyundai",
+      "model": "Santa Fe",
+      "new": {
+        "year": "2027",
+        "price": 35300,
+        "status": "Current U.S. retail model",
+        "trim_count": 9
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Hyundai",
+      "model": "Sonata",
+      "new": {
+        "year": "2026",
+        "price": 27450,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Hyundai",
+      "model": "Tucson",
+      "new": {
+        "year": "2026",
+        "price": 29700,
+        "status": "Current U.S. retail model",
+        "trim_count": 12
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Hyundai",
+      "model": "Venue",
+      "new": {
+        "year": "2026",
+        "price": 20550,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Jeep",
+      "model": "Cherokee",
+      "new": {
+        "year": "2026",
+        "price": 35000,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Jeep",
+      "model": "Compass",
+      "new": {
+        "year": "2026",
+        "price": 29550,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Jeep",
+      "model": "Gladiator",
+      "new": {
+        "year": "2026",
+        "price": 39820,
+        "status": "Current U.S. retail model",
+        "trim_count": 12
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Jeep",
+      "model": "Grand Cherokee",
+      "new": {
+        "year": "2026",
+        "price": 39515,
+        "status": "Current U.S. retail model",
+        "trim_count": 12
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Jeep",
+      "model": "Grand Wagoneer",
+      "new": {
+        "year": "2026",
+        "price": 64690,
+        "status": "Current U.S. retail model",
+        "trim_count": 9
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Jeep",
+      "model": "Recon",
+      "new": {
+        "year": "2026",
+        "price": 66995,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Jeep",
+      "model": "Wagoneer S",
+      "new": {
+        "year": "2026",
+        "price": 65200,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "new": {
+        "year": "2026",
+        "price": 36035,
+        "status": "Current U.S. retail model",
+        "trim_count": 11
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Jeep",
+      "model": "Wrangler 4xe",
+      "new": {
+        "year": "2026",
+        "price": null,
+        "status": "Current U.S. retail model",
+        "trim_count": 0
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Kia",
+      "model": "Carnival",
+      "new": {
+        "year": "2027",
+        "price": 37490,
+        "status": "Current U.S. retail model",
+        "trim_count": 9
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Kia",
+      "model": "EV3",
+      "new": {
+        "year": "2027",
+        "price": 29890,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Kia",
+      "model": "EV6",
+      "new": {
+        "year": "2026",
+        "price": 37900,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Kia",
+      "model": "EV9",
+      "new": {
+        "year": "2026",
+        "price": 54900,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Kia",
+      "model": "K4",
+      "new": {
+        "year": "2026",
+        "price": 22290,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Kia",
+      "model": "K4 Hatchback",
+      "new": {
+        "year": "2026",
+        "price": 24990,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Kia",
+      "model": "K5",
+      "new": {
+        "year": "2027",
+        "price": 27690,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Kia",
+      "model": "Niro",
+      "new": {
+        "year": "2027",
+        "price": 29890,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Kia",
+      "model": "Niro EV",
+      "new": {
+        "year": "2026",
+        "price": 39700,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Kia",
+      "model": "Seltos",
+      "new": {
+        "year": "2027",
+        "price": 24990,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Kia",
+      "model": "Sorento",
+      "new": {
+        "year": "2026",
+        "price": 32390,
+        "status": "Current U.S. retail model",
+        "trim_count": 12
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Kia",
+      "model": "Sportage",
+      "new": {
+        "year": "2027",
+        "price": 28990,
+        "status": "Current U.S. retail model",
+        "trim_count": 13
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Kia",
+      "model": "Telluride",
+      "new": {
+        "year": "2027",
+        "price": 39190,
+        "status": "Current U.S. retail model",
+        "trim_count": 15
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Land Rover",
+      "model": "Defender",
+      "new": {
+        "year": "2027",
+        "price": 61000,
+        "status": "Current U.S. retail model",
+        "trim_count": 12
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Land Rover",
+      "model": "Discovery",
+      "new": {
+        "year": "2026",
+        "price": 64900,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Land Rover",
+      "model": "Discovery Sport",
+      "new": {
+        "year": "2026",
+        "price": 49900,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Land Rover",
+      "model": "Range Rover",
+      "new": {
+        "year": "2026",
+        "price": 113300,
+        "status": "Current U.S. retail model",
+        "trim_count": 13
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Land Rover",
+      "model": "Range Rover Evoque",
+      "new": {
+        "year": "2026",
+        "price": 49900,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Land Rover",
+      "model": "Range Rover Sport",
+      "new": {
+        "year": "2026",
+        "price": 83700,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Land Rover",
+      "model": "Range Rover Velar",
+      "new": {
+        "year": "2026",
+        "price": 61600,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Lexus",
+      "model": "ES",
+      "new": {
+        "year": "2027",
+        "price": 49005,
+        "status": "Current U.S. retail model",
+        "trim_count": 8
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Lexus",
+      "model": "GX",
+      "new": {
+        "year": "2026",
+        "price": 68335,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Lexus",
+      "model": "IS",
+      "new": {
+        "year": "2026",
+        "price": 46895,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Lexus",
+      "model": "LC",
+      "new": {
+        "year": "2026",
+        "price": 101800,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Lexus",
+      "model": "LS",
+      "new": {
+        "year": "2026",
+        "price": 99380,
+        "status": "Final model year; limited to 250 U.S. units",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Lexus",
+      "model": "LX",
+      "new": {
+        "year": "2026",
+        "price": 108050,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Lexus",
+      "model": "NX",
+      "new": {
+        "year": "2026",
+        "price": 45570,
+        "status": "Current U.S. retail model",
+        "trim_count": 15
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Lexus",
+      "model": "RX",
+      "new": {
+        "year": "2026",
+        "price": 52775,
+        "status": "Current U.S. retail model",
+        "trim_count": 19
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Lexus",
+      "model": "RZ",
+      "new": {
+        "year": "2026",
+        "price": 47395,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Lexus",
+      "model": "TX",
+      "new": {
+        "year": "2026",
+        "price": 58690,
+        "status": "Current U.S. retail model",
+        "trim_count": 10
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Lexus",
+      "model": "UX",
+      "new": {
+        "year": "2026",
+        "price": 38850,
+        "status": "Current U.S. retail model",
+        "trim_count": 8
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mazda",
+      "model": "CX-30",
+      "new": {
+        "year": "2026",
+        "price": 26375,
+        "status": "Current U.S. retail model",
+        "trim_count": 8
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mazda",
+      "model": "CX-5",
+      "new": {
+        "year": "2026",
+        "price": 29990,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mazda",
+      "model": "CX-50",
+      "new": {
+        "year": "2026",
+        "price": 29900,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mazda",
+      "model": "CX-50 Hybrid",
+      "new": {
+        "year": "2026",
+        "price": 34750,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mazda",
+      "model": "CX-70",
+      "new": {
+        "year": "2026",
+        "price": 42750,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mazda",
+      "model": "CX-70 PHEV",
+      "new": {
+        "year": "2026",
+        "price": 44450,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mazda",
+      "model": "CX-90",
+      "new": {
+        "year": "2026",
+        "price": 39300,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mazda",
+      "model": "CX-90 PHEV",
+      "new": {
+        "year": "2026",
+        "price": 50695,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mazda",
+      "model": "MX-5 Miata",
+      "new": {
+        "year": "2026",
+        "price": 30430,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mazda",
+      "model": "MX-5 Miata RF",
+      "new": {
+        "year": "2026",
+        "price": 38450,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mazda",
+      "model": "Mazda3",
+      "new": {
+        "year": "2027",
+        "price": 24650,
+        "status": "Current U.S. retail model",
+        "trim_count": 0
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mazda",
+      "model": "Mazda3 Hatchback",
+      "new": {
+        "year": "2026",
+        "price": 25650,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mazda",
+      "model": "Mazda3 Sedan",
+      "new": {
+        "year": "2026",
+        "price": 24650,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "AMG GT Coupe",
+      "new": {
+        "year": "2027",
+        "price": 108850,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "new": {
+        "year": "2027",
+        "price": 49650,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "CLA",
+      "new": {
+        "year": "2027",
+        "price": 43900,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "CLE Cabriolet",
+      "new": {
+        "year": "2027",
+        "price": 69400,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "CLE Coupe",
+      "new": {
+        "year": "2027",
+        "price": 60900,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "E-Class",
+      "new": {
+        "year": "2027",
+        "price": 65200,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "E-Class Wagon",
+      "new": {
+        "year": "2027",
+        "price": 80000,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "EQB",
+      "new": {
+        "year": "2025",
+        "price": 53050,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "EQE SUV",
+      "new": {
+        "year": "2026",
+        "price": 64950,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "EQE Sedan",
+      "new": {
+        "year": "2026",
+        "price": 64950,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "EQS SUV",
+      "new": {
+        "year": "2026",
+        "price": 89950,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "EQS Sedan",
+      "new": {
+        "year": "2026",
+        "price": 101450,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "G-Class",
+      "new": {
+        "year": "2027",
+        "price": 153900,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "GLA",
+      "new": {
+        "year": "2027",
+        "price": 41500,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "GLB",
+      "new": {
+        "year": "2027",
+        "price": 43800,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "GLC",
+      "new": {
+        "year": "2027",
+        "price": 52400,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "GLC Coupe",
+      "new": {
+        "year": "2027",
+        "price": 62950,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "GLC Electric",
+      "new": {
+        "year": "2027",
+        "price": 63500,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "GLE Coupe",
+      "new": {
+        "year": "2027",
+        "price": 81200,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "GLE SUV",
+      "new": {
+        "year": "2027",
+        "price": 68400,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "GLS",
+      "new": {
+        "year": "2027",
+        "price": 90250,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach EQS SUV",
+      "new": {
+        "year": "2026",
+        "price": 180000,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach GLS",
+      "new": {
+        "year": "2027",
+        "price": 180000,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach S-Class",
+      "new": {
+        "year": "2027",
+        "price": null,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "S-Class",
+      "new": {
+        "year": "2027",
+        "price": 112550,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Mercedes-Benz",
+      "model": "SL Roadster",
+      "new": {
+        "year": "2027",
+        "price": 114900,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Nissan",
+      "model": "Altima",
+      "new": {
+        "year": "2026",
+        "price": 27580,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Nissan",
+      "model": "Armada",
+      "new": {
+        "year": "2026",
+        "price": 58840,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Nissan",
+      "model": "Frontier",
+      "new": {
+        "year": "2026",
+        "price": 33550,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Nissan",
+      "model": "Kicks",
+      "new": {
+        "year": "2027",
+        "price": 22790,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Nissan",
+      "model": "LEAF",
+      "new": {
+        "year": "2026",
+        "price": 29990,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Nissan",
+      "model": "Murano",
+      "new": {
+        "year": "2027",
+        "price": 43990,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Nissan",
+      "model": "Nissan Z",
+      "new": {
+        "year": "2027",
+        "price": 44480,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Nissan",
+      "model": "Pathfinder",
+      "new": {
+        "year": "2026",
+        "price": 39990,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Nissan",
+      "model": "Rogue",
+      "new": {
+        "year": "2026",
+        "price": 29490,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Nissan",
+      "model": "Rogue Plug-in Hybrid",
+      "new": {
+        "year": "2026",
+        "price": 45990,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Nissan",
+      "model": "Sentra",
+      "new": {
+        "year": "2027",
+        "price": 22890,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Nissan",
+      "model": "Versa",
+      "new": {
+        "year": "2025",
+        "price": 17390,
+        "status": "Current Nissan USA listed model year during verification",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Porsche",
+      "model": "718",
+      "new": {
+        "year": "2025",
+        "price": 75400,
+        "status": "Current U.S. retail model",
+        "trim_count": 10
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Porsche",
+      "model": "911",
+      "new": {
+        "year": "2026",
+        "price": 135500,
+        "status": "Current U.S. retail model",
+        "trim_count": 23
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Porsche",
+      "model": "Cayenne",
+      "new": {
+        "year": "2027",
+        "price": 89900,
+        "status": "Current U.S. retail model",
+        "trim_count": 13
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Porsche",
+      "model": "Cayenne Electric",
+      "new": {
+        "year": "2026",
+        "price": 109000,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Porsche",
+      "model": "Macan",
+      "new": {
+        "year": "2026",
+        "price": 65400,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Porsche",
+      "model": "Macan Electric",
+      "new": {
+        "year": "2027",
+        "price": 80300,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Porsche",
+      "model": "Panamera",
+      "new": {
+        "year": "2027",
+        "price": 113000,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Porsche",
+      "model": "Taycan",
+      "new": {
+        "year": "2027",
+        "price": 111900,
+        "status": "Current U.S. retail model",
+        "trim_count": 8
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ram",
+      "model": "Ram 1500",
+      "new": {
+        "year": "2026",
+        "price": 42025,
+        "status": "Current U.S. retail model",
+        "trim_count": 10
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ram",
+      "model": "Ram 1500 REV",
+      "new": {
+        "year": "2026",
+        "price": null,
+        "status": "Preproduction / projected 2026 availability",
+        "trim_count": 0
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ram",
+      "model": "Ram 2500",
+      "new": {
+        "year": "2026",
+        "price": 46855,
+        "status": "Current U.S. retail model",
+        "trim_count": 9
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ram",
+      "model": "Ram 3500",
+      "new": {
+        "year": "2026",
+        "price": 48155,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ram",
+      "model": "Ram Chassis Cab",
+      "new": {
+        "year": "2026",
+        "price": 48605,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ram",
+      "model": "Ram ProMaster",
+      "new": {
+        "year": "2026",
+        "price": 49065,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Ram",
+      "model": "Ram ProMaster EV",
+      "new": {
+        "year": "2026",
+        "price": 56495,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Subaru",
+      "model": "Ascent",
+      "new": {
+        "year": "2027",
+        "price": 40795,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Subaru",
+      "model": "BRZ",
+      "new": {
+        "year": "2027",
+        "price": 36140,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Subaru",
+      "model": "Crosstrek",
+      "new": {
+        "year": "2026",
+        "price": 26995,
+        "status": "Current U.S. retail model",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Subaru",
+      "model": "Forester",
+      "new": {
+        "year": "2026",
+        "price": 29995,
+        "status": "Current U.S. retail model",
+        "trim_count": 10
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Subaru",
+      "model": "Impreza",
+      "new": {
+        "year": "2026",
+        "price": 26595,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Subaru",
+      "model": "Outback",
+      "new": {
+        "year": "2026",
+        "price": 34995,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Subaru",
+      "model": "Solterra",
+      "new": {
+        "year": "2026",
+        "price": 38495,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Subaru",
+      "model": "Trailseeker",
+      "new": {
+        "year": "2026",
+        "price": 39995,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Subaru",
+      "model": "Uncharted",
+      "new": {
+        "year": "2027",
+        "price": 34995,
+        "status": "Current U.S. retail model",
+        "trim_count": 0
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Subaru",
+      "model": "WRX",
+      "new": {
+        "year": "2026",
+        "price": 32495,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Tesla",
+      "model": "Cybertruck",
+      "new": {
+        "year": "",
+        "price": 74990,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Tesla",
+      "model": "Model 3",
+      "new": {
+        "year": "",
+        "price": 36990,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Tesla",
+      "model": "Model Y",
+      "new": {
+        "year": "",
+        "price": 39990,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "4Runner",
+      "new": {
+        "year": "2026",
+        "price": 42270,
+        "status": "Current U.S. retail model",
+        "trim_count": 12
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "C-HR",
+      "new": {
+        "year": "2027",
+        "price": 37080,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Camry",
+      "new": {
+        "year": "2026",
+        "price": 29600,
+        "status": "Current U.S. retail model",
+        "trim_count": 10
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "new": {
+        "year": "2027",
+        "price": 23325,
+        "status": "Current U.S. retail model",
+        "trim_count": 8
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Corolla Cross",
+      "new": {
+        "year": "2026",
+        "price": 25335,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Corolla Hatchback",
+      "new": {
+        "year": "2027",
+        "price": 24780,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "GR Corolla",
+      "new": {
+        "year": "2026",
+        "price": 40520,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "GR Supra",
+      "new": {
+        "year": "2026",
+        "price": 58300,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "GR86",
+      "new": {
+        "year": "2027",
+        "price": 31500,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Grand Highlander",
+      "new": {
+        "year": "2026",
+        "price": 42260,
+        "status": "Current U.S. retail model",
+        "trim_count": 10
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Highlander",
+      "new": {
+        "year": "2026",
+        "price": 46270,
+        "status": "Current priced Toyota retail lineup at verification; Toyota has announced a 2027 model year but a complete 2027 grade-price table was not surfaced on the official retail page during verification.",
+        "trim_count": 7
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "new": {
+        "year": "2027",
+        "price": 58080,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Mirai",
+      "new": {
+        "year": "2026",
+        "price": 51795,
+        "status": "Regional hydrogen fuel-cell vehicle availability; Toyota currently publishes one U.S. Mirai grade.",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Prius",
+      "new": {
+        "year": "2027",
+        "price": 28755,
+        "status": "Current U.S. retail model",
+        "trim_count": 8
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Prius Plug-in Hybrid",
+      "new": {
+        "year": "2027",
+        "price": 33980,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "RAV4",
+      "new": {
+        "year": "2026",
+        "price": 31900,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "RAV4 Plug-in Hybrid",
+      "new": {
+        "year": "2026",
+        "price": 41500,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Sequoia",
+      "new": {
+        "year": "2026",
+        "price": 65725,
+        "status": "Current priced Toyota retail lineup at verification; Toyota lists a 2027 Sequoia in model-year news, but a complete 2027 retail grade-price table was not surfaced during verification.",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Sienna",
+      "new": {
+        "year": "2026",
+        "price": 41320,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Tacoma",
+      "new": {
+        "year": "2026",
+        "price": 32545,
+        "status": "Current U.S. retail model",
+        "trim_count": 8
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Toyota Crown",
+      "new": {
+        "year": "2027",
+        "price": 41640,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Toyota Crown Signia",
+      "new": {
+        "year": "2026",
+        "price": 44690,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "Tundra",
+      "new": {
+        "year": "2026",
+        "price": 41260,
+        "status": "Current priced Toyota retail lineup at verification; Toyota lists a 2027 Tundra in model-year news, but a complete 2027 retail grade-price table was not surfaced during verification.",
+        "trim_count": 10
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "bZ",
+      "new": {
+        "year": "2027",
+        "price": 34980,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Toyota",
+      "model": "bZ Woodland",
+      "new": {
+        "year": "2027",
+        "price": 45380,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volkswagen",
+      "model": "Atlas",
+      "new": {
+        "year": "2026",
+        "price": 39310,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volkswagen",
+      "model": "Atlas Cross Sport",
+      "new": {
+        "year": "2026",
+        "price": 38300,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volkswagen",
+      "model": "Golf GTI",
+      "new": {
+        "year": "2026",
+        "price": 34590,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volkswagen",
+      "model": "Golf R",
+      "new": {
+        "year": "2026",
+        "price": 49455,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volkswagen",
+      "model": "ID. Buzz",
+      "new": {
+        "year": "2025",
+        "price": 59995,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volkswagen",
+      "model": "ID.4",
+      "new": {
+        "year": "2026",
+        "price": 45095,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volkswagen",
+      "model": "Jetta",
+      "new": {
+        "year": "2027",
+        "price": 23995,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volkswagen",
+      "model": "Jetta GLI",
+      "new": {
+        "year": "2027",
+        "price": 33795,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volkswagen",
+      "model": "Taos",
+      "new": {
+        "year": "2027",
+        "price": 26500,
+        "status": "Current U.S. retail model",
+        "trim_count": 5
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volkswagen",
+      "model": "Tiguan",
+      "new": {
+        "year": "2026",
+        "price": 30805,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volvo",
+      "model": "EX30",
+      "new": {
+        "year": "2026",
+        "price": 40345,
+        "status": "Current U.S. retail model",
+        "trim_count": 3
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volvo",
+      "model": "EX40",
+      "new": {
+        "year": "2026",
+        "price": 56545,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volvo",
+      "model": "EX90",
+      "new": {
+        "year": "2026",
+        "price": 78090,
+        "status": "Current U.S. retail model",
+        "trim_count": 2
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volvo",
+      "model": "V60 Cross Country",
+      "new": {
+        "year": "2026",
+        "price": 48695,
+        "status": "Current U.S. retail model",
+        "trim_count": 1
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volvo",
+      "model": "XC40",
+      "new": {
+        "year": "2026",
+        "price": 41295,
+        "status": "Current U.S. retail model",
+        "trim_count": 4
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volvo",
+      "model": "XC60",
+      "new": {
+        "year": "2026",
+        "price": 51095,
+        "status": "Current U.S. retail model",
+        "trim_count": 9
+      }
+    },
+    {
+      "detected_at": "2026-09-14T13:53:50+00:00",
+      "type": "model_added",
+      "brand": "Volvo",
+      "model": "XC90",
+      "new": {
+        "year": "2026",
+        "price": 62445,
+        "status": "Current U.S. retail model",
+        "trim_count": 6
+      }
+    }
+  ]
+}

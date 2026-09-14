@@ -1,0 +1,157 @@
+{
+  "generated": "2026-09-14T13:53:50+00:00",
+  "count": 3,
+  "cars": [
+    {
+      "id": "spec-audi-nuvolari",
+      "brand": "Audi",
+      "model": "Nuvolari",
+      "year": "2027",
+      "market": "US",
+      "status": "Limited-production U.S. launch planned for 2027; pricing not yet announced",
+      "upcoming": true,
+      "body": "New model",
+      "body_group": "New model",
+      "powertrain": "Electrified / see official details",
+      "fuel_types": [
+        "Gas"
+      ],
+      "drivetrain": "See official details",
+      "seating": "See official details",
+      "starting_price": null,
+      "starting_price_text": "Price not announced",
+      "trim_count": 1,
+      "trims": [
+        {
+          "name": "Nuvolari",
+          "msrp": null,
+          "powertrain": "High-performance hybrid",
+          "drivetrain": ""
+        }
+      ],
+      "key_detail": "New Audi model; specifications per launch configurator",
+      "image": "",
+      "source": "https://www.audiusa.com/en/models/nuvolari/intro/",
+      "verified_on": "",
+      "specs": {},
+      "url": "/search/label/Audi#usmodel=Nuvolari",
+      "route_type": "database-hash",
+      "search_text": "audi nuvolari 2027 new model new model electrified / see official details see official details limited-production u.s. launch planned for 2027; pricing not yet announced new audi model; specifications per launch configurator"
+    },
+    {
+      "id": "spec-mercedes-benz-mercedes-maybach-s-class",
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach S-Class",
+      "year": "2027",
+      "market": "US",
+      "status": "Current U.S. retail model",
+      "upcoming": true,
+      "body": "Ultra-luxury sedan",
+      "body_group": "Sedan",
+      "powertrain": "Turbo gas / electrified",
+      "fuel_types": [
+        "Gas"
+      ],
+      "drivetrain": "AWD",
+      "seating": "4–5",
+      "starting_price": null,
+      "starting_price_text": "Price coming soon",
+      "trim_count": 2,
+      "trims": [
+        {
+          "name": "Mercedes-Maybach S 580 4MATIC",
+          "msrp": null,
+          "powertrain": "",
+          "drivetrain": "AWD"
+        },
+        {
+          "name": "Mercedes-Maybach S 680 4MATIC",
+          "msrp": null,
+          "powertrain": "",
+          "drivetrain": "AWD"
+        }
+      ],
+      "key_detail": "Maybach flagship sedan",
+      "image": "",
+      "source": "https://www.mbusa.com/en/vehicles/class/maybach-s-class/sedan",
+      "verified_on": "",
+      "specs": {},
+      "url": "/search/label/Mercedes-Benz#usmodel=Mercedes-Maybach%20S-Class",
+      "route_type": "database-hash",
+      "search_text": "mercedes-benz mercedes-maybach s-class 2027 ultra-luxury sedan sedan turbo gas / electrified awd current u.s. retail model maybach flagship sedan"
+    },
+    {
+      "id": "spec-toyota-highlander",
+      "brand": "Toyota",
+      "model": "Highlander",
+      "year": "2026",
+      "market": "US",
+      "status": "Current priced Toyota retail lineup at verification; Toyota has announced a 2027 model year but a complete 2027 grade-price table was not surfaced on the official retail page during verification.",
+      "upcoming": true,
+      "body": "Three-row SUV",
+      "body_group": "SUV / Crossover",
+      "powertrain": "Gas / Hybrid",
+      "fuel_types": [
+        "Hybrid",
+        "Gas"
+      ],
+      "drivetrain": "FWD / AWD",
+      "seating": "7–8",
+      "starting_price": 46270,
+      "starting_price_text": "$46,270",
+      "trim_count": 7,
+      "trims": [
+        {
+          "name": "XLE",
+          "msrp": 46270,
+          "powertrain": "Gas",
+          "drivetrain": "AWD"
+        },
+        {
+          "name": "XSE",
+          "msrp": 48340,
+          "powertrain": "Gas",
+          "drivetrain": "AWD"
+        },
+        {
+          "name": "Limited",
+          "msrp": 50725,
+          "powertrain": "Gas",
+          "drivetrain": "AWD"
+        },
+        {
+          "name": "Platinum",
+          "msrp": 53925,
+          "powertrain": "Gas",
+          "drivetrain": "AWD"
+        },
+        {
+          "name": "Hybrid XLE",
+          "msrp": 48020,
+          "powertrain": "Hybrid",
+          "drivetrain": "AWD"
+        },
+        {
+          "name": "Hybrid Limited",
+          "msrp": 52475,
+          "powertrain": "Hybrid",
+          "drivetrain": "AWD"
+        },
+        {
+          "name": "Hybrid Platinum",
+          "msrp": 55675,
+          "powertrain": "Hybrid",
+          "drivetrain": "AWD"
+        }
+      ],
+      "key_detail": "Three-row midsize SUV",
+      "image": "",
+      "source": "https://www.toyota.com/highlander/",
+      "verified_on": "",
+      "specs": {},
+      "url": "/search/label/Toyota#usmodel=Highlander",
+      "route_type": "database-hash",
+      "search_text": "toyota highlander 2026 three-row suv suv / crossover gas / hybrid fwd / awd current priced toyota retail lineup at verification; toyota has announced a 2027 model year but a complete 2027 grade-price table was not surfaced on the official retail page during verification. three-row midsize suv"
+    }
+  ]
+}

@@ -10,6 +10,7 @@ on:
       - 'data/db/**'
       - 'data/v4/**'
       - 'scripts/generate_database_catalog.py'
+      - 'scripts/postprocess_catalog.py'
       - '.github/workflows/build-database-catalog.yml'
 
 permissions:
@@ -27,6 +28,8 @@ jobs:
           python-version: '3.12'
       - name: Build database catalog, upcoming index and compare index
         run: python scripts/generate_database_catalog.py
+      - name: Apply conservative catalog policy
+        run: python scripts/postprocess_catalog.py
       - name: Validate generated JSON
         run: |
           python - <<'PY'

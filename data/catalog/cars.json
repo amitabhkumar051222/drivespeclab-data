@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-14T13:53:50+00:00",
+  "generated": "2026-09-14T13:58:19+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
-  "upcoming_count": 3,
+  "upcoming_count": 2,
   "facets": {
     "brands": [
       "Audi",
@@ -406,9 +406,7 @@
       "body": "New model",
       "body_group": "New model",
       "powertrain": "Electrified / see official details",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "See official details",
       "seating": "See official details",
       "starting_price": null,
@@ -12962,9 +12960,7 @@
       "body": "Electrified full-size pickup",
       "body_group": "Pickup / Truck",
       "powertrain": "Range-extended / electrified",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "4WD",
       "seating": "5",
       "starting_price": null,
@@ -14765,7 +14761,7 @@
       "year": "2026",
       "market": "US",
       "status": "Current priced Toyota retail lineup at verification; Toyota has announced a 2027 model year but a complete 2027 grade-price table was not surfaced on the official retail page during verification.",
-      "upcoming": true,
+      "upcoming": false,
       "body": "Three-row SUV",
       "body_group": "SUV / Crossover",
       "powertrain": "Gas / Hybrid",

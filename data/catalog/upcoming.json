@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-14T13:53:50+00:00",
-  "count": 3,
+  "generated": "2026-09-14T13:58:19+00:00",
+  "count": 2,
   "cars": [
     {
       "id": "spec-audi-nuvolari",
@@ -13,9 +13,7 @@
       "body": "New model",
       "body_group": "New model",
       "powertrain": "Electrified / see official details",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "See official details",
       "seating": "See official details",
       "starting_price": null,
@@ -79,79 +77,6 @@
       "url": "/search/label/Mercedes-Benz#usmodel=Mercedes-Maybach%20S-Class",
       "route_type": "database-hash",
       "search_text": "mercedes-benz mercedes-maybach s-class 2027 ultra-luxury sedan sedan turbo gas / electrified awd current u.s. retail model maybach flagship sedan"
-    },
-    {
-      "id": "spec-toyota-highlander",
-      "brand": "Toyota",
-      "model": "Highlander",
-      "year": "2026",
-      "market": "US",
-      "status": "Current priced Toyota retail lineup at verification; Toyota has announced a 2027 model year but a complete 2027 grade-price table was not surfaced on the official retail page during verification.",
-      "upcoming": true,
-      "body": "Three-row SUV",
-      "body_group": "SUV / Crossover",
-      "powertrain": "Gas / Hybrid",
-      "fuel_types": [
-        "Hybrid",
-        "Gas"
-      ],
-      "drivetrain": "FWD / AWD",
-      "seating": "7–8",
-      "starting_price": 46270,
-      "starting_price_text": "$46,270",
-      "trim_count": 7,
-      "trims": [
-        {
-          "name": "XLE",
-          "msrp": 46270,
-          "powertrain": "Gas",
-          "drivetrain": "AWD"
-        },
-        {
-          "name": "XSE",
-          "msrp": 48340,
-          "powertrain": "Gas",
-          "drivetrain": "AWD"
-        },
-        {
-          "name": "Limited",
-          "msrp": 50725,
-          "powertrain": "Gas",
-          "drivetrain": "AWD"
-        },
-        {
-          "name": "Platinum",
-          "msrp": 53925,
-          "powertrain": "Gas",
-          "drivetrain": "AWD"
-        },
-        {
-          "name": "Hybrid XLE",
-          "msrp": 48020,
-          "powertrain": "Hybrid",
-          "drivetrain": "AWD"
-        },
-        {
-          "name": "Hybrid Limited",
-          "msrp": 52475,
-          "powertrain": "Hybrid",
-          "drivetrain": "AWD"
-        },
-        {
-          "name": "Hybrid Platinum",
-          "msrp": 55675,
-          "powertrain": "Hybrid",
-          "drivetrain": "AWD"
-        }
-      ],
-      "key_detail": "Three-row midsize SUV",
-      "image": "",
-      "source": "https://www.toyota.com/highlander/",
-      "verified_on": "",
-      "specs": {},
-      "url": "/search/label/Toyota#usmodel=Highlander",
-      "route_type": "database-hash",
-      "search_text": "toyota highlander 2026 three-row suv suv / crossover gas / hybrid fwd / awd current priced toyota retail lineup at verification; toyota has announced a 2027 model year but a complete 2027 grade-price table was not surfaced on the official retail page during verification. three-row midsize suv"
     }
   ]
 }

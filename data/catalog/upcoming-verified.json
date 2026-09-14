@@ -1,0 +1,46 @@
+{
+  "generated": "2026-09-14",
+  "policy": "official-us-sources-only",
+  "count": 3,
+  "cars": [
+    {
+      "brand": "Toyota",
+      "model": "Highlander",
+      "year": "2027",
+      "status": "Official upcoming U.S. model",
+      "headline": "All-new, all-electric 2027 Highlander",
+      "powertrain": "Battery electric",
+      "price_text": "Price not announced",
+      "key_detail": "Three-row electric SUV; Toyota states up to 320 miles manufacturer-estimated range on XLE AWD and Limited AWD with the 95.8-kWh battery.",
+      "source": "https://www.toyota.com/upcoming-vehicles/highlander/",
+      "source_label": "Official Toyota preview",
+      "image": ""
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": "2027",
+      "status": "Official future U.S. model",
+      "headline": "New 2027 Mercedes-Benz S-Class Sedan",
+      "powertrain": "Mild-hybrid gas / plug-in hybrid",
+      "price_text": "Price coming soon",
+      "key_detail": "Mercedes-Benz USA says the 2027 S-Class will arrive in dealerships soon.",
+      "source": "https://www.mbusa.com/en/future-vehicles/2027-mercedes-benz-s-class-sedan",
+      "source_label": "Official Mercedes-Benz USA preview",
+      "image": ""
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach S-Class",
+      "year": "2027",
+      "status": "Official future U.S. model",
+      "headline": "New 2027 Mercedes-Maybach S-Class Sedan",
+      "powertrain": "V12 / electrified V8 mild hybrid",
+      "price_text": "Price coming soon",
+      "key_detail": "Mercedes-Benz USA states the 2027 Mercedes-Maybach S-Class Sedan arrives later this year.",
+      "source": "https://www.mbusa.com/en/future-vehicles/2027-mercedes-maybach-s-class-sedan",
+      "source_label": "Official Mercedes-Benz USA preview",
+      "image": ""
+    }
+  ]
+}

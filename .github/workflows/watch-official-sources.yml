@@ -1,0 +1,31 @@
+name: Watch official vehicle sources
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '41 4 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check official manufacturer pages for material changes
+        run: python scripts/watch_official_sources.py
+      - name: Commit monitoring state when changed
+        run: |
+          git config user.name 'DriveSpecLab Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add data/monitor/official-source-fingerprints.json data/monitor/pending-source-changes.json
+          if git diff --cached --quiet; then
+            echo 'No source-monitor changes.'
+          else
+            git commit -m 'Update official source monitor'
+            git push
+          fi

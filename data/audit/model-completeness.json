@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T15:55:35.175714+00:00",
+  "generated_at": "2026-09-15T16:31:14.178112+00:00",
   "policy": "Missing fields are reported only; no values are guessed.",
   "brands": {
     "Audi": {
@@ -5047,11 +5047,8 @@
           "gallery_count": 7,
           "gallery_complete": true,
           "missing_spec_sections": [
-            "efficiency",
             "range",
-            "dimensions",
-            "cargo",
-            "warranty"
+            "dimensions"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5066,8 +5063,7 @@
             "efficiency",
             "dimensions",
             "cargo",
-            "towing",
-            "warranty"
+            "towing"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5081,8 +5077,7 @@
             "transmission",
             "efficiency",
             "dimensions",
-            "cargo",
-            "warranty"
+            "cargo"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5096,8 +5091,7 @@
             "transmission",
             "efficiency",
             "dimensions",
-            "towing",
-            "warranty"
+            "towing"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5108,12 +5102,8 @@
           "gallery_complete": false,
           "missing_spec_sections": [
             "torque",
-            "efficiency",
             "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "warranty"
+            "towing"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5127,8 +5117,7 @@
             "range",
             "dimensions",
             "cargo",
-            "towing",
-            "warranty"
+            "towing"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5138,12 +5127,7 @@
           "gallery_count": 1,
           "gallery_complete": false,
           "missing_spec_sections": [
-            "torque",
-            "range",
-            "dimensions",
-            "cargo",
-            "technology",
-            "warranty"
+            "range"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5157,8 +5141,7 @@
             "range",
             "dimensions",
             "cargo",
-            "towing",
-            "warranty"
+            "towing"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5173,8 +5156,7 @@
             "dimensions",
             "cargo",
             "towing",
-            "technology",
-            "warranty"
+            "technology"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5190,8 +5172,7 @@
             "cargo",
             "towing",
             "technology",
-            "safety",
-            "warranty"
+            "safety"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5206,8 +5187,7 @@
             "dimensions",
             "cargo",
             "towing",
-            "technology",
-            "warranty"
+            "technology"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5221,23 +5201,17 @@
             "range",
             "dimensions",
             "cargo",
-            "technology",
-            "warranty"
+            "technology"
           ],
           "source_present": true,
           "trims_present": true,
           "fully_complete": false
         },
         "Highlander": {
-          "gallery_count": 0,
+          "gallery_count": 1,
           "gallery_complete": false,
           "missing_spec_sections": [
-            "transmission",
-            "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "warranty"
+            "range"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5252,8 +5226,7 @@
             "range",
             "dimensions",
             "cargo",
-            "technology",
-            "warranty"
+            "technology"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5266,24 +5239,19 @@
             "transmission",
             "efficiency",
             "dimensions",
-            "towing",
-            "warranty"
+            "towing"
           ],
           "source_present": true,
           "trims_present": true,
           "fully_complete": false
         },
         "Prius": {
-          "gallery_count": 0,
+          "gallery_count": 1,
           "gallery_complete": false,
           "missing_spec_sections": [
             "torque",
             "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology",
-            "warranty"
+            "towing"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5296,8 +5264,7 @@
             "torque",
             "dimensions",
             "cargo",
-            "towing",
-            "warranty"
+            "towing"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5311,8 +5278,7 @@
             "efficiency",
             "range",
             "dimensions",
-            "cargo",
-            "warranty"
+            "cargo"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5327,8 +5293,7 @@
             "efficiency",
             "dimensions",
             "cargo",
-            "towing",
-            "warranty"
+            "towing"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5341,8 +5306,7 @@
             "efficiency",
             "range",
             "dimensions",
-            "cargo",
-            "warranty"
+            "cargo"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5356,22 +5320,18 @@
             "efficiency",
             "range",
             "cargo",
-            "technology",
-            "warranty"
+            "technology"
           ],
           "source_present": true,
           "trims_present": true,
           "fully_complete": false
         },
         "Tacoma": {
-          "gallery_count": 0,
+          "gallery_count": 1,
           "gallery_complete": false,
           "missing_spec_sections": [
             "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "warranty"
+            "dimensions"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5387,8 +5347,7 @@
             "dimensions",
             "cargo",
             "towing",
-            "technology",
-            "warranty"
+            "technology"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5403,8 +5362,7 @@
             "transmission",
             "range",
             "dimensions",
-            "cargo",
-            "warranty"
+            "cargo"
           ],
           "source_present": true,
           "trims_present": true,
@@ -5418,8 +5376,7 @@
             "range",
             "dimensions",
             "cargo",
-            "technology",
-            "warranty"
+            "technology"
           ],
           "source_present": true,
           "trims_present": true,
@@ -10205,11 +10162,8 @@
       "brand": "Toyota",
       "model": "4Runner",
       "missing": [
-        "efficiency",
         "range",
-        "dimensions",
-        "cargo",
-        "warranty"
+        "dimensions"
       ]
     },
     {
@@ -10221,8 +10175,7 @@
         "efficiency",
         "dimensions",
         "cargo",
-        "towing",
-        "warranty"
+        "towing"
       ]
     },
     {
@@ -10233,8 +10186,7 @@
         "transmission",
         "efficiency",
         "dimensions",
-        "cargo",
-        "warranty"
+        "cargo"
       ]
     },
     {
@@ -10245,8 +10197,7 @@
         "transmission",
         "efficiency",
         "dimensions",
-        "towing",
-        "warranty"
+        "towing"
       ]
     },
     {
@@ -10254,12 +10205,8 @@
       "model": "Camry",
       "missing": [
         "torque",
-        "efficiency",
         "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "warranty"
+        "towing"
       ]
     },
     {
@@ -10270,20 +10217,14 @@
         "range",
         "dimensions",
         "cargo",
-        "towing",
-        "warranty"
+        "towing"
       ]
     },
     {
       "brand": "Toyota",
       "model": "Corolla Cross",
       "missing": [
-        "torque",
-        "range",
-        "dimensions",
-        "cargo",
-        "technology",
-        "warranty"
+        "range"
       ]
     },
     {
@@ -10294,8 +10235,7 @@
         "range",
         "dimensions",
         "cargo",
-        "towing",
-        "warranty"
+        "towing"
       ]
     },
     {
@@ -10307,8 +10247,7 @@
         "dimensions",
         "cargo",
         "towing",
-        "technology",
-        "warranty"
+        "technology"
       ]
     },
     {
@@ -10321,8 +10260,7 @@
         "cargo",
         "towing",
         "technology",
-        "safety",
-        "warranty"
+        "safety"
       ]
     },
     {
@@ -10334,8 +10272,7 @@
         "dimensions",
         "cargo",
         "towing",
-        "technology",
-        "warranty"
+        "technology"
       ]
     },
     {
@@ -10346,20 +10283,14 @@
         "range",
         "dimensions",
         "cargo",
-        "technology",
-        "warranty"
+        "technology"
       ]
     },
     {
       "brand": "Toyota",
       "model": "Highlander",
       "missing": [
-        "transmission",
-        "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "warranty"
+        "range"
       ]
     },
     {
@@ -10371,8 +10302,7 @@
         "range",
         "dimensions",
         "cargo",
-        "technology",
-        "warranty"
+        "technology"
       ]
     },
     {
@@ -10382,8 +10312,7 @@
         "transmission",
         "efficiency",
         "dimensions",
-        "towing",
-        "warranty"
+        "towing"
       ]
     },
     {
@@ -10392,11 +10321,7 @@
       "missing": [
         "torque",
         "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology",
-        "warranty"
+        "towing"
       ]
     },
     {
@@ -10406,8 +10331,7 @@
         "torque",
         "dimensions",
         "cargo",
-        "towing",
-        "warranty"
+        "towing"
       ]
     },
     {
@@ -10418,8 +10342,7 @@
         "efficiency",
         "range",
         "dimensions",
-        "cargo",
-        "warranty"
+        "cargo"
       ]
     },
     {
@@ -10431,8 +10354,7 @@
         "efficiency",
         "dimensions",
         "cargo",
-        "towing",
-        "warranty"
+        "towing"
       ]
     },
     {
@@ -10442,8 +10364,7 @@
         "efficiency",
         "range",
         "dimensions",
-        "cargo",
-        "warranty"
+        "cargo"
       ]
     },
     {
@@ -10454,8 +10375,7 @@
         "efficiency",
         "range",
         "cargo",
-        "technology",
-        "warranty"
+        "technology"
       ]
     },
     {
@@ -10463,10 +10383,7 @@
       "model": "Tacoma",
       "missing": [
         "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "warranty"
+        "dimensions"
       ]
     },
     {
@@ -10479,8 +10396,7 @@
         "dimensions",
         "cargo",
         "towing",
-        "technology",
-        "warranty"
+        "technology"
       ]
     },
     {
@@ -10492,8 +10408,7 @@
         "transmission",
         "range",
         "dimensions",
-        "cargo",
-        "warranty"
+        "cargo"
       ]
     },
     {
@@ -10504,8 +10419,7 @@
         "range",
         "dimensions",
         "cargo",
-        "technology",
-        "warranty"
+        "technology"
       ]
     },
     {

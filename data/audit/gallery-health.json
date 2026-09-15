@@ -1,0 +1,206 @@
+{
+  "generated_at": "2026-09-15T17:22:36.886469+00:00",
+  "policy": "Gallery URLs are checked over HTTP and must return an image content type. Temporary CDN/network failures are reported and never converted into valid assets.",
+  "summary": {
+    "models_scanned": 278,
+    "models_with_gallery": 2,
+    "gallery_urls_checked": 13,
+    "healthy_gallery_urls": 7,
+    "unhealthy_gallery_urls": 6,
+    "healthy_pct": 53.8
+  },
+  "checks": [
+    {
+      "brand": "Toyota",
+      "model": "4Runner",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/1.png?fmt=png-alpha&wid=930&qlt=90",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 382,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "4Runner",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/2.png?fmt=png-alpha&wid=930&qlt=90",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 173,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "4Runner",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/3.png?fmt=png-alpha&wid=930&qlt=90",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 142,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "4Runner",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/4.png?fmt=png-alpha&wid=930&qlt=90",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 123,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "4Runner",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/3u5/1.png?fmt=png-alpha&wid=930&qlt=90",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 459,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "4Runner",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/3u5/2.png?fmt=png-alpha&wid=930&qlt=90",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 152,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "4Runner",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/3u5/3.png?fmt=png-alpha&wid=930&qlt=90",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 636,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "url": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_001-1500x900.jpg",
+      "ok": false,
+      "status": 403,
+      "content_type": "application/xml",
+      "elapsed_ms": 266,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "url": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_002-1500x900.jpg",
+      "ok": false,
+      "status": 403,
+      "content_type": "application/xml",
+      "elapsed_ms": 251,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "url": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_003-1500x900.jpg",
+      "ok": false,
+      "status": 403,
+      "content_type": "application/xml",
+      "elapsed_ms": 256,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "url": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_004-1500x900.jpg",
+      "ok": false,
+      "status": 403,
+      "content_type": "application/xml",
+      "elapsed_ms": 261,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "url": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_005-1500x900.jpg",
+      "ok": false,
+      "status": 403,
+      "content_type": "application/xml",
+      "elapsed_ms": 260,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "url": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_006-1500x900.jpg",
+      "ok": false,
+      "status": 403,
+      "content_type": "application/xml",
+      "elapsed_ms": 257,
+      "error": "HTTP 403"
+    }
+  ],
+  "unhealthy": [
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "url": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_001-1500x900.jpg",
+      "ok": false,
+      "status": 403,
+      "content_type": "application/xml",
+      "elapsed_ms": 266,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "url": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_002-1500x900.jpg",
+      "ok": false,
+      "status": 403,
+      "content_type": "application/xml",
+      "elapsed_ms": 251,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "url": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_003-1500x900.jpg",
+      "ok": false,
+      "status": 403,
+      "content_type": "application/xml",
+      "elapsed_ms": 256,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "url": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_004-1500x900.jpg",
+      "ok": false,
+      "status": 403,
+      "content_type": "application/xml",
+      "elapsed_ms": 261,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "url": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_005-1500x900.jpg",
+      "ok": false,
+      "status": 403,
+      "content_type": "application/xml",
+      "elapsed_ms": 260,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "url": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_006-1500x900.jpg",
+      "ok": false,
+      "status": 403,
+      "content_type": "application/xml",
+      "elapsed_ms": 257,
+      "error": "HTTP 403"
+    }
+  ]
+}

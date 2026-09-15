@@ -1,8 +1,8 @@
 {
-  "generated": "2026-09-14",
+  "generated": "2026-09-15",
   "mode": "live-only-hybrid",
   "note": "Only confirmed live Blogger model URLs belong here. Theme falls back to hash routes for every other model.",
-  "count": 3,
+  "count": 6,
   "routes": {
     "Tesla|Model 3": {
       "brand": "Tesla",
@@ -27,6 +27,30 @@
       "url": "https://www.drivespeclab.com/2026/08/2026-tesla-cybertruck-specs-price-trims.html",
       "url_status": "live",
       "verified_on": "2026-09-14"
+    },
+    "Toyota|RAV4": {
+      "brand": "Toyota",
+      "model": "RAV4",
+      "year": "2026",
+      "url": "https://www.drivespeclab.com/2026/09/2026-toyota-rav4-specs-price-mpg-dimensions.html",
+      "url_status": "live",
+      "verified_on": "2026-09-15"
+    },
+    "Honda|CR-V": {
+      "brand": "Honda",
+      "model": "CR-V",
+      "year": "2027",
+      "url": "https://www.drivespeclab.com/2026/09/2027-honda-cr-v-specs-price-mpg-dimensions.html",
+      "url_status": "live",
+      "verified_on": "2026-09-15"
+    },
+    "Hyundai|Tucson": {
+      "brand": "Hyundai",
+      "model": "Tucson",
+      "year": "2026",
+      "url": "https://www.drivespeclab.com/2026/09/2026-hyundai-tucson-specs-price-mpg-dimensions.html",
+      "url_status": "live",
+      "verified_on": "2026-09-15"
     }
   }
 }

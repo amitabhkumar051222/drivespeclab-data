@@ -1,0 +1,112 @@
+{
+  "target": "toyota.json",
+  "brand": "Toyota",
+  "market": "United States",
+  "verified_on": "2026-09-15",
+  "policy": "Official Toyota U.S. retail, full-spec, brochure, Owners and Toyota USA Newsroom sources only. Missing or non-applicable fields are explicitly marked; no values are inferred.",
+  "brand_fields": {
+    "verified_on": "2026-09-15",
+    "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
+    "warranty_source": "https://www.toyota.com/owners/warranty-owners-manuals/"
+  },
+  "models": {
+    "Camry": {
+      "verified_on": "2026-09-15",
+      "efficiency": "Up to 51 EPA-estimated combined MPG on LE FWD",
+      "dimensions": "193.5 in L × 72.4 in W × 56.9 in H; 111.2 in wheelbase (LE Hybrid comparison specification)",
+      "cargo": "15.1 cu ft trunk capacity",
+      "technology": "Toyota Audio Multimedia; available 9-speaker JBL Premium Audio; equipment varies by grade",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/3u5/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "not_applicable": ["range", "towing"],
+      "not_published": ["torque"],
+      "source_evidence": [
+        "https://www.toyota.com/camry/",
+        "https://www.toyota.com/camry/compare/"
+      ]
+    },
+    "Corolla Cross": {
+      "verified_on": "2026-09-15",
+      "torque_lb_ft": "151 lb-ft (gas engine; Toyota does not publish one combined hybrid-system torque figure on the model overview)",
+      "efficiency": "Up to 32 combined MPG gas FWD / up to 42 combined MPG hybrid",
+      "dimensions": "176.1 in L × 71.9 in W × 64.9 in H; 103.9 in wheelbase",
+      "cargo": "24.0 cu ft behind the rear seat; configuration-dependent with seats folded",
+      "technology": "Toyota Audio Multimedia with wireless Apple CarPlay and Android Auto compatibility; equipment varies by grade",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "towing_lbs_up_to": 1500,
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "not_applicable": ["range"],
+      "source_evidence": [
+        "https://www.toyota.com/corollacross/",
+        "https://www.toyota.com/corollacross/compare/"
+      ]
+    },
+    "Prius": {
+      "verified_on": "2026-09-15",
+      "year": "2027",
+      "engine": "2.0L 4-cylinder fifth-generation Toyota Hybrid System",
+      "horsepower": "194 net combined hp (FWD) / 196 net combined hp (AWD)",
+      "transmission": "Electronically controlled continuously variable transmission (eCVT)",
+      "efficiency": "EPA-estimated 55 combined MPG on LE trim",
+      "accel": "0-60 mph in 7.2 sec (FWD) / 7.0 sec (AWD)",
+      "dimensions": "181.1 in L × 70.2 in W × up to 56.3 in H; 108.3 in wheelbase",
+      "cargo": "Up to 23.8 cu ft on LE trim with rear seats up",
+      "technology": "8.0-in Toyota Audio Multimedia display on LE; available larger display and Qi wireless charging on upper grades",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/5c5/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "not_applicable": ["range", "towing"],
+      "not_published": ["torque"],
+      "source_evidence": [
+        "https://www.toyota.com/prius/",
+        "https://www.toyota.com/prius/features/",
+        "https://www.toyota.com/prius/compare/"
+      ]
+    },
+    "4Runner": {
+      "verified_on": "2026-09-15",
+      "efficiency": "Up to 23 combined MPG depending on powertrain and grade",
+      "cargo": "Up to 90.2 cu ft",
+      "towing_lbs_up_to": 6000,
+      "technology": "Available 14-in Toyota Audio Multimedia touchscreen",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "not_applicable": ["range"],
+      "source_evidence": [
+        "https://www.toyota.com/4runner/",
+        "https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/2026_4runner_brochure.pdf"
+      ]
+    },
+    "Highlander": {
+      "verified_on": "2026-09-15",
+      "transmission": "Direct Shift-8AT 8-speed electronically controlled automatic (2.4L turbo gas) / electronically controlled CVT (hybrid)",
+      "efficiency": "Up to 35 combined MPG on hybrid grades; gas grades are configuration-dependent",
+      "dimensions": "194.9 in L × 76.0 in W × 68.1 in H; 112.2 in wheelbase",
+      "cargo": "16.0 cu ft behind the third row; up to 84.3 cu ft with rear seats folded",
+      "towing_lbs_up_to": 5000,
+      "technology": "Wireless Apple CarPlay and Android Auto compatibility; available 12.3-in Toyota Audio Multimedia display",
+      "safety": "Toyota Safety Sense 2.5+ standard",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/3t3/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "not_applicable": ["range"],
+      "source_evidence": [
+        "https://www.toyota.com/highlander/",
+        "https://www.toyota.com/highlander/compare/",
+        "https://pressroom.toyota.com/2026-toyota-highlander-gets-standard-all-wheel-drive-across-the-lineup/"
+      ]
+    },
+    "Tacoma": {
+      "verified_on": "2026-09-15",
+      "efficiency": "EPA-estimated city/highway ratings vary by grade; selected i-FORCE MAX grades reach 22/24 MPG",
+      "cargo": "5-ft or 6-ft aluminum-reinforced composite bed, configuration-dependent",
+      "towing_lbs_up_to": 6500,
+      "payload_lbs_up_to": 1705,
+      "technology": "Available 14-in Toyota Audio Multimedia touchscreen; hybrid grades include a 2400W AC power supply",
+      "safety": "Toyota Safety Sense suite standard; equipment varies by grade",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "not_applicable": ["range"],
+      "source_evidence": [
+        "https://www.toyota.com/tacoma/",
+        "https://pressroom.toyota.com/the-2026-toyota-tacoma-adventure-awaits/",
+        "https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/2026-tacoma-brochure-20260529-184050.pdf"
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "target": "toyota.json",
+  "brand": "Toyota",
+  "market": "United States",
+  "verified_on": "2026-09-15",
+  "policy": "Official Toyota U.S. retail pages, Toyota brochures/sales guides and Toyota USA Newsroom only. Values are grade-aware where Toyota publishes different configurations. No combined hybrid-system torque or EV range is inferred.",
+  "models": {
+    "RAV4": {
+      "verified_on": "2026-09-15",
+      "torque_lb_ft": "170 lb-ft maximum gasoline-engine torque; AWD rear electric motor is rated at 89 lb-ft. Toyota does not publish one combined hybrid-system torque figure.",
+      "dimensions": "Most Hybrid grades: 181.0 in L × 73.0 in W × 66.7 in H; 105.9 in wheelbase. Woodland: 182.0 in L × 74.0 in W × 67.1 in H (69.1 in with roof rails/cross bars).",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/040/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/rav4/",
+      "not_applicable": ["range"],
+      "source_evidence": [
+        "https://www.toyota.com/rav4/",
+        "https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/2026_rav4_brochure_20260612_142557.pdf",
+        "https://engage.toyota.com/static/articles/2026_rav4_sales_consultant_guide/2026_RAV4_Sales_Consultant_Guide.pdf",
+        "https://pressroom.toyota.com/the-next-adventure-begins-2026-rav4-arrives-this-winter/"
+      ]
+    }
+  }
+}

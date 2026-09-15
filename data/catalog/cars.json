@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T15:51:38+00:00",
+  "generated": "2026-09-15T15:54:58+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
@@ -16604,18 +16604,32 @@
         }
       ],
       "key_detail": "Body-on-frame SUV; hybrid available",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/1.png?fmt=png-alpha&wid=930&qlt=90",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/1.png?fmt=png-alpha&wid=930&qlt=90",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/2.png?fmt=png-alpha&wid=930&qlt=90",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/3.png?fmt=png-alpha&wid=930&qlt=90",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/1l7/4.png?fmt=png-alpha&wid=930&qlt=90",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/3u5/1.png?fmt=png-alpha&wid=930&qlt=90",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/3u5/2.png?fmt=png-alpha&wid=930&qlt=90",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/4runner/sr5/8642/3u5/3.png?fmt=png-alpha&wid=930&qlt=90"
+      ],
+      "gallery_count": 7,
       "source": "https://www.toyota.com/4runner/",
       "verified_on": "2026-09-13",
       "specs": {
-        "horsepower": 326,
+        "horsepower": "278 hp (i-FORCE) / 326 hp (i-FORCE MAX)",
+        "torque_lb_ft": "317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
         "towing_lbs_up_to": 6000
       },
       "details": {
-        "horsepower": 326,
-        "towing": 6000
+        "engine": "2.4L turbocharged 4-cylinder i-FORCE; available i-FORCE MAX hybrid",
+        "horsepower": "278 hp (i-FORCE) / 326 hp (i-FORCE MAX)",
+        "torque": "317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
+        "transmission": "8-speed automatic",
+        "towing": 6000,
+        "technology": "Available 14-in. Toyota Audio Multimedia touchscreen",
+        "safety": "Toyota Safety Sense 3.0 standard"
       },
       "url": "/search/label/Toyota#usmodel=4Runner",
       "route_type": "database-hash",
@@ -16623,8 +16637,8 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 2
+        "gallery_6": true,
+        "detail_fields": 7
       },
       "search_text": "toyota 4runner 2026 midsize suv suv / crossover gas / hybrid i-force max rwd / 4wd current u.s. retail model body-on-frame suv; hybrid available"
     },
@@ -16668,13 +16682,16 @@
       "source": "https://www.toyota.com/vehicles/bz/2027",
       "verified_on": "2026-09-13",
       "specs": {
-        "horsepower": 338,
+        "horsepower": "Up to 338 hp",
         "range_miles_up_to": 314
       },
       "details": {
-        "horsepower": 338,
+        "engine": "Dual-motor all-electric powertrain available; FWD and AWD configurations",
+        "horsepower": "Up to 338 hp",
         "range": "314 miles",
-        "charging": "10% to 80% in approximately 30 minutes with DC fast charging under ideal conditions"
+        "charging": "10% to 80% in approximately 30 minutes with compatible DC fast charging under ideal conditions",
+        "technology": "Large Toyota Audio Multimedia touchscreen; NACS charging access on current generation",
+        "safety": "Toyota active-safety suite; equipment varies by grade"
       },
       "url": "/search/label/Toyota#usmodel=bZ",
       "route_type": "database-hash",
@@ -16683,7 +16700,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 3
+        "detail_fields": 6
       },
       "search_text": "toyota bz 2027 electric crossover suv / crossover battery electric fwd / awd current u.s. retail model toyota battery-electric crossover"
     },
@@ -16728,12 +16745,18 @@
       "verified_on": "2026-09-13",
       "specs": {
         "horsepower": 375,
-        "range_miles_up_to": 281
+        "range_miles_up_to": 281,
+        "battery_kwh": 74.7,
+        "towing_lbs_up_to": 3500
       },
       "details": {
+        "engine": "Dual-motor battery-electric powertrain",
         "horsepower": 375,
         "range": "281 miles",
-        "charging": "10% to 80% in around 30 minutes with compatible DC fast charging under ideal conditions"
+        "charging": "11-kW onboard AC charger; 10% to 80% DC fast charging in around 30 minutes under ideal conditions; NACS charging port",
+        "towing": 3500,
+        "technology": "14-in. Toyota Audio Multimedia touchscreen",
+        "safety": "Toyota Safety Sense 3.0 standard"
       },
       "url": "/search/label/Toyota#usmodel=bZ%20Woodland",
       "route_type": "database-hash",
@@ -16742,7 +16765,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 3
+        "detail_fields": 7
       },
       "search_text": "toyota bz woodland 2027 electric crossover suv / crossover battery electric awd current u.s. retail model rugged awd bz derivative"
     },
@@ -16786,10 +16809,19 @@
       "source": "https://www.toyota.com/vehicles/chr/2027",
       "verified_on": "2026-09-13",
       "specs": {
-        "range_miles_up_to": 287
+        "horsepower": 338,
+        "range_miles": "287 miles (SE) / 273 miles (XSE) EPA-estimated",
+        "range_miles_up_to": 287,
+        "cargo_cu_ft": 25.3
       },
       "details": {
-        "range": "287 miles"
+        "engine": "Dual-motor battery-electric powertrain",
+        "horsepower": 338,
+        "range": "287 miles (SE) / 273 miles (XSE) EPA-estimated",
+        "charging": "11-kW AC onboard charger; 10% to 80% DC fast charging in around 30 minutes under ideal conditions; NACS charging port",
+        "cargo": 25.3,
+        "technology": "14-in. Toyota Audio Multimedia touchscreen",
+        "safety": "Toyota Safety Sense 3.0 standard"
       },
       "url": "/search/label/Toyota#usmodel=C-HR",
       "route_type": "database-hash",
@@ -16798,7 +16830,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 7
       },
       "search_text": "toyota c-hr 2027 electric crossover suv / crossover battery electric awd current u.s. retail model new-generation electric c-hr for u.s. market"
     },
@@ -16884,14 +16916,20 @@
         }
       ],
       "key_detail": "Hybrid-only Camry lineup",
-      "image": "",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry//2558/3u5/36/5.png?fmt=png-alpha&wid=930&qlt=90",
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/camry/",
       "verified_on": "2026-09-13",
-      "specs": {},
+      "specs": {
+        "horsepower": "225 net hp (FWD) / 232 net hp (AWD)"
+      },
       "details": {
-        "engine": "Hybrid"
+        "engine": "2.5L 4-cylinder with fifth-generation Toyota Hybrid System",
+        "horsepower": "225 net hp (FWD) / 232 net hp (AWD)",
+        "transmission": "Electronically controlled continuously variable transmission (eCVT)",
+        "technology": "Available 9-speaker JBL Premium Audio; Toyota Audio Multimedia",
+        "safety": "Toyota Safety Sense 3.0 standard"
       },
       "url": "/search/label/Toyota#usmodel=Camry",
       "route_type": "database-hash",
@@ -16900,7 +16938,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 5
       },
       "search_text": "toyota camry 2026 midsize sedan sedan hybrid fwd / awd current u.s. retail model hybrid-only camry lineup"
     },
@@ -16980,8 +17018,18 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/vehicles/corolla/2027",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "169 hp (gas) / 138 hp (hybrid system)",
+        "torque_lb_ft": "151 lb-ft (gas engine)"
+      },
+      "details": {
+        "engine": "2.0L Dynamic Force 4-cylinder (gas) or 1.8L Toyota Hybrid System",
+        "horsepower": "169 hp (gas) / 138 hp (hybrid system)",
+        "torque": "151 lb-ft (gas engine)",
+        "transmission": "Dynamic-Shift CVT (gas) / electronically controlled CVT (hybrid)",
+        "technology": "Available 12.3-in. digital gauge cluster and 10.5-in. Toyota Audio Multimedia touchscreen",
+        "safety": "Toyota Safety Sense 3.0 standard"
+      },
       "url": "/search/label/Toyota#usmodel=Corolla",
       "route_type": "database-hash",
       "data_quality": {
@@ -16989,7 +17037,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 6
       },
       "search_text": "toyota corolla 2027 compact sedan sedan gas / hybrid fwd / awd (hybrid) current u.s. retail model high-volume compact sedan"
     },
@@ -17052,13 +17100,24 @@
         }
       ],
       "key_detail": "Compact crossover; hybrid available",
-      "image": "",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross//6305/089/36/5.png?fmt=png-alpha&wid=930&qlt=90",
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/corollacross/",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "169 hp (gas) / 196 net hp (hybrid)",
+        "mpg_combined": "Up to 32 MPG gas FWD / up to 42 MPG hybrid",
+        "towing_lbs_up_to": 1500
+      },
+      "details": {
+        "engine": "2.0L 4-cylinder gas or Toyota Hybrid System",
+        "horsepower": "169 hp (gas) / 196 net hp (hybrid)",
+        "transmission": "CVTi-S (gas) / electronically controlled CVT (hybrid)",
+        "efficiency": "Up to 32 MPG gas FWD / up to 42 MPG hybrid mpg combined",
+        "towing": 1500,
+        "safety": "Toyota Safety Sense 3.0 standard"
+      },
       "url": "/search/label/Toyota#usmodel=Corolla%20Cross",
       "route_type": "database-hash",
       "data_quality": {
@@ -17066,7 +17125,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 6
       },
       "search_text": "toyota corolla cross 2026 compact suv suv / crossover gas / hybrid fwd / awd current u.s. retail model compact crossover; hybrid available"
     },
@@ -17109,8 +17168,18 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/vehicles/corollahatchback/2027",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": 169,
+        "torque_lb_ft": 151
+      },
+      "details": {
+        "engine": "2.0L Dynamic Force 4-cylinder",
+        "horsepower": 169,
+        "torque": 151,
+        "transmission": "Dynamic-Shift CVT",
+        "technology": "Wireless Apple CarPlay and Android Auto compatibility",
+        "safety": "Toyota Safety Sense 3.0 standard"
+      },
       "url": "/search/label/Toyota#usmodel=Corolla%20Hatchback",
       "route_type": "database-hash",
       "data_quality": {
@@ -17118,7 +17187,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 6
       },
       "search_text": "toyota corolla hatchback 2027 compact hatchback hatchback / wagon gas fwd current u.s. retail model practical compact hatchback"
     },
@@ -17180,10 +17249,15 @@
       "source": "https://www.toyota.com/grcorolla/",
       "verified_on": "2026-09-13",
       "specs": {
-        "horsepower": 300
+        "horsepower": 300,
+        "torque_lb_ft": "295 lb-ft (302 lb-ft on GRMN)"
       },
       "details": {
-        "horsepower": 300
+        "engine": "1.6L turbocharged 3-cylinder G16E-GTS",
+        "horsepower": 300,
+        "torque": "295 lb-ft (302 lb-ft on GRMN)",
+        "transmission": "6-speed intelligent manual or 8-speed GAZOO Racing Direct Automatic Transmission",
+        "safety": "Toyota Safety Sense 3.0 standard"
       },
       "url": "/search/label/Toyota#usmodel=GR%20Corolla",
       "route_type": "database-hash",
@@ -17192,7 +17266,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 5
       },
       "search_text": "toyota gr corolla 2026 performance hatchback hatchback / wagon turbo gas awd current u.s. retail model gr performance awd hatchback"
     },
@@ -17241,8 +17315,16 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/grsupra/",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": 382,
+        "torque_lb_ft": 368
+      },
+      "details": {
+        "engine": "3.0L turbocharged inline-6",
+        "horsepower": 382,
+        "torque": 368,
+        "transmission": "6-speed manual or 8-speed automatic"
+      },
       "url": "/search/label/Toyota#usmodel=GR%20Supra",
       "route_type": "database-hash",
       "data_quality": {
@@ -17250,7 +17332,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 4
       },
       "search_text": "toyota gr supra 2026 sports coupe sports / coupe turbo gas rwd current u.s. retail model rear-drive gr sports coupe"
     },
@@ -17294,10 +17376,15 @@
       "source": "https://www.toyota.com/vehicles/gr86/2027",
       "verified_on": "2026-09-13",
       "specs": {
-        "horsepower": 228
+        "horsepower": 228,
+        "torque_lb_ft": 184
       },
       "details": {
-        "horsepower": 228
+        "engine": "2.4L naturally aspirated horizontally opposed 4-cylinder",
+        "horsepower": 228,
+        "torque": 184,
+        "transmission": "6-speed manual or 6-speed automatic",
+        "safety": "Active safety suite; features vary by transmission and grade"
       },
       "url": "/search/label/Toyota#usmodel=GR86",
       "route_type": "database-hash",
@@ -17306,7 +17393,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 5
       },
       "search_text": "toyota gr86 2027 sports coupe sports / coupe gas rwd current u.s. retail model lightweight rear-drive coupe"
     },
@@ -17398,8 +17485,20 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/grandhighlander/",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "265 hp (gas) / 245 hp (hybrid) / 362 hp (Hybrid MAX)",
+        "torque_lb_ft": "Up to 400 lb-ft (Hybrid MAX)",
+        "mpg_combined": "Up to 36 MPG on selected hybrid configurations",
+        "towing_lbs_up_to": 5000
+      },
+      "details": {
+        "engine": "2.4L turbo gas, 2.5L hybrid, or Hybrid MAX powertrain",
+        "horsepower": "265 hp (gas) / 245 hp (hybrid) / 362 hp (Hybrid MAX)",
+        "torque": "Up to 400 lb-ft (Hybrid MAX)",
+        "efficiency": "Up to 36 MPG on selected hybrid configurations mpg combined",
+        "towing": 5000,
+        "safety": "Toyota Safety Sense 3.0 standard"
+      },
       "url": "/search/label/Toyota#usmodel=Grand%20Highlander",
       "route_type": "database-hash",
       "data_quality": {
@@ -17407,7 +17506,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 6
       },
       "search_text": "toyota grand highlander 2026 three-row suv suv / crossover gas / hybrid fwd / awd current u.s. retail model large three-row family suv"
     },
@@ -17481,8 +17580,19 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/highlander/",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "265 hp (gas)",
+        "torque_lb_ft": "310 lb-ft (gas)",
+        "mpg_combined": "Up to 35 combined MPG (hybrid)"
+      },
+      "details": {
+        "engine": "2.4L turbocharged 4-cylinder gas or 2.5L hybrid system",
+        "horsepower": "265 hp (gas)",
+        "torque": "310 lb-ft (gas)",
+        "efficiency": "Up to 35 combined MPG (hybrid) mpg combined",
+        "technology": "Wireless Apple CarPlay and Android Auto compatibility",
+        "safety": "Toyota Safety Sense 2.5+ standard"
+      },
       "url": "/search/label/Toyota#usmodel=Highlander",
       "route_type": "database-hash",
       "data_quality": {
@@ -17490,7 +17600,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 6
       },
       "search_text": "toyota highlander 2026 three-row suv suv / crossover gas / hybrid fwd / awd current priced toyota retail lineup at verification; toyota has announced a 2027 model year but a complete 2027 grade-price table was not surfaced on the official retail page during verification. three-row midsize suv"
     },
@@ -17535,11 +17645,15 @@
       "verified_on": "2026-09-13",
       "specs": {
         "horsepower": 326,
+        "torque_lb_ft": 465,
         "towing_lbs_up_to": 6000
       },
       "details": {
+        "engine": "2.4L turbocharged 4-cylinder i-FORCE MAX hybrid",
         "horsepower": 326,
-        "towing": 6000
+        "torque": 465,
+        "towing": 6000,
+        "safety": "Toyota Safety Sense 3.0 standard"
       },
       "url": "/search/label/Toyota#usmodel=Land%20Cruiser",
       "route_type": "database-hash",
@@ -17548,7 +17662,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 2
+        "detail_fields": 5
       },
       "search_text": "toyota land cruiser 2027 suv suv / crossover hybrid 4wd current u.s. retail model hybrid body-on-frame 4wd suv"
     },
@@ -17587,10 +17701,19 @@
       "source": "https://www.toyota.com/mirai/",
       "verified_on": "2026-09-13",
       "specs": {
-        "range_miles_up_to": 402
+        "horsepower": 182,
+        "torque_lb_ft": 300,
+        "range_miles_up_to": 402,
+        "cargo_cu_ft": 9.6
       },
       "details": {
-        "range": "402 miles"
+        "engine": "Hydrogen fuel-cell electric powertrain",
+        "horsepower": 182,
+        "torque": 300,
+        "range": "402 miles",
+        "cargo": 9.6,
+        "technology": "12.3-in. touchscreen with JBL Premium Audio",
+        "safety": "Toyota Safety Sense 3.0 standard"
       },
       "url": "/search/label/Toyota#usmodel=Mirai",
       "route_type": "database-hash",
@@ -17599,7 +17722,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 7
       },
       "search_text": "toyota mirai 2026 fuel-cell sedan sedan hydrogen fuel cell electric rwd regional hydrogen fuel-cell vehicle availability; toyota currently publishes one u.s. mirai grade. hydrogen fuel-cell sedan; regional availability"
     },
@@ -17678,8 +17801,17 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/prius/",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "194 net hp (FWD) / 196 net hp (AWD)",
+        "mpg_combined": "Up to 55 combined MPG (LE FWD); up to 53 combined MPG (LE AWD)"
+      },
+      "details": {
+        "engine": "2.0L 4-cylinder Toyota Hybrid System",
+        "horsepower": "194 net hp (FWD) / 196 net hp (AWD)",
+        "transmission": "Electronically controlled continuously variable transmission",
+        "efficiency": "Up to 55 combined MPG (LE FWD); up to 53 combined MPG (LE AWD) mpg combined",
+        "safety": "Toyota Safety Sense 3.0 standard"
+      },
       "url": "/search/label/Toyota#usmodel=Prius",
       "route_type": "database-hash",
       "data_quality": {
@@ -17687,7 +17819,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 5
       },
       "search_text": "toyota prius 2027 liftback hatchback / wagon hybrid fwd / awd current u.s. retail model efficiency-focused hybrid liftback"
     },
@@ -17744,11 +17876,17 @@
       "verified_on": "2026-09-13",
       "specs": {
         "horsepower": 220,
+        "mpge_combined": 129,
         "range_miles_up_to": 44
       },
       "details": {
+        "engine": "2.0L 4-cylinder plug-in hybrid system",
         "horsepower": 220,
-        "range": "44 miles"
+        "transmission": "Electronically controlled continuously variable transmission",
+        "efficiency": "129 MPGe combined",
+        "range": "44 miles",
+        "technology": "Available 12.3-in. Toyota Audio Multimedia touchscreen",
+        "safety": "Toyota Safety Sense 3.0 standard"
       },
       "url": "/search/label/Toyota#usmodel=Prius%20Plug-in%20Hybrid",
       "route_type": "database-hash",
@@ -17757,7 +17895,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 2
+        "detail_fields": 7
       },
       "search_text": "toyota prius plug-in hybrid 2027 liftback hatchback / wagon plug-in hybrid fwd current u.s. retail model plug-in hybrid prius"
     },
@@ -17824,9 +17962,17 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/rav4/",
       "verified_on": "2026-09-13",
-      "specs": {},
+      "specs": {
+        "horsepower": 236,
+        "towing_lbs_up_to": 3500
+      },
       "details": {
-        "engine": "Hybrid"
+        "engine": "2.5L 4-cylinder Toyota Hybrid System",
+        "horsepower": 236,
+        "transmission": "Electronically controlled continuously variable transmission",
+        "towing": 3500,
+        "technology": "12.3-in. digital gauge cluster; 10.5-in. Toyota Audio Multimedia standard with available 12.9-in. screen",
+        "safety": "Toyota Safety Sense 4.0 standard"
       },
       "url": "/search/label/Toyota#usmodel=RAV4",
       "route_type": "database-hash",
@@ -17835,7 +17981,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 6
       },
       "search_text": "toyota rav4 2026 compact suv suv / crossover hybrid fwd / awd current u.s. retail model new-generation hybrid rav4"
     },
@@ -17890,9 +18036,17 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/rav4pluginhybrid/",
       "verified_on": "2026-09-13",
-      "specs": {},
+      "specs": {
+        "horsepower": 324,
+        "range_miles_up_to": 54
+      },
       "details": {
-        "engine": "Plug-in hybrid"
+        "engine": "2.5L 4-cylinder plug-in hybrid system",
+        "horsepower": 324,
+        "range": "54 miles",
+        "charging": "11-kW onboard AC charging; DC fast charging capability available on current generation",
+        "technology": "Toyota Audio Multimedia; equipment varies by grade",
+        "safety": "Toyota Safety Sense 4.0 standard"
       },
       "url": "/search/label/Toyota#usmodel=RAV4%20Plug-in%20Hybrid",
       "route_type": "database-hash",
@@ -17901,7 +18055,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 6
       },
       "search_text": "toyota rav4 plug-in hybrid 2026 compact suv suv / crossover plug-in hybrid awd current u.s. retail model plug-in hybrid rav4"
     },
@@ -17968,9 +18122,19 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/sequoia/",
       "verified_on": "2026-09-13",
-      "specs": {},
+      "specs": {
+        "horsepower": 437,
+        "torque_lb_ft": 583,
+        "towing_lbs_up_to": 9500
+      },
       "details": {
-        "engine": "i-FORCE MAX hybrid"
+        "engine": "Twin-turbo V6 i-FORCE MAX hybrid",
+        "horsepower": 437,
+        "torque": 583,
+        "transmission": "10-speed electronically controlled automatic",
+        "towing": 9500,
+        "technology": "14-in. Toyota Audio Multimedia touchscreen available/standard on upper grades",
+        "safety": "Toyota Safety Sense 2.5 standard"
       },
       "url": "/search/label/Toyota#usmodel=Sequoia",
       "route_type": "database-hash",
@@ -17979,7 +18143,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 7
       },
       "search_text": "toyota sequoia 2026 full-size suv suv / crossover i-force max hybrid rwd / 4wd current priced toyota retail lineup at verification; toyota lists a 2027 sequoia in model-year news, but a complete 2027 retail grade-price table was not surfaced during verification. full-size hybrid body-on-frame suv"
     },
@@ -18046,9 +18210,17 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/sienna/",
       "verified_on": "2026-09-13",
-      "specs": {},
+      "specs": {
+        "horsepower": 245,
+        "towing_lbs_up_to": 3500
+      },
       "details": {
-        "engine": "Hybrid"
+        "engine": "2.5L 4-cylinder Toyota Hybrid System",
+        "horsepower": 245,
+        "transmission": "Electronically controlled continuously variable transmission",
+        "dimensions": "Approx. 203.7–204.1 in. length; 78.5 in. width; 120.5 in. wheelbase",
+        "towing": 3500,
+        "safety": "Toyota Safety Sense suite standard"
       },
       "url": "/search/label/Toyota#usmodel=Sienna",
       "route_type": "database-hash",
@@ -18057,7 +18229,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 6
       },
       "search_text": "toyota sienna 2026 minivan van / minivan hybrid fwd / awd current u.s. retail model hybrid family minivan"
     },
@@ -18137,8 +18309,20 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/tacoma/",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "Up to 278 hp (i-FORCE) / 326 hp (i-FORCE MAX)",
+        "torque_lb_ft": "Up to 317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
+        "mpg_combined": "Up to 23 combined MPG on selected hybrid configuration"
+      },
+      "details": {
+        "engine": "2.4L turbocharged 4-cylinder i-FORCE; available i-FORCE MAX hybrid",
+        "horsepower": "Up to 278 hp (i-FORCE) / 326 hp (i-FORCE MAX)",
+        "torque": "Up to 317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
+        "transmission": "8-speed automatic; 6-speed manual available on selected i-FORCE grades",
+        "efficiency": "Up to 23 combined MPG on selected hybrid configuration mpg combined",
+        "technology": "Available 14-in. Toyota Audio Multimedia touchscreen",
+        "safety": "Toyota Safety Sense suite standard"
+      },
       "url": "/search/label/Toyota#usmodel=Tacoma",
       "route_type": "database-hash",
       "data_quality": {
@@ -18146,7 +18330,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 7
       },
       "search_text": "toyota tacoma 2026 midsize pickup pickup / truck gas / hybrid i-force max rwd / 4wd current u.s. retail model midsize pickup; hybrid available"
     },
@@ -18201,8 +18385,16 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/vehicles/toyotacrown/2027",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "236 net hp (hybrid) / 340 net hp (Hybrid MAX)",
+        "mpg_combined": "Up to 40 combined MPG (hybrid)"
+      },
+      "details": {
+        "engine": "2.5L hybrid or 2.4L turbo Hybrid MAX",
+        "horsepower": "236 net hp (hybrid) / 340 net hp (Hybrid MAX)",
+        "efficiency": "Up to 40 combined MPG (hybrid) mpg combined",
+        "safety": "Toyota Safety Sense 3.0 standard"
+      },
       "url": "/search/label/Toyota#usmodel=Toyota%20Crown",
       "route_type": "database-hash",
       "data_quality": {
@@ -18210,7 +18402,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 4
       },
       "search_text": "toyota toyota crown 2027 lifted sedan sedan hybrid awd current u.s. retail model premium awd hybrid sedan"
     },
@@ -18253,9 +18445,16 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/crownsignia/",
       "verified_on": "2026-09-13",
-      "specs": {},
+      "specs": {
+        "mpg_combined": 38,
+        "towing_lbs_up_to": 2700
+      },
       "details": {
-        "engine": "Hybrid"
+        "engine": "2.5L 4-cylinder Toyota Hybrid System",
+        "efficiency": "38 mpg combined",
+        "towing": 2700,
+        "technology": "12.3-in. digital gauge cluster and Toyota Audio Multimedia",
+        "safety": "Toyota Safety Sense 3.0 standard"
       },
       "url": "/search/label/Toyota#usmodel=Toyota%20Crown%20Signia",
       "route_type": "database-hash",
@@ -18264,7 +18463,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 5
       },
       "search_text": "toyota toyota crown signia 2026 crossover suv / crossover hybrid awd current u.s. retail model premium hybrid crossover"
     },
@@ -18356,8 +18555,19 @@
       "gallery_count": 0,
       "source": "https://www.toyota.com/tundra/",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "Up to 389 hp (i-FORCE) / 437 hp (i-FORCE MAX)",
+        "torque_lb_ft": "Up to 479 lb-ft (i-FORCE) / 583 lb-ft (i-FORCE MAX)",
+        "towing_lbs_up_to": 12000
+      },
+      "details": {
+        "engine": "Twin-turbo V6 i-FORCE; available i-FORCE MAX hybrid",
+        "horsepower": "Up to 389 hp (i-FORCE) / 437 hp (i-FORCE MAX)",
+        "torque": "Up to 479 lb-ft (i-FORCE) / 583 lb-ft (i-FORCE MAX)",
+        "transmission": "10-speed electronically controlled automatic",
+        "towing": 12000,
+        "safety": "Toyota Safety Sense suite standard"
+      },
       "url": "/search/label/Toyota#usmodel=Tundra",
       "route_type": "database-hash",
       "data_quality": {
@@ -18365,7 +18575,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 6
       },
       "search_text": "toyota tundra 2026 full-size pickup pickup / truck gas / hybrid i-force max rwd / 4wd current priced toyota retail lineup at verification; toyota lists a 2027 tundra in model-year news, but a complete 2027 retail grade-price table was not surfaced during verification. full-size pickup; hybrid available"
     },

@@ -6,7 +6,9 @@ on:
     paths:
       - 'data/v4/**'
       - 'data/v6/**'
+      - 'data/enrichment/**'
       - 'scripts/apply_v6_overlay.py'
+      - 'scripts/apply_verified_enrichment.py'
       - 'scripts/audit_model_completeness.py'
       - '.github/workflows/audit-model-completeness.yml'
   schedule:
@@ -32,6 +34,9 @@ jobs:
       - name: Apply verified V6 enrichment layer
         run: python scripts/apply_v6_overlay.py
 
+      - name: Apply verified priority enrichment
+        run: python scripts/apply_verified_enrichment.py
+
       - name: Generate completeness report
         run: python scripts/audit_model_completeness.py
 
@@ -51,8 +56,7 @@ jobs:
           git config user.name 'drivespeclab-bot'
           git config user.email 'actions@users.noreply.github.com'
           git add data/audit/model-completeness.json data/audit/MODEL_COMPLETENESS.md
-          # V6 is applied to V4 only inside this CI workspace. Restore the
-          # temporary overlay before rebase/push.
+          # Enrichment overlays are applied only inside this CI workspace.
           git restore --worktree data/v4
           if git diff --cached --quiet; then
             echo 'No audit changes.'

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:24:57.645334+00:00",
+  "generated_at": "2026-09-15T17:26:20.138314+00:00",
   "policy": "Missing fields are reported only; no values are guessed. Explicit not-applicable or official-source-not-published states resolve a section without inventing a value.",
   "brands": {
     "Audi": {
@@ -8690,8 +8690,8 @@
           "fully_complete": false
         },
         "Corolla Cross": {
-          "gallery_count": 1,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
@@ -8712,7 +8712,7 @@
           ],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Corolla Hatchback": {
           "gallery_count": 0,
@@ -8859,8 +8859,8 @@
           "fully_complete": false
         },
         "Highlander": {
-          "gallery_count": 1,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
@@ -8881,7 +8881,7 @@
           ],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Land Cruiser": {
           "gallery_count": 0,
@@ -8941,8 +8941,8 @@
           "fully_complete": false
         },
         "Prius": {
-          "gallery_count": 1,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
@@ -8965,7 +8965,7 @@
           ],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Prius Plug-in Hybrid": {
           "gallery_count": 0,
@@ -9108,8 +9108,8 @@
           "fully_complete": false
         },
         "Tacoma": {
-          "gallery_count": 1,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
@@ -9130,7 +9130,7 @@
           ],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Toyota Crown": {
           "gallery_count": 0,
@@ -9223,9 +9223,9 @@
       },
       "counts": {
         "models": 25,
-        "gallery_6": 2,
+        "gallery_6": 6,
         "spec_complete": 6,
-        "fully_complete": 2
+        "fully_complete": 6
       }
     },
     "Volkswagen": {
@@ -9840,13 +9840,13 @@
   },
   "summary": {
     "current_models_audited": 274,
-    "models_with_6_gallery_images": 2,
-    "gallery_complete_pct": 0.7,
+    "models_with_6_gallery_images": 6,
+    "gallery_complete_pct": 2.2,
     "models_with_complete_spec_sections": 6,
     "spec_complete_pct": 2.2,
-    "fully_complete_models": 2,
-    "fully_complete_pct": 0.7,
-    "models_missing_full_gallery": 272,
+    "fully_complete_models": 6,
+    "fully_complete_pct": 2.2,
+    "models_missing_full_gallery": 268,
     "models_with_incomplete_specs": 268,
     "sections_resolved_as_not_applicable_or_not_published": 10
   },
@@ -10087,22 +10087,18 @@
     "Toyota bZ Woodland",
     "Toyota C-HR",
     "Toyota Corolla",
-    "Toyota Corolla Cross",
     "Toyota Corolla Hatchback",
     "Toyota GR Corolla",
     "Toyota GR Supra",
     "Toyota GR86",
     "Toyota Grand Highlander",
-    "Toyota Highlander",
     "Toyota Land Cruiser",
     "Toyota Mirai",
-    "Toyota Prius",
     "Toyota Prius Plug-in Hybrid",
     "Toyota RAV4",
     "Toyota RAV4 Plug-in Hybrid",
     "Toyota Sequoia",
     "Toyota Sienna",
-    "Toyota Tacoma",
     "Toyota Toyota Crown",
     "Toyota Toyota Crown Signia",
     "Toyota Tundra",

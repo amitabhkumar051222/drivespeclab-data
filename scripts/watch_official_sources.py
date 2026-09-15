@@ -2,9 +2,9 @@
 """Daily official-source change detector for DriveSpecLab.
 
 This intentionally does NOT auto-publish guessed prices. It fingerprints official source
-pages referenced by verified sidecars. When a source materially changes, it records the
-URL in a pending-review report so high-confidence brand adapters can later extract and
-apply a verified price/model change.
+pages referenced by verified sidecars, the 25-brand registry and the Global/India catalog.
+When a source materially changes, it records the URL in a pending-review report so verified
+catalog updates can be applied without silently inventing prices or specifications.
 """
 from __future__ import annotations
 
@@ -17,6 +17,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 V4_DIR = ROOT / "data" / "v4"
+CATALOG_DIR = ROOT / "data" / "catalog"
+REGISTRY = CATALOG_DIR / "brand-registry-live.json"
+GLOBAL = CATALOG_DIR / "global-cars-live.json"
 STATE = ROOT / "data" / "monitor" / "official-source-fingerprints.json"
 PENDING = ROOT / "data" / "monitor" / "pending-source-changes.json"
 
@@ -31,27 +34,54 @@ def clean_text(raw: bytes, content_type: str) -> str:
     return s[:2_000_000]
 
 
+def add_url(urls: dict[str, dict], url: str, meta: dict) -> None:
+    if not isinstance(url, str) or not url.startswith("https://"):
+        return
+    if url not in urls:
+        urls[url] = meta
+
+
 def collect_urls() -> dict[str, dict]:
     urls: dict[str, dict] = {}
+
+    # Existing verified U.S. sidecars.
     for p in V4_DIR.glob("*.json"):
         d = json.loads(p.read_text(encoding="utf-8"))
         brand = d.get("brand") or p.stem
-        candidates = []
         if d.get("source"):
-            candidates.append(("brand", "", d["source"]))
+            add_url(urls, d["source"], {"brand": brand, "model": "", "kind": "brand"})
         for model, m in (d.get("models") or {}).items():
             for key in ("source", "phev_source"):
                 if m.get(key):
-                    candidates.append(("model", model, m[key]))
-        for kind, model, url in candidates:
-            if not isinstance(url, str) or not url.startswith("https://"):
-                continue
-            urls[url] = {"brand": brand, "model": model, "kind": kind}
+                    add_url(urls, m[key], {"brand": brand, "model": model, "kind": "model"})
+
+    # 25-brand official lineup registry, including BYD/Tata/Mahindra.
+    if REGISTRY.exists():
+        d = json.loads(REGISTRY.read_text(encoding="utf-8"))
+        for b in d.get("brands") or []:
+            add_url(urls, b.get("official_lineup_url", ""), {
+                "brand": b.get("name", ""),
+                "model": "",
+                "kind": "brand-registry",
+                "market": b.get("market_label", ""),
+            })
+
+    # Global/India reference models may have model-specific official sources.
+    if GLOBAL.exists():
+        d = json.loads(GLOBAL.read_text(encoding="utf-8"))
+        for c in d.get("cars") or []:
+            add_url(urls, c.get("source", ""), {
+                "brand": c.get("brand", ""),
+                "model": c.get("model", ""),
+                "kind": "global-model",
+                "market": c.get("market", ""),
+            })
+
     return urls
 
 
 def fetch(url: str) -> tuple[int, str]:
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 DriveSpecLabSourceWatch/1.0"})
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 DriveSpecLabSourceWatch/2.0"})
     try:
         with urllib.request.urlopen(req, timeout=35) as r:
             raw = r.read(2_500_000)
@@ -80,7 +110,7 @@ def main() -> None:
     STATE.parent.mkdir(parents=True, exist_ok=True)
     STATE.write_text(json.dumps({"generated": now, "count": len(current), "sources": current}, indent=2) + "\n", encoding="utf-8")
     PENDING.write_text(json.dumps({"generated": now, "count": len(changes), "changes": changes}, indent=2) + "\n", encoding="utf-8")
-    print(f"Checked {len(current)} official URLs; material fingerprint changes: {len(changes)}")
+    print(f"Checked {len(current)} official URLs across the 25-brand architecture; material fingerprint changes: {len(changes)}")
 
 
 if __name__ == "__main__":

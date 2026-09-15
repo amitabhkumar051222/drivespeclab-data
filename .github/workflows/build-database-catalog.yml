@@ -9,9 +9,11 @@ on:
     paths:
       - 'data/db/**'
       - 'data/v4/**'
+      - 'data/v6/**'
       - 'data/catalog/brand-registry-live.json'
       - 'data/catalog/global-cars-live.json'
       - 'data/seo/model-routes-live.json'
+      - 'scripts/apply_v6_overlay.py'
       - 'scripts/generate_database_catalog.py'
       - 'scripts/postprocess_catalog.py'
       - 'scripts/sync_catalog_manifest.py'
@@ -30,6 +32,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Apply verified V6 enrichment layer
+        run: python scripts/apply_v6_overlay.py
       - name: Build database catalog, upcoming index and compare index
         run: python scripts/generate_database_catalog.py
       - name: Apply conservative catalog policy

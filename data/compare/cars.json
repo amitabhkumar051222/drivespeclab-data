@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T16:32:30+00:00",
+  "generated": "2026-09-15T16:38:00+00:00",
   "architecture": "database-first",
   "count": 279,
   "cars": [
@@ -4480,6 +4480,7 @@
         "torque": "317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
         "transmission": "8-speed automatic",
         "efficiency": "Up to 23 combined MPG depending on powertrain and grade",
+        "dimensions": "North American configurations: 194.9 in L × 77.9 in W × approximately 72.6–73.6 in H; 112.2 in wheelbase. Height varies with powertrain/grade equipment.",
         "cargo": "Up to 90.2 cu ft",
         "towing": "6000 lb",
         "technology": "Available 14-in Toyota Audio Multimedia touchscreen",
@@ -5157,6 +5158,7 @@
         "torque": "Up to 317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
         "transmission": "8-speed automatic; 6-speed manual available on selected i-FORCE grades",
         "efficiency": "EPA-estimated city/highway ratings vary by grade; selected i-FORCE MAX grades reach 22/24 MPG",
+        "dimensions": "North American current-generation configurations: 213.0 in overall length with 5-ft bed or XtraCab 6-ft bed; 226.2 in for Double Cab long-bed configuration; 131.9 or 145.1 in wheelbase; width/height vary by grade, tires and off-road equipment.",
         "cargo": "5-ft or 6-ft aluminum-reinforced composite bed, configuration-dependent",
         "towing": "6500 lb",
         "technology": "Available 14-in Toyota Audio Multimedia touchscreen; hybrid grades include a 2400W AC power supply",

@@ -9,8 +9,12 @@ on:
     paths:
       - 'data/db/**'
       - 'data/v4/**'
+      - 'data/catalog/brand-registry-live.json'
+      - 'data/catalog/global-cars-live.json'
+      - 'data/seo/model-routes-live.json'
       - 'scripts/generate_database_catalog.py'
       - 'scripts/postprocess_catalog.py'
+      - 'scripts/sync_catalog_manifest.py'
       - '.github/workflows/build-database-catalog.yml'
 
 permissions:
@@ -30,6 +34,8 @@ jobs:
         run: python scripts/generate_database_catalog.py
       - name: Apply conservative catalog policy
         run: python scripts/postprocess_catalog.py
+      - name: Sync 25-brand live manifest
+        run: python scripts/sync_catalog_manifest.py
       - name: Validate generated JSON
         run: |
           python - <<'PY'
@@ -39,7 +45,11 @@ jobs:
             Path('data/catalog/cars.json'),
             Path('data/catalog/upcoming.json'),
             Path('data/catalog/change-log.json'),
+            Path('data/catalog/brand-registry-live.json'),
+            Path('data/catalog/global-cars-live.json'),
+            Path('data/catalog/catalog-manifest-live.json'),
             Path('data/compare/cars.json'),
+            Path('data/seo/model-routes-live.json'),
           ]
           for p in files:
               json.loads(p.read_text(encoding='utf-8'))
@@ -49,11 +59,11 @@ jobs:
         run: |
           git config user.name 'DriveSpecLab Bot'
           git config user.email 'actions@users.noreply.github.com'
-          git add data/catalog data/compare/cars.json
+          git add data/catalog data/compare/cars.json data/seo/model-routes-live.json
           if git diff --cached --quiet; then
             echo 'No database-index changes.'
           else
-            git commit -m 'Build database-first vehicle catalog'
+            git commit -m 'Build database-first 25-brand vehicle catalog'
             git pull --rebase origin main
             git push origin HEAD:main
           fi

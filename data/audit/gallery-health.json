@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-15T17:29:39.962534+00:00",
+  "generated_at": "2026-09-15T17:32:12.169733+00:00",
   "policy": "Gallery URLs are checked over HTTP and must return an image content type. Production-ready requires the model-completeness audit to pass, at least six gallery URLs, and every checked gallery URL to be healthy. Temporary CDN/network failures are reported and never converted into valid assets.",
   "summary": {
     "models_scanned": 278,
-    "models_with_gallery": 6,
-    "gallery_urls_checked": 37,
-    "healthy_gallery_urls": 37,
+    "models_with_gallery": 7,
+    "gallery_urls_checked": 43,
+    "healthy_gallery_urls": 43,
     "unhealthy_gallery_urls": 0,
     "healthy_pct": 100.0,
     "current_models_audited_for_completeness": 274,
-    "production_ready_models": 6,
-    "production_ready_pct": 2.2
+    "production_ready_models": 7,
+    "production_ready_pct": 2.6
   },
   "production_ready_models": [
     {
@@ -32,6 +32,10 @@
     {
       "brand": "Toyota",
       "model": "Prius"
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4"
     },
     {
       "brand": "Toyota",
@@ -91,6 +95,16 @@
     },
     {
       "brand": "Toyota",
+      "model": "RAV4",
+      "gallery_urls": 6,
+      "healthy_urls": 6,
+      "all_gallery_urls_healthy": true,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": true
+    },
+    {
+      "brand": "Toyota",
       "model": "Tacoma",
       "gallery_urls": 6,
       "healthy_urls": 6,
@@ -108,7 +122,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 487,
+      "elapsed_ms": 405,
       "error": null
     },
     {
@@ -118,7 +132,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 331,
+      "elapsed_ms": 594,
       "error": null
     },
     {
@@ -128,7 +142,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 154,
+      "elapsed_ms": 613,
       "error": null
     },
     {
@@ -138,7 +152,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 337,
+      "elapsed_ms": 238,
       "error": null
     },
     {
@@ -148,7 +162,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 609,
+      "elapsed_ms": 159,
       "error": null
     },
     {
@@ -158,7 +172,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 1718,
+      "elapsed_ms": 328,
       "error": null
     },
     {
@@ -168,7 +182,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 1114,
+      "elapsed_ms": 275,
       "error": null
     },
     {
@@ -178,7 +192,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 170,
+      "elapsed_ms": 290,
       "error": null
     },
     {
@@ -188,7 +202,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 158,
+      "elapsed_ms": 273,
       "error": null
     },
     {
@@ -198,7 +212,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 398,
+      "elapsed_ms": 588,
       "error": null
     },
     {
@@ -208,7 +222,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 207,
+      "elapsed_ms": 243,
       "error": null
     },
     {
@@ -218,7 +232,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 266,
+      "elapsed_ms": 626,
       "error": null
     },
     {
@@ -228,7 +242,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 88,
+      "elapsed_ms": 281,
       "error": null
     },
     {
@@ -238,7 +252,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 229,
+      "elapsed_ms": 288,
       "error": null
     },
     {
@@ -248,7 +262,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 443,
+      "elapsed_ms": 128,
       "error": null
     },
     {
@@ -258,7 +272,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 157,
+      "elapsed_ms": 881,
       "error": null
     },
     {
@@ -268,7 +282,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 383,
+      "elapsed_ms": 281,
       "error": null
     },
     {
@@ -278,7 +292,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 1225,
+      "elapsed_ms": 820,
       "error": null
     },
     {
@@ -288,7 +302,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 570,
+      "elapsed_ms": 735,
       "error": null
     },
     {
@@ -298,7 +312,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 191,
+      "elapsed_ms": 632,
       "error": null
     },
     {
@@ -308,7 +322,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 669,
+      "elapsed_ms": 279,
       "error": null
     },
     {
@@ -318,7 +332,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 165,
+      "elapsed_ms": 278,
       "error": null
     },
     {
@@ -328,7 +342,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 702,
+      "elapsed_ms": 749,
       "error": null
     },
     {
@@ -338,7 +352,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 103,
+      "elapsed_ms": 266,
       "error": null
     },
     {
@@ -348,7 +362,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 577,
+      "elapsed_ms": 280,
       "error": null
     },
     {
@@ -358,7 +372,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 341,
+      "elapsed_ms": 289,
       "error": null
     },
     {
@@ -368,7 +382,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 550,
+      "elapsed_ms": 284,
       "error": null
     },
     {
@@ -378,7 +392,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 569,
+      "elapsed_ms": 589,
       "error": null
     },
     {
@@ -388,7 +402,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 297,
+      "elapsed_ms": 521,
       "error": null
     },
     {
@@ -398,7 +412,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 234,
+      "elapsed_ms": 889,
       "error": null
     },
     {
@@ -408,7 +422,67 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 420,
+      "elapsed_ms": 693,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 187,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 509,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 580,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 549,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 476,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/040/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 799,
       "error": null
     },
     {
@@ -418,7 +492,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 120,
+      "elapsed_ms": 287,
       "error": null
     },
     {
@@ -428,7 +502,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 182,
+      "elapsed_ms": 619,
       "error": null
     },
     {
@@ -438,7 +512,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 231,
+      "elapsed_ms": 278,
       "error": null
     },
     {
@@ -448,7 +522,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 94,
+      "elapsed_ms": 477,
       "error": null
     },
     {
@@ -458,7 +532,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 137,
+      "elapsed_ms": 494,
       "error": null
     },
     {
@@ -468,7 +542,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 464,
+      "elapsed_ms": 574,
       "error": null
     }
   ],

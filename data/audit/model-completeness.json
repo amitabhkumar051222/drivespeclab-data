@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:29:24.728998+00:00",
+  "generated_at": "2026-09-15T17:31:52.182957+00:00",
   "policy": "Missing fields are reported only; no values are guessed. Explicit not-applicable or official-source-not-published states resolve a section without inventing a value.",
   "brands": {
     "Audi": {
@@ -8996,31 +8996,29 @@
           "fully_complete": false
         },
         "RAV4": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
-            "torque": "missing",
+            "torque": "verified",
             "transmission": "verified",
             "efficiency": "verified",
-            "range": "missing",
-            "dimensions": "missing",
+            "range": "not_applicable",
+            "dimensions": "verified",
             "cargo": "verified",
             "towing": "verified",
             "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "torque",
-            "range",
-            "dimensions"
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
+            "range"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "RAV4 Plug-in Hybrid": {
           "gallery_count": 0,
@@ -9223,9 +9221,9 @@
       },
       "counts": {
         "models": 25,
-        "gallery_6": 6,
-        "spec_complete": 6,
-        "fully_complete": 6
+        "gallery_6": 7,
+        "spec_complete": 7,
+        "fully_complete": 7
       }
     },
     "Volkswagen": {
@@ -9840,15 +9838,15 @@
   },
   "summary": {
     "current_models_audited": 274,
-    "models_with_6_gallery_images": 6,
-    "gallery_complete_pct": 2.2,
-    "models_with_complete_spec_sections": 6,
-    "spec_complete_pct": 2.2,
-    "fully_complete_models": 6,
-    "fully_complete_pct": 2.2,
-    "models_missing_full_gallery": 268,
-    "models_with_incomplete_specs": 268,
-    "sections_resolved_as_not_applicable_or_not_published": 10
+    "models_with_6_gallery_images": 7,
+    "gallery_complete_pct": 2.6,
+    "models_with_complete_spec_sections": 7,
+    "spec_complete_pct": 2.6,
+    "fully_complete_models": 7,
+    "fully_complete_pct": 2.6,
+    "models_missing_full_gallery": 267,
+    "models_with_incomplete_specs": 267,
+    "sections_resolved_as_not_applicable_or_not_published": 11
   },
   "missing_gallery": [
     "Audi Q9",
@@ -10095,7 +10093,6 @@
     "Toyota Land Cruiser",
     "Toyota Mirai",
     "Toyota Prius Plug-in Hybrid",
-    "Toyota RAV4",
     "Toyota RAV4 Plug-in Hybrid",
     "Toyota Sequoia",
     "Toyota Sienna",
@@ -14372,15 +14369,6 @@
         "dimensions",
         "cargo",
         "towing"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "RAV4",
-      "missing": [
-        "torque",
-        "range",
-        "dimensions"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T15:57:22+00:00",
+  "generated": "2026-09-15T16:30:27+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
@@ -16617,7 +16617,7 @@
       ],
       "gallery_count": 7,
       "source": "https://www.toyota.com/4runner/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": "278 hp (i-FORCE) / 326 hp (i-FORCE MAX)",
         "torque_lb_ft": "317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
@@ -16628,13 +16628,14 @@
         "horsepower": "278 hp (i-FORCE) / 326 hp (i-FORCE MAX)",
         "torque": "317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
         "transmission": "8-speed automatic",
+        "efficiency": "Up to 23 combined MPG depending on powertrain and grade",
+        "cargo": "Up to 90.2 cu ft",
         "towing": "6000 lb",
-        "technology": "Available 14-in. Toyota Audio Multimedia touchscreen",
+        "technology": "Available 14-in Toyota Audio Multimedia touchscreen",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "Available 2WD, part-time 4WD or full-time 4WD, depending on grade",
-        "ground_clearance": "10.1 in",
-        "cargo": "90.2 cu ft",
-        "efficiency": "23 mpg combined"
+        "ground_clearance": "10.1 in"
       },
       "url": "/search/label/Toyota#usmodel=4Runner",
       "route_type": "database-hash",
@@ -16643,7 +16644,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": true,
-        "detail_fields": 11
+        "detail_fields": 12
       },
       "search_text": "toyota 4runner 2026 midsize suv suv / crossover gas / hybrid i-force max rwd / 4wd current u.s. retail model body-on-frame suv; hybrid available"
     },
@@ -16685,7 +16686,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/vehicles/bz/2027",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": "Up to 338 hp",
         "range_miles_up_to": 314
@@ -16697,6 +16698,7 @@
         "charging": "10% to 80% in approximately 30 minutes with compatible DC fast charging under ideal conditions",
         "technology": "Large Toyota Audio Multimedia touchscreen; NACS charging access on current generation",
         "safety": "Toyota active-safety suite; equipment varies by grade",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "acceleration": "As quick as 4.9 sec (AWD configuration)"
       },
       "url": "/search/label/Toyota#usmodel=bZ",
@@ -16706,7 +16708,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 7
+        "detail_fields": 8
       },
       "search_text": "toyota bz 2027 electric crossover suv / crossover battery electric fwd / awd current u.s. retail model toyota battery-electric crossover"
     },
@@ -16748,7 +16750,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/vehicles/bzwoodland/2027",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 375,
         "range_miles_up_to": 281,
@@ -16763,6 +16765,7 @@
         "towing": "3500 lb",
         "technology": "14-in. Toyota Audio Multimedia touchscreen",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "Standard AWD with X-MODE"
       },
       "url": "/search/label/Toyota#usmodel=bZ%20Woodland",
@@ -16772,7 +16775,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 8
+        "detail_fields": 9
       },
       "search_text": "toyota bz woodland 2027 electric crossover suv / crossover battery electric awd current u.s. retail model rugged awd bz derivative"
     },
@@ -16814,7 +16817,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/vehicles/chr/2027",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 338,
         "range_miles": "287 miles (SE) / 273 miles (XSE) EPA-estimated",
@@ -16829,6 +16832,7 @@
         "cargo": "25.3 cu ft",
         "technology": "14-in. Toyota Audio Multimedia touchscreen",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "acceleration": "4.9 sec",
         "drivetrain_detail": "Standard AWD"
       },
@@ -16839,7 +16843,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 9
+        "detail_fields": 10
       },
       "search_text": "toyota c-hr 2027 electric crossover suv / crossover battery electric awd current u.s. retail model new-generation electric c-hr for u.s. market"
     },
@@ -16925,11 +16929,11 @@
         }
       ],
       "key_detail": "Hybrid-only Camry lineup",
-      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry//2558/3u5/36/5.png?fmt=png-alpha&wid=930&qlt=90",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/3u5/1.png?fmt=png-alpha&qlt=90&wid=930",
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/camry/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": "225 net hp (FWD) / 232 net hp (AWD)"
       },
@@ -16937,10 +16941,13 @@
         "engine": "2.5L 4-cylinder with fifth-generation Toyota Hybrid System",
         "horsepower": "225 net hp (FWD) / 232 net hp (AWD)",
         "transmission": "Electronically controlled continuously variable transmission (eCVT)",
-        "technology": "Available 9-speaker JBL Premium Audio; Toyota Audio Multimedia",
+        "efficiency": "Up to 51 EPA-estimated combined MPG on LE FWD",
+        "dimensions": "193.5 in L × 72.4 in W × 56.9 in H; 111.2 in wheelbase (LE Hybrid comparison specification)",
+        "cargo": "15.1 cu ft trunk capacity",
+        "technology": "Toyota Audio Multimedia; available 9-speaker JBL Premium Audio; equipment varies by grade",
         "safety": "Toyota Safety Sense 3.0 standard",
-        "drivetrain_detail": "FWD or Electronic On-Demand AWD",
-        "efficiency": "51 mpg combined"
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
+        "drivetrain_detail": "FWD or Electronic On-Demand AWD"
       },
       "url": "/search/label/Toyota#usmodel=Camry",
       "route_type": "database-hash",
@@ -16949,7 +16956,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 7
+        "detail_fields": 10
       },
       "search_text": "toyota camry 2026 midsize sedan sedan hybrid fwd / awd current u.s. retail model hybrid-only camry lineup"
     },
@@ -17028,7 +17035,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/vehicles/corolla/2027",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": "169 hp (gas) / 138 hp (hybrid system)",
         "torque_lb_ft": "151 lb-ft (gas engine)"
@@ -17040,6 +17047,7 @@
         "transmission": "Dynamic-Shift CVT (gas) / electronically controlled CVT (hybrid)",
         "technology": "Available 12.3-in. digital gauge cluster and 10.5-in. Toyota Audio Multimedia touchscreen",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "FWD; Electronic On-Demand AWD available on selected hybrid grades",
         "efficiency": "50 mpg combined"
       },
@@ -17050,7 +17058,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 8
+        "detail_fields": 9
       },
       "search_text": "toyota corolla 2027 compact sedan sedan gas / hybrid fwd / awd (hybrid) current u.s. retail model high-volume compact sedan"
     },
@@ -17113,26 +17121,31 @@
         }
       ],
       "key_detail": "Compact crossover; hybrid available",
-      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross//6305/089/36/5.png?fmt=png-alpha&wid=930&qlt=90",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/089/1.png?fmt=png-alpha&qlt=90&wid=930",
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/corollacross/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": "169 hp (gas) / 196 net hp (hybrid)",
+        "torque_lb_ft": "151 lb-ft (gas engine; Toyota does not publish one combined hybrid-system torque figure on the model overview)",
         "mpg_combined": "Up to 32 MPG gas FWD / up to 42 MPG hybrid",
         "towing_lbs_up_to": 1500
       },
       "details": {
         "engine": "2.0L 4-cylinder gas or Toyota Hybrid System",
         "horsepower": "169 hp (gas) / 196 net hp (hybrid)",
+        "torque": "151 lb-ft (gas engine; Toyota does not publish one combined hybrid-system torque figure on the model overview)",
         "transmission": "CVTi-S (gas) / electronically controlled CVT (hybrid)",
-        "efficiency": "Up to 32 MPG gas FWD / up to 42 MPG hybrid",
+        "efficiency": "Up to 32 combined MPG gas FWD / up to 42 combined MPG hybrid",
+        "dimensions": "176.1 in L × 71.9 in W × 64.9 in H; 103.9 in wheelbase",
+        "cargo": "24.0 cu ft behind the rear seat; configuration-dependent with seats folded",
         "towing": "1500 lb",
+        "technology": "Toyota Audio Multimedia with wireless Apple CarPlay and Android Auto compatibility; equipment varies by grade",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "FWD or AWD; hybrid uses AWD",
-        "ground_clearance": "8.1 in",
-        "cargo": "52 cu ft"
+        "ground_clearance": "8.1 in"
       },
       "url": "/search/label/Toyota#usmodel=Corolla%20Cross",
       "route_type": "database-hash",
@@ -17141,7 +17154,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 9
+        "detail_fields": 13
       },
       "search_text": "toyota corolla cross 2026 compact suv suv / crossover gas / hybrid fwd / awd current u.s. retail model compact crossover; hybrid available"
     },
@@ -17183,7 +17196,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/vehicles/corollahatchback/2027",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 169,
         "torque_lb_ft": 151
@@ -17195,6 +17208,7 @@
         "transmission": "Dynamic-Shift CVT",
         "technology": "Wireless Apple CarPlay and Android Auto compatibility",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "FWD",
         "efficiency": "32 city / 41 highway MPG (SE)"
       },
@@ -17205,7 +17219,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 8
+        "detail_fields": 9
       },
       "search_text": "toyota corolla hatchback 2027 compact hatchback hatchback / wagon gas fwd current u.s. retail model practical compact hatchback"
     },
@@ -17265,7 +17279,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/grcorolla/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 300,
         "torque_lb_ft": "295 lb-ft (302 lb-ft on GRMN)"
@@ -17276,6 +17290,7 @@
         "torque": "295 lb-ft (302 lb-ft on GRMN)",
         "transmission": "6-speed intelligent manual or 8-speed GAZOO Racing Direct Automatic Transmission",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "GR-FOUR AWD",
         "efficiency": "21/28 MPG (manual) or 19/27 MPG (DAT), EPA-estimated"
       },
@@ -17286,7 +17301,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 7
+        "detail_fields": 8
       },
       "search_text": "toyota gr corolla 2026 performance hatchback hatchback / wagon turbo gas awd current u.s. retail model gr performance awd hatchback"
     },
@@ -17334,7 +17349,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/grsupra/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 382,
         "torque_lb_ft": 368
@@ -17344,6 +17359,7 @@
         "horsepower": "382 hp",
         "torque": "368 lb-ft",
         "transmission": "6-speed manual or 8-speed automatic",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "acceleration": "3.9 sec with automatic transmission",
         "drivetrain_detail": "RWD",
         "efficiency": "22 city / 29 highway / 25 combined MPG (3.0 automatic)"
@@ -17355,7 +17371,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 7
+        "detail_fields": 8
       },
       "search_text": "toyota gr supra 2026 sports coupe sports / coupe turbo gas rwd current u.s. retail model rear-drive gr sports coupe"
     },
@@ -17397,7 +17413,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/vehicles/gr86/2027",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 228,
         "torque_lb_ft": 184
@@ -17408,6 +17424,7 @@
         "torque": "184 lb-ft",
         "transmission": "6-speed manual or 6-speed automatic",
         "safety": "Active safety suite; features vary by transmission and grade",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "acceleration": "6.1 sec (manufacturer figure)",
         "drivetrain_detail": "RWD",
         "efficiency": "20 city / 26 highway MPG (configuration dependent)"
@@ -17419,7 +17436,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 8
+        "detail_fields": 9
       },
       "search_text": "toyota gr86 2027 sports coupe sports / coupe gas rwd current u.s. retail model lightweight rear-drive coupe"
     },
@@ -17510,7 +17527,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/grandhighlander/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": "265 hp (gas) / 245 hp (hybrid) / 362 hp (Hybrid MAX)",
         "torque_lb_ft": "Up to 400 lb-ft (Hybrid MAX)",
@@ -17524,6 +17541,7 @@
         "efficiency": "Up to 36 MPG on selected hybrid configurations",
         "towing": "5000 lb",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "cargo": "97.5 cu ft"
       },
       "url": "/search/label/Toyota#usmodel=Grand%20Highlander",
@@ -17533,7 +17551,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 7
+        "detail_fields": 8
       },
       "search_text": "toyota grand highlander 2026 three-row suv suv / crossover gas / hybrid fwd / awd current u.s. retail model large three-row family suv"
     },
@@ -17602,23 +17620,29 @@
         }
       ],
       "key_detail": "Three-row midsize SUV",
-      "image": "",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/3t3/1.png?fmt=png-alpha&qlt=90&wid=930",
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/highlander/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": "265 hp (gas)",
         "torque_lb_ft": "310 lb-ft (gas)",
-        "mpg_combined": "Up to 35 combined MPG (hybrid)"
+        "mpg_combined": "Up to 35 combined MPG (hybrid)",
+        "towing_lbs_up_to": 5000
       },
       "details": {
         "engine": "2.4L turbocharged 4-cylinder gas or 2.5L hybrid system",
         "horsepower": "265 hp (gas)",
         "torque": "310 lb-ft (gas)",
-        "efficiency": "Up to 35 combined MPG (hybrid)",
-        "technology": "Wireless Apple CarPlay and Android Auto compatibility",
-        "safety": "Toyota Safety Sense 2.5+ standard"
+        "transmission": "Direct Shift-8AT 8-speed electronically controlled automatic (2.4L turbo gas) / electronically controlled CVT (hybrid)",
+        "efficiency": "Up to 35 combined MPG on hybrid grades; gas grades are configuration-dependent",
+        "dimensions": "194.9 in L × 76.0 in W × 68.1 in H; 112.2 in wheelbase",
+        "cargo": "16.0 cu ft behind the third row; up to 84.3 cu ft with rear seats folded",
+        "towing": "5000 lb",
+        "technology": "Wireless Apple CarPlay and Android Auto compatibility; available 12.3-in Toyota Audio Multimedia display",
+        "safety": "Toyota Safety Sense 2.5+ standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage."
       },
       "url": "/search/label/Toyota#usmodel=Highlander",
       "route_type": "database-hash",
@@ -17627,7 +17651,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 6
+        "detail_fields": 11
       },
       "search_text": "toyota highlander 2026 three-row suv suv / crossover gas / hybrid fwd / awd current priced toyota retail lineup at verification; toyota has announced a 2027 model year but a complete 2027 grade-price table was not surfaced on the official retail page during verification. three-row midsize suv"
     },
@@ -17669,7 +17693,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/landcruiser/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 326,
         "torque_lb_ft": 465,
@@ -17681,6 +17705,7 @@
         "torque": "465 lb-ft",
         "towing": "6000 lb",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "Full-time 4WD"
       },
       "url": "/search/label/Toyota#usmodel=Land%20Cruiser",
@@ -17690,7 +17715,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 6
+        "detail_fields": 7
       },
       "search_text": "toyota land cruiser 2027 suv suv / crossover hybrid 4wd current u.s. retail model hybrid body-on-frame 4wd suv"
     },
@@ -17727,7 +17752,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/mirai/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 182,
         "torque_lb_ft": 300,
@@ -17742,6 +17767,7 @@
         "cargo": "9.6 cu ft",
         "technology": "12.3-in. touchscreen with JBL Premium Audio",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "RWD",
         "efficiency": "76 city / 71 highway / 74 combined MPGe"
       },
@@ -17752,7 +17778,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 9
+        "detail_fields": 10
       },
       "search_text": "toyota mirai 2026 fuel-cell sedan sedan hydrogen fuel cell electric rwd regional hydrogen fuel-cell vehicle availability; toyota currently publishes one u.s. mirai grade. hydrogen fuel-cell sedan; regional availability"
     },
@@ -17826,21 +17852,26 @@
         }
       ],
       "key_detail": "Efficiency-focused hybrid liftback",
-      "image": "",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/5c5/1.png?fmt=png-alpha&qlt=90&wid=930",
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/prius/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
-        "horsepower": "194 net hp (FWD) / 196 net hp (AWD)",
+        "horsepower": "194 net combined hp (FWD) / 196 net combined hp (AWD)",
         "mpg_combined": "Up to 55 combined MPG (LE FWD); up to 53 combined MPG (LE AWD)"
       },
       "details": {
-        "engine": "2.0L 4-cylinder Toyota Hybrid System",
-        "horsepower": "194 net hp (FWD) / 196 net hp (AWD)",
-        "transmission": "Electronically controlled continuously variable transmission",
-        "efficiency": "Up to 55 combined MPG (LE FWD); up to 53 combined MPG (LE AWD)",
+        "engine": "2.0L 4-cylinder fifth-generation Toyota Hybrid System",
+        "horsepower": "194 net combined hp (FWD) / 196 net combined hp (AWD)",
+        "transmission": "Electronically controlled continuously variable transmission (eCVT)",
+        "acceleration": "0-60 mph in 7.2 sec (FWD) / 7.0 sec (AWD)",
+        "efficiency": "EPA-estimated 55 combined MPG on LE trim",
+        "dimensions": "181.1 in L × 70.2 in W × up to 56.3 in H; 108.3 in wheelbase",
+        "cargo": "Up to 23.8 cu ft on LE trim with rear seats up",
+        "technology": "8.0-in Toyota Audio Multimedia display on LE; available larger display and Qi wireless charging on upper grades",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "FWD or Electronic On-Demand AWD"
       },
       "url": "/search/label/Toyota#usmodel=Prius",
@@ -17850,7 +17881,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 6
+        "detail_fields": 11
       },
       "search_text": "toyota prius 2027 liftback hatchback / wagon hybrid fwd / awd current u.s. retail model efficiency-focused hybrid liftback"
     },
@@ -17904,7 +17935,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/priuspluginhybrid/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 220,
         "mpge_combined": 129,
@@ -17918,6 +17949,7 @@
         "range": "44 miles",
         "technology": "Available 12.3-in. Toyota Audio Multimedia touchscreen",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "FWD"
       },
       "url": "/search/label/Toyota#usmodel=Prius%20Plug-in%20Hybrid",
@@ -17927,7 +17959,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 8
+        "detail_fields": 9
       },
       "search_text": "toyota prius plug-in hybrid 2027 liftback hatchback / wagon plug-in hybrid fwd current u.s. retail model plug-in hybrid prius"
     },
@@ -17993,7 +18025,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/rav4/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 236,
         "towing_lbs_up_to": 3500
@@ -18005,6 +18037,7 @@
         "towing": "3500 lb",
         "technology": "12.3-in. digital gauge cluster; 10.5-in. Toyota Audio Multimedia standard with available 12.9-in. screen",
         "safety": "Toyota Safety Sense 4.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "FWD or AWD depending on grade",
         "cargo": "37.8 cu ft",
         "efficiency": "Up to 47 city / 40 highway MPG on selected configuration"
@@ -18016,7 +18049,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 9
+        "detail_fields": 10
       },
       "search_text": "toyota rav4 2026 compact suv suv / crossover hybrid fwd / awd current u.s. retail model new-generation hybrid rav4"
     },
@@ -18070,7 +18103,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/rav4pluginhybrid/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 324,
         "range_miles_up_to": 54
@@ -18082,6 +18115,7 @@
         "charging": "11-kW onboard AC charging; DC fast charging capability available on current generation",
         "technology": "Toyota Audio Multimedia; equipment varies by grade",
         "safety": "Toyota Safety Sense 4.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "acceleration": "5.4 sec",
         "drivetrain_detail": "AWD"
       },
@@ -18092,7 +18126,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 8
+        "detail_fields": 9
       },
       "search_text": "toyota rav4 plug-in hybrid 2026 compact suv suv / crossover plug-in hybrid awd current u.s. retail model plug-in hybrid rav4"
     },
@@ -18158,7 +18192,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/sequoia/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 437,
         "torque_lb_ft": 583,
@@ -18172,6 +18206,7 @@
         "towing": "9500 lb",
         "technology": "14-in. Toyota Audio Multimedia touchscreen available/standard on upper grades",
         "safety": "Toyota Safety Sense 2.5 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "efficiency": "22 mpg combined"
       },
       "url": "/search/label/Toyota#usmodel=Sequoia",
@@ -18181,7 +18216,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 8
+        "detail_fields": 9
       },
       "search_text": "toyota sequoia 2026 full-size suv suv / crossover i-force max hybrid rwd / 4wd current priced toyota retail lineup at verification; toyota lists a 2027 sequoia in model-year news, but a complete 2027 retail grade-price table was not surfaced during verification. full-size hybrid body-on-frame suv"
     },
@@ -18247,7 +18282,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/sienna/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 245,
         "towing_lbs_up_to": 3500
@@ -18259,6 +18294,7 @@
         "dimensions": "Approx. 203.7–204.1 in. length; 78.5 in. width; 120.5 in. wheelbase",
         "towing": "3500 lb",
         "safety": "Toyota Safety Sense suite standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "FWD or Electronic On-Demand AWD",
         "ground_clearance": "6.37 in",
         "efficiency": "36 mpg combined"
@@ -18270,7 +18306,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 9
+        "detail_fields": 10
       },
       "search_text": "toyota sienna 2026 minivan van / minivan hybrid fwd / awd current u.s. retail model hybrid family minivan"
     },
@@ -18345,24 +18381,28 @@
         }
       ],
       "key_detail": "Midsize pickup; hybrid available",
-      "image": "",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/040/1.png?fmt=png-alpha&qlt=90&wid=930",
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/tacoma/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": "Up to 278 hp (i-FORCE) / 326 hp (i-FORCE MAX)",
         "torque_lb_ft": "Up to 317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
-        "mpg_combined": "Up to 23 combined MPG on selected hybrid configuration"
+        "mpg_combined": "Up to 23 combined MPG on selected hybrid configuration",
+        "towing_lbs_up_to": 6500
       },
       "details": {
         "engine": "2.4L turbocharged 4-cylinder i-FORCE; available i-FORCE MAX hybrid",
         "horsepower": "Up to 278 hp (i-FORCE) / 326 hp (i-FORCE MAX)",
         "torque": "Up to 317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
         "transmission": "8-speed automatic; 6-speed manual available on selected i-FORCE grades",
-        "efficiency": "Up to 23 combined MPG on selected hybrid configuration",
-        "technology": "Available 14-in. Toyota Audio Multimedia touchscreen",
-        "safety": "Toyota Safety Sense suite standard",
+        "efficiency": "EPA-estimated city/highway ratings vary by grade; selected i-FORCE MAX grades reach 22/24 MPG",
+        "cargo": "5-ft or 6-ft aluminum-reinforced composite bed, configuration-dependent",
+        "towing": "6500 lb",
+        "technology": "Available 14-in Toyota Audio Multimedia touchscreen; hybrid grades include a 2400W AC power supply",
+        "safety": "Toyota Safety Sense suite standard; equipment varies by grade",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "2WD or 4WD; full-time 4WD available on selected grades"
       },
       "url": "/search/label/Toyota#usmodel=Tacoma",
@@ -18372,7 +18412,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 8
+        "detail_fields": 11
       },
       "search_text": "toyota tacoma 2026 midsize pickup pickup / truck gas / hybrid i-force max rwd / 4wd current u.s. retail model midsize pickup; hybrid available"
     },
@@ -18426,7 +18466,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/vehicles/toyotacrown/2027",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": "236 net hp (hybrid) / 340 net hp (Hybrid MAX)",
         "mpg_combined": "Up to 40 combined MPG (hybrid)"
@@ -18436,6 +18476,7 @@
         "horsepower": "236 net hp (hybrid) / 340 net hp (Hybrid MAX)",
         "efficiency": "Up to 40 combined MPG (hybrid)",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "AWD standard"
       },
       "url": "/search/label/Toyota#usmodel=Toyota%20Crown",
@@ -18445,7 +18486,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 5
+        "detail_fields": 6
       },
       "search_text": "toyota toyota crown 2027 lifted sedan sedan hybrid awd current u.s. retail model premium awd hybrid sedan"
     },
@@ -18487,7 +18528,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/crownsignia/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "mpg_combined": 38,
         "towing_lbs_up_to": 2700
@@ -18498,6 +18539,7 @@
         "towing": "2700 lb",
         "technology": "12.3-in. digital gauge cluster and Toyota Audio Multimedia",
         "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "AWD standard",
         "cargo": "68.8 cu ft"
       },
@@ -18508,7 +18550,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 7
+        "detail_fields": 8
       },
       "search_text": "toyota toyota crown signia 2026 crossover suv / crossover hybrid awd current u.s. retail model premium hybrid crossover"
     },
@@ -18599,7 +18641,7 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://www.toyota.com/tundra/",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-15",
       "specs": {
         "horsepower": "Up to 389 hp (i-FORCE) / 437 hp (i-FORCE MAX)",
         "torque_lb_ft": "Up to 479 lb-ft (i-FORCE) / 583 lb-ft (i-FORCE MAX)",
@@ -18611,7 +18653,8 @@
         "torque": "Up to 479 lb-ft (i-FORCE) / 583 lb-ft (i-FORCE MAX)",
         "transmission": "10-speed electronically controlled automatic",
         "towing": "12000 lb",
-        "safety": "Toyota Safety Sense suite standard"
+        "safety": "Toyota Safety Sense suite standard",
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage."
       },
       "url": "/search/label/Toyota#usmodel=Tundra",
       "route_type": "database-hash",
@@ -18620,7 +18663,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 6
+        "detail_fields": 7
       },
       "search_text": "toyota tundra 2026 full-size pickup pickup / truck gas / hybrid i-force max rwd / 4wd current priced toyota retail lineup at verification; toyota lists a 2027 tundra in model-year news, but a complete 2027 retail grade-price table was not surfaced during verification. full-size pickup; hybrid available"
     },

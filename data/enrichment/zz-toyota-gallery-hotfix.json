@@ -1,0 +1,20 @@
+{
+  "target": "toyota.json",
+  "brand": "Toyota",
+  "market": "United States",
+  "verified_on": "2026-09-15",
+  "policy": "Reachability-validated Toyota U.S. retail assets only. This late-sorting patch overrides gallery URLs that fail the automated health audit.",
+  "models": {
+    "Camry": {
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/3u5/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/3u5/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/3u5/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/3u5/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/040/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/camry/"
+    }
+  }
+}

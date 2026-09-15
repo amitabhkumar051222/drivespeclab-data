@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T17:24:04.155065+00:00",
+  "generated_at": "2026-09-15T17:25:05.628076+00:00",
   "policy": "Gallery URLs are checked over HTTP and must return an image content type. Temporary CDN/network failures are reported and never converted into valid assets.",
   "summary": {
     "models_scanned": 278,
     "models_with_gallery": 2,
     "gallery_urls_checked": 13,
-    "healthy_gallery_urls": 11,
-    "unhealthy_gallery_urls": 2,
-    "healthy_pct": 84.6
+    "healthy_gallery_urls": 13,
+    "unhealthy_gallery_urls": 0,
+    "healthy_pct": 100.0
   },
   "checks": [
     {
@@ -17,7 +17,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 253,
+      "elapsed_ms": 470,
       "error": null
     },
     {
@@ -27,7 +27,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 344,
+      "elapsed_ms": 510,
       "error": null
     },
     {
@@ -37,7 +37,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 630,
+      "elapsed_ms": 465,
       "error": null
     },
     {
@@ -47,7 +47,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 483,
+      "elapsed_ms": 364,
       "error": null
     },
     {
@@ -57,7 +57,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 147,
+      "elapsed_ms": 550,
       "error": null
     },
     {
@@ -67,7 +67,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 196,
+      "elapsed_ms": 502,
       "error": null
     },
     {
@@ -77,7 +77,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 180,
+      "elapsed_ms": 569,
       "error": null
     },
     {
@@ -87,7 +87,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 231,
+      "elapsed_ms": 809,
       "error": null
     },
     {
@@ -97,7 +97,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 428,
+      "elapsed_ms": 758,
       "error": null
     },
     {
@@ -107,7 +107,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 548,
+      "elapsed_ms": 742,
       "error": null
     },
     {
@@ -117,50 +117,29 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 363,
+      "elapsed_ms": 646,
       "error": null
     },
     {
       "brand": "Toyota",
       "model": "Camry",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/089/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 204,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 706,
+      "error": null
     },
     {
       "brand": "Toyota",
       "model": "Camry",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/089/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 477,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/040/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 758,
+      "error": null
     }
   ],
-  "unhealthy": [
-    {
-      "brand": "Toyota",
-      "model": "Camry",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/089/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 204,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Camry",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/089/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 477,
-      "error": "HTTP 403"
-    }
-  ]
+  "unhealthy": []
 }

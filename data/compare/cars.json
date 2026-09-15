@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T12:14:19+00:00",
+  "generated": "2026-09-15T15:51:38+00:00",
   "architecture": "database-first",
   "count": 279,
   "cars": [
@@ -14,11 +14,12 @@
       "seating": "5",
       "starting_price": "$40,100",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/a3/a3/2026/overview/",
       "url": "/search/label/Audi#usmodel=A3",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-a5",
@@ -31,11 +32,12 @@
       "seating": "5",
       "starting_price": "$50,200",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/a5/a5/2026/overview/",
       "url": "/search/label/Audi#usmodel=A5",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-a6",
@@ -48,11 +50,12 @@
       "seating": "5",
       "starting_price": "$64,100",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/a6/a6-sedan/2026/overview/",
       "url": "/search/label/Audi#usmodel=A6",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-a6-e-tron",
@@ -65,11 +68,12 @@
       "seating": "5",
       "starting_price": "$66,700",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/a6-e-tron/a6-sportback-e-tron/2027/overview/",
       "url": "/search/label/Audi#usmodel=A6%20e-tron",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-a7",
@@ -82,11 +86,12 @@
       "seating": "5",
       "starting_price": "$130,700",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/a7/rs7/2026/overview/",
       "url": "/search/label/Audi#usmodel=A7",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-a8",
@@ -99,11 +104,12 @@
       "seating": "5",
       "starting_price": "$95,100",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/a8/a8-sedan/2027/overview/",
       "url": "/search/label/Audi#usmodel=A8",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-e-tron-gt",
@@ -116,11 +122,12 @@
       "seating": "4",
       "starting_price": "$127,700",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/e-tron-gt/rs-e-tron-gt/2027/overview/",
       "url": "/search/label/Audi#usmodel=e-tron%20GT",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-nuvolari",
@@ -133,11 +140,12 @@
       "seating": "See official details",
       "starting_price": "Price not announced",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/nuvolari/intro/",
       "url": "/search/label/Audi#usmodel=Nuvolari",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-q3",
@@ -150,11 +158,12 @@
       "seating": "5",
       "starting_price": "$44,400",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/q3/q3/2027/overview/",
       "url": "/search/label/Audi#usmodel=Q3",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-q4-e-tron",
@@ -167,11 +176,12 @@
       "seating": "5",
       "starting_price": "$50,600",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/q4/q4-e-tron/2026/overview/",
       "url": "/search/label/Audi#usmodel=Q4%20e-tron",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-q5",
@@ -184,11 +194,12 @@
       "seating": "5",
       "starting_price": "$52,800",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/q5/q5/2026/overview/",
       "url": "/search/label/Audi#usmodel=Q5",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-q6-e-tron",
@@ -201,11 +212,12 @@
       "seating": "5",
       "starting_price": "$64,500",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/q6-e-tron/q6-e-tron/2027/overview/",
       "url": "/search/label/Audi#usmodel=Q6%20e-tron",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-q7",
@@ -218,11 +230,12 @@
       "seating": "6–7",
       "starting_price": "$70,900",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/q7/q7/2027/overview/",
       "url": "/search/label/Audi#usmodel=Q7",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-q8",
@@ -235,11 +248,12 @@
       "seating": "5",
       "starting_price": "$76,900",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/q8/q8/2027/overview/",
       "url": "/search/label/Audi#usmodel=Q8",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-audi-q9",
@@ -252,11 +266,12 @@
       "seating": "6–7",
       "starting_price": "$87,700",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.audiusa.com/en/models/q9/q9/2027/overview/",
       "url": "/search/label/Audi#usmodel=Q9",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-2-series",
@@ -269,11 +284,12 @@
       "seating": "4",
       "starting_price": "$40,000",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=2%20Series",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-3-series",
@@ -286,11 +302,12 @@
       "seating": "5",
       "starting_price": "$48,000",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=3%20Series",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-4-series",
@@ -303,11 +320,12 @@
       "seating": "4",
       "starting_price": "$51,200",
       "trim_count": 12,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=4%20Series",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-5-series",
@@ -320,11 +338,12 @@
       "seating": "5",
       "starting_price": "$60,500",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=5%20Series",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-7-series",
@@ -337,11 +356,12 @@
       "seating": "5",
       "starting_price": "$99,800",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/vehicles/7-series/sedan/bmw-7-series-sedan.html",
       "url": "/search/label/BMW#usmodel=7%20Series",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-i4",
@@ -354,11 +374,12 @@
       "seating": "5",
       "starting_price": "$57,900",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=i4",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-i5",
@@ -371,11 +392,12 @@
       "seating": "5",
       "starting_price": "$67,100",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=i5",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-i7",
@@ -388,11 +410,12 @@
       "seating": "5",
       "starting_price": "$106,200",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=i7",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-ix",
@@ -405,11 +428,12 @@
       "seating": "5",
       "starting_price": "$75,150",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=iX",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-ix3",
@@ -422,12 +446,15 @@
       "seating": "5",
       "starting_price": "$61,500",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=iX3",
       "route_type": "database-hash",
       "specs": {
         "range_miles": "383–434 miles stated by BMW depending on configuration/test basis"
+      },
+      "details": {
+        "range": "383–434 miles stated by BMW depending on configuration/test basis"
       }
     },
     {
@@ -441,11 +468,12 @@
       "seating": "4",
       "starting_price": "$69,500",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=M2",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-m3",
@@ -458,11 +486,12 @@
       "seating": "5",
       "starting_price": "$79,300",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/vehicles/m-series/m3-series/bmw-m3-sedan.html",
       "url": "/search/label/BMW#usmodel=M3",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-m4",
@@ -475,11 +504,12 @@
       "seating": "4",
       "starting_price": "$82,200",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=M4",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-m5",
@@ -492,11 +522,12 @@
       "seating": "5",
       "starting_price": "$123,300",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=M5",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-x1",
@@ -509,11 +540,12 @@
       "seating": "5",
       "starting_price": "$43,200",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=X1",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-x2",
@@ -526,11 +558,12 @@
       "seating": "5",
       "starting_price": "$44,700",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=X2",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-x3",
@@ -543,11 +576,12 @@
       "seating": "5",
       "starting_price": "$51,300",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=X3",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-x5",
@@ -560,11 +594,12 @@
       "seating": "5–7",
       "starting_price": "$68,300",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=X5",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-x6",
@@ -577,11 +612,12 @@
       "seating": "5",
       "starting_price": "$77,300",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=X6",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-x7",
@@ -594,11 +630,12 @@
       "seating": "6–7",
       "starting_price": "$87,500",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=X7",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-bmw-xm",
@@ -611,12 +648,15 @@
       "seating": "5",
       "starting_price": "$159,600",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.bmwusa.com/all-bmws.html",
       "url": "/search/label/BMW#usmodel=XM",
       "route_type": "database-hash",
       "specs": {
         "electric_range": "up to 30 miles (BMW estimate)"
+      },
+      "details": {
+        "range": "up to 30 miles (BMW estimate)"
       }
     },
     {
@@ -630,11 +670,16 @@
       "seating": "5",
       "starting_price": "$34,300",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/suvs/blazer",
       "url": "/search/label/Chevrolet#usmodel=Blazer",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "towing_lbs_up_to": 4500
+      },
+      "details": {
+        "towing": 4500
+      }
     },
     {
       "id": "spec-chevrolet-blazer-ev",
@@ -647,11 +692,16 @@
       "seating": "5",
       "starting_price": "$44,700",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/electric/blazer-ev",
       "url": "/search/label/Chevrolet#usmodel=Blazer%20EV",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 312
+      },
+      "details": {
+        "range": "312 miles"
+      }
     },
     {
       "id": "spec-chevrolet-bolt",
@@ -664,11 +714,17 @@
       "seating": "",
       "starting_price": "$27,600",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/electric/bolt-ev",
       "url": "/search/label/Chevrolet#usmodel=Bolt",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 262
+      },
+      "details": {
+        "range": "262 miles",
+        "charging": "150 kW+ DC fast charging; GM-estimated 10–80% in 25 minutes under specified conditions."
+      }
     },
     {
       "id": "spec-chevrolet-colorado",
@@ -681,12 +737,18 @@
       "seating": "5",
       "starting_price": "$32,400",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/trucks/colorado",
       "url": "/search/label/Chevrolet#usmodel=Colorado",
       "route_type": "database-hash",
       "specs": {
-        "horsepower": 310
+        "horsepower": 310,
+        "towing_lbs_up_to": 7700
+      },
+      "details": {
+        "horsepower": 310,
+        "torque": "430 lb-ft",
+        "towing": 7700
       }
     },
     {
@@ -700,11 +762,12 @@
       "seating": "2",
       "starting_price": "$71,000",
       "trim_count": 16,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/performance/corvette",
       "url": "/search/label/Chevrolet#usmodel=Corvette",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-chevrolet-equinox",
@@ -717,12 +780,17 @@
       "seating": "5",
       "starting_price": "$29,000",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/suvs/equinox",
       "url": "/search/label/Chevrolet#usmodel=Equinox",
       "route_type": "database-hash",
       "specs": {
-        "horsepower": 175
+        "horsepower": 175,
+        "towing_lbs_up_to": 1500
+      },
+      "details": {
+        "horsepower": 175,
+        "towing": 1500
       }
     },
     {
@@ -736,11 +804,16 @@
       "seating": "5",
       "starting_price": "$34,995",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/electric/equinox-ev",
       "url": "/search/label/Chevrolet#usmodel=Equinox%20EV",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 319
+      },
+      "details": {
+        "range": "319 miles"
+      }
     },
     {
       "id": "spec-chevrolet-silverado-1500",
@@ -753,11 +826,16 @@
       "seating": "3–6",
       "starting_price": "$36,900",
       "trim_count": 9,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/trucks/silverado/1500",
       "url": "/search/label/Chevrolet#usmodel=Silverado%201500",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "towing_lbs_up_to": 13300
+      },
+      "details": {
+        "towing": 13300
+      }
     },
     {
       "id": "spec-chevrolet-silverado-ev",
@@ -770,11 +848,18 @@
       "seating": "5",
       "starting_price": "$55,895",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/electric/silverado-ev",
       "url": "/search/label/Chevrolet#usmodel=Silverado%20EV",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 478,
+        "towing_lbs_up_to": 12500
+      },
+      "details": {
+        "range": "478 miles",
+        "towing": 12500
+      }
     },
     {
       "id": "spec-chevrolet-silverado-hd",
@@ -787,11 +872,16 @@
       "seating": "3–6",
       "starting_price": "$45,900",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/trucks/silverado/2500hd-3500hd",
       "url": "/search/label/Chevrolet#usmodel=Silverado%20HD",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "towing_lbs_up_to": 36000
+      },
+      "details": {
+        "towing": 36000
+      }
     },
     {
       "id": "spec-chevrolet-suburban",
@@ -804,11 +894,12 @@
       "seating": "7–9",
       "starting_price": "$63,700",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/suvs/suburban",
       "url": "/search/label/Chevrolet#usmodel=Suburban",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-chevrolet-tahoe",
@@ -821,11 +912,12 @@
       "seating": "7–9",
       "starting_price": "$60,700",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/suvs/tahoe",
       "url": "/search/label/Chevrolet#usmodel=Tahoe",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-chevrolet-trailblazer",
@@ -838,11 +930,12 @@
       "seating": "5",
       "starting_price": "$23,300",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/suvs/trailblazer",
       "url": "/search/label/Chevrolet#usmodel=Trailblazer",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-chevrolet-traverse",
@@ -855,12 +948,17 @@
       "seating": "7–8",
       "starting_price": "$40,800",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/suvs/traverse",
       "url": "/search/label/Chevrolet#usmodel=Traverse",
       "route_type": "database-hash",
       "specs": {
-        "horsepower": 328
+        "horsepower": 328,
+        "towing_lbs_up_to": 5000
+      },
+      "details": {
+        "horsepower": 328,
+        "towing": 5000
       }
     },
     {
@@ -874,11 +972,12 @@
       "seating": "5",
       "starting_price": "$21,700",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.chevrolet.com/suvs/trax",
       "url": "/search/label/Chevrolet#usmodel=Trax",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ford-bronco",
@@ -891,11 +990,12 @@
       "seating": "4–5",
       "starting_price": "$40,795",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.ford.com/build-price/bronco/choose-model/",
       "url": "/search/label/Ford#usmodel=Bronco",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ford-bronco-sport",
@@ -908,11 +1008,12 @@
       "seating": "5",
       "starting_price": "$32,340",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.ford.com/build-price/bronco-sport/choose-model/",
       "url": "/search/label/Ford#usmodel=Bronco%20Sport",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ford-escape",
@@ -925,11 +1026,12 @@
       "seating": "5",
       "starting_price": "$30,350",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.ford.com/suvs-crossovers/escape/",
       "url": "/search/label/Ford#usmodel=Escape",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ford-expedition",
@@ -942,11 +1044,12 @@
       "seating": "7–8",
       "starting_price": "$64,095",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.ford.com/build-price/expedition/choose-model/",
       "url": "/search/label/Ford#usmodel=Expedition",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ford-explorer",
@@ -959,11 +1062,12 @@
       "seating": "6–7",
       "starting_price": "$38,860",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.ford.com/build-price/explorer/choose-model/",
       "url": "/search/label/Ford#usmodel=Explorer",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ford-f-150",
@@ -976,11 +1080,12 @@
       "seating": "3–6",
       "starting_price": "$37,290",
       "trim_count": 8,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.ford.com/build-price/f150/choose-model/",
       "url": "/search/label/Ford#usmodel=F-150",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ford-maverick",
@@ -993,11 +1098,12 @@
       "seating": "5",
       "starting_price": "$27,145",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.ford.com/build-price/maverick/choose-model/",
       "url": "/search/label/Ford#usmodel=Maverick",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ford-mustang",
@@ -1010,11 +1116,12 @@
       "seating": "4",
       "starting_price": "$33,490",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.ford.com/build-price/mustang/choose-model/",
       "url": "/search/label/Ford#usmodel=Mustang",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ford-mustang-mach-e",
@@ -1027,11 +1134,12 @@
       "seating": "5",
       "starting_price": "$38,290",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.ford.com/build-price/mach-e/choose-model/",
       "url": "/search/label/Ford#usmodel=Mustang%20Mach-E",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ford-ranger",
@@ -1044,11 +1152,12 @@
       "seating": "5",
       "starting_price": "$33,550",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.ford.com/build-price/ranger/choose-model/",
       "url": "/search/label/Ford#usmodel=Ranger",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ford-super-duty",
@@ -1061,11 +1170,12 @@
       "seating": "3–6",
       "starting_price": "$45,975",
       "trim_count": 15,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.ford.com/build-price/superduty/choose-model/",
       "url": "/search/label/Ford#usmodel=Super%20Duty",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ford-transit",
@@ -1078,11 +1188,12 @@
       "seating": "2+",
       "starting_price": "$48,400",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.ford.com/commercial-trucks/transit-cargo-van/",
       "url": "/search/label/Ford#usmodel=Transit",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-genesis-electrified-gv70",
@@ -1095,11 +1206,12 @@
       "seating": "5",
       "starting_price": "$58,500",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.genesis.com/us/en/electrified-gv70",
       "url": "/search/label/Genesis#usmodel=Electrified%20GV70",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-genesis-g70",
@@ -1112,11 +1224,12 @@
       "seating": "5",
       "starting_price": "$43,450",
       "trim_count": 8,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.genesis.com/us/en/g70",
       "url": "/search/label/Genesis#usmodel=G70",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-genesis-g80",
@@ -1129,11 +1242,12 @@
       "seating": "5",
       "starting_price": "$59,450",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.genesis.com/us/en/g80",
       "url": "/search/label/Genesis#usmodel=G80",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-genesis-g90",
@@ -1146,11 +1260,12 @@
       "seating": "5",
       "starting_price": "$92,700",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.genesis.com/us/en/build-and-price/2026/g90",
       "url": "/search/label/Genesis#usmodel=G90",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-genesis-gv60",
@@ -1163,11 +1278,12 @@
       "seating": "5",
       "starting_price": "$46,250",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.genesis.com/us/en/gv60",
       "url": "/search/label/Genesis#usmodel=GV60",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-genesis-gv60-magma",
@@ -1180,11 +1296,12 @@
       "seating": "5",
       "starting_price": "$69,950",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.genesis.com/us/en/gv60-magma",
       "url": "/search/label/Genesis#usmodel=GV60%20Magma",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-genesis-gv70",
@@ -1197,11 +1314,12 @@
       "seating": "5",
       "starting_price": "$49,350",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.genesis.com/us/en/gv70",
       "url": "/search/label/Genesis#usmodel=GV70",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-genesis-gv80",
@@ -1214,11 +1332,12 @@
       "seating": "5–7",
       "starting_price": "$58,850",
       "trim_count": 8,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.genesis.com/us/en/gv80",
       "url": "/search/label/Genesis#usmodel=GV80",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-genesis-gv80-coupe",
@@ -1231,11 +1350,12 @@
       "seating": "5",
       "starting_price": "$77,200",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.genesis.com/us/en/gv80-coupe",
       "url": "/search/label/Genesis#usmodel=GV80%20Coupe",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-acadia",
@@ -1248,11 +1368,12 @@
       "seating": "7–8",
       "starting_price": "$43,800",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/suvs/previous-year/acadia",
       "url": "/search/label/GMC#usmodel=Acadia",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-canyon",
@@ -1265,11 +1386,12 @@
       "seating": "5",
       "starting_price": "$38,900",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/trucks/canyon",
       "url": "/search/label/GMC#usmodel=Canyon",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-hummer-ev-pickup",
@@ -1282,11 +1404,12 @@
       "seating": "5",
       "starting_price": "$97,200",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/electric/hummer-ev/pickup-truck",
       "url": "/search/label/GMC#usmodel=HUMMER%20EV%20Pickup",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-hummer-ev-suv",
@@ -1299,11 +1422,12 @@
       "seating": "5",
       "starting_price": "$97,200",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/electric/hummer-ev/suv",
       "url": "/search/label/GMC#usmodel=HUMMER%20EV%20SUV",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-savana-cargo",
@@ -1316,11 +1440,12 @@
       "seating": "2+",
       "starting_price": "$42,200",
       "trim_count": 0,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "",
       "url": "/search/label/GMC#usmodel=Savana%20Cargo",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-savana-cargo-2500",
@@ -1333,11 +1458,12 @@
       "seating": "",
       "starting_price": "$42,700",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/vans/previous-year/savana/cargo",
       "url": "/search/label/GMC#usmodel=Savana%20Cargo%202500",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-savana-cargo-3500",
@@ -1350,11 +1476,12 @@
       "seating": "",
       "starting_price": "$46,650",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/vans/previous-year/savana/cargo",
       "url": "/search/label/GMC#usmodel=Savana%20Cargo%203500",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-savana-passenger",
@@ -1367,11 +1494,12 @@
       "seating": "8–15",
       "starting_price": "$47,950",
       "trim_count": 0,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "",
       "url": "/search/label/GMC#usmodel=Savana%20Passenger",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-savana-passenger-2500",
@@ -1384,11 +1512,12 @@
       "seating": "",
       "starting_price": "$48,550",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/vans/previous-year/savana/passenger",
       "url": "/search/label/GMC#usmodel=Savana%20Passenger%202500",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-savana-passenger-3500",
@@ -1401,11 +1530,12 @@
       "seating": "",
       "starting_price": "$49,750",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/vans/previous-year/savana/passenger",
       "url": "/search/label/GMC#usmodel=Savana%20Passenger%203500",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-sierra-1500",
@@ -1418,11 +1548,12 @@
       "seating": "3–6",
       "starting_price": "$38,300",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/trucks/sierra/1500",
       "url": "/search/label/GMC#usmodel=Sierra%201500",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-sierra-2500hd",
@@ -1435,11 +1566,12 @@
       "seating": "",
       "starting_price": "$47,000",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/trucks/sierra/2500hd-3500hd",
       "url": "/search/label/GMC#usmodel=Sierra%202500HD",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-sierra-3500hd",
@@ -1452,11 +1584,12 @@
       "seating": "",
       "starting_price": "$47,900",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/trucks/sierra/2500hd-3500hd",
       "url": "/search/label/GMC#usmodel=Sierra%203500HD",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-sierra-3500hd-chassis-cab",
@@ -1469,11 +1602,12 @@
       "seating": "",
       "starting_price": "$47,500",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/trucks/sierra-3500hd-chassis-cab",
       "url": "/search/label/GMC#usmodel=Sierra%203500HD%20Chassis%20Cab",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-sierra-ev",
@@ -1486,11 +1620,12 @@
       "seating": "5",
       "starting_price": "$62,400",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/electric/sierra-ev",
       "url": "/search/label/GMC#usmodel=Sierra%20EV",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-sierra-hd",
@@ -1503,11 +1638,12 @@
       "seating": "3–6",
       "starting_price": "$47,000",
       "trim_count": 0,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "",
       "url": "/search/label/GMC#usmodel=Sierra%20HD",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-terrain",
@@ -1520,11 +1656,12 @@
       "seating": "5",
       "starting_price": "$30,400",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/suvs/terrain",
       "url": "/search/label/GMC#usmodel=Terrain",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-yukon",
@@ -1537,11 +1674,12 @@
       "seating": "7–9",
       "starting_price": "$69,600",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/suvs/yukon",
       "url": "/search/label/GMC#usmodel=Yukon",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-gmc-yukon-xl",
@@ -1554,11 +1692,12 @@
       "seating": "7–9",
       "starting_price": "$72,600",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.gmc.com/suvs/yukon",
       "url": "/search/label/GMC#usmodel=Yukon%20XL",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-honda-accord",
@@ -1571,11 +1710,12 @@
       "seating": "5",
       "starting_price": "$28,395",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/accord-sedan/specs-features-trim-comparison",
       "url": "/search/label/Honda#usmodel=Accord",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-honda-civic-hatchback",
@@ -1588,11 +1728,12 @@
       "seating": "5",
       "starting_price": "$27,895",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/civic-hatchback/specs-features-trim-comparison",
       "url": "/search/label/Honda#usmodel=Civic%20Hatchback",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-honda-civic-sedan",
@@ -1605,11 +1746,12 @@
       "seating": "5",
       "starting_price": "$24,695",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/civic-sedan/specs-features-trim-comparison",
       "url": "/search/label/Honda#usmodel=Civic%20Sedan",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-honda-civic-si",
@@ -1622,11 +1764,14 @@
       "seating": "5",
       "starting_price": "$31,495",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/civic-si-sedan/specs-features-trim-comparison",
       "url": "/search/label/Honda#usmodel=Civic%20Si",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 200
+      },
+      "details": {
         "horsepower": 200
       }
     },
@@ -1641,11 +1786,12 @@
       "seating": "4",
       "starting_price": "$47,395",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/tools/build-and-price",
       "url": "/search/label/Honda#usmodel=Civic%20Type%20R",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-honda-cr-v",
@@ -1658,11 +1804,12 @@
       "seating": "5",
       "starting_price": "$31,520",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/cr-v/specs-features-trim-comparison",
       "url": "/search/label/Honda#usmodel=CR-V",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-honda-cr-v-e-fcev",
@@ -1675,13 +1822,17 @@
       "seating": "5",
       "starting_price": "$50,000",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/cr-v-fcev/specs-features-trim-comparison",
       "url": "/search/label/Honda#usmodel=CR-V%20e%3AFCEV",
       "route_type": "database-hash",
       "specs": {
         "horsepower": 174,
         "epa_range_miles": 270
+      },
+      "details": {
+        "horsepower": 174,
+        "range": "270 miles"
       }
     },
     {
@@ -1695,11 +1846,12 @@
       "seating": "5",
       "starting_price": "$26,600",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/hr-v/specs-features-trim-comparison",
       "url": "/search/label/Honda#usmodel=HR-V",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-honda-odyssey",
@@ -1712,11 +1864,14 @@
       "seating": "7–8",
       "starting_price": "$43,195",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/odyssey/specs-features-trim-comparison",
       "url": "/search/label/Honda#usmodel=Odyssey",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 280
+      },
+      "details": {
         "horsepower": 280
       }
     },
@@ -1731,11 +1886,14 @@
       "seating": "5",
       "starting_price": "$44,950",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/passport",
       "url": "/search/label/Honda#usmodel=Passport",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 285
+      },
+      "details": {
         "horsepower": 285
       }
     },
@@ -1750,11 +1908,12 @@
       "seating": "7–8",
       "starting_price": "$42,395",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=pilot&modelyear=2026",
       "url": "/search/label/Honda#usmodel=Pilot",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-honda-prelude",
@@ -1767,11 +1926,14 @@
       "seating": "4",
       "starting_price": "$42,400",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/prelude/specs-features-trim-comparison",
       "url": "/search/label/Honda#usmodel=Prelude",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 200
+      },
+      "details": {
         "horsepower": 200
       }
     },
@@ -1786,12 +1948,19 @@
       "seating": "5",
       "starting_price": "$39,900",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/prologue",
       "url": "/search/label/Honda#usmodel=Prologue",
       "route_type": "database-hash",
       "specs": {
         "epa_range_miles": {
+          "EX": 308,
+          "Touring": 308,
+          "Elite": 283
+        }
+      },
+      "details": {
+        "range": {
           "EX": 308,
           "Touring": 308,
           "Elite": 283
@@ -1809,11 +1978,14 @@
       "seating": "5",
       "starting_price": "$40,795",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://automobiles.honda.com/ridgeline/specs-features-trim-comparison",
       "url": "/search/label/Honda#usmodel=Ridgeline",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 280
+      },
+      "details": {
         "horsepower": 280
       }
     },
@@ -1828,11 +2000,12 @@
       "seating": "5",
       "starting_price": "$22,825",
       "trim_count": 9,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.hyundaiusa.com/us/en/vehicles/elantra/compare-specs",
       "url": "/search/label/Hyundai#usmodel=Elantra",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-hyundai-ioniq-5",
@@ -1845,11 +2018,16 @@
       "seating": "5",
       "starting_price": "$35,000",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5/compare-specs",
       "url": "/search/label/Hyundai#usmodel=IONIQ%205",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 318
+      },
+      "details": {
+        "range": "318 miles"
+      }
     },
     {
       "id": "spec-hyundai-ioniq-5-n",
@@ -1862,11 +2040,16 @@
       "seating": "5",
       "starting_price": "$59,900",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n",
       "url": "/search/label/Hyundai#usmodel=IONIQ%205%20N",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 221
+      },
+      "details": {
+        "range": "221 miles"
+      }
     },
     {
       "id": "spec-hyundai-ioniq-6",
@@ -1879,11 +2062,16 @@
       "seating": "5",
       "starting_price": "$37,850",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-6/compare-specs",
       "url": "/search/label/Hyundai#usmodel=IONIQ%206",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 342
+      },
+      "details": {
+        "range": "342 miles"
+      }
     },
     {
       "id": "spec-hyundai-ioniq-9",
@@ -1896,11 +2084,16 @@
       "seating": "6–7",
       "starting_price": "$58,955",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-9/compare-specs",
       "url": "/search/label/Hyundai#usmodel=IONIQ%209",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 335
+      },
+      "details": {
+        "range": "335 miles"
+      }
     },
     {
       "id": "spec-hyundai-kona",
@@ -1913,11 +2106,12 @@
       "seating": "5",
       "starting_price": "$25,500",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.hyundaiusa.com/us/en/vehicles/kona/compare-specs",
       "url": "/search/label/Hyundai#usmodel=Kona",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-hyundai-kona-electric",
@@ -1930,11 +2124,16 @@
       "seating": "",
       "starting_price": "$32,975",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.hyundaiusa.com/us/en/vehicles/kona-electric/compare-specs",
       "url": "/search/label/Hyundai#usmodel=Kona%20Electric",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 261
+      },
+      "details": {
+        "range": "261 miles"
+      }
     },
     {
       "id": "spec-hyundai-palisade",
@@ -1947,11 +2146,12 @@
       "seating": "7–8",
       "starting_price": "$39,735",
       "trim_count": 11,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.hyundaiusa.com/us/en/vehicles/palisade/compare-specs",
       "url": "/search/label/Hyundai#usmodel=Palisade",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-hyundai-santa-cruz",
@@ -1964,11 +2164,12 @@
       "seating": "5",
       "starting_price": "$29,750",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.hyundaiusa.com/us/en/vehicles/santa-cruz/compare-specs",
       "url": "/search/label/Hyundai#usmodel=Santa%20Cruz",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-hyundai-santa-fe",
@@ -1981,11 +2182,12 @@
       "seating": "6–7",
       "starting_price": "$35,300",
       "trim_count": 9,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.hyundaiusa.com/us/en/vehicles/santa-fe/compare-specs",
       "url": "/search/label/Hyundai#usmodel=Santa%20Fe",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-hyundai-sonata",
@@ -1998,11 +2200,12 @@
       "seating": "5",
       "starting_price": "$27,450",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.hyundaiusa.com/us/en/vehicles/sonata/compare-specs",
       "url": "/search/label/Hyundai#usmodel=Sonata",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-hyundai-tucson",
@@ -2015,11 +2218,12 @@
       "seating": "5",
       "starting_price": "$29,700",
       "trim_count": 12,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.hyundaiusa.com/us/en/vehicles/tucson/compare-specs",
       "url": "/search/label/Hyundai#usmodel=Tucson",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-hyundai-venue",
@@ -2032,11 +2236,14 @@
       "seating": "5",
       "starting_price": "$20,550",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.hyundaiusa.com/us/en/vehicles/venue/compare-specs",
       "url": "/search/label/Hyundai#usmodel=Venue",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 121
+      },
+      "details": {
         "horsepower": 121
       }
     },
@@ -2051,11 +2258,19 @@
       "seating": "5",
       "starting_price": "$35,000",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.jeep.com/cherokee.html",
       "url": "/search/label/Jeep#usmodel=Cherokee",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 529,
+        "towing_lbs_up_to": 3500
+      },
+      "details": {
+        "engine": "Turbo Hybrid",
+        "range": "529 miles",
+        "towing": 3500
+      }
     },
     {
       "id": "spec-jeep-compass",
@@ -2068,11 +2283,12 @@
       "seating": "5",
       "starting_price": "$29,550",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.jeep.com/compass.html",
       "url": "/search/label/Jeep#usmodel=Compass",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-jeep-gladiator",
@@ -2085,11 +2301,12 @@
       "seating": "5",
       "starting_price": "$39,820",
       "trim_count": 12,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.jeep.com/gladiator.html",
       "url": "/search/label/Jeep#usmodel=Gladiator",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-jeep-grand-cherokee",
@@ -2102,11 +2319,12 @@
       "seating": "5–7",
       "starting_price": "$39,515",
       "trim_count": 12,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.jeep.com/grand-cherokee.html",
       "url": "/search/label/Jeep#usmodel=Grand%20Cherokee",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-jeep-grand-wagoneer",
@@ -2119,11 +2337,12 @@
       "seating": "7–8",
       "starting_price": "$64,690",
       "trim_count": 9,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.jeep.com/grand-wagoneer.html",
       "url": "/search/label/Jeep#usmodel=Grand%20Wagoneer",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-jeep-recon",
@@ -2136,11 +2355,12 @@
       "seating": "5",
       "starting_price": "$66,995",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.jeep.com/recon.html",
       "url": "/search/label/Jeep#usmodel=Recon",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-jeep-wagoneer-s",
@@ -2153,11 +2373,12 @@
       "seating": "5",
       "starting_price": "$65,200",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.jeep.com/wagoneer-s.html",
       "url": "/search/label/Jeep#usmodel=Wagoneer%20S",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-jeep-wrangler",
@@ -2170,11 +2391,12 @@
       "seating": "4–5",
       "starting_price": "$36,035",
       "trim_count": 11,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.jeep.com/wrangler.html",
       "url": "/search/label/Jeep#usmodel=Wrangler",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-jeep-wrangler-4xe",
@@ -2187,11 +2409,12 @@
       "seating": "",
       "starting_price": "",
       "trim_count": 0,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.jeep.com/wrangler-4xe.html",
       "url": "/search/label/Jeep#usmodel=Wrangler%204xe",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-kia-carnival",
@@ -2204,11 +2427,12 @@
       "seating": "7–8",
       "starting_price": "$37,490",
       "trim_count": 9,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.kia.com/us/en/carnival-mpv",
       "url": "/search/label/Kia#usmodel=Carnival",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-kia-ev3",
@@ -2221,11 +2445,16 @@
       "seating": "5",
       "starting_price": "$29,890",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.kiamedia.com/us/en/media/pressreleases/25004/kia-announces-pricing-for-2027-ev3",
       "url": "/search/label/Kia#usmodel=EV3",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 321
+      },
+      "details": {
+        "range": "321 miles"
+      }
     },
     {
       "id": "spec-kia-ev6",
@@ -2238,11 +2467,16 @@
       "seating": "5",
       "starting_price": "$37,900",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.kia.com/us/en/ev6",
       "url": "/search/label/Kia#usmodel=EV6",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 319
+      },
+      "details": {
+        "range": "319 miles"
+      }
     },
     {
       "id": "spec-kia-ev9",
@@ -2255,11 +2489,12 @@
       "seating": "6–7",
       "starting_price": "$54,900",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.kia.com/us/en/ev9/specs-compare",
       "url": "/search/label/Kia#usmodel=EV9",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-kia-k4",
@@ -2272,11 +2507,12 @@
       "seating": "5",
       "starting_price": "$22,290",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.kiamedia.com/us/en/models/k4/2026/pricing",
       "url": "/search/label/Kia#usmodel=K4",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-kia-k4-hatchback",
@@ -2289,11 +2525,12 @@
       "seating": "5",
       "starting_price": "$24,990",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.kiamedia.com/us/en/models/k4-hatchback/2026/pricing",
       "url": "/search/label/Kia#usmodel=K4%20Hatchback",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-kia-k5",
@@ -2306,11 +2543,12 @@
       "seating": "5",
       "starting_price": "$27,690",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.kia.com/us/en/k5",
       "url": "/search/label/Kia#usmodel=K5",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-kia-niro",
@@ -2323,11 +2561,12 @@
       "seating": "5",
       "starting_price": "$29,890",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.kia.com/us/en/niro",
       "url": "/search/label/Kia#usmodel=Niro",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-kia-niro-ev",
@@ -2340,11 +2579,16 @@
       "seating": "",
       "starting_price": "$39,700",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.kia.com/us/en/niro-ev",
       "url": "/search/label/Kia#usmodel=Niro%20EV",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 253
+      },
+      "details": {
+        "range": "253 miles"
+      }
     },
     {
       "id": "spec-kia-seltos",
@@ -2357,11 +2601,12 @@
       "seating": "5",
       "starting_price": "$24,990",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.kiamedia.com/us/en/models/seltos/2027/pricing",
       "url": "/search/label/Kia#usmodel=Seltos",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-kia-sorento",
@@ -2374,11 +2619,12 @@
       "seating": "6–7",
       "starting_price": "$32,390",
       "trim_count": 12,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.kia.com/us/en/sorento/specs-compare",
       "url": "/search/label/Kia#usmodel=Sorento",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-kia-sportage",
@@ -2391,11 +2637,12 @@
       "seating": "5",
       "starting_price": "$28,990",
       "trim_count": 13,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.kia.com/us/en/sportage-hybrid",
       "url": "/search/label/Kia#usmodel=Sportage",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-kia-telluride",
@@ -2408,11 +2655,12 @@
       "seating": "7–8",
       "starting_price": "$39,190",
       "trim_count": 15,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.kia.com/us/en/telluride/specs-compare",
       "url": "/search/label/Kia#usmodel=Telluride",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-land-rover-defender",
@@ -2425,11 +2673,12 @@
       "seating": "5–8",
       "starting_price": "$61,000",
       "trim_count": 12,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.landroverusa.com/build-your-own/defender.html",
       "url": "/search/label/Land-Rover#usmodel=Defender",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-land-rover-discovery",
@@ -2442,11 +2691,12 @@
       "seating": "7",
       "starting_price": "$64,900",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.landroverusa.com/discovery/discovery/models-and-specifications.html",
       "url": "/search/label/Land-Rover#usmodel=Discovery",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-land-rover-discovery-sport",
@@ -2459,11 +2709,12 @@
       "seating": "5–7",
       "starting_price": "$49,900",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.landroverusa.com/discovery/discovery-sport/models-and-specifications.html",
       "url": "/search/label/Land-Rover#usmodel=Discovery%20Sport",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-land-rover-range-rover",
@@ -2476,11 +2727,12 @@
       "seating": "4–7",
       "starting_price": "$113,300",
       "trim_count": 13,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.rangerover.com/en-us/range-rover/models-and-specifications.html",
       "url": "/search/label/Land-Rover#usmodel=Range%20Rover",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-land-rover-range-rover-evoque",
@@ -2493,11 +2745,12 @@
       "seating": "5",
       "starting_price": "$49,900",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.rangerover.com/en-us/range-rover-evoque/models-and-specifications.html",
       "url": "/search/label/Land-Rover#usmodel=Range%20Rover%20Evoque",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-land-rover-range-rover-sport",
@@ -2510,11 +2763,12 @@
       "seating": "5",
       "starting_price": "$83,700",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.rangerover.com/en-us/range-rover-sport/models-and-specifications.html",
       "url": "/search/label/Land-Rover#usmodel=Range%20Rover%20Sport",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-land-rover-range-rover-velar",
@@ -2527,11 +2781,12 @@
       "seating": "5",
       "starting_price": "$61,600",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.rangerover.com/en-us/range-rover-velar/models-and-specifications.html",
       "url": "/search/label/Land-Rover#usmodel=Range%20Rover%20Velar",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-lexus-es",
@@ -2544,11 +2799,12 @@
       "seating": "5",
       "starting_price": "$49,005",
       "trim_count": 8,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.lexus.com/models/ES",
       "url": "/search/label/Lexus#usmodel=ES",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-lexus-gx",
@@ -2561,11 +2817,12 @@
       "seating": "5–7",
       "starting_price": "$68,335",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://pressroom.lexus.com/2026-lexus-gx/",
       "url": "/search/label/Lexus#usmodel=GX",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-lexus-is",
@@ -2578,11 +2835,12 @@
       "seating": "5",
       "starting_price": "$46,895",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://pressroom.lexus.com/2026-lexus-is-perfecting-the-sport-sedan/",
       "url": "/search/label/Lexus#usmodel=IS",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-lexus-lc",
@@ -2595,11 +2853,12 @@
       "seating": "2+2",
       "starting_price": "$101,800",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://pressroom.lexus.com/tangible-elegance-the-2026-lexus-lc-500/",
       "url": "/search/label/Lexus#usmodel=LC",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-lexus-ls",
@@ -2612,11 +2871,12 @@
       "seating": "5",
       "starting_price": "$99,380",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://pressroom.lexus.com/2026-lexus-ls-a-homage-to-the-original/",
       "url": "/search/label/Lexus#usmodel=LS",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-lexus-lx",
@@ -2629,11 +2889,12 @@
       "seating": "4–7",
       "starting_price": "$108,050",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://pressroom.lexus.com/lexus-flagship-suv-returns-for-2026-with-an-f-sport-appearance-package/",
       "url": "/search/label/Lexus#usmodel=LX",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-lexus-nx",
@@ -2646,11 +2907,12 @@
       "seating": "5",
       "starting_price": "$45,570",
       "trim_count": 15,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://pressroom.lexus.com/2026-lexus-nx-adds-grades-and-drivetrain/",
       "url": "/search/label/Lexus#usmodel=NX",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-lexus-rx",
@@ -2663,11 +2925,12 @@
       "seating": "5",
       "starting_price": "$52,775",
       "trim_count": 19,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://pressroom.lexus.com/2026-lexus-rx-extending-the-range/",
       "url": "/search/label/Lexus#usmodel=RX",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-lexus-rz",
@@ -2680,11 +2943,12 @@
       "seating": "5",
       "starting_price": "$47,395",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://pressroom.lexus.com/2026-lexus-rz-adds-more-power-and-performance-2/",
       "url": "/search/label/Lexus#usmodel=RZ",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-lexus-tx",
@@ -2697,11 +2961,12 @@
       "seating": "6–7",
       "starting_price": "$58,690",
       "trim_count": 10,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://pressroom.lexus.com/style-utility-and-comfort-the-2026-lexus-tx/",
       "url": "/search/label/Lexus#usmodel=TX",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-lexus-ux",
@@ -2714,11 +2979,12 @@
       "seating": "5",
       "starting_price": "$38,850",
       "trim_count": 8,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://pressroom.lexus.com/2026-lexus-ux-300h-a-powerful-hybrid-hatchback/",
       "url": "/search/label/Lexus#usmodel=UX",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mazda-cx-30",
@@ -2731,11 +2997,12 @@
       "seating": "5",
       "starting_price": "$26,375",
       "trim_count": 8,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mazdausa.com/vehicles/cx-30",
       "url": "/search/label/Mazda#usmodel=CX-30",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mazda-cx-5",
@@ -2748,11 +3015,12 @@
       "seating": "5",
       "starting_price": "$29,990",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mazdausa.com/vehicles/cx-5",
       "url": "/search/label/Mazda#usmodel=CX-5",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mazda-cx-50",
@@ -2765,11 +3033,12 @@
       "seating": "5",
       "starting_price": "$29,900",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mazdausa.com/vehicles/cx-50",
       "url": "/search/label/Mazda#usmodel=CX-50",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mazda-cx-50-hybrid",
@@ -2782,11 +3051,12 @@
       "seating": "",
       "starting_price": "$34,750",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mazdausa.com/vehicles/cx-50-hybrid",
       "url": "/search/label/Mazda#usmodel=CX-50%20Hybrid",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mazda-cx-70",
@@ -2799,11 +3069,12 @@
       "seating": "5",
       "starting_price": "$42,750",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mazdausa.com/vehicles/cx-70",
       "url": "/search/label/Mazda#usmodel=CX-70",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mazda-cx-70-phev",
@@ -2816,11 +3087,12 @@
       "seating": "",
       "starting_price": "$44,450",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mazdausa.com/vehicles/cx-70-phev",
       "url": "/search/label/Mazda#usmodel=CX-70%20PHEV",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mazda-cx-90",
@@ -2833,11 +3105,12 @@
       "seating": "6–8",
       "starting_price": "$39,300",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mazdausa.com/vehicles/cx-90",
       "url": "/search/label/Mazda#usmodel=CX-90",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mazda-cx-90-phev",
@@ -2850,11 +3123,12 @@
       "seating": "",
       "starting_price": "$50,695",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mazdausa.com/vehicles/cx-90-phev",
       "url": "/search/label/Mazda#usmodel=CX-90%20PHEV",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mazda-mazda3",
@@ -2867,11 +3141,12 @@
       "seating": "5",
       "starting_price": "$24,650",
       "trim_count": 0,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "",
       "url": "/search/label/Mazda#usmodel=Mazda3",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mazda-mazda3-hatchback",
@@ -2884,11 +3159,12 @@
       "seating": "",
       "starting_price": "$25,650",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mazdausa.com/vehicles/mazda3-hatchback",
       "url": "/search/label/Mazda#usmodel=Mazda3%20Hatchback",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mazda-mazda3-sedan",
@@ -2901,11 +3177,12 @@
       "seating": "",
       "starting_price": "$24,650",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mazdausa.com/vehicles/mazda3-sedan",
       "url": "/search/label/Mazda#usmodel=Mazda3%20Sedan",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mazda-mx-5-miata",
@@ -2918,11 +3195,12 @@
       "seating": "2",
       "starting_price": "$30,430",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mazdausa.com/vehicles/mx-5-miata",
       "url": "/search/label/Mazda#usmodel=MX-5%20Miata",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mazda-mx-5-miata-rf",
@@ -2935,11 +3213,12 @@
       "seating": "",
       "starting_price": "$38,450",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mazdausa.com/vehicles/mx-5-miata-rf",
       "url": "/search/label/Mazda#usmodel=MX-5%20Miata%20RF",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-amg-gt-coupe",
@@ -2952,11 +3231,12 @@
       "seating": "2–4",
       "starting_price": "$108,850",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/amg-gt/coupe",
       "url": "/search/label/Mercedes-Benz#usmodel=AMG%20GT%20Coupe",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-c-class",
@@ -2969,11 +3249,12 @@
       "seating": "5",
       "starting_price": "$49,650",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/c-class/sedan",
       "url": "/search/label/Mercedes-Benz#usmodel=C-Class",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-cla",
@@ -2986,11 +3267,12 @@
       "seating": "5",
       "starting_price": "$43,900",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/cla/sedan",
       "url": "/search/label/Mercedes-Benz#usmodel=CLA",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-cle-cabriolet",
@@ -3003,11 +3285,12 @@
       "seating": "4",
       "starting_price": "$69,400",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/cle/cabriolet",
       "url": "/search/label/Mercedes-Benz#usmodel=CLE%20Cabriolet",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-cle-coupe",
@@ -3020,11 +3303,12 @@
       "seating": "4",
       "starting_price": "$60,900",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/cle/coupe",
       "url": "/search/label/Mercedes-Benz#usmodel=CLE%20Coupe",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-e-class",
@@ -3037,11 +3321,12 @@
       "seating": "5",
       "starting_price": "$65,200",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/e-class/sedan",
       "url": "/search/label/Mercedes-Benz#usmodel=E-Class",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-e-class-wagon",
@@ -3054,11 +3339,12 @@
       "seating": "5",
       "starting_price": "$80,000",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/e-class/wagon",
       "url": "/search/label/Mercedes-Benz#usmodel=E-Class%20Wagon",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-eqb",
@@ -3071,11 +3357,12 @@
       "seating": "5–7",
       "starting_price": "$53,050",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/eqb/suv",
       "url": "/search/label/Mercedes-Benz#usmodel=EQB",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-eqe-sedan",
@@ -3088,11 +3375,12 @@
       "seating": "5",
       "starting_price": "$64,950",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/eqe/sedan",
       "url": "/search/label/Mercedes-Benz#usmodel=EQE%20Sedan",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-eqe-suv",
@@ -3105,11 +3393,12 @@
       "seating": "5",
       "starting_price": "$64,950",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/eqe/suv",
       "url": "/search/label/Mercedes-Benz#usmodel=EQE%20SUV",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-eqs-sedan",
@@ -3122,11 +3411,12 @@
       "seating": "5",
       "starting_price": "$101,450",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/eqs/sedan",
       "url": "/search/label/Mercedes-Benz#usmodel=EQS%20Sedan",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-eqs-suv",
@@ -3139,11 +3429,12 @@
       "seating": "5–7",
       "starting_price": "$89,950",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/eqs/suv",
       "url": "/search/label/Mercedes-Benz#usmodel=EQS%20SUV",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-g-class",
@@ -3156,11 +3447,12 @@
       "seating": "5",
       "starting_price": "$153,900",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/g-class/suv",
       "url": "/search/label/Mercedes-Benz#usmodel=G-Class",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-gla",
@@ -3173,11 +3465,12 @@
       "seating": "5",
       "starting_price": "$41,500",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/gla/suv",
       "url": "/search/label/Mercedes-Benz#usmodel=GLA",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-glb",
@@ -3190,11 +3483,12 @@
       "seating": "5–7",
       "starting_price": "$43,800",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/glb/suv",
       "url": "/search/label/Mercedes-Benz#usmodel=GLB",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-glc",
@@ -3207,11 +3501,12 @@
       "seating": "5",
       "starting_price": "$52,400",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/glc/suv",
       "url": "/search/label/Mercedes-Benz#usmodel=GLC",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-glc-coupe",
@@ -3224,11 +3519,12 @@
       "seating": "5",
       "starting_price": "$62,950",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/glc/coupe",
       "url": "/search/label/Mercedes-Benz#usmodel=GLC%20Coupe",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-glc-electric",
@@ -3241,11 +3537,12 @@
       "seating": "5",
       "starting_price": "$63,500",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/glc/electric",
       "url": "/search/label/Mercedes-Benz#usmodel=GLC%20Electric",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-gle-coupe",
@@ -3258,11 +3555,12 @@
       "seating": "5",
       "starting_price": "$81,200",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/gle/coupe",
       "url": "/search/label/Mercedes-Benz#usmodel=GLE%20Coupe",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-gle-suv",
@@ -3275,11 +3573,12 @@
       "seating": "5–7",
       "starting_price": "$68,400",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/gle/suv",
       "url": "/search/label/Mercedes-Benz#usmodel=GLE%20SUV",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-gls",
@@ -3292,11 +3591,12 @@
       "seating": "6–7",
       "starting_price": "$90,250",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/gls/suv",
       "url": "/search/label/Mercedes-Benz#usmodel=GLS",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-mercedes-maybach-eqs-suv",
@@ -3309,11 +3609,12 @@
       "seating": "4–5",
       "starting_price": "$180,000",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv",
       "url": "/search/label/Mercedes-Benz#usmodel=Mercedes-Maybach%20EQS%20SUV",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-mercedes-maybach-gls",
@@ -3326,11 +3627,12 @@
       "seating": "4–5",
       "starting_price": "$180,000",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/maybach-gls/suv",
       "url": "/search/label/Mercedes-Benz#usmodel=Mercedes-Maybach%20GLS",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-mercedes-maybach-s-class",
@@ -3343,11 +3645,12 @@
       "seating": "4–5",
       "starting_price": "Price coming soon",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/maybach-s-class/sedan",
       "url": "/search/label/Mercedes-Benz#usmodel=Mercedes-Maybach%20S-Class",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-s-class",
@@ -3360,11 +3663,12 @@
       "seating": "5",
       "starting_price": "$112,550",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/s-class/sedan",
       "url": "/search/label/Mercedes-Benz#usmodel=S-Class",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-mercedes-benz-sl-roadster",
@@ -3377,11 +3681,12 @@
       "seating": "2+2",
       "starting_price": "$114,900",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.mbusa.com/en/vehicles/class/sl/roadster",
       "url": "/search/label/Mercedes-Benz#usmodel=SL%20Roadster",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-nissan-altima",
@@ -3394,11 +3699,12 @@
       "seating": "5",
       "starting_price": "$27,580",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.nissanusa.com/vehicles/cars/altima/specs-trims.html",
       "url": "/search/label/Nissan#usmodel=Altima",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-nissan-armada",
@@ -3411,11 +3717,16 @@
       "seating": "7–8",
       "starting_price": "$58,840",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
       "url": "/search/label/Nissan#usmodel=Armada",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "towing_lbs_up_to": 8500
+      },
+      "details": {
+        "towing": 8500
+      }
     },
     {
       "id": "spec-nissan-frontier",
@@ -3428,11 +3739,12 @@
       "seating": "5",
       "starting_price": "$33,550",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.nissanusa.com/vehicles/trucks/frontier/specs-trims.html",
       "url": "/search/label/Nissan#usmodel=Frontier",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-nissan-kicks",
@@ -3445,11 +3757,14 @@
       "seating": "5",
       "starting_price": "$22,790",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.nissanusa.com/vehicles/crossovers-suvs/kicks/specs-trims.html",
       "url": "/search/label/Nissan#usmodel=Kicks",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 141
+      },
+      "details": {
         "horsepower": 141
       }
     },
@@ -3464,11 +3779,12 @@
       "seating": "5",
       "starting_price": "$29,990",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.nissanusa.com/vehicles/electric-cars/leaf/specs-trims.html",
       "url": "/search/label/Nissan#usmodel=LEAF",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-nissan-murano",
@@ -3481,11 +3797,14 @@
       "seating": "5",
       "starting_price": "$43,990",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.nissanusa.com/vehicles/crossovers-suvs/murano/specs-trims.html",
       "url": "/search/label/Nissan#usmodel=Murano",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 241
+      },
+      "details": {
         "horsepower": 241
       }
     },
@@ -3500,11 +3819,12 @@
       "seating": "2",
       "starting_price": "$44,480",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.nissanusa.com/vehicles/sports-cars/nissan-z/specs-trims.html",
       "url": "/search/label/Nissan#usmodel=Nissan%20Z",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-nissan-pathfinder",
@@ -3517,11 +3837,12 @@
       "seating": "7–8",
       "starting_price": "$39,990",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.nissanusa.com/vehicles/crossovers-suvs/pathfinder/specs-trims.html",
       "url": "/search/label/Nissan#usmodel=Pathfinder",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-nissan-rogue",
@@ -3534,11 +3855,14 @@
       "seating": "5",
       "starting_price": "$29,490",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.nissanusa.com/vehicles/crossovers-suvs/rogue/specs-trims.html",
       "url": "/search/label/Nissan#usmodel=Rogue",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 201
+      },
+      "details": {
         "horsepower": 201
       }
     },
@@ -3553,12 +3877,15 @@
       "seating": "5",
       "starting_price": "$45,990",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.nissanusa.com/vehicles/crossovers-suvs/rogue-plug-in-hybrid/specs-trims.html",
       "url": "/search/label/Nissan#usmodel=Rogue%20Plug-in%20Hybrid",
       "route_type": "database-hash",
       "specs": {
         "epa_range_miles": 38
+      },
+      "details": {
+        "range": "38 miles"
       }
     },
     {
@@ -3572,11 +3899,14 @@
       "seating": "5",
       "starting_price": "$22,890",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.nissanusa.com/vehicles/cars/sentra/specs-trims.html",
       "url": "/search/label/Nissan#usmodel=Sentra",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 149
+      },
+      "details": {
         "horsepower": 149
       }
     },
@@ -3591,11 +3921,12 @@
       "seating": "5",
       "starting_price": "$17,390",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.nissanusa.com/vehicles/cars/versa-sedan/specs-trims.html",
       "url": "/search/label/Nissan#usmodel=Versa",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-porsche-718",
@@ -3608,11 +3939,12 @@
       "seating": "2",
       "starting_price": "$75,400",
       "trim_count": 10,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.porsche.com/usa/models/718/configure/",
       "url": "/search/label/Porsche#usmodel=718",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-porsche-911",
@@ -3625,11 +3957,12 @@
       "seating": "2+2",
       "starting_price": "$135,500",
       "trim_count": 23,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.porsche.com/usa/models/911/configure/",
       "url": "/search/label/Porsche#usmodel=911",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-porsche-cayenne",
@@ -3642,11 +3975,12 @@
       "seating": "5",
       "starting_price": "$89,900",
       "trim_count": 13,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.porsche.com/usa/models/cayenne/",
       "url": "/search/label/Porsche#usmodel=Cayenne",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-porsche-cayenne-electric",
@@ -3659,11 +3993,12 @@
       "seating": "5",
       "starting_price": "$109,000",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.porsche.com/usa/models/cayenne/",
       "url": "/search/label/Porsche#usmodel=Cayenne%20Electric",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-porsche-macan",
@@ -3676,11 +4011,12 @@
       "seating": "5",
       "starting_price": "$65,400",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.porsche.com/usa/models/macan/configure/",
       "url": "/search/label/Porsche#usmodel=Macan",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-porsche-macan-electric",
@@ -3693,11 +4029,12 @@
       "seating": "5",
       "starting_price": "$80,300",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.porsche.com/usa/models/macan/configure/",
       "url": "/search/label/Porsche#usmodel=Macan%20Electric",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-porsche-panamera",
@@ -3710,11 +4047,12 @@
       "seating": "4",
       "starting_price": "$113,000",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.porsche.com/usa/models/panamera/",
       "url": "/search/label/Porsche#usmodel=Panamera",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-porsche-taycan",
@@ -3727,11 +4065,12 @@
       "seating": "4–5",
       "starting_price": "$111,900",
       "trim_count": 8,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.porsche.com/usa/models/taycan/configure/",
       "url": "/search/label/Porsche#usmodel=Taycan",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ram-ram-1500",
@@ -3744,11 +4083,12 @@
       "seating": "3–6",
       "starting_price": "$42,025",
       "trim_count": 10,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.ramtrucks.com/bmo.ram_1500_dt.html",
       "url": "/search/label/Ram#usmodel=Ram%201500",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ram-ram-1500-rev",
@@ -3761,12 +4101,19 @@
       "seating": "5",
       "starting_price": "Price not announced",
       "trim_count": 0,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.ramtrucks.com/electric/1500-rev.html",
       "url": "/search/label/Ram#usmodel=Ram%201500%20REV",
       "route_type": "database-hash",
       "specs": {
-        "horsepower": 647
+        "horsepower": 647,
+        "range_miles_up_to": 690,
+        "towing_lbs_up_to": 14000
+      },
+      "details": {
+        "horsepower": 647,
+        "range": "690 miles",
+        "towing": 14000
       }
     },
     {
@@ -3780,11 +4127,12 @@
       "seating": "3–6",
       "starting_price": "$46,855",
       "trim_count": 9,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.ramtrucks.com/bmo.ram_2500.html",
       "url": "/search/label/Ram#usmodel=Ram%202500",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ram-ram-3500",
@@ -3797,11 +4145,12 @@
       "seating": "3–6",
       "starting_price": "$48,155",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.ramtrucks.com/bmo.ram_3500.html",
       "url": "/search/label/Ram#usmodel=Ram%203500",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ram-ram-chassis-cab",
@@ -3814,11 +4163,12 @@
       "seating": "2–6",
       "starting_price": "$48,605",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.ramtrucks.com/ram-chassis-cab.html",
       "url": "/search/label/Ram#usmodel=Ram%20Chassis%20Cab",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ram-ram-promaster",
@@ -3831,11 +4181,12 @@
       "seating": "2+",
       "starting_price": "$49,065",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.ramtrucks.com/bmo.ram_promaster.html",
       "url": "/search/label/Ram#usmodel=Ram%20ProMaster",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-ram-ram-promaster-ev",
@@ -3848,11 +4199,16 @@
       "seating": "2+",
       "starting_price": "$56,495",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.ramtrucks.com/electric/ram-promaster-ev.html",
       "url": "/search/label/Ram#usmodel=Ram%20ProMaster%20EV",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 164
+      },
+      "details": {
+        "range": "164 miles"
+      }
     },
     {
       "id": "spec-subaru-ascent",
@@ -3865,11 +4221,12 @@
       "seating": "7–8",
       "starting_price": "$40,795",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.subaru.com/vehicles/ascent/2027.html",
       "url": "/search/label/Subaru#usmodel=Ascent",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-subaru-brz",
@@ -3882,11 +4239,12 @@
       "seating": "4",
       "starting_price": "$36,140",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.subaru.com/vehicles/brz/2027.html",
       "url": "/search/label/Subaru#usmodel=BRZ",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-subaru-crosstrek",
@@ -3899,11 +4257,12 @@
       "seating": "5",
       "starting_price": "$26,995",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.subaru.com/vehicles/crosstrek/2026.html",
       "url": "/search/label/Subaru#usmodel=Crosstrek",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-subaru-forester",
@@ -3916,11 +4275,12 @@
       "seating": "5",
       "starting_price": "$29,995",
       "trim_count": 10,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.subaru.com/vehicles/forester/2026.html",
       "url": "/search/label/Subaru#usmodel=Forester",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-subaru-impreza",
@@ -3933,11 +4293,12 @@
       "seating": "5",
       "starting_price": "$26,595",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.subaru.com/vehicles/impreza/2026.html",
       "url": "/search/label/Subaru#usmodel=Impreza",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-subaru-outback",
@@ -3950,11 +4311,12 @@
       "seating": "5",
       "starting_price": "$34,995",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.subaru.com/vehicles/outback/2026.html",
       "url": "/search/label/Subaru#usmodel=Outback",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-subaru-solterra",
@@ -3967,11 +4329,12 @@
       "seating": "5",
       "starting_price": "$38,495",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.subaru.com/vehicles/solterra/2026.html",
       "url": "/search/label/Subaru#usmodel=Solterra",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-subaru-trailseeker",
@@ -3984,11 +4347,12 @@
       "seating": "5",
       "starting_price": "$39,995",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.subaru.com/vehicles/trailseeker/2026.html",
       "url": "/search/label/Subaru#usmodel=Trailseeker",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-subaru-uncharted",
@@ -4001,11 +4365,12 @@
       "seating": "5",
       "starting_price": "$34,995",
       "trim_count": 0,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "",
       "url": "/search/label/Subaru#usmodel=Uncharted",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-subaru-wrx",
@@ -4018,11 +4383,12 @@
       "seating": "5",
       "starting_price": "$32,495",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.subaru.com/vehicles/wrx/2026.html",
       "url": "/search/label/Subaru#usmodel=WRX",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-tesla-cybertruck",
@@ -4035,11 +4401,17 @@
       "seating": "5",
       "starting_price": "$74,990",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.tesla.com/cybertruck/design",
       "url": "/search/label/Tesla#usmodel=Cybertruck",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "towing_lbs_up_to": 11000
+      },
+      "details": {
+        "engine": "Battery electric",
+        "towing": 11000
+      }
     },
     {
       "id": "spec-tesla-model-3",
@@ -4052,11 +4424,14 @@
       "seating": "5",
       "starting_price": "$36,990",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.tesla.com/model3",
       "url": "/search/label/Tesla#usmodel=Model%203",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {
+        "engine": "Battery electric"
+      }
     },
     {
       "id": "spec-tesla-model-y",
@@ -4069,11 +4444,14 @@
       "seating": "5; Model Y L Premium has 6 seats",
       "starting_price": "$39,990",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.tesla.com/modely",
       "url": "/search/label/Tesla#usmodel=Model%20Y",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {
+        "engine": "Battery electric"
+      }
     },
     {
       "id": "spec-toyota-4runner",
@@ -4086,12 +4464,17 @@
       "seating": "5–7",
       "starting_price": "$42,270",
       "trim_count": 12,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/4runner/",
       "url": "/search/label/Toyota#usmodel=4Runner",
       "route_type": "database-hash",
       "specs": {
-        "horsepower": 326
+        "horsepower": 326,
+        "towing_lbs_up_to": 6000
+      },
+      "details": {
+        "horsepower": 326,
+        "towing": 6000
       }
     },
     {
@@ -4105,12 +4488,18 @@
       "seating": "5",
       "starting_price": "$34,980",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/vehicles/bz/2027",
       "url": "/search/label/Toyota#usmodel=bZ",
       "route_type": "database-hash",
       "specs": {
-        "horsepower": 338
+        "horsepower": 338,
+        "range_miles_up_to": 314
+      },
+      "details": {
+        "horsepower": 338,
+        "range": "314 miles",
+        "charging": "10% to 80% in approximately 30 minutes with DC fast charging under ideal conditions"
       }
     },
     {
@@ -4124,12 +4513,18 @@
       "seating": "5",
       "starting_price": "$45,380",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/vehicles/bzwoodland/2027",
       "url": "/search/label/Toyota#usmodel=bZ%20Woodland",
       "route_type": "database-hash",
       "specs": {
-        "horsepower": 375
+        "horsepower": 375,
+        "range_miles_up_to": 281
+      },
+      "details": {
+        "horsepower": 375,
+        "range": "281 miles",
+        "charging": "10% to 80% in around 30 minutes with compatible DC fast charging under ideal conditions"
       }
     },
     {
@@ -4143,11 +4538,16 @@
       "seating": "5",
       "starting_price": "$37,080",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/vehicles/chr/2027",
       "url": "/search/label/Toyota#usmodel=C-HR",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 287
+      },
+      "details": {
+        "range": "287 miles"
+      }
     },
     {
       "id": "spec-toyota-camry",
@@ -4160,11 +4560,14 @@
       "seating": "5",
       "starting_price": "$29,600",
       "trim_count": 10,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/camry/",
       "url": "/search/label/Toyota#usmodel=Camry",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {
+        "engine": "Hybrid"
+      }
     },
     {
       "id": "spec-toyota-corolla",
@@ -4177,11 +4580,12 @@
       "seating": "5",
       "starting_price": "$23,325",
       "trim_count": 8,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/vehicles/corolla/2027",
       "url": "/search/label/Toyota#usmodel=Corolla",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-toyota-corolla-cross",
@@ -4194,11 +4598,12 @@
       "seating": "5",
       "starting_price": "$25,335",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/corollacross/",
       "url": "/search/label/Toyota#usmodel=Corolla%20Cross",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-toyota-corolla-hatchback",
@@ -4211,11 +4616,12 @@
       "seating": "5",
       "starting_price": "$24,780",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/vehicles/corollahatchback/2027",
       "url": "/search/label/Toyota#usmodel=Corolla%20Hatchback",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-toyota-gr-corolla",
@@ -4228,11 +4634,14 @@
       "seating": "5",
       "starting_price": "$40,520",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/grcorolla/",
       "url": "/search/label/Toyota#usmodel=GR%20Corolla",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 300
+      },
+      "details": {
         "horsepower": 300
       }
     },
@@ -4247,11 +4656,12 @@
       "seating": "2",
       "starting_price": "$58,300",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/grsupra/",
       "url": "/search/label/Toyota#usmodel=GR%20Supra",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-toyota-gr86",
@@ -4264,11 +4674,14 @@
       "seating": "4",
       "starting_price": "$31,500",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/vehicles/gr86/2027",
       "url": "/search/label/Toyota#usmodel=GR86",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 228
+      },
+      "details": {
         "horsepower": 228
       }
     },
@@ -4283,11 +4696,12 @@
       "seating": "7–8",
       "starting_price": "$42,260",
       "trim_count": 10,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/grandhighlander/",
       "url": "/search/label/Toyota#usmodel=Grand%20Highlander",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-toyota-highlander",
@@ -4300,11 +4714,12 @@
       "seating": "7–8",
       "starting_price": "$46,270",
       "trim_count": 7,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/highlander/",
       "url": "/search/label/Toyota#usmodel=Highlander",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-toyota-land-cruiser",
@@ -4317,12 +4732,17 @@
       "seating": "5",
       "starting_price": "$58,080",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/landcruiser/",
       "url": "/search/label/Toyota#usmodel=Land%20Cruiser",
       "route_type": "database-hash",
       "specs": {
-        "horsepower": 326
+        "horsepower": 326,
+        "towing_lbs_up_to": 6000
+      },
+      "details": {
+        "horsepower": 326,
+        "towing": 6000
       }
     },
     {
@@ -4336,11 +4756,16 @@
       "seating": "5",
       "starting_price": "$51,795",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/mirai/",
       "url": "/search/label/Toyota#usmodel=Mirai",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {
+        "range_miles_up_to": 402
+      },
+      "details": {
+        "range": "402 miles"
+      }
     },
     {
       "id": "spec-toyota-prius",
@@ -4353,11 +4778,12 @@
       "seating": "5",
       "starting_price": "$28,755",
       "trim_count": 8,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/prius/",
       "url": "/search/label/Toyota#usmodel=Prius",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-toyota-prius-plug-in-hybrid",
@@ -4370,12 +4796,17 @@
       "seating": "5",
       "starting_price": "$33,980",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/priuspluginhybrid/",
       "url": "/search/label/Toyota#usmodel=Prius%20Plug-in%20Hybrid",
       "route_type": "database-hash",
       "specs": {
-        "horsepower": 220
+        "horsepower": 220,
+        "range_miles_up_to": 44
+      },
+      "details": {
+        "horsepower": 220,
+        "range": "44 miles"
       }
     },
     {
@@ -4389,11 +4820,14 @@
       "seating": "5",
       "starting_price": "$31,900",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/rav4/",
       "url": "/search/label/Toyota#usmodel=RAV4",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {
+        "engine": "Hybrid"
+      }
     },
     {
       "id": "spec-toyota-rav4-plug-in-hybrid",
@@ -4406,11 +4840,14 @@
       "seating": "5",
       "starting_price": "$41,500",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/rav4pluginhybrid/",
       "url": "/search/label/Toyota#usmodel=RAV4%20Plug-in%20Hybrid",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {
+        "engine": "Plug-in hybrid"
+      }
     },
     {
       "id": "spec-toyota-sequoia",
@@ -4423,11 +4860,14 @@
       "seating": "7–8",
       "starting_price": "$65,725",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/sequoia/",
       "url": "/search/label/Toyota#usmodel=Sequoia",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {
+        "engine": "i-FORCE MAX hybrid"
+      }
     },
     {
       "id": "spec-toyota-sienna",
@@ -4440,11 +4880,14 @@
       "seating": "7–8",
       "starting_price": "$41,320",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/sienna/",
       "url": "/search/label/Toyota#usmodel=Sienna",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {
+        "engine": "Hybrid"
+      }
     },
     {
       "id": "spec-toyota-tacoma",
@@ -4457,11 +4900,12 @@
       "seating": "2–5",
       "starting_price": "$32,545",
       "trim_count": 8,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/tacoma/",
       "url": "/search/label/Toyota#usmodel=Tacoma",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-toyota-toyota-crown",
@@ -4474,11 +4918,12 @@
       "seating": "5",
       "starting_price": "$41,640",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/vehicles/toyotacrown/2027",
       "url": "/search/label/Toyota#usmodel=Toyota%20Crown",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-toyota-toyota-crown-signia",
@@ -4491,11 +4936,14 @@
       "seating": "5",
       "starting_price": "$44,690",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/crownsignia/",
       "url": "/search/label/Toyota#usmodel=Toyota%20Crown%20Signia",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {
+        "engine": "Hybrid"
+      }
     },
     {
       "id": "spec-toyota-tundra",
@@ -4508,11 +4956,12 @@
       "seating": "5",
       "starting_price": "$41,260",
       "trim_count": 10,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.toyota.com/tundra/",
       "url": "/search/label/Toyota#usmodel=Tundra",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-volkswagen-atlas",
@@ -4525,11 +4974,12 @@
       "seating": "6–7",
       "starting_price": "$39,310",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.vw.com/en/builder.html/__app/atlas.app",
       "url": "/search/label/Volkswagen#usmodel=Atlas",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-volkswagen-atlas-cross-sport",
@@ -4542,11 +4992,12 @@
       "seating": "5",
       "starting_price": "$38,300",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.vw.com/en/builder.html/__app/atlas-cross-sport.app",
       "url": "/search/label/Volkswagen#usmodel=Atlas%20Cross%20Sport",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-volkswagen-golf-gti",
@@ -4559,11 +5010,14 @@
       "seating": "5",
       "starting_price": "$34,590",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.vw.com/en/builder.html/__app/golf-gti.app",
       "url": "/search/label/Volkswagen#usmodel=Golf%20GTI",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 241
+      },
+      "details": {
         "horsepower": 241
       }
     },
@@ -4578,11 +5032,14 @@
       "seating": "5",
       "starting_price": "$49,455",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.vw.com/en/builder.html/__app/golf-r.app",
       "url": "/search/label/Volkswagen#usmodel=Golf%20R",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 328
+      },
+      "details": {
         "horsepower": 328
       }
     },
@@ -4597,11 +5054,12 @@
       "seating": "6–7",
       "starting_price": "$59,995",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.vw.com/en/builder.html/__app/id-buzz.app",
       "url": "/search/label/Volkswagen#usmodel=ID.%20Buzz",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-volkswagen-id-4",
@@ -4614,12 +5072,15 @@
       "seating": "5",
       "starting_price": "$45,095",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.vw.com/en/builder.html/__app/id-4.app",
       "url": "/search/label/Volkswagen#usmodel=ID.4",
       "route_type": "database-hash",
       "specs": {
         "epa_range_miles_up_to": 291
+      },
+      "details": {
+        "range": "291 miles"
       }
     },
     {
@@ -4633,11 +5094,14 @@
       "seating": "5",
       "starting_price": "$23,995",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.vw.com/en/builder.html/__app/jetta.app",
       "url": "/search/label/Volkswagen#usmodel=Jetta",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 158
+      },
+      "details": {
         "horsepower": 158
       }
     },
@@ -4652,11 +5116,14 @@
       "seating": "5",
       "starting_price": "$33,795",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.vw.com/en/builder.html/__app/jetta-gli.app",
       "url": "/search/label/Volkswagen#usmodel=Jetta%20GLI",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 228
+      },
+      "details": {
         "horsepower": 228
       }
     },
@@ -4671,11 +5138,12 @@
       "seating": "5",
       "starting_price": "$26,500",
       "trim_count": 5,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.vw.com/en/builder.html/__app/taos.app",
       "url": "/search/label/Volkswagen#usmodel=Taos",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-volkswagen-tiguan",
@@ -4688,11 +5156,12 @@
       "seating": "5",
       "starting_price": "$30,805",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "source": "https://www.vw.com/en/builder.html/__app/tiguan.app",
       "url": "/search/label/Volkswagen#usmodel=Tiguan",
       "route_type": "database-hash",
-      "specs": {}
+      "specs": {},
+      "details": {}
     },
     {
       "id": "spec-volvo-ex30",
@@ -4705,7 +5174,7 @@
       "seating": "5",
       "starting_price": "$40,345",
       "trim_count": 3,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.volvocars.com/us/cars/ex30-electric/",
       "url": "/search/label/Volvo#usmodel=EX30",
       "route_type": "database-hash",
@@ -4725,6 +5194,19 @@
           "Twin Motor Performance": 253,
           "Cross Country Twin Motor": 227
         }
+      },
+      "details": {
+        "horsepower": {
+          "Single Motor Extended Range": 272,
+          "Twin Motor Performance": 422,
+          "Cross Country Twin Motor": 422
+        },
+        "efficiency": "{'Single Motor Extended Range': 116, 'Twin Motor Performance': 109, 'Cross Country Twin Motor': 99} MPGe combined",
+        "range": {
+          "Single Motor Extended Range": 261,
+          "Twin Motor Performance": 253,
+          "Cross Country Twin Motor": 227
+        }
       }
     },
     {
@@ -4738,7 +5220,7 @@
       "seating": "5",
       "starting_price": "$56,545",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.volvocars.com/us/cars/ex40-electric/",
       "url": "/search/label/Volvo#usmodel=EX40",
       "route_type": "database-hash",
@@ -4755,6 +5237,17 @@
           "Single Motor Extended Range": 296,
           "Twin Motor": 260
         }
+      },
+      "details": {
+        "horsepower": {
+          "Single Motor Extended Range": 268,
+          "Twin Motor": 402
+        },
+        "efficiency": "{'Single Motor Extended Range': 106, 'Twin Motor': 94} MPGe combined",
+        "range": {
+          "Single Motor Extended Range": 296,
+          "Twin Motor": 260
+        }
       }
     },
     {
@@ -4768,7 +5261,7 @@
       "seating": "6–7",
       "starting_price": "$78,090",
       "trim_count": 2,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.volvocars.com/us/cars/ex90-electric/",
       "url": "/search/label/Volvo#usmodel=EX90",
       "route_type": "database-hash",
@@ -4778,6 +5271,13 @@
           "Twin Motor Performance": 670
         },
         "epa_range_miles_up_to": 305
+      },
+      "details": {
+        "horsepower": {
+          "Twin Motor": 409,
+          "Twin Motor Performance": 670
+        },
+        "range": "305 miles"
       }
     },
     {
@@ -4791,13 +5291,17 @@
       "seating": "5",
       "starting_price": "$48,695",
       "trim_count": 1,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.volvocars.com/us/cars/v60-cross-country/",
       "url": "/search/label/Volvo#usmodel=V60%20Cross%20Country",
       "route_type": "database-hash",
       "specs": {
         "horsepower": 247,
         "mpg_combined": 26
+      },
+      "details": {
+        "horsepower": 247,
+        "efficiency": "26 mpg combined"
       }
     },
     {
@@ -4811,7 +5315,7 @@
       "seating": "5",
       "starting_price": "$41,295",
       "trim_count": 4,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.volvocars.com/us/cars/xc40/",
       "url": "/search/label/Volvo#usmodel=XC40",
       "route_type": "database-hash",
@@ -4824,6 +5328,13 @@
           "B4 FWD": 27,
           "B5 AWD": 26
         }
+      },
+      "details": {
+        "horsepower": {
+          "B4 FWD": 194,
+          "B5 AWD": 247
+        },
+        "efficiency": "{'B4 FWD': 27, 'B5 AWD': 26} mpg combined"
       }
     },
     {
@@ -4837,13 +5348,18 @@
       "seating": "5",
       "starting_price": "$51,095",
       "trim_count": 9,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.volvocars.com/us/cars/xc60/",
       "url": "/search/label/Volvo#usmodel=XC60",
       "route_type": "database-hash",
       "specs": {
         "mild_hybrid_horsepower": 247,
         "phev_horsepower": 455
+      },
+      "details": {
+        "horsepower": 247,
+        "efficiency": "26 mpg combined",
+        "range": "35 miles"
       }
     },
     {
@@ -4857,7 +5373,7 @@
       "seating": "6–7",
       "starting_price": "$62,445",
       "trim_count": 6,
-      "verified_on": "",
+      "verified_on": "2026-09-12",
       "source": "https://www.volvocars.com/us/cars/xc90/",
       "url": "/search/label/Volvo#usmodel=XC90",
       "route_type": "database-hash",
@@ -4867,6 +5383,14 @@
           "B6 AWD": 295
         },
         "phev_horsepower": 455
+      },
+      "details": {
+        "horsepower": {
+          "B5 AWD": 247,
+          "B6 AWD": 295
+        },
+        "efficiency": "{'B5 AWD': 24, 'B6 AWD': 23} mpg combined",
+        "range": "32 miles"
       }
     }
   ]

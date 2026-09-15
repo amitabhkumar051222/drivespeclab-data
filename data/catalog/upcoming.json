@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T12:14:19+00:00",
+  "generated": "2026-09-15T15:51:38+00:00",
   "count": 2,
   "cars": [
     {
@@ -29,11 +29,21 @@
       ],
       "key_detail": "New Audi model; specifications per launch configurator",
       "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.audiusa.com/en/models/nuvolari/intro/",
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "specs": {},
+      "details": {},
       "url": "/search/label/Audi#usmodel=Nuvolari",
       "route_type": "database-hash",
+      "data_quality": {
+        "official_source": true,
+        "verified_date": true,
+        "trims": true,
+        "gallery_6": false,
+        "detail_fields": 0
+      },
       "search_text": "audi nuvolari 2027 new model new model electrified / see official details see official details limited-production u.s. launch planned for 2027; pricing not yet announced new audi model; specifications per launch configurator"
     },
     {
@@ -71,11 +81,21 @@
       ],
       "key_detail": "Maybach flagship sedan",
       "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.mbusa.com/en/vehicles/class/maybach-s-class/sedan",
-      "verified_on": "",
+      "verified_on": "2026-09-13",
       "specs": {},
+      "details": {},
       "url": "/search/label/Mercedes-Benz#usmodel=Mercedes-Maybach%20S-Class",
       "route_type": "database-hash",
+      "data_quality": {
+        "official_source": true,
+        "verified_date": true,
+        "trims": true,
+        "gallery_6": false,
+        "detail_fields": 0
+      },
       "search_text": "mercedes-benz mercedes-maybach s-class 2027 ultra-luxury sedan sedan turbo gas / electrified awd current u.s. retail model maybach flagship sedan"
     }
   ]

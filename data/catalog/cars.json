@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T17:24:47+00:00",
+  "generated": "2026-09-15T17:26:10+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
@@ -17130,8 +17130,15 @@
       ],
       "key_detail": "Compact crossover; hybrid available",
       "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/089/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "gallery": [],
-      "gallery_count": 0,
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/089/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/089/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/089/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/218/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/218/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_count": 6,
       "source": "https://www.toyota.com/corollacross/",
       "verified_on": "2026-09-15",
       "specs": {
@@ -17161,7 +17168,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 13
       },
       "search_text": "toyota corolla cross 2026 compact suv suv / crossover gas / hybrid fwd / awd current u.s. retail model compact crossover; hybrid available"
@@ -17629,8 +17636,15 @@
       ],
       "key_detail": "Three-row midsize SUV",
       "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/3t3/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "gallery": [],
-      "gallery_count": 0,
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/3t3/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/3t3/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/3t3/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/3t3/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/089/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_count": 6,
       "source": "https://www.toyota.com/highlander/",
       "verified_on": "2026-09-15",
       "specs": {
@@ -17658,7 +17672,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 11
       },
       "search_text": "toyota highlander 2026 three-row suv suv / crossover gas / hybrid fwd / awd current priced toyota retail lineup at verification; toyota has announced a 2027 model year but a complete 2027 grade-price table was not surfaced on the official retail page during verification. three-row midsize suv"
@@ -17861,8 +17875,15 @@
       ],
       "key_detail": "Efficiency-focused hybrid liftback",
       "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/5c5/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "gallery": [],
-      "gallery_count": 0,
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/5c5/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/5c5/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/5c5/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/5c5/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/089/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_count": 6,
       "source": "https://www.toyota.com/prius/",
       "verified_on": "2026-09-15",
       "specs": {
@@ -17888,7 +17909,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 11
       },
       "search_text": "toyota prius 2027 liftback hatchback / wagon hybrid fwd / awd current u.s. retail model efficiency-focused hybrid liftback"
@@ -18390,8 +18411,15 @@
       ],
       "key_detail": "Midsize pickup; hybrid available",
       "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/040/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "gallery": [],
-      "gallery_count": 0,
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/040/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/040/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/040/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/218/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/218/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_count": 6,
       "source": "https://www.toyota.com/tacoma/",
       "verified_on": "2026-09-15",
       "specs": {
@@ -18420,7 +18448,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 12
       },
       "search_text": "toyota tacoma 2026 midsize pickup pickup / truck gas / hybrid i-force max rwd / 4wd current u.s. retail model midsize pickup; hybrid available"

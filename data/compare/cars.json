@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T15:54:58+00:00",
+  "generated": "2026-09-15T15:57:22+00:00",
   "architecture": "database-first",
   "count": 279,
   "cars": [
@@ -678,7 +678,7 @@
         "towing_lbs_up_to": 4500
       },
       "details": {
-        "towing": 4500
+        "towing": "4500 lb"
       }
     },
     {
@@ -746,9 +746,9 @@
         "towing_lbs_up_to": 7700
       },
       "details": {
-        "horsepower": 310,
+        "horsepower": "310 hp",
         "torque": "430 lb-ft",
-        "towing": 7700
+        "towing": "7700 lb"
       }
     },
     {
@@ -789,8 +789,8 @@
         "towing_lbs_up_to": 1500
       },
       "details": {
-        "horsepower": 175,
-        "towing": 1500
+        "horsepower": "175 hp",
+        "towing": "1500 lb"
       }
     },
     {
@@ -834,7 +834,7 @@
         "towing_lbs_up_to": 13300
       },
       "details": {
-        "towing": 13300
+        "towing": "13300 lb"
       }
     },
     {
@@ -858,7 +858,7 @@
       },
       "details": {
         "range": "478 miles",
-        "towing": 12500
+        "towing": "12500 lb"
       }
     },
     {
@@ -880,7 +880,7 @@
         "towing_lbs_up_to": 36000
       },
       "details": {
-        "towing": 36000
+        "towing": "36000 lb"
       }
     },
     {
@@ -957,8 +957,8 @@
         "towing_lbs_up_to": 5000
       },
       "details": {
-        "horsepower": 328,
-        "towing": 5000
+        "horsepower": "328 hp",
+        "towing": "5000 lb"
       }
     },
     {
@@ -1772,7 +1772,7 @@
         "horsepower": 200
       },
       "details": {
-        "horsepower": 200
+        "horsepower": "200 hp"
       }
     },
     {
@@ -1831,7 +1831,7 @@
         "epa_range_miles": 270
       },
       "details": {
-        "horsepower": 174,
+        "horsepower": "174 hp",
         "range": "270 miles"
       }
     },
@@ -1872,7 +1872,7 @@
         "horsepower": 280
       },
       "details": {
-        "horsepower": 280
+        "horsepower": "280 hp"
       }
     },
     {
@@ -1894,7 +1894,7 @@
         "horsepower": 285
       },
       "details": {
-        "horsepower": 285
+        "horsepower": "285 hp"
       }
     },
     {
@@ -1934,7 +1934,7 @@
         "horsepower": 200
       },
       "details": {
-        "horsepower": 200
+        "horsepower": "200 hp"
       }
     },
     {
@@ -1986,7 +1986,7 @@
         "horsepower": 280
       },
       "details": {
-        "horsepower": 280
+        "horsepower": "280 hp"
       }
     },
     {
@@ -2244,7 +2244,7 @@
         "horsepower": 121
       },
       "details": {
-        "horsepower": 121
+        "horsepower": "121 hp"
       }
     },
     {
@@ -2269,7 +2269,8 @@
       "details": {
         "engine": "Turbo Hybrid",
         "range": "529 miles",
-        "towing": 3500
+        "towing": "3500 lb",
+        "efficiency": "37 mpg combined"
       }
     },
     {
@@ -3725,7 +3726,7 @@
         "towing_lbs_up_to": 8500
       },
       "details": {
-        "towing": 8500
+        "towing": "8500 lb"
       }
     },
     {
@@ -3765,7 +3766,7 @@
         "horsepower": 141
       },
       "details": {
-        "horsepower": 141
+        "horsepower": "141 hp"
       }
     },
     {
@@ -3805,7 +3806,7 @@
         "horsepower": 241
       },
       "details": {
-        "horsepower": 241
+        "horsepower": "241 hp"
       }
     },
     {
@@ -3863,7 +3864,7 @@
         "horsepower": 201
       },
       "details": {
-        "horsepower": 201
+        "horsepower": "201 hp"
       }
     },
     {
@@ -3907,7 +3908,7 @@
         "horsepower": 149
       },
       "details": {
-        "horsepower": 149
+        "horsepower": "149 hp"
       }
     },
     {
@@ -4111,9 +4112,9 @@
         "towing_lbs_up_to": 14000
       },
       "details": {
-        "horsepower": 647,
+        "horsepower": "647 hp",
         "range": "690 miles",
-        "towing": 14000
+        "towing": "14000 lb"
       }
     },
     {
@@ -4410,7 +4411,7 @@
       },
       "details": {
         "engine": "Battery electric",
-        "towing": 11000
+        "towing": "11000 lb"
       }
     },
     {
@@ -4478,9 +4479,13 @@
         "horsepower": "278 hp (i-FORCE) / 326 hp (i-FORCE MAX)",
         "torque": "317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
         "transmission": "8-speed automatic",
-        "towing": 6000,
+        "towing": "6000 lb",
         "technology": "Available 14-in. Toyota Audio Multimedia touchscreen",
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "drivetrain_detail": "Available 2WD, part-time 4WD or full-time 4WD, depending on grade",
+        "ground_clearance": "10.1 in",
+        "cargo": "90.2 cu ft",
+        "efficiency": "23 mpg combined"
       }
     },
     {
@@ -4508,7 +4513,8 @@
         "range": "314 miles",
         "charging": "10% to 80% in approximately 30 minutes with compatible DC fast charging under ideal conditions",
         "technology": "Large Toyota Audio Multimedia touchscreen; NACS charging access on current generation",
-        "safety": "Toyota active-safety suite; equipment varies by grade"
+        "safety": "Toyota active-safety suite; equipment varies by grade",
+        "acceleration": "As quick as 4.9 sec (AWD configuration)"
       }
     },
     {
@@ -4534,12 +4540,13 @@
       },
       "details": {
         "engine": "Dual-motor battery-electric powertrain",
-        "horsepower": 375,
+        "horsepower": "375 hp",
         "range": "281 miles",
         "charging": "11-kW onboard AC charger; 10% to 80% DC fast charging in around 30 minutes under ideal conditions; NACS charging port",
-        "towing": 3500,
+        "towing": "3500 lb",
         "technology": "14-in. Toyota Audio Multimedia touchscreen",
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "drivetrain_detail": "Standard AWD with X-MODE"
       }
     },
     {
@@ -4565,12 +4572,14 @@
       },
       "details": {
         "engine": "Dual-motor battery-electric powertrain",
-        "horsepower": 338,
+        "horsepower": "338 hp",
         "range": "287 miles (SE) / 273 miles (XSE) EPA-estimated",
         "charging": "11-kW AC onboard charger; 10% to 80% DC fast charging in around 30 minutes under ideal conditions; NACS charging port",
-        "cargo": 25.3,
+        "cargo": "25.3 cu ft",
         "technology": "14-in. Toyota Audio Multimedia touchscreen",
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "acceleration": "4.9 sec",
+        "drivetrain_detail": "Standard AWD"
       }
     },
     {
@@ -4596,7 +4605,9 @@
         "horsepower": "225 net hp (FWD) / 232 net hp (AWD)",
         "transmission": "Electronically controlled continuously variable transmission (eCVT)",
         "technology": "Available 9-speaker JBL Premium Audio; Toyota Audio Multimedia",
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "drivetrain_detail": "FWD or Electronic On-Demand AWD",
+        "efficiency": "51 mpg combined"
       }
     },
     {
@@ -4624,7 +4635,9 @@
         "torque": "151 lb-ft (gas engine)",
         "transmission": "Dynamic-Shift CVT (gas) / electronically controlled CVT (hybrid)",
         "technology": "Available 12.3-in. digital gauge cluster and 10.5-in. Toyota Audio Multimedia touchscreen",
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "drivetrain_detail": "FWD; Electronic On-Demand AWD available on selected hybrid grades",
+        "efficiency": "50 mpg combined"
       }
     },
     {
@@ -4651,9 +4664,12 @@
         "engine": "2.0L 4-cylinder gas or Toyota Hybrid System",
         "horsepower": "169 hp (gas) / 196 net hp (hybrid)",
         "transmission": "CVTi-S (gas) / electronically controlled CVT (hybrid)",
-        "efficiency": "Up to 32 MPG gas FWD / up to 42 MPG hybrid mpg combined",
-        "towing": 1500,
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "efficiency": "Up to 32 MPG gas FWD / up to 42 MPG hybrid",
+        "towing": "1500 lb",
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "drivetrain_detail": "FWD or AWD; hybrid uses AWD",
+        "ground_clearance": "8.1 in",
+        "cargo": "52 cu ft"
       }
     },
     {
@@ -4677,11 +4693,13 @@
       },
       "details": {
         "engine": "2.0L Dynamic Force 4-cylinder",
-        "horsepower": 169,
-        "torque": 151,
+        "horsepower": "169 hp",
+        "torque": "151 lb-ft",
         "transmission": "Dynamic-Shift CVT",
         "technology": "Wireless Apple CarPlay and Android Auto compatibility",
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "drivetrain_detail": "FWD",
+        "efficiency": "32 city / 41 highway MPG (SE)"
       }
     },
     {
@@ -4705,10 +4723,12 @@
       },
       "details": {
         "engine": "1.6L turbocharged 3-cylinder G16E-GTS",
-        "horsepower": 300,
+        "horsepower": "300 hp",
         "torque": "295 lb-ft (302 lb-ft on GRMN)",
         "transmission": "6-speed intelligent manual or 8-speed GAZOO Racing Direct Automatic Transmission",
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "drivetrain_detail": "GR-FOUR AWD",
+        "efficiency": "21/28 MPG (manual) or 19/27 MPG (DAT), EPA-estimated"
       }
     },
     {
@@ -4732,9 +4752,12 @@
       },
       "details": {
         "engine": "3.0L turbocharged inline-6",
-        "horsepower": 382,
-        "torque": 368,
-        "transmission": "6-speed manual or 8-speed automatic"
+        "horsepower": "382 hp",
+        "torque": "368 lb-ft",
+        "transmission": "6-speed manual or 8-speed automatic",
+        "acceleration": "3.9 sec with automatic transmission",
+        "drivetrain_detail": "RWD",
+        "efficiency": "22 city / 29 highway / 25 combined MPG (3.0 automatic)"
       }
     },
     {
@@ -4758,10 +4781,13 @@
       },
       "details": {
         "engine": "2.4L naturally aspirated horizontally opposed 4-cylinder",
-        "horsepower": 228,
-        "torque": 184,
+        "horsepower": "228 hp",
+        "torque": "184 lb-ft",
         "transmission": "6-speed manual or 6-speed automatic",
-        "safety": "Active safety suite; features vary by transmission and grade"
+        "safety": "Active safety suite; features vary by transmission and grade",
+        "acceleration": "6.1 sec (manufacturer figure)",
+        "drivetrain_detail": "RWD",
+        "efficiency": "20 city / 26 highway MPG (configuration dependent)"
       }
     },
     {
@@ -4789,9 +4815,10 @@
         "engine": "2.4L turbo gas, 2.5L hybrid, or Hybrid MAX powertrain",
         "horsepower": "265 hp (gas) / 245 hp (hybrid) / 362 hp (Hybrid MAX)",
         "torque": "Up to 400 lb-ft (Hybrid MAX)",
-        "efficiency": "Up to 36 MPG on selected hybrid configurations mpg combined",
-        "towing": 5000,
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "efficiency": "Up to 36 MPG on selected hybrid configurations",
+        "towing": "5000 lb",
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "cargo": "97.5 cu ft"
       }
     },
     {
@@ -4818,7 +4845,7 @@
         "engine": "2.4L turbocharged 4-cylinder gas or 2.5L hybrid system",
         "horsepower": "265 hp (gas)",
         "torque": "310 lb-ft (gas)",
-        "efficiency": "Up to 35 combined MPG (hybrid) mpg combined",
+        "efficiency": "Up to 35 combined MPG (hybrid)",
         "technology": "Wireless Apple CarPlay and Android Auto compatibility",
         "safety": "Toyota Safety Sense 2.5+ standard"
       }
@@ -4845,10 +4872,11 @@
       },
       "details": {
         "engine": "2.4L turbocharged 4-cylinder i-FORCE MAX hybrid",
-        "horsepower": 326,
-        "torque": 465,
-        "towing": 6000,
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "horsepower": "326 hp",
+        "torque": "465 lb-ft",
+        "towing": "6000 lb",
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "drivetrain_detail": "Full-time 4WD"
       }
     },
     {
@@ -4874,12 +4902,14 @@
       },
       "details": {
         "engine": "Hydrogen fuel-cell electric powertrain",
-        "horsepower": 182,
-        "torque": 300,
+        "horsepower": "182 hp",
+        "torque": "300 lb-ft",
         "range": "402 miles",
-        "cargo": 9.6,
+        "cargo": "9.6 cu ft",
         "technology": "12.3-in. touchscreen with JBL Premium Audio",
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "drivetrain_detail": "RWD",
+        "efficiency": "76 city / 71 highway / 74 combined MPGe"
       }
     },
     {
@@ -4905,8 +4935,9 @@
         "engine": "2.0L 4-cylinder Toyota Hybrid System",
         "horsepower": "194 net hp (FWD) / 196 net hp (AWD)",
         "transmission": "Electronically controlled continuously variable transmission",
-        "efficiency": "Up to 55 combined MPG (LE FWD); up to 53 combined MPG (LE AWD) mpg combined",
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "efficiency": "Up to 55 combined MPG (LE FWD); up to 53 combined MPG (LE AWD)",
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "drivetrain_detail": "FWD or Electronic On-Demand AWD"
       }
     },
     {
@@ -4931,12 +4962,13 @@
       },
       "details": {
         "engine": "2.0L 4-cylinder plug-in hybrid system",
-        "horsepower": 220,
+        "horsepower": "220 hp",
         "transmission": "Electronically controlled continuously variable transmission",
         "efficiency": "129 MPGe combined",
         "range": "44 miles",
         "technology": "Available 12.3-in. Toyota Audio Multimedia touchscreen",
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "drivetrain_detail": "FWD"
       }
     },
     {
@@ -4960,11 +4992,14 @@
       },
       "details": {
         "engine": "2.5L 4-cylinder Toyota Hybrid System",
-        "horsepower": 236,
+        "horsepower": "236 hp",
         "transmission": "Electronically controlled continuously variable transmission",
-        "towing": 3500,
+        "towing": "3500 lb",
         "technology": "12.3-in. digital gauge cluster; 10.5-in. Toyota Audio Multimedia standard with available 12.9-in. screen",
-        "safety": "Toyota Safety Sense 4.0 standard"
+        "safety": "Toyota Safety Sense 4.0 standard",
+        "drivetrain_detail": "FWD or AWD depending on grade",
+        "cargo": "37.8 cu ft",
+        "efficiency": "Up to 47 city / 40 highway MPG on selected configuration"
       }
     },
     {
@@ -4988,11 +5023,13 @@
       },
       "details": {
         "engine": "2.5L 4-cylinder plug-in hybrid system",
-        "horsepower": 324,
+        "horsepower": "324 hp",
         "range": "54 miles",
         "charging": "11-kW onboard AC charging; DC fast charging capability available on current generation",
         "technology": "Toyota Audio Multimedia; equipment varies by grade",
-        "safety": "Toyota Safety Sense 4.0 standard"
+        "safety": "Toyota Safety Sense 4.0 standard",
+        "acceleration": "5.4 sec",
+        "drivetrain_detail": "AWD"
       }
     },
     {
@@ -5017,12 +5054,13 @@
       },
       "details": {
         "engine": "Twin-turbo V6 i-FORCE MAX hybrid",
-        "horsepower": 437,
-        "torque": 583,
+        "horsepower": "437 hp",
+        "torque": "583 lb-ft",
         "transmission": "10-speed electronically controlled automatic",
-        "towing": 9500,
+        "towing": "9500 lb",
         "technology": "14-in. Toyota Audio Multimedia touchscreen available/standard on upper grades",
-        "safety": "Toyota Safety Sense 2.5 standard"
+        "safety": "Toyota Safety Sense 2.5 standard",
+        "efficiency": "22 mpg combined"
       }
     },
     {
@@ -5046,11 +5084,14 @@
       },
       "details": {
         "engine": "2.5L 4-cylinder Toyota Hybrid System",
-        "horsepower": 245,
+        "horsepower": "245 hp",
         "transmission": "Electronically controlled continuously variable transmission",
         "dimensions": "Approx. 203.7–204.1 in. length; 78.5 in. width; 120.5 in. wheelbase",
-        "towing": 3500,
-        "safety": "Toyota Safety Sense suite standard"
+        "towing": "3500 lb",
+        "safety": "Toyota Safety Sense suite standard",
+        "drivetrain_detail": "FWD or Electronic On-Demand AWD",
+        "ground_clearance": "6.37 in",
+        "efficiency": "36 mpg combined"
       }
     },
     {
@@ -5078,9 +5119,10 @@
         "horsepower": "Up to 278 hp (i-FORCE) / 326 hp (i-FORCE MAX)",
         "torque": "Up to 317 lb-ft (i-FORCE) / 465 lb-ft (i-FORCE MAX)",
         "transmission": "8-speed automatic; 6-speed manual available on selected i-FORCE grades",
-        "efficiency": "Up to 23 combined MPG on selected hybrid configuration mpg combined",
+        "efficiency": "Up to 23 combined MPG on selected hybrid configuration",
         "technology": "Available 14-in. Toyota Audio Multimedia touchscreen",
-        "safety": "Toyota Safety Sense suite standard"
+        "safety": "Toyota Safety Sense suite standard",
+        "drivetrain_detail": "2WD or 4WD; full-time 4WD available on selected grades"
       }
     },
     {
@@ -5105,8 +5147,9 @@
       "details": {
         "engine": "2.5L hybrid or 2.4L turbo Hybrid MAX",
         "horsepower": "236 net hp (hybrid) / 340 net hp (Hybrid MAX)",
-        "efficiency": "Up to 40 combined MPG (hybrid) mpg combined",
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "efficiency": "Up to 40 combined MPG (hybrid)",
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "drivetrain_detail": "AWD standard"
       }
     },
     {
@@ -5131,9 +5174,11 @@
       "details": {
         "engine": "2.5L 4-cylinder Toyota Hybrid System",
         "efficiency": "38 mpg combined",
-        "towing": 2700,
+        "towing": "2700 lb",
         "technology": "12.3-in. digital gauge cluster and Toyota Audio Multimedia",
-        "safety": "Toyota Safety Sense 3.0 standard"
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "drivetrain_detail": "AWD standard",
+        "cargo": "68.8 cu ft"
       }
     },
     {
@@ -5161,7 +5206,7 @@
         "horsepower": "Up to 389 hp (i-FORCE) / 437 hp (i-FORCE MAX)",
         "torque": "Up to 479 lb-ft (i-FORCE) / 583 lb-ft (i-FORCE MAX)",
         "transmission": "10-speed electronically controlled automatic",
-        "towing": 12000,
+        "towing": "12000 lb",
         "safety": "Toyota Safety Sense suite standard"
       }
     },
@@ -5220,7 +5265,7 @@
         "horsepower": 241
       },
       "details": {
-        "horsepower": 241
+        "horsepower": "241 hp"
       }
     },
     {
@@ -5242,7 +5287,7 @@
         "horsepower": 328
       },
       "details": {
-        "horsepower": 328
+        "horsepower": "328 hp"
       }
     },
     {
@@ -5304,7 +5349,7 @@
         "horsepower": 158
       },
       "details": {
-        "horsepower": 158
+        "horsepower": "158 hp"
       }
     },
     {
@@ -5326,7 +5371,7 @@
         "horsepower": 228
       },
       "details": {
-        "horsepower": 228
+        "horsepower": "228 hp"
       }
     },
     {
@@ -5502,7 +5547,7 @@
         "mpg_combined": 26
       },
       "details": {
-        "horsepower": 247,
+        "horsepower": "247 hp",
         "efficiency": "26 mpg combined"
       }
     },
@@ -5559,7 +5604,7 @@
         "phev_horsepower": 455
       },
       "details": {
-        "horsepower": 247,
+        "horsepower": "247 hp",
         "efficiency": "26 mpg combined",
         "range": "35 miles"
       }

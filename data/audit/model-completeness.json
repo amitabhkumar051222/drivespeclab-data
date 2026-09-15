@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:32:17.167523+00:00",
+  "generated_at": "2026-09-15T16:37:49.655784+00:00",
   "policy": "Missing fields are reported only; no values are guessed. Explicit not-applicable or official-source-not-published states resolve a section without inventing a value.",
   "brands": {
     "Audi": {
@@ -8531,22 +8531,20 @@
             "transmission": "verified",
             "efficiency": "verified",
             "range": "not_applicable",
-            "dimensions": "missing",
+            "dimensions": "verified",
             "cargo": "verified",
             "towing": "verified",
             "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "dimensions"
-          ],
+          "missing_spec_sections": [],
           "policy_resolved_sections": [
             "range"
           ],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "bZ": {
           "gallery_count": 0,
@@ -9119,16 +9117,14 @@
             "transmission": "verified",
             "efficiency": "verified",
             "range": "not_applicable",
-            "dimensions": "missing",
+            "dimensions": "verified",
             "cargo": "verified",
             "towing": "verified",
             "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "dimensions"
-          ],
+          "missing_spec_sections": [],
           "policy_resolved_sections": [
             "range"
           ],
@@ -9228,8 +9224,8 @@
       "counts": {
         "models": 25,
         "gallery_6": 1,
-        "spec_complete": 4,
-        "fully_complete": 0
+        "spec_complete": 6,
+        "fully_complete": 1
       }
     },
     "Volkswagen": {
@@ -9846,12 +9842,12 @@
     "current_models_audited": 274,
     "models_with_6_gallery_images": 1,
     "gallery_complete_pct": 0.4,
-    "models_with_complete_spec_sections": 4,
-    "spec_complete_pct": 1.5,
-    "fully_complete_models": 0,
-    "fully_complete_pct": 0.0,
+    "models_with_complete_spec_sections": 6,
+    "spec_complete_pct": 2.2,
+    "fully_complete_models": 1,
+    "fully_complete_pct": 0.4,
     "models_missing_full_gallery": 273,
-    "models_with_incomplete_specs": 270,
+    "models_with_incomplete_specs": 268,
     "sections_resolved_as_not_applicable_or_not_published": 10
   },
   "missing_gallery": [
@@ -14256,13 +14252,6 @@
     },
     {
       "brand": "Toyota",
-      "model": "4Runner",
-      "missing": [
-        "dimensions"
-      ]
-    },
-    {
-      "brand": "Toyota",
       "model": "bZ",
       "missing": [
         "torque",
@@ -14428,13 +14417,6 @@
         "range",
         "cargo",
         "technology"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "Tacoma",
-      "missing": [
-        "dimensions"
       ]
     },
     {

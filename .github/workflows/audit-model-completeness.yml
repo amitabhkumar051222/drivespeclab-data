@@ -5,6 +5,8 @@ on:
   push:
     paths:
       - 'data/v4/**'
+      - 'data/v6/**'
+      - 'scripts/apply_v6_overlay.py'
       - 'scripts/audit_model_completeness.py'
       - '.github/workflows/audit-model-completeness.yml'
   schedule:
@@ -26,6 +28,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
+      - name: Apply verified V6 enrichment layer
+        run: python scripts/apply_v6_overlay.py
 
       - name: Generate completeness report
         run: python scripts/audit_model_completeness.py

@@ -3,7 +3,7 @@
   "brand": "Toyota",
   "market": "United States",
   "verified_on": "2026-09-15",
-  "policy": "Reachability-validated Toyota U.S. retail assets only. This late-sorting patch overrides gallery URLs that fail the automated health audit.",
+  "policy": "Toyota U.S. retail jelly assets only. Candidate views are kept only when the automated gallery-health audit confirms an image response; failed URLs are removed or replaced before the model is treated as production-ready.",
   "models": {
     "Camry": {
       "gallery": [
@@ -15,6 +15,50 @@
         "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/040/2.png?fmt=png-alpha&qlt=90&wid=930"
       ],
       "gallery_source": "https://www.toyota.com/camry/"
+    },
+    "Corolla Cross": {
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/089/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/089/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/089/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/218/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corollacross/l/6301/218/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/corollacross/"
+    },
+    "Prius": {
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/5c5/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/5c5/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/5c5/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/5c5/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/prius/nightshade/1216/089/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/prius/"
+    },
+    "Highlander": {
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/3t3/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/3t3/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/3t3/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/3t3/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/highlander/xle/6953/089/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/highlander/"
+    },
+    "Tacoma": {
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/040/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/040/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/040/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/218/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tacoma/sr/7162/218/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/tacoma/"
     }
   }
 }

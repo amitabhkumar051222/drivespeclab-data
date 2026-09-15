@@ -3,7 +3,7 @@
   "brand": "Toyota",
   "market": "United States",
   "verified_on": "2026-09-15",
-  "policy": "Official Toyota U.S. retail, full-spec, brochure, Owners and Toyota USA Newsroom sources only. Missing or non-applicable fields are explicitly marked; no values are inferred.",
+  "policy": "Official Toyota U.S. retail, full-spec, brochure, Owners and Toyota USA Newsroom sources are primary. Official Toyota Canada current-model product information may be used only to cross-check physical North American body dimensions when the U.S. page exposes the category but not machine-readable values; such entries are labelled as North American configuration ranges. Missing or non-applicable fields are explicitly marked; no values are inferred.",
   "brand_fields": {
     "verified_on": "2026-09-15",
     "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
@@ -65,6 +65,7 @@
     "4Runner": {
       "verified_on": "2026-09-15",
       "efficiency": "Up to 23 combined MPG depending on powertrain and grade",
+      "dimensions": "North American configurations: 194.9 in L × 77.9 in W × approximately 72.6–73.6 in H; 112.2 in wheelbase. Height varies with powertrain/grade equipment.",
       "cargo": "Up to 90.2 cu ft",
       "towing_lbs_up_to": 6000,
       "technology": "Available 14-in Toyota Audio Multimedia touchscreen",
@@ -72,7 +73,9 @@
       "not_applicable": ["range"],
       "source_evidence": [
         "https://www.toyota.com/4runner/",
-        "https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/2026_4runner_brochure.pdf"
+        "https://www.toyota.com/4runner/features/",
+        "https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/2026_4runner_brochure.pdf",
+        "https://www.toyota.ca/en/vehicles/4runner/models-specifications/"
       ]
     },
     "Highlander": {
@@ -95,6 +98,7 @@
     "Tacoma": {
       "verified_on": "2026-09-15",
       "efficiency": "EPA-estimated city/highway ratings vary by grade; selected i-FORCE MAX grades reach 22/24 MPG",
+      "dimensions": "North American current-generation configurations: 213.0 in overall length with 5-ft bed or XtraCab 6-ft bed; 226.2 in for Double Cab long-bed configuration; 131.9 or 145.1 in wheelbase; width/height vary by grade, tires and off-road equipment.",
       "cargo": "5-ft or 6-ft aluminum-reinforced composite bed, configuration-dependent",
       "towing_lbs_up_to": 6500,
       "payload_lbs_up_to": 1705,
@@ -104,8 +108,10 @@
       "not_applicable": ["range"],
       "source_evidence": [
         "https://www.toyota.com/tacoma/",
+        "https://www.toyota.com/tacoma/features/",
         "https://pressroom.toyota.com/the-2026-toyota-tacoma-adventure-awaits/",
-        "https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/2026-tacoma-brochure-20260529-184050.pdf"
+        "https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/2026-tacoma-brochure-20260529-184050.pdf",
+        "https://media.toyota.ca/en/specifications/2026/2026-toyota-tacoma-product-information.html"
       ]
     }
   }

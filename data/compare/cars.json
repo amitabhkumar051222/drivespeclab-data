@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T17:28:49+00:00",
+  "generated": "2026-09-15T17:32:23+00:00",
   "architecture": "database-first",
   "count": 279,
   "cars": [
@@ -5021,12 +5021,15 @@
       "route_type": "database-hash",
       "specs": {
         "horsepower": 236,
+        "torque_lb_ft": "170 lb-ft maximum gasoline-engine torque; AWD rear electric motor is rated at 89 lb-ft. Toyota does not publish one combined hybrid-system torque figure.",
         "towing_lbs_up_to": 3500
       },
       "details": {
         "engine": "2.5L 4-cylinder Toyota Hybrid System",
         "horsepower": "236 hp",
+        "torque": "170 lb-ft maximum gasoline-engine torque; AWD rear electric motor is rated at 89 lb-ft. Toyota does not publish one combined hybrid-system torque figure.",
         "transmission": "Electronically controlled continuously variable transmission",
+        "dimensions": "Most Hybrid grades: 181.0 in L × 73.0 in W × 66.7 in H; 105.9 in wheelbase. Woodland: 182.0 in L × 74.0 in W × 67.1 in H (69.1 in with roof rails/cross bars).",
         "towing": "3500 lb",
         "technology": "12.3-in. digital gauge cluster; 10.5-in. Toyota Audio Multimedia standard with available 12.9-in. screen",
         "safety": "Toyota Safety Sense 4.0 standard",

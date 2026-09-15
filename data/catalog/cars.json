@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T17:28:49+00:00",
+  "generated": "2026-09-15T17:32:23+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
@@ -18050,19 +18050,29 @@
         }
       ],
       "key_detail": "New-generation hybrid RAV4",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/4v8/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/040/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_count": 6,
       "source": "https://www.toyota.com/rav4/",
       "verified_on": "2026-09-15",
       "specs": {
         "horsepower": 236,
+        "torque_lb_ft": "170 lb-ft maximum gasoline-engine torque; AWD rear electric motor is rated at 89 lb-ft. Toyota does not publish one combined hybrid-system torque figure.",
         "towing_lbs_up_to": 3500
       },
       "details": {
         "engine": "2.5L 4-cylinder Toyota Hybrid System",
         "horsepower": "236 hp",
+        "torque": "170 lb-ft maximum gasoline-engine torque; AWD rear electric motor is rated at 89 lb-ft. Toyota does not publish one combined hybrid-system torque figure.",
         "transmission": "Electronically controlled continuously variable transmission",
+        "dimensions": "Most Hybrid grades: 181.0 in L × 73.0 in W × 66.7 in H; 105.9 in wheelbase. Woodland: 182.0 in L × 74.0 in W × 67.1 in H (69.1 in with roof rails/cross bars).",
         "towing": "3500 lb",
         "technology": "12.3-in. digital gauge cluster; 10.5-in. Toyota Audio Multimedia standard with available 12.9-in. screen",
         "safety": "Toyota Safety Sense 4.0 standard",
@@ -18077,8 +18087,8 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 10
+        "gallery_6": true,
+        "detail_fields": 12
       },
       "search_text": "toyota rav4 2026 compact suv suv / crossover hybrid fwd / awd current u.s. retail model new-generation hybrid rav4"
     },

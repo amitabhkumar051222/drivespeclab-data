@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T16:38:00+00:00",
+  "generated": "2026-09-15T17:18:53+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
@@ -16931,8 +16931,15 @@
       ],
       "key_detail": "Hybrid-only Camry lineup",
       "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2559/3u5/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "gallery": [],
-      "gallery_count": 0,
+      "gallery": [
+        "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_001-1500x900.jpg",
+        "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_002-1500x900.jpg",
+        "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_003-1500x900.jpg",
+        "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_004-1500x900.jpg",
+        "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_005-1500x900.jpg",
+        "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2025/04/2026_Toyota-Camry-Nightshade_006-1500x900.jpg"
+      ],
+      "gallery_count": 6,
       "source": "https://www.toyota.com/camry/",
       "verified_on": "2026-09-15",
       "specs": {
@@ -16956,7 +16963,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 10
       },
       "search_text": "toyota camry 2026 midsize sedan sedan hybrid fwd / awd current u.s. retail model hybrid-only camry lineup"

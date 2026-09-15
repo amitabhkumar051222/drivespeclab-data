@@ -10,6 +10,7 @@ on:
       - 'scripts/apply_v6_overlay.py'
       - 'scripts/apply_verified_enrichment.py'
       - 'scripts/audit_model_completeness.py'
+      - 'scripts/validate_gallery_urls.py'
       - '.github/workflows/audit-model-completeness.yml'
   schedule:
     - cron: '37 3 * * *'
@@ -44,29 +45,44 @@ jobs:
       - name: Generate completeness report
         run: python scripts/audit_model_completeness.py
 
-      - name: Validate report
+      - name: Check gallery URL health
+        run: python scripts/validate_gallery_urls.py
+
+      - name: Validate reports
         run: |
           python - <<'PY'
           import json
-          p='data/audit/model-completeness.json'
-          d=json.load(open(p, encoding='utf-8'))
-          assert 'summary' in d
-          assert d['summary']['current_models_audited'] >= 0
-          print(json.dumps(d['summary'], indent=2))
+
+          completeness = json.load(open('data/audit/model-completeness.json', encoding='utf-8'))
+          assert 'summary' in completeness
+          assert completeness['summary']['current_models_audited'] >= 0
+          print('Completeness:')
+          print(json.dumps(completeness['summary'], indent=2))
+
+          gallery = json.load(open('data/audit/gallery-health.json', encoding='utf-8'))
+          assert 'summary' in gallery
+          assert gallery['summary']['gallery_urls_checked'] >= 0
+          assert gallery['summary']['healthy_gallery_urls'] + gallery['summary']['unhealthy_gallery_urls'] == gallery['summary']['gallery_urls_checked']
+          print('Gallery health:')
+          print(json.dumps(gallery['summary'], indent=2))
           PY
 
-      - name: Commit report if changed
+      - name: Commit reports if changed
         run: |
           git config user.name 'drivespeclab-bot'
           git config user.email 'actions@users.noreply.github.com'
-          git add data/audit/model-completeness.json data/audit/MODEL_COMPLETENESS.md
+          git add \
+            data/audit/model-completeness.json \
+            data/audit/MODEL_COMPLETENESS.md \
+            data/audit/gallery-health.json \
+            data/audit/GALLERY_HEALTH.md
           # Enrichment overlays are applied only inside this CI workspace.
           git restore --worktree data/v4
           if git diff --cached --quiet; then
             echo 'No audit changes.'
             exit 0
           fi
-          git commit -m 'Update model completeness audit'
+          git commit -m 'Update data quality audits'
           for attempt in 1 2 3; do
             git pull --rebase origin main
             if git push origin HEAD:main; then

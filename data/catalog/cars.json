@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T09:20:30+00:00",
+  "generated": "2026-09-16T09:23:03+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
@@ -6123,9 +6123,20 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/civic-hatchback/specs-features-trim-comparison",
-      "verified_on": "2026-09-13",
-      "specs": {},
+      "verified_on": "2026-09-16",
+      "specs": {
+        "horsepower": "150 hp Sport; 200 hp total system output on hybrid trims"
+      },
       "details": {
+        "engine": "2.0L inline-4; hybrid trims pair the 2.0L Atkinson-cycle engine with Honda's two-motor hybrid system",
+        "horsepower": "150 hp Sport; 200 hp total system output on hybrid trims",
+        "torque": "133 lb-ft on Sport; hybrid electric drive motor rated at 232 lb-ft",
+        "transmission": "Continuously Variable Transmission with paddle shifters on Sport; Direct Drive Unit on two-motor hybrid trims",
+        "efficiency": "2026 EPA ratings: Sport 30/38/34 mpg and hybrid trims 50/45/48 mpg city/highway/combined",
+        "dimensions": "179.0 in L × 70.9 in W × 55.7 in H; 107.7 in wheelbase",
+        "cargo": "24.5 cu ft cargo volume with rear seat up",
+        "technology": "Wireless smartphone integration and connected infotainment features, with premium audio and Google built-in available by trim",
+        "safety": "Honda Sensing driver-assist suite; Blind Spot Information is available on applicable trims",
         "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=Civic%20Hatchback",
@@ -6135,7 +6146,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 10
       },
       "search_text": "honda civic hatchback 2026 compact hatchback hatchback / wagon gas / hybrid fwd current u.s. retail model compact hatchback; hybrid available"
     },
@@ -6249,12 +6260,20 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/civic-si-sedan/specs-features-trim-comparison",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-16",
       "specs": {
-        "horsepower": 200
+        "horsepower": "200 hp @ 6,000 rpm"
       },
       "details": {
-        "horsepower": "200 hp",
+        "engine": "1.5L turbocharged inline-4",
+        "horsepower": "200 hp @ 6,000 rpm",
+        "torque": "192 lb-ft @ 1,800-5,000 rpm",
+        "transmission": "6-speed manual transmission with rev-match control and helical limited-slip differential",
+        "efficiency": "2026 EPA rating: 27/37/31 mpg city/highway/combined",
+        "dimensions": "184.0 in L × 70.9 in W × 55.5 in H; 107.7 in wheelbase",
+        "cargo": "14.1 cu ft cargo volume",
+        "technology": "Bose 12-speaker premium audio, wireless Apple CarPlay and Android Auto compatibility and performance-focused driver displays",
+        "safety": "Honda Sensing driver-assistive features plus Blind Spot Information System",
         "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=Civic%20Si",
@@ -6264,7 +6283,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 2
+        "detail_fields": 10
       },
       "search_text": "honda civic si 2026 performance sedan sedan turbo gas fwd current u.s. retail model manual performance civic"
     },
@@ -6300,9 +6319,20 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/tools/build-and-price",
-      "verified_on": "2026-09-13",
-      "specs": {},
+      "verified_on": "2026-09-16",
+      "specs": {
+        "horsepower": "315 hp @ 6,500 rpm"
+      },
       "details": {
+        "engine": "2.0L turbocharged inline-4",
+        "horsepower": "315 hp @ 6,500 rpm",
+        "torque": "310 lb-ft @ 2,600-4,000 rpm",
+        "transmission": "6-speed manual transmission with rev-match control and helical limited-slip differential",
+        "efficiency": "2026 EPA rating: 22/28/24 mpg city/highway/combined",
+        "dimensions": "180.9 in L × 74.4 in W × 55.4 in H; 107.7 in wheelbase; 4.8 in ground clearance",
+        "cargo": "24.5 cu ft cargo volume with rear seat up",
+        "technology": "Honda Satellite-Linked Navigation, HondaLink, Bose 12-speaker premium audio, wireless Apple CarPlay and Android Auto and performance telemetry/display features",
+        "safety": "Honda Sensing includes Forward Collision Warning, Lane Departure Warning, Collision Mitigation Braking, Road Departure Mitigation, Lane Keeping Assist, Adaptive Cruise Control, Traffic Sign Recognition, Blind Spot Information and Cross Traffic Monitor",
         "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=Civic%20Type%20R",
@@ -6312,7 +6342,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 10
       },
       "search_text": "honda civic type r 2026 performance hatchback hatchback / wagon turbo gas fwd current u.s. retail model track-focused performance civic"
     },
@@ -6446,14 +6476,23 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/cr-v-fcev/specs-features-trim-comparison",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-16",
       "specs": {
         "horsepower": 174,
-        "epa_range_miles": 270
+        "epa_range_miles": 270,
+        "range_miles": 270
       },
       "details": {
+        "engine": "Proton Exchange Membrane fuel-cell system with AC synchronous permanent-magnet electric drive motor and 17.7-kWh lithium-ion plug-in battery",
         "horsepower": "174 hp",
+        "torque": "229 lb-ft",
+        "transmission": "Fixed single-speed direct-drive transmission with Sport Mode and Shift-by-Wire",
+        "efficiency": "61/52/57 MPGe city/highway/combined on the listed EPA rating; 94/79/87 MPGe when hydrogen fuel and HV battery are combined in Honda's specification table",
         "range": "270 miles",
+        "dimensions": "187.6 in L × 73.5 in W × 66.6 in H; 106.3 in wheelbase; 6.7 in ground clearance",
+        "cargo": "25.2 cu ft behind the second row; 29.7 cu ft standard / 61.0 cu ft max behind the first row",
+        "technology": "10.2-in digital instrument cluster, Bose 12-speaker audio, wireless Apple CarPlay and Android Auto, USB-C charging and 120V/1,500W external power supply",
+        "safety": "Honda Sensing includes Collision Mitigation Braking System, Road Departure Mitigation, Adaptive Cruise Control with Low-Speed Follow, Lane Keeping Assist, Traffic Sign Recognition and Blind Spot Information",
         "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=CR-V%20e%3AFCEV",
@@ -6463,7 +6502,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 3
+        "detail_fields": 11
       },
       "search_text": "honda cr-v e:fcev 2026 fuel-cell suv suv / crossover hydrogen fuel cell / plug-in capable fwd current u.s. retail model california-focused fuel-cell cr-v"
     },
@@ -6511,9 +6550,20 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/hr-v/specs-features-trim-comparison",
-      "verified_on": "2026-09-13",
-      "specs": {},
+      "verified_on": "2026-09-16",
+      "specs": {
+        "horsepower": "158 hp @ 6,500 rpm"
+      },
       "details": {
+        "engine": "2.0L naturally aspirated inline-4",
+        "horsepower": "158 hp @ 6,500 rpm",
+        "torque": "138 lb-ft @ 4,200 rpm",
+        "transmission": "Continuously Variable Transmission (CVT); Real Time AWD with Intelligent Control System available",
+        "efficiency": "2027 EPA ratings: 26/32/28 mpg city/highway/combined with 2WD and 25/30/27 mpg with AWD",
+        "dimensions": "179.8 in L × 72.4 in W × 63.4-63.8 in H depending on trim; 104.5 in wheelbase",
+        "cargo": "24.4 cu ft standard cargo volume; 55.1 cu ft maximum",
+        "technology": "Wireless Apple CarPlay and Android Auto compatibility, Bluetooth connectivity, USB-C ports and available Qi wireless phone charging",
+        "safety": "Honda Sensing safety and driver-assist technologies, including Collision Mitigation Braking System, Road Departure Mitigation, Lane Departure Warning and related assistance features",
         "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=HR-V",
@@ -6523,7 +6573,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 10
       },
       "search_text": "honda hr-v 2027 subcompact suv suv / crossover gas fwd / awd current u.s. retail model small crossover"
     },
@@ -6577,12 +6627,20 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/odyssey/specs-features-trim-comparison",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-16",
       "specs": {
-        "horsepower": 280
+        "horsepower": "280 hp @ 6,000 rpm"
       },
       "details": {
-        "horsepower": "280 hp",
+        "engine": "3.5L V6",
+        "horsepower": "280 hp @ 6,000 rpm",
+        "torque": "262 lb-ft @ 4,700 rpm",
+        "transmission": "10-speed automatic transmission with Shift-By-Wire and paddle shifters; front-wheel drive",
+        "efficiency": "2027 EPA rating: 19/28/22 mpg city/highway/combined",
+        "dimensions": "205.2 in L × 78.5 in W × 69.6 in H; 118.1 in wheelbase",
+        "cargo": "32.8-38.6 cu ft behind the third row, 86.6-91.0 cu ft behind the second row and up to 155.8 cu ft behind the first row depending on measurement/configuration",
+        "technology": "Wireless Apple CarPlay and Android Auto, Magic Slide second-row seats, CabinTalk, CabinWatch and available 12.8-in rear entertainment system",
+        "safety": "Honda Sensing includes Collision Mitigation Braking with advanced pedestrian detection, Road Departure Mitigation, Forward Collision Warning, Lane Departure Warning and additional driver-assist features",
         "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=Odyssey",
@@ -6592,7 +6650,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 2
+        "detail_fields": 10
       },
       "search_text": "honda odyssey 2027 minivan van / minivan gas fwd current u.s. retail model family minivan"
     },
@@ -6820,12 +6878,20 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/prelude/specs-features-trim-comparison",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-16",
       "specs": {
-        "horsepower": 200
+        "horsepower": "200 hp total system output"
       },
       "details": {
-        "horsepower": "200 hp",
+        "engine": "2.0L Atkinson-cycle inline-4 with Honda two-motor hybrid system",
+        "horsepower": "200 hp total system output",
+        "torque": "Hybrid electric drive motor rated at 232 lb-ft; gasoline engine 134 lb-ft @ 4,500 rpm",
+        "transmission": "Direct Drive Unit with Honda S+ Shift",
+        "efficiency": "2027 EPA rating: 46/41/44 mpg city/highway/combined",
+        "dimensions": "178.4 in L × 74.0 in W × 53.4 in H; 102.6 in wheelbase",
+        "cargo": "15.1 cu ft cargo volume",
+        "technology": "Google built-in, Bose premium audio, HondaLink and Honda S+ Shift performance interface",
+        "safety": "Honda Sensing safety and driver-assistive technologies",
         "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=Prelude",
@@ -6835,7 +6901,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 2
+        "detail_fields": 10
       },
       "search_text": "honda prelude 2027 sport coupe/liftback hatchback / wagon hybrid fwd current u.s. retail model hybrid sport model"
     },
@@ -6883,20 +6949,28 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/prologue",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-16",
       "specs": {
+        "horsepower": "220 hp FWD; 300 hp AWD",
         "epa_range_miles": {
           "EX": 308,
           "Touring": 308,
           "Elite": 283
-        }
+        },
+        "range_miles_up_to": 308,
+        "towing_lbs_up_to": 1500
       },
       "details": {
-        "range": {
-          "EX": 308,
-          "Touring": 308,
-          "Elite": 283
-        },
+        "engine": "Battery-electric drivetrain with single-motor FWD or dual-motor AWD depending on configuration",
+        "horsepower": "220 hp FWD; 300 hp AWD",
+        "torque": "243 lb-ft FWD; 355 lb-ft AWD",
+        "efficiency": "EPA efficiency up to 113/94/104 MPGe city/highway/combined for FWD; AWD ratings include 108/90/99 MPGe on EX/Touring and 104/87/95 MPGe on Elite",
+        "range": "308 miles",
+        "dimensions": "192.0 in L × 78.3 in W × 64.7-65.2 in H; 121.8 in wheelbase",
+        "cargo": "EX: 25.2 cu ft rear cargo with seats up and 57.7 cu ft seats down; Touring/Elite: 23.7 cu ft up and 54.5 cu ft down",
+        "towing": "1500 lb",
+        "technology": "11.3-in color touchscreen, 11-in digital instrument cluster, Google built-in, wireless Apple CarPlay and Android Auto, wireless phone charging and HondaLink connected by OnStar",
+        "safety": "Honda Sensing/driver-assistance suite includes automatic emergency braking, lane-keep assist, adaptive cruise control, blind-zone and rear cross-traffic functions, with parking/surround-view features varying by trim",
         "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=Prologue",
@@ -6906,7 +6980,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 2
+        "detail_fields": 11
       },
       "search_text": "honda prologue 2026 electric suv suv / crossover battery electric fwd / awd current u.s. retail model electric midsize crossover"
     },
@@ -6972,12 +7046,22 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/ridgeline/specs-features-trim-comparison",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-16",
       "specs": {
-        "horsepower": 280
+        "horsepower": "280 hp @ 6,000 rpm",
+        "towing_lbs_up_to": 5000
       },
       "details": {
-        "horsepower": "280 hp",
+        "engine": "3.5L V6",
+        "horsepower": "280 hp @ 6,000 rpm",
+        "torque": "262 lb-ft @ 4,700 rpm",
+        "transmission": "9-speed automatic transmission with Shift-By-Wire and paddle shifters; i-VTM4 AWD standard",
+        "efficiency": "2026 EPA ratings: 18/24/21 mpg city/highway/combined on most trims and 18/23/20 mpg on TrailSport configurations",
+        "dimensions": "210.2 in L × 78.6 in W × 70.8 in H; 125.2 in wheelbase; 64.0-in bed with tailgate up / 83.0 in down",
+        "cargo": "33.9 cu ft truck-bed cargo volume plus 7.3 cu ft lockable In-Bed Trunk",
+        "towing": "5000 lb",
+        "technology": "Wireless Apple CarPlay and Android Auto compatibility, truck-bed utility features and connected infotainment equipment varying by trim",
+        "safety": "Honda Sensing includes Collision Mitigation Braking System, Road Departure Mitigation, Forward Collision Warning, Lane Departure Warning, Lane Keeping Assist and Adaptive Cruise Control; Blind Spot Information and Cross Traffic Monitor are included in the current spec table",
         "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=Ridgeline",
@@ -6987,7 +7071,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 2
+        "detail_fields": 11
       },
       "search_text": "honda ridgeline 2026 midsize pickup pickup / truck gas awd current u.s. retail model unibody midsize pickup"
     },

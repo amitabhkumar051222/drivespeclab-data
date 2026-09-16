@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T03:45:16.915226+00:00",
+  "generated_at": "2026-09-16T06:56:55.408339+00:00",
   "policy": "Missing fields are reported only; no values are guessed. Explicit not-applicable or official-source-not-published states resolve a section without inventing a value.",
   "brands": {
     "Audi": {
@@ -8577,62 +8577,59 @@
           "fully_complete": false
         },
         "bZ Woodland": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
-            "torque": "missing",
-            "transmission": "missing",
-            "efficiency": "missing",
+            "torque": "not_published",
+            "transmission": "not_published",
+            "efficiency": "not_published",
             "range": "verified",
-            "dimensions": "missing",
-            "cargo": "missing",
+            "dimensions": "not_published",
+            "cargo": "verified",
             "towing": "verified",
             "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "torque",
             "transmission",
             "efficiency",
-            "dimensions",
-            "cargo"
+            "dimensions"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "C-HR": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
-            "torque": "missing",
-            "transmission": "missing",
-            "efficiency": "missing",
+            "torque": "verified",
+            "transmission": "not_published",
+            "efficiency": "not_published",
             "range": "verified",
-            "dimensions": "missing",
+            "dimensions": "verified",
             "cargo": "verified",
-            "towing": "missing",
+            "towing": "not_published",
             "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "torque",
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "transmission",
             "efficiency",
-            "dimensions",
             "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Camry": {
           "gallery_count": 6,
@@ -8956,32 +8953,30 @@
           "fully_complete": true
         },
         "Prius Plug-in Hybrid": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
-            "torque": "missing",
+            "torque": "not_published",
             "transmission": "verified",
             "efficiency": "verified",
             "range": "verified",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_applicable",
             "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "torque",
-            "dimensions",
-            "cargo",
             "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "RAV4": {
           "gallery_count": 6,
@@ -9009,34 +9004,29 @@
           "fully_complete": true
         },
         "RAV4 Plug-in Hybrid": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
-            "torque": "missing",
-            "transmission": "missing",
-            "efficiency": "missing",
+            "torque": "not_published",
+            "transmission": "verified",
+            "efficiency": "verified",
             "range": "verified",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "verified",
             "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "torque",
-            "transmission",
-            "efficiency",
-            "dimensions",
-            "cargo",
-            "towing"
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
+            "torque"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Sequoia": {
           "gallery_count": 0,
@@ -9066,32 +9056,30 @@
           "fully_complete": false
         },
         "Sienna": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
-            "torque": "missing",
+            "torque": "not_published",
             "transmission": "verified",
             "efficiency": "verified",
-            "range": "missing",
+            "range": "not_applicable",
             "dimensions": "verified",
-            "cargo": "missing",
+            "cargo": "verified",
             "towing": "verified",
-            "technology": "missing",
+            "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "torque",
-            "range",
-            "cargo",
-            "technology"
+            "range"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Tacoma": {
           "gallery_count": 6,
@@ -9206,9 +9194,9 @@
       },
       "counts": {
         "models": 25,
-        "gallery_6": 12,
-        "spec_complete": 12,
-        "fully_complete": 12
+        "gallery_6": 17,
+        "spec_complete": 17,
+        "fully_complete": 17
       }
     },
     "Volkswagen": {
@@ -9823,15 +9811,15 @@
   },
   "summary": {
     "current_models_audited": 274,
-    "models_with_6_gallery_images": 12,
-    "gallery_complete_pct": 4.4,
-    "models_with_complete_spec_sections": 12,
-    "spec_complete_pct": 4.4,
-    "fully_complete_models": 12,
-    "fully_complete_pct": 4.4,
-    "models_missing_full_gallery": 262,
-    "models_with_incomplete_specs": 262,
-    "sections_resolved_as_not_applicable_or_not_published": 18
+    "models_with_6_gallery_images": 17,
+    "gallery_complete_pct": 6.2,
+    "models_with_complete_spec_sections": 17,
+    "spec_complete_pct": 6.2,
+    "fully_complete_models": 17,
+    "fully_complete_pct": 6.2,
+    "models_missing_full_gallery": 257,
+    "models_with_incomplete_specs": 257,
+    "sections_resolved_as_not_applicable_or_not_published": 30
   },
   "missing_gallery": [
     "Audi Q9",
@@ -10067,16 +10055,11 @@
     "Tesla Model Y",
     "Tesla Cybertruck",
     "Toyota bZ",
-    "Toyota bZ Woodland",
-    "Toyota C-HR",
     "Toyota GR Corolla",
     "Toyota GR Supra",
     "Toyota GR86",
     "Toyota Mirai",
-    "Toyota Prius Plug-in Hybrid",
-    "Toyota RAV4 Plug-in Hybrid",
     "Toyota Sequoia",
-    "Toyota Sienna",
     "Toyota Toyota Crown",
     "Toyota Toyota Crown Signia",
     "Volkswagen Atlas",
@@ -14236,28 +14219,6 @@
     },
     {
       "brand": "Toyota",
-      "model": "bZ Woodland",
-      "missing": [
-        "torque",
-        "transmission",
-        "efficiency",
-        "dimensions",
-        "cargo"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "C-HR",
-      "missing": [
-        "torque",
-        "transmission",
-        "efficiency",
-        "dimensions",
-        "towing"
-      ]
-    },
-    {
-      "brand": "Toyota",
       "model": "GR Corolla",
       "missing": [
         "range",
@@ -14301,43 +14262,11 @@
     },
     {
       "brand": "Toyota",
-      "model": "Prius Plug-in Hybrid",
-      "missing": [
-        "torque",
-        "dimensions",
-        "cargo",
-        "towing"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "RAV4 Plug-in Hybrid",
-      "missing": [
-        "torque",
-        "transmission",
-        "efficiency",
-        "dimensions",
-        "cargo",
-        "towing"
-      ]
-    },
-    {
-      "brand": "Toyota",
       "model": "Sequoia",
       "missing": [
         "range",
         "dimensions",
         "cargo"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "Sienna",
-      "missing": [
-        "torque",
-        "range",
-        "cargo",
-        "technology"
       ]
     },
     {

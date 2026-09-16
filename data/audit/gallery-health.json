@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-16T03:45:27.789762+00:00",
+  "generated_at": "2026-09-16T06:57:25.797228+00:00",
   "policy": "Gallery URLs are checked over HTTP and must return an image content type. Production-ready requires the model-completeness audit to pass, at least six gallery URLs, and every checked gallery URL to be healthy. Temporary CDN/network failures are reported and never converted into valid assets.",
   "summary": {
     "models_scanned": 278,
-    "models_with_gallery": 12,
-    "gallery_urls_checked": 73,
-    "healthy_gallery_urls": 73,
-    "unhealthy_gallery_urls": 0,
-    "healthy_pct": 100.0,
+    "models_with_gallery": 17,
+    "gallery_urls_checked": 103,
+    "healthy_gallery_urls": 95,
+    "unhealthy_gallery_urls": 8,
+    "healthy_pct": 92.2,
     "current_models_audited_for_completeness": 274,
-    "production_ready_models": 12,
-    "production_ready_pct": 4.4
+    "production_ready_models": 13,
+    "production_ready_pct": 4.7
   },
   "production_ready_models": [
     {
@@ -51,6 +51,10 @@
     },
     {
       "brand": "Toyota",
+      "model": "Prius Plug-in Hybrid"
+    },
+    {
+      "brand": "Toyota",
       "model": "RAV4"
     },
     {
@@ -75,6 +79,16 @@
     },
     {
       "brand": "Toyota",
+      "model": "C-HR",
+      "gallery_urls": 6,
+      "healthy_urls": 4,
+      "all_gallery_urls_healthy": false,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": false
+    },
+    {
+      "brand": "Toyota",
       "model": "Camry",
       "gallery_urls": 6,
       "healthy_urls": 6,
@@ -155,6 +169,16 @@
     },
     {
       "brand": "Toyota",
+      "model": "Prius Plug-in Hybrid",
+      "gallery_urls": 6,
+      "healthy_urls": 6,
+      "all_gallery_urls_healthy": true,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": true
+    },
+    {
+      "brand": "Toyota",
       "model": "RAV4",
       "gallery_urls": 6,
       "healthy_urls": 6,
@@ -162,6 +186,26 @@
       "completeness_pass": true,
       "gallery_minimum_pass": true,
       "production_ready": true
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4 Plug-in Hybrid",
+      "gallery_urls": 6,
+      "healthy_urls": 4,
+      "all_gallery_urls_healthy": false,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": false
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sienna",
+      "gallery_urls": 6,
+      "healthy_urls": 4,
+      "all_gallery_urls_healthy": false,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": false
     },
     {
       "brand": "Toyota",
@@ -182,6 +226,16 @@
       "completeness_pass": true,
       "gallery_minimum_pass": true,
       "production_ready": true
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ Woodland",
+      "gallery_urls": 6,
+      "healthy_urls": 4,
+      "all_gallery_urls_healthy": false,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": false
     }
   ],
   "checks": [
@@ -192,7 +246,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 221,
+      "elapsed_ms": 352,
       "error": null
     },
     {
@@ -202,7 +256,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 142,
+      "elapsed_ms": 133,
       "error": null
     },
     {
@@ -212,7 +266,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 150,
+      "elapsed_ms": 168,
       "error": null
     },
     {
@@ -222,7 +276,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 93,
+      "elapsed_ms": 72,
       "error": null
     },
     {
@@ -232,7 +286,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 100,
+      "elapsed_ms": 71,
       "error": null
     },
     {
@@ -242,7 +296,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 90,
+      "elapsed_ms": 146,
       "error": null
     },
     {
@@ -252,8 +306,128 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 135,
+      "elapsed_ms": 72,
       "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ Woodland",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 526,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ Woodland",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 675,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ Woodland",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 727,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ Woodland",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 580,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ Woodland",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/5.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 334,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ Woodland",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/6.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 322,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "C-HR",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 647,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "C-HR",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 740,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "C-HR",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 685,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "C-HR",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 635,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "C-HR",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/5.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 572,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "C-HR",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/6.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 516,
+      "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
@@ -262,7 +436,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 134,
+      "elapsed_ms": 128,
       "error": null
     },
     {
@@ -272,7 +446,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 90,
+      "elapsed_ms": 519,
       "error": null
     },
     {
@@ -282,7 +456,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 91,
+      "elapsed_ms": 84,
       "error": null
     },
     {
@@ -292,7 +466,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 88,
+      "elapsed_ms": 132,
       "error": null
     },
     {
@@ -302,7 +476,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 88,
+      "elapsed_ms": 156,
       "error": null
     },
     {
@@ -312,7 +486,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 90,
+      "elapsed_ms": 263,
       "error": null
     },
     {
@@ -322,7 +496,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 91,
+      "elapsed_ms": 70,
       "error": null
     },
     {
@@ -332,7 +506,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 92,
+      "elapsed_ms": 596,
       "error": null
     },
     {
@@ -342,7 +516,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 145,
+      "elapsed_ms": 125,
       "error": null
     },
     {
@@ -352,7 +526,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 92,
+      "elapsed_ms": 284,
       "error": null
     },
     {
@@ -362,7 +536,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 89,
+      "elapsed_ms": 73,
       "error": null
     },
     {
@@ -372,7 +546,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 88,
+      "elapsed_ms": 170,
       "error": null
     },
     {
@@ -382,7 +556,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 93,
+      "elapsed_ms": 73,
       "error": null
     },
     {
@@ -392,7 +566,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 88,
+      "elapsed_ms": 100,
       "error": null
     },
     {
@@ -402,7 +576,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 89,
+      "elapsed_ms": 72,
       "error": null
     },
     {
@@ -412,7 +586,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 91,
+      "elapsed_ms": 81,
       "error": null
     },
     {
@@ -422,7 +596,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 89,
+      "elapsed_ms": 75,
       "error": null
     },
     {
@@ -432,7 +606,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 92,
+      "elapsed_ms": 71,
       "error": null
     },
     {
@@ -442,7 +616,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 90,
+      "elapsed_ms": 81,
       "error": null
     },
     {
@@ -452,7 +626,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 92,
+      "elapsed_ms": 75,
       "error": null
     },
     {
@@ -462,7 +636,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 90,
+      "elapsed_ms": 78,
       "error": null
     },
     {
@@ -472,7 +646,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 91,
+      "elapsed_ms": 150,
       "error": null
     },
     {
@@ -482,7 +656,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 90,
+      "elapsed_ms": 272,
       "error": null
     },
     {
@@ -492,7 +666,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 99,
+      "elapsed_ms": 74,
       "error": null
     },
     {
@@ -502,7 +676,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 92,
+      "elapsed_ms": 717,
       "error": null
     },
     {
@@ -512,7 +686,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 100,
+      "elapsed_ms": 76,
       "error": null
     },
     {
@@ -522,7 +696,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 94,
+      "elapsed_ms": 71,
       "error": null
     },
     {
@@ -532,7 +706,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 88,
+      "elapsed_ms": 370,
       "error": null
     },
     {
@@ -542,7 +716,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 90,
+      "elapsed_ms": 250,
       "error": null
     },
     {
@@ -552,7 +726,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 88,
+      "elapsed_ms": 83,
       "error": null
     },
     {
@@ -562,7 +736,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 91,
+      "elapsed_ms": 115,
       "error": null
     },
     {
@@ -572,7 +746,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 95,
+      "elapsed_ms": 90,
       "error": null
     },
     {
@@ -582,7 +756,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 88,
+      "elapsed_ms": 96,
       "error": null
     },
     {
@@ -592,7 +766,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 99,
+      "elapsed_ms": 278,
       "error": null
     },
     {
@@ -612,7 +786,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 92,
+      "elapsed_ms": 66,
       "error": null
     },
     {
@@ -622,7 +796,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 98,
+      "elapsed_ms": 83,
       "error": null
     },
     {
@@ -632,7 +806,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 90,
+      "elapsed_ms": 73,
       "error": null
     },
     {
@@ -642,7 +816,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 89,
+      "elapsed_ms": 64,
       "error": null
     },
     {
@@ -652,7 +826,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 114,
+      "elapsed_ms": 80,
       "error": null
     },
     {
@@ -662,7 +836,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 281,
+      "elapsed_ms": 621,
       "error": null
     },
     {
@@ -672,7 +846,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 650,
+      "elapsed_ms": 75,
       "error": null
     },
     {
@@ -682,7 +856,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 91,
+      "elapsed_ms": 137,
       "error": null
     },
     {
@@ -692,7 +866,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 102,
+      "elapsed_ms": 81,
       "error": null
     },
     {
@@ -702,7 +876,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 89,
+      "elapsed_ms": 73,
       "error": null
     },
     {
@@ -712,7 +886,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 88,
+      "elapsed_ms": 138,
       "error": null
     },
     {
@@ -722,7 +896,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 93,
+      "elapsed_ms": 89,
       "error": null
     },
     {
@@ -732,7 +906,67 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 88,
+      "elapsed_ms": 243,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Prius Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/priuspluginhybrid/se/1235/1m2/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 1253,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Prius Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/priuspluginhybrid/se/1235/1m2/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 607,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Prius Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/priuspluginhybrid/se/1235/1m2/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 699,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Prius Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/priuspluginhybrid/se/1235/1m2/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 601,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Prius Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/priuspluginhybrid/se/1235/8q4/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 660,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Prius Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/priuspluginhybrid/se/1235/8q4/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 445,
       "error": null
     },
     {
@@ -742,7 +976,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 92,
+      "elapsed_ms": 84,
       "error": null
     },
     {
@@ -752,7 +986,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 90,
+      "elapsed_ms": 100,
       "error": null
     },
     {
@@ -762,7 +996,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 91,
+      "elapsed_ms": 63,
       "error": null
     },
     {
@@ -772,7 +1006,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 89,
+      "elapsed_ms": 283,
       "error": null
     },
     {
@@ -782,7 +1016,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 90,
+      "elapsed_ms": 490,
       "error": null
     },
     {
@@ -792,8 +1026,128 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 89,
+      "elapsed_ms": 290,
       "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4 Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 222,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4 Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 634,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4 Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 417,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4 Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 631,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4 Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/5.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 364,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4 Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/6.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 347,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sienna",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 320,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sienna",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 715,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sienna",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 677,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sienna",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 720,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sienna",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/5.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 316,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sienna",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/6.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 349,
+      "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
@@ -802,7 +1156,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 89,
+      "elapsed_ms": 77,
       "error": null
     },
     {
@@ -812,7 +1166,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 94,
+      "elapsed_ms": 124,
       "error": null
     },
     {
@@ -822,7 +1176,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 90,
+      "elapsed_ms": 115,
       "error": null
     },
     {
@@ -832,7 +1186,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 89,
+      "elapsed_ms": 127,
       "error": null
     },
     {
@@ -842,7 +1196,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 96,
+      "elapsed_ms": 568,
       "error": null
     },
     {
@@ -852,7 +1206,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 92,
+      "elapsed_ms": 110,
       "error": null
     },
     {
@@ -862,7 +1216,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 638,
+      "elapsed_ms": 619,
       "error": null
     },
     {
@@ -872,7 +1226,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 735,
+      "elapsed_ms": 103,
       "error": null
     },
     {
@@ -882,7 +1236,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 689,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -892,7 +1246,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 518,
+      "elapsed_ms": 114,
       "error": null
     },
     {
@@ -902,7 +1256,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 237,
+      "elapsed_ms": 134,
       "error": null
     },
     {
@@ -912,9 +1266,90 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 649,
+      "elapsed_ms": 546,
       "error": null
     }
   ],
-  "unhealthy": []
+  "unhealthy": [
+    {
+      "brand": "Toyota",
+      "model": "bZ Woodland",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/5.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 334,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ Woodland",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/6.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 322,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "C-HR",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/5.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 572,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "C-HR",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/6.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 516,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4 Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/5.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 364,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4 Plug-in Hybrid",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/6.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 347,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sienna",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/5.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 316,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sienna",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/6.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 349,
+      "error": "HTTP 403"
+    }
+  ]
 }

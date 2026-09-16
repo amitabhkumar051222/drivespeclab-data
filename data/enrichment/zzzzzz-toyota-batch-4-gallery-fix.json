@@ -1,0 +1,28 @@
+{
+  "target": "toyota.json",
+  "brand": "Toyota",
+  "models": {
+    "Toyota Crown": {
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/090/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/090/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l5/1.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_asset_note": "Official Toyota retail AEM assets. Storm Cloud uses code 1L6, Oxygen White 090 and Heavy Metal 1L5; XLE model code 4015 is retained for 2027."
+    },
+    "Toyota Crown Signia": {
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/1l6/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/1l6/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/1l6/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/1l6/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/090/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/090/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_asset_note": "Official Toyota retail AEM assets. Storm Cloud uses code 1L6 and Oxygen White uses Toyota paint code 090 on the 2026 Crown Signia XLE."
+    }
+  }
+}

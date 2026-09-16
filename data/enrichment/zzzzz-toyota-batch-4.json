@@ -1,0 +1,242 @@
+{
+  "target": "toyota.json",
+  "brand": "Toyota",
+  "market": "United States",
+  "verified_on": "2026-09-16",
+  "policy": "Official Toyota U.S. retail, full-spec, brochure, BuyAToyota and Toyota USA Newsroom sources only. Missing/non-applicable values are explicitly labelled and never guessed. Gallery assets use Toyota retail AEM imagery and must pass repository gallery-health checks before production readiness.",
+  "models": {
+    "bZ": {
+      "verified_on": "2026-09-16",
+      "powertrain": "Battery-electric crossover; FWD uses one electric motor and AWD uses front and rear electric motors with X-MODE",
+      "horsepower": "Up to 221 hp FWD / 338 total-system hp AWD",
+      "efficiency": "EPA-estimated driving range varies by battery and drivetrain; up to 314 miles on XLE FWD Plus",
+      "range_miles_up_to": 314,
+      "dimensions": "184.6 in L × 73.2 in W × 65.0 in H; 112.2 in wheelbase",
+      "cargo": "27.7 cu ft behind the rear seats; up to 56.9 cu ft with the second row folded",
+      "technology": "14-in Toyota Audio Multimedia touchscreen, NACS charging port, available dual wireless charging and DC fast charging from 10% to 80% in about 30 minutes under ideal conditions",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; EV driving components including traction battery 8 years/100,000 miles",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bz/xle/2873/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bz/xle/2873/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bz/xle/2873/089/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bz/xle/2873/089/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bz/xle/2873/089/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bz/xle/2873/1l5/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bz/xle/2873/1l5/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/vehicles/bz/2027",
+      "gallery_asset_note": "Toyota states the 2027 bZ carries over unchanged from 2026; official Toyota 2026 retail carryover imagery is used.",
+      "not_published": ["torque", "transmission", "towing"],
+      "source_evidence": [
+        "https://www.toyota.com/vehicles/bz/2027",
+        "https://www.toyota.com/bz/features/",
+        "https://www.toyota.com/bz/faq/"
+      ]
+    },
+    "GR Corolla": {
+      "verified_on": "2026-09-16",
+      "engine": "G16E-GTS 1.6L turbocharged 3-cylinder",
+      "horsepower": 300,
+      "torque": "295 lb-ft on standard GR Corolla; 302 lb-ft on GRMN",
+      "transmission": "8-speed GAZOO Racing Direct Automatic Transmission (DAT) or 6-speed intelligent Manual Transmission (iMT)",
+      "efficiency": "Up to 21/28 MPG city/highway with manual transmission; automatic configurations are rated lower",
+      "dimensions": "173.6 in L × 72.8 in W × about 57.2 in H; 103.9 in wheelbase",
+      "cargo": "17.8 cu ft cargo capacity",
+      "technology": "8-in Toyota Audio Multimedia touchscreen, 12.3-in digital gauge cluster and wireless Apple CarPlay/Android Auto compatibility",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; ToyotaCare scheduled maintenance for 2 years/25,000 miles",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grcorolla/grcorolla/6281/3u5/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grcorolla/grcorolla/6281/3u5/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grcorolla/grcorolla/6281/3u5/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grcorolla/grcorolla/6281/3u5/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grcorolla/grcorolla/6281/3u5/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grcorolla/grcorolla/6281/202/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grcorolla/grcorolla/6281/202/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/grcorolla/",
+      "not_applicable": ["range", "towing"],
+      "source_evidence": [
+        "https://www.toyota.com/grcorolla/",
+        "https://www.toyota.com/grcorolla/features/mpg_other_price/6281/6287/6289",
+        "https://pressroom.toyota.com/conquer-every-corner-in-the-2026-toyota-gr-corolla/"
+      ]
+    },
+    "GR Supra": {
+      "verified_on": "2026-09-16",
+      "engine": "3.0L twin-scroll single-turbo DOHC 24-valve inline 6-cylinder",
+      "horsepower": 382,
+      "torque": "368 lb-ft",
+      "transmission": "6-speed intelligent Manual Transmission or 8-speed automatic transmission",
+      "efficiency": "Current U.S. retail ratings: up to 22/29 MPG city/highway automatic and 19/26 MPG manual",
+      "dimensions": "172.5 in L × 73.0 in W × 51.1 in H; 97.2 in wheelbase",
+      "cargo": "10.2 cu ft trunk capacity",
+      "technology": "8.8-in multimedia display with available premium audio/navigation and connected convenience features",
+      "safety": "Forward-collision warning with automatic emergency braking, lane-departure warning with steering assist and available driver-assistance package features",
+      "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; ToyotaCare scheduled maintenance for 2 years/25,000 miles",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grsupra/3-0/2372/d13/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grsupra/3-0/2372/d13/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grsupra/3-0/2372/d13/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grsupra/3-0/2372/d13/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grsupra/3-0/2372/d13/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grsupra/3-0/2372/d01/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grsupra/3-0/2372/d01/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/grsupra/",
+      "not_applicable": ["range", "towing"],
+      "source_evidence": [
+        "https://www.toyota.com/grsupra/",
+        "https://www.toyota.com/grsupra/features/",
+        "https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/2026-grsupra-brochure.pdf"
+      ]
+    },
+    "GR86": {
+      "verified_on": "2026-09-16",
+      "engine": "2.4L naturally aspirated 4-cylinder boxer engine",
+      "horsepower": 228,
+      "torque": "184 lb-ft",
+      "transmission": "6-speed manual or 6-speed automatic transmission",
+      "efficiency": "Up to 20/26 MPG city/highway on Toyota's 2027 retail listing",
+      "dimensions": "167.9 in L × 69.9 in W × about 51.6 in H; 101.4 in wheelbase",
+      "cargo": "Approximately 6.3 cu ft trunk capacity on the current U.S. body",
+      "technology": "8-in touchscreen multimedia system, 7-in GR digital gauge cluster and smartphone integration",
+      "safety": "Active safety suite includes pre-collision braking, lane-departure/sway warning, automatic high beams and adaptive cruise control; equipment varies with transmission/grade",
+      "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; ToyotaCare scheduled maintenance for 2 years/25,000 miles",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/gr86/gr86/6253/d4s/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/gr86/gr86/6253/d4s/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/gr86/gr86/6253/d4s/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/gr86/gr86/6253/d4s/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/gr86/gr86/6253/d4s/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/gr86/gr86/6253/k1x/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/gr86/gr86/6253/k1x/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/vehicles/gr86/2027",
+      "not_applicable": ["range", "towing"],
+      "source_evidence": [
+        "https://www.toyota.com/vehicles/gr86/2027",
+        "https://www.toyota.com/gr86/features/"
+      ]
+    },
+    "Mirai": {
+      "verified_on": "2026-09-16",
+      "powertrain": "Toyota Fuel Cell System hydrogen fuel-cell electric powertrain with rear-wheel drive",
+      "horsepower": 182,
+      "torque": "221 lb-ft",
+      "transmission": "Single-speed direct-drive reduction gear",
+      "efficiency": "EPA-estimated 76 city / 71 highway MPGe on the current U.S. Mirai",
+      "range_miles_up_to": 402,
+      "dimensions": "195.8 in L × 74.2 in W × 57.9 in H; 114.9 in wheelbase",
+      "cargo": "9.6 cu ft trunk capacity",
+      "technology": "12.3-in Toyota Audio Multimedia touchscreen with premium connectivity and available advanced parking/driver convenience technology",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; key FCEV components covered for 8 years/100,000 miles",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/mirai/mirai/3002/8y7/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/mirai/mirai/3002/8y7/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/mirai/mirai/3002/8y7/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/mirai/mirai/3002/8y7/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/mirai/mirai/3002/8y7/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/mirai/mirai/3002/202/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/mirai/mirai/3002/202/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/mirai/",
+      "not_applicable": ["towing"],
+      "source_evidence": [
+        "https://www.toyota.com/mirai/",
+        "https://www.toyota.com/mirai/features/mpg_other_price/3002/",
+        "https://www.toyota.com/premium-cars/"
+      ]
+    },
+    "Sequoia": {
+      "verified_on": "2026-09-16",
+      "engine": "i-FORCE MAX twin-turbo V6 hybrid",
+      "horsepower": 437,
+      "torque": "583 lb-ft",
+      "transmission": "10-speed electronically controlled automatic transmission with intelligence",
+      "efficiency": "Up to an EPA-estimated 22 combined MPG",
+      "dimensions": "208.1 in L × 79.8 in W × about 75.4 in H; 122.0 in wheelbase on the referenced U.S. configuration",
+      "cargo": "22.3 cu ft behind the third row; up to 86.9 cu ft with rear seating folded/stowed as applicable",
+      "towing_lbs_up_to": 9500,
+      "technology": "14-in Toyota Audio Multimedia touchscreen with wireless Apple CarPlay and Android Auto compatibility and available towing/camera assistance features",
+      "safety": "Toyota Safety Sense 2.5 standard",
+      "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; hybrid components 8 years/100,000 miles and hybrid battery 10 years/150,000 miles",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sequoia/sr5/7946/6x3/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sequoia/sr5/7946/6x3/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sequoia/sr5/7946/6x3/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sequoia/sr5/7946/6x3/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sequoia/sr5/7946/6x3/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sequoia/sr5/7946/8x8/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sequoia/sr5/7946/8x8/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/sequoia/",
+      "not_applicable": ["range"],
+      "source_evidence": [
+        "https://www.toyota.com/sequoia/",
+        "https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/sequoia_ebrochure.pdf"
+      ]
+    },
+    "Toyota Crown": {
+      "verified_on": "2026-09-16",
+      "powertrain": "Fifth-generation Toyota Hybrid System on XLE, Limited and Nightshade; 2.4L turbo Hybrid MAX on Platinum; standard AWD",
+      "horsepower": "236 combined hp on XLE/Limited/Nightshade; 340 combined hp on Platinum Hybrid MAX",
+      "torque": "Platinum Hybrid MAX: 400 lb-ft combined; Toyota does not publish one family-wide combined-system torque figure for the THS 5 grades",
+      "transmission": "Electronically controlled continuously variable transmission on THS 5 grades; Direct Shift-6AT on Platinum Hybrid MAX",
+      "efficiency": "EPA-estimated 40 combined MPG on XLE, Limited and Nightshade; Platinum Hybrid MAX prioritizes higher performance",
+      "dimensions": "196.1 in L × 72.4 in W × 60.6 in H; 112.2 in wheelbase",
+      "cargo": "15.2 cu ft trunk capacity",
+      "technology": "12.3-in Toyota Audio Multimedia touchscreen and digital gauge cluster; wireless Apple CarPlay/Android Auto; higher grades add Panoramic View Monitor, Traffic Jam Assist and Digital Key capability",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; hybrid components 8 years/100,000 miles and hybrid battery 10 years/150,000 miles",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/089/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/vehicles/toyotacrown/2027",
+      "not_applicable": ["range", "towing"],
+      "source_evidence": [
+        "https://www.toyota.com/vehicles/toyotacrown/2027",
+        "https://www.toyota.com/crown/features/",
+        "https://pressroom.toyota.com/leveling-up-luxury-2027-toyota-crown-adds-next-gen-hybrid-power-and-bold-styling/"
+      ]
+    },
+    "Toyota Crown Signia": {
+      "verified_on": "2026-09-16",
+      "engine": "2.5L 4-cylinder Toyota Hybrid System with Electronic On-Demand AWD",
+      "horsepower": 240,
+      "transmission": "Electronically controlled continuously variable transmission (ECVT)",
+      "efficiency": "Manufacturer-estimated 38 combined MPG",
+      "dimensions": "194.1 in L × 74.0 in W × about 64.0 in H; 112.2 in wheelbase",
+      "cargo": "25.8 cu ft behind the rear seat; up to 68.8 cu ft with the second row laid flat",
+      "towing_lbs_up_to": 2700,
+      "technology": "12.3-in Toyota Audio Multimedia touchscreen and 12.3-in digital gauge cluster; available Panoramic View Monitor, Digital Rearview Mirror and Traffic Jam Assist",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; hybrid components 8 years/100,000 miles and hybrid battery 10 years/150,000 miles",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/1l6/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/1l6/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/1l6/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/1l6/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/1l6/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/089/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/crownsignia/",
+      "not_applicable": ["range"],
+      "not_published": ["torque"],
+      "source_evidence": [
+        "https://www.toyota.com/crownsignia/",
+        "https://www.toyota.com/crownsignia/features/",
+        "https://pressroom.toyota.com/vehicle/2026-toyota-crown-signia/"
+      ]
+    }
+  }
+}

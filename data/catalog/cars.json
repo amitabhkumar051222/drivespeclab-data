@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T17:32:23+00:00",
+  "generated": "2026-09-16T01:02:12+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
@@ -17039,11 +17039,18 @@
         }
       ],
       "key_detail": "High-volume compact sedan",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/040/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/040/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/040/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/1f7/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/1f7/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_count": 6,
       "source": "https://www.toyota.com/vehicles/corolla/2027",
-      "verified_on": "2026-09-15",
+      "verified_on": "2026-09-16",
       "specs": {
         "horsepower": "169 hp (gas) / 138 hp (hybrid system)",
         "torque_lb_ft": "151 lb-ft (gas engine)"
@@ -17053,7 +17060,9 @@
         "horsepower": "169 hp (gas) / 138 hp (hybrid system)",
         "torque": "151 lb-ft (gas engine)",
         "transmission": "Dynamic-Shift CVT (gas) / electronically controlled CVT (hybrid)",
-        "technology": "Available 12.3-in. digital gauge cluster and 10.5-in. Toyota Audio Multimedia touchscreen",
+        "dimensions": "2027 U.S. Corolla sedan: 182.3–182.5 in overall length depending on grade, 70.1 in width, 56.5 in height on mainstream grades, and 106.3 in wheelbase",
+        "cargo": "13.1 cu ft trunk capacity",
+        "technology": "Toyota Audio Multimedia with standard 8-in touchscreen; available 10.5-in touchscreen and 12.3-in digital gauge cluster; wireless Apple CarPlay and Android Auto compatibility",
         "safety": "Toyota Safety Sense 3.0 standard",
         "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "FWD; Electronic On-Demand AWD available on selected hybrid grades",
@@ -17065,8 +17074,8 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 9
+        "gallery_6": true,
+        "detail_fields": 11
       },
       "search_text": "toyota corolla 2027 compact sedan sedan gas / hybrid fwd / awd (hybrid) current u.s. retail model high-volume compact sedan"
     },
@@ -17207,11 +17216,18 @@
         }
       ],
       "key_detail": "Practical compact hatchback",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corollahatchback/se/6272/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corollahatchback/se/6272/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corollahatchback/se/6272/040/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corollahatchback/se/6272/040/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corollahatchback/se/6272/040/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corollahatchback/se/6272/218/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corollahatchback/se/6272/218/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_count": 6,
       "source": "https://www.toyota.com/vehicles/corollahatchback/2027",
-      "verified_on": "2026-09-15",
+      "verified_on": "2026-09-16",
       "specs": {
         "horsepower": 169,
         "torque_lb_ft": 151
@@ -17221,7 +17237,9 @@
         "horsepower": "169 hp",
         "torque": "151 lb-ft",
         "transmission": "Dynamic-Shift CVT",
-        "technology": "Wireless Apple CarPlay and Android Auto compatibility",
+        "dimensions": "172.0 in L × 70.5 in W × 57.1 in H; 103.9 in wheelbase",
+        "cargo": "17.8 cu ft cargo capacity",
+        "technology": "Toyota Audio Multimedia with wireless Apple CarPlay and Android Auto; available 10.5-in touchscreen and 12.3-in digital gauge cluster",
         "safety": "Toyota Safety Sense 3.0 standard",
         "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "FWD",
@@ -17233,8 +17251,8 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 9
+        "gallery_6": true,
+        "detail_fields": 11
       },
       "search_text": "toyota corolla hatchback 2027 compact hatchback hatchback / wagon gas fwd current u.s. retail model practical compact hatchback"
     },
@@ -17538,11 +17556,18 @@
         }
       ],
       "key_detail": "Large three-row family SUV",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grandhighlander/xle/6702/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grandhighlander/xle/6702/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grandhighlander/xle/6702/089/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grandhighlander/xle/6702/089/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grandhighlander/xle/6702/089/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grandhighlander/xle/6702/218/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grandhighlander/xle/6702/218/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_count": 6,
       "source": "https://www.toyota.com/grandhighlander/",
-      "verified_on": "2026-09-15",
+      "verified_on": "2026-09-16",
       "specs": {
         "horsepower": "265 hp (gas) / 245 hp (hybrid) / 362 hp (Hybrid MAX)",
         "torque_lb_ft": "Up to 400 lb-ft (Hybrid MAX)",
@@ -17553,11 +17578,14 @@
         "engine": "2.4L turbo gas, 2.5L hybrid, or Hybrid MAX powertrain",
         "horsepower": "265 hp (gas) / 245 hp (hybrid) / 362 hp (Hybrid MAX)",
         "torque": "Up to 400 lb-ft (Hybrid MAX)",
-        "efficiency": "Up to 36 MPG on selected hybrid configurations",
+        "transmission": "Direct Shift-8AT 8-speed electronically controlled automatic on 2.4L turbo gas models; ECVT on 2.5L hybrid; Direct Shift-6AT 6-speed electronically controlled automatic on Hybrid MAX",
+        "efficiency": "Up to manufacturer-estimated 28 combined MPG gas, 36 combined MPG hybrid, and 27 combined MPG Hybrid MAX",
+        "dimensions": "201.4 in L × 78.3 in W × 72.1 in H; 116.1 in wheelbase on the referenced U.S. configuration",
+        "cargo": "20.6 cu ft with all rows in use; up to 97.5 cu ft with rear rows folded",
         "towing": "5000 lb",
+        "technology": "Standard 12.3-in Toyota Audio Multimedia touchscreen and seven USB-C ports; available Head-Up Display, Traffic Jam Assist and digital rearview mirror",
         "safety": "Toyota Safety Sense 3.0 standard",
-        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
-        "cargo": "97.5 cu ft"
+        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage."
       },
       "url": "/search/label/Toyota#usmodel=Grand%20Highlander",
       "route_type": "database-hash",
@@ -17565,8 +17593,8 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 8
+        "gallery_6": true,
+        "detail_fields": 11
       },
       "search_text": "toyota grand highlander 2026 three-row suv suv / crossover gas / hybrid fwd / awd current u.s. retail model large three-row family suv"
     },
@@ -17711,11 +17739,18 @@
         }
       ],
       "key_detail": "Hybrid body-on-frame 4WD SUV",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/040/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/040/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/040/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/202/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/202/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_count": 6,
       "source": "https://www.toyota.com/landcruiser/",
-      "verified_on": "2026-09-15",
+      "verified_on": "2026-09-16",
       "specs": {
         "horsepower": 326,
         "torque_lb_ft": 465,
@@ -17725,7 +17760,12 @@
         "engine": "2.4L turbocharged 4-cylinder i-FORCE MAX hybrid",
         "horsepower": "326 hp",
         "torque": "465 lb-ft",
+        "transmission": "8-speed automatic transmission",
+        "efficiency": "EPA-estimated 22 city / 25 highway MPG",
+        "dimensions": "196.4 in L × 77.9 in W × 75.7 in H; 112.2 in wheelbase",
+        "cargo": "46.2 cu ft behind the rear seat; up to 82.1 cu ft with the rear seat folded",
         "towing": "6000 lb",
+        "technology": "Toyota Audio Multimedia with 8-in standard touchscreen and available 12.3-in touchscreen; wireless Apple CarPlay and Android Auto; available JBL premium audio",
         "safety": "Toyota Safety Sense 3.0 standard",
         "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
         "drivetrain_detail": "Full-time 4WD"
@@ -17736,8 +17776,8 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 7
+        "gallery_6": true,
+        "detail_fields": 12
       },
       "search_text": "toyota land cruiser 2027 suv suv / crossover hybrid 4wd current u.s. retail model hybrid body-on-frame 4wd suv"
     },
@@ -18684,11 +18724,18 @@
         }
       ],
       "key_detail": "Full-size pickup; hybrid available",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/040/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/040/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/040/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/1g3/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/1g3/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_count": 6,
       "source": "https://www.toyota.com/tundra/",
-      "verified_on": "2026-09-15",
+      "verified_on": "2026-09-16",
       "specs": {
         "horsepower": "Up to 389 hp (i-FORCE) / 437 hp (i-FORCE MAX)",
         "torque_lb_ft": "Up to 479 lb-ft (i-FORCE) / 583 lb-ft (i-FORCE MAX)",
@@ -18698,9 +18745,13 @@
         "engine": "Twin-turbo V6 i-FORCE; available i-FORCE MAX hybrid",
         "horsepower": "Up to 389 hp (i-FORCE) / 437 hp (i-FORCE MAX)",
         "torque": "Up to 479 lb-ft (i-FORCE) / 583 lb-ft (i-FORCE MAX)",
-        "transmission": "10-speed electronically controlled automatic",
+        "transmission": "10-speed electronically controlled automatic transmission with intelligence",
+        "efficiency": "2026 U.S. lineup: gas grades up to 18/23 MPG city/highway; selected i-FORCE MAX hybrid grades up to 20/24 MPG city/highway",
+        "dimensions": "Configuration-dependent: 233.6–252.5 in overall length, 80.2 in width, about 78.0 in height on mainstream configurations, and 145.7–164.6 in wheelbase",
+        "cargo": "Aluminum-reinforced composite bed offered in 5.5-ft, 6.5-ft and 8.1-ft lengths; inside bed length spans 65.6–96.5 in and inside bed width is 58.7 in",
         "towing": "12000 lb",
-        "safety": "Toyota Safety Sense suite standard",
+        "technology": "Available 14-in Toyota Audio Multimedia touchscreen and 12.3-in digital gauge cluster; available Panoramic View Monitor and trailer-assistance features",
+        "safety": "Toyota Safety Sense 2.5 standard on the 2026 retail model",
         "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage."
       },
       "url": "/search/label/Toyota#usmodel=Tundra",
@@ -18709,8 +18760,8 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 7
+        "gallery_6": true,
+        "detail_fields": 11
       },
       "search_text": "toyota tundra 2026 full-size pickup pickup / truck gas / hybrid i-force max rwd / 4wd current priced toyota retail lineup at verification; toyota lists a 2027 tundra in model-year news, but a complete 2027 retail grade-price table was not surfaced during verification. full-size pickup; hybrid available"
     },

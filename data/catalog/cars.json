@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T07:14:43+00:00",
+  "generated": "2026-09-16T09:20:30+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
@@ -6051,9 +6051,22 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/accord-sedan/specs-features-trim-comparison",
-      "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "verified_on": "2026-09-16",
+      "specs": {
+        "horsepower": "192 hp on 1.5L turbo trims; 204 hp total system output on hybrid trims"
+      },
+      "details": {
+        "engine": "1.5L turbocharged inline-4 on LX/SE; 2.0L Atkinson-cycle inline-4 with two-motor hybrid system on Sport Hybrid and above",
+        "horsepower": "192 hp on 1.5L turbo trims; 204 hp total system output on hybrid trims",
+        "torque": "192 lb-ft on 1.5L turbo trims; hybrid electric drive motor rated at 247 lb-ft",
+        "transmission": "Continuously Variable Transmission on 1.5L turbo trims; Direct Drive Unit on hybrid trims",
+        "efficiency": "2026 EPA ratings span 28-29 city / 36-37 highway / 31-32 combined mpg on turbo trims and 46-51 city / 41-44 highway / 44-48 combined mpg on hybrid trims",
+        "dimensions": "195.7 in L × 73.3 in W × 57.1 in H; 111.4 in wheelbase",
+        "cargo": "16.7 cu ft trunk volume",
+        "technology": "9-in color touchscreen on turbo trims and 12.3-in color touchscreen on hybrid trims; wireless smartphone integration, with Google built-in on Touring Hybrid",
+        "safety": "Honda Sensing driver-assist suite includes Collision Mitigation Braking System, Road Departure Mitigation, Adaptive Cruise Control with Low-Speed Follow, Lane Keeping Assist and Traffic Sign Recognition; Blind Spot Information is available on most trims above LX",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      },
       "url": "/search/label/Honda#usmodel=Accord",
       "route_type": "database-hash",
       "data_quality": {
@@ -6061,7 +6074,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 10
       },
       "search_text": "honda accord 2026 midsize sedan sedan gas / hybrid fwd current u.s. retail model midsize sedan; hybrid available"
     },
@@ -6112,7 +6125,9 @@
       "source": "https://automobiles.honda.com/civic-hatchback/specs-features-trim-comparison",
       "verified_on": "2026-09-13",
       "specs": {},
-      "details": {},
+      "details": {
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      },
       "url": "/search/label/Honda#usmodel=Civic%20Hatchback",
       "route_type": "database-hash",
       "data_quality": {
@@ -6120,7 +6135,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 1
       },
       "search_text": "honda civic hatchback 2026 compact hatchback hatchback / wagon gas / hybrid fwd current u.s. retail model compact hatchback; hybrid available"
     },
@@ -6175,9 +6190,22 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/civic-sedan/specs-features-trim-comparison",
-      "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "verified_on": "2026-09-16",
+      "specs": {
+        "horsepower": "150 hp on LX/Sport; 200 hp total system output on Sport Hybrid and Sport Touring Hybrid"
+      },
+      "details": {
+        "engine": "2.0L Atkinson-cycle inline-4; hybrid trims pair the engine with Honda's two-motor hybrid system",
+        "horsepower": "150 hp on LX/Sport; 200 hp total system output on Sport Hybrid and Sport Touring Hybrid",
+        "torque": "133 lb-ft on non-hybrid trims; hybrid electric drive motor rated at 232 lb-ft",
+        "transmission": "Continuously Variable Transmission on LX/Sport; Direct Drive Unit on hybrid trims",
+        "efficiency": "2026 EPA ratings: LX 32/41/36 mpg, Sport 31/39/34 mpg, and hybrid trims 50/47/49 mpg city/highway/combined",
+        "dimensions": "184.8 in L × 70.9 in W × 55.7 in H; 107.7 in wheelbase",
+        "cargo": "14.8 cu ft trunk volume",
+        "technology": "Wireless smartphone integration is available by trim, with Google built-in on Sport Touring Hybrid and digital/connected features varying by grade",
+        "safety": "Honda Sensing includes Forward Collision Warning, Lane Departure Warning, Collision Mitigation Braking System, Road Departure Mitigation, Lane Keeping Assist, Adaptive Cruise Control with Low-Speed Follow, Traffic Sign Recognition and Traffic Jam Assist; blind-spot and parking features vary by trim",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      },
       "url": "/search/label/Honda#usmodel=Civic%20Sedan",
       "route_type": "database-hash",
       "data_quality": {
@@ -6185,7 +6213,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 10
       },
       "search_text": "honda civic sedan 2026 compact sedan sedan gas / hybrid fwd current u.s. retail model compact sedan; hybrid available"
     },
@@ -6226,7 +6254,8 @@
         "horsepower": 200
       },
       "details": {
-        "horsepower": "200 hp"
+        "horsepower": "200 hp",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=Civic%20Si",
       "route_type": "database-hash",
@@ -6235,7 +6264,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 2
       },
       "search_text": "honda civic si 2026 performance sedan sedan turbo gas fwd current u.s. retail model manual performance civic"
     },
@@ -6273,7 +6302,9 @@
       "source": "https://automobiles.honda.com/tools/build-and-price",
       "verified_on": "2026-09-13",
       "specs": {},
-      "details": {},
+      "details": {
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      },
       "url": "/search/label/Honda#usmodel=Civic%20Type%20R",
       "route_type": "database-hash",
       "data_quality": {
@@ -6281,7 +6312,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 1
       },
       "search_text": "honda civic type r 2026 performance hatchback hatchback / wagon turbo gas fwd current u.s. retail model track-focused performance civic"
     },
@@ -6354,9 +6385,23 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/cr-v/specs-features-trim-comparison",
-      "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "verified_on": "2026-09-16",
+      "specs": {
+        "horsepower": "190 hp on 1.5L turbo trims; 204 hp total system output on hybrid trims"
+      },
+      "details": {
+        "engine": "1.5L turbocharged inline-4 on LX/EX/EX-L; 2.0L Atkinson-cycle inline-4 with Honda two-motor hybrid system on hybrid trims",
+        "horsepower": "190 hp on 1.5L turbo trims; 204 hp total system output on hybrid trims",
+        "torque": "179 lb-ft on 1.5L turbo trims; hybrid electric drive motor rated at 247 lb-ft",
+        "transmission": "Continuously Variable Transmission on 1.5L turbo trims; Direct Drive Unit on two-motor hybrid trims",
+        "efficiency": "2027 EPA ratings: gas 2WD up to 28/33/30 mpg city/highway/combined; hybrid 2WD up to 43/36/40 mpg; hybrid AWD up to 40/34/37 mpg, with TrailSport Hybrid rated 38/33/35 mpg",
+        "dimensions": "184.8 in L × 73.5 in W × 66.2 in H (2WD) or 66.5 in H (AWD); 106.3 in wheelbase",
+        "cargo": "Gas trims: 39.3 cu ft behind second row and up to 76.5 cu ft max; most hybrid trims: 36.3 cu ft behind second row and up to 71.8 cu ft max",
+        "towing": "1,500 lb on gas trims; 1,000 lb on hybrid trims",
+        "technology": "9-in color touchscreen, wireless Apple CarPlay and Android Auto, wireless phone charging; Google built-in available on upper trims",
+        "safety": "Honda Sensing suite includes Collision Mitigation Braking System, Road Departure Mitigation, Adaptive Cruise Control with Low-Speed Follow, Lane Keeping Assist and Traffic Sign Recognition; additional blind-spot, cross-traffic and parking features vary by trim",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      },
       "url": "/search/label/Honda#usmodel=CR-V",
       "route_type": "database-hash",
       "data_quality": {
@@ -6364,7 +6409,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 11
       },
       "search_text": "honda cr-v 2027 compact suv suv / crossover gas / hybrid fwd / awd current u.s. retail model compact suv; hybrid available"
     },
@@ -6408,7 +6453,8 @@
       },
       "details": {
         "horsepower": "174 hp",
-        "range": "270 miles"
+        "range": "270 miles",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=CR-V%20e%3AFCEV",
       "route_type": "database-hash",
@@ -6417,7 +6463,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 2
+        "detail_fields": 3
       },
       "search_text": "honda cr-v e:fcev 2026 fuel-cell suv suv / crossover hydrogen fuel cell / plug-in capable fwd current u.s. retail model california-focused fuel-cell cr-v"
     },
@@ -6467,7 +6513,9 @@
       "source": "https://automobiles.honda.com/hr-v/specs-features-trim-comparison",
       "verified_on": "2026-09-13",
       "specs": {},
-      "details": {},
+      "details": {
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      },
       "url": "/search/label/Honda#usmodel=HR-V",
       "route_type": "database-hash",
       "data_quality": {
@@ -6475,7 +6523,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 1
       },
       "search_text": "honda hr-v 2027 subcompact suv suv / crossover gas fwd / awd current u.s. retail model small crossover"
     },
@@ -6534,7 +6582,8 @@
         "horsepower": 280
       },
       "details": {
-        "horsepower": "280 hp"
+        "horsepower": "280 hp",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=Odyssey",
       "route_type": "database-hash",
@@ -6543,7 +6592,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 2
       },
       "search_text": "honda odyssey 2027 minivan van / minivan gas fwd current u.s. retail model family minivan"
     },
@@ -6609,12 +6658,22 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/passport",
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-16",
       "specs": {
         "horsepower": 285
       },
       "details": {
-        "horsepower": "285 hp"
+        "engine": "3.5L V6",
+        "horsepower": "285 hp",
+        "torque": "262 lb-ft @ 5,000 rpm",
+        "transmission": "10-speed automatic transmission with Shift-By-Wire and paddle shifters; second-generation i-VTM4 AWD standard",
+        "efficiency": "2026 EPA ratings: 19/25/21 mpg city/highway/combined on RTL configurations and 18/23/20 mpg on TrailSport-family configurations",
+        "dimensions": "191.5 in L × 79.4 in W × 73.1 in H; 113.6 in wheelbase; 8.3 in ground clearance",
+        "cargo": "44.0 cu ft behind the second row; up to about 104.6 cu ft maximum behind the first row depending on configuration",
+        "towing": "5,000 lb maximum towing capacity",
+        "technology": "12.3-in color touchscreen, wireless Apple CarPlay and Android Auto, wireless phone charger and Google built-in",
+        "safety": "Honda Sensing and active-safety equipment include Collision Mitigation Braking System with advanced pedestrian detection, Road Departure Mitigation, Adaptive Cruise Control with Low-Speed Follow, Lane Keeping Assist, blind-spot monitoring and parking-assist features by trim",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=Passport",
       "route_type": "database-hash",
@@ -6623,7 +6682,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 11
       },
       "search_text": "honda passport 2026 midsize suv suv / crossover gas awd current u.s. retail model two-row adventure suv"
     },
@@ -6695,9 +6754,23 @@
       "gallery": [],
       "gallery_count": 0,
       "source": "https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=pilot&modelyear=2026",
-      "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "verified_on": "2026-09-16",
+      "specs": {
+        "horsepower": 285
+      },
+      "details": {
+        "engine": "3.5L V6",
+        "horsepower": "285 hp",
+        "torque": "262 lb-ft @ 5,000 rpm",
+        "transmission": "10-speed automatic transmission with Shift-By-Wire and paddle shifters",
+        "efficiency": "2026 EPA ratings: up to 19/27/22 mpg city/highway/combined in 2WD, 19/25/21 mpg in mainstream AWD configurations, and 18/23/20 mpg on TrailSport",
+        "dimensions": "200.1-200.4 in L × 78.5 in W × 70.9-72.0 in H depending on trim; 113.8 in wheelbase",
+        "cargo": "Up to 113.7 cu ft maximum cargo volume depending on trim; 18.6 cu ft standard behind the third row on listed configurations",
+        "towing": "Up to 3,500 lb on 2WD configurations and 5,000 lb on AWD configurations",
+        "technology": "12.3-in color touchscreen available across the current lineup, with wireless smartphone integration and Google built-in on supported trims",
+        "safety": "Honda Sensing includes Collision Mitigation Braking System, Road Departure Mitigation, Forward Collision Warning, Lane Departure Warning, Lane Keeping Assist, Adaptive Cruise Control with Low-Speed Follow, Traffic Sign Recognition and Traffic Jam Assist; additional blind-spot and parking systems vary by trim",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      },
       "url": "/search/label/Honda#usmodel=Pilot",
       "route_type": "database-hash",
       "data_quality": {
@@ -6705,7 +6778,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 0
+        "detail_fields": 11
       },
       "search_text": "honda pilot 2026 three-row suv suv / crossover gas fwd / awd current u.s. retail model three-row family suv"
     },
@@ -6752,7 +6825,8 @@
         "horsepower": 200
       },
       "details": {
-        "horsepower": "200 hp"
+        "horsepower": "200 hp",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=Prelude",
       "route_type": "database-hash",
@@ -6761,7 +6835,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 2
       },
       "search_text": "honda prelude 2027 sport coupe/liftback hatchback / wagon hybrid fwd current u.s. retail model hybrid sport model"
     },
@@ -6822,7 +6896,8 @@
           "EX": 308,
           "Touring": 308,
           "Elite": 283
-        }
+        },
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=Prologue",
       "route_type": "database-hash",
@@ -6831,7 +6906,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 2
       },
       "search_text": "honda prologue 2026 electric suv suv / crossover battery electric fwd / awd current u.s. retail model electric midsize crossover"
     },
@@ -6902,7 +6977,8 @@
         "horsepower": 280
       },
       "details": {
-        "horsepower": "280 hp"
+        "horsepower": "280 hp",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       },
       "url": "/search/label/Honda#usmodel=Ridgeline",
       "route_type": "database-hash",
@@ -6911,7 +6987,7 @@
         "verified_date": true,
         "trims": true,
         "gallery_6": false,
-        "detail_fields": 1
+        "detail_fields": 2
       },
       "search_text": "honda ridgeline 2026 midsize pickup pickup / truck gas awd current u.s. retail model unibody midsize pickup"
     },

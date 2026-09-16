@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T07:14:43+00:00",
+  "generated": "2026-09-16T09:20:30+00:00",
   "architecture": "database-first",
   "count": 279,
   "cars": [
@@ -1710,12 +1710,25 @@
       "seating": "5",
       "starting_price": "$28,395",
       "trim_count": 6,
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-16",
       "source": "https://automobiles.honda.com/accord-sedan/specs-features-trim-comparison",
       "url": "/search/label/Honda#usmodel=Accord",
       "route_type": "database-hash",
-      "specs": {},
-      "details": {}
+      "specs": {
+        "horsepower": "192 hp on 1.5L turbo trims; 204 hp total system output on hybrid trims"
+      },
+      "details": {
+        "engine": "1.5L turbocharged inline-4 on LX/SE; 2.0L Atkinson-cycle inline-4 with two-motor hybrid system on Sport Hybrid and above",
+        "horsepower": "192 hp on 1.5L turbo trims; 204 hp total system output on hybrid trims",
+        "torque": "192 lb-ft on 1.5L turbo trims; hybrid electric drive motor rated at 247 lb-ft",
+        "transmission": "Continuously Variable Transmission on 1.5L turbo trims; Direct Drive Unit on hybrid trims",
+        "efficiency": "2026 EPA ratings span 28-29 city / 36-37 highway / 31-32 combined mpg on turbo trims and 46-51 city / 41-44 highway / 44-48 combined mpg on hybrid trims",
+        "dimensions": "195.7 in L × 73.3 in W × 57.1 in H; 111.4 in wheelbase",
+        "cargo": "16.7 cu ft trunk volume",
+        "technology": "9-in color touchscreen on turbo trims and 12.3-in color touchscreen on hybrid trims; wireless smartphone integration, with Google built-in on Touring Hybrid",
+        "safety": "Honda Sensing driver-assist suite includes Collision Mitigation Braking System, Road Departure Mitigation, Adaptive Cruise Control with Low-Speed Follow, Lane Keeping Assist and Traffic Sign Recognition; Blind Spot Information is available on most trims above LX",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      }
     },
     {
       "id": "spec-honda-civic-hatchback",
@@ -1733,7 +1746,9 @@
       "url": "/search/label/Honda#usmodel=Civic%20Hatchback",
       "route_type": "database-hash",
       "specs": {},
-      "details": {}
+      "details": {
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      }
     },
     {
       "id": "spec-honda-civic-sedan",
@@ -1746,12 +1761,25 @@
       "seating": "5",
       "starting_price": "$24,695",
       "trim_count": 4,
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-16",
       "source": "https://automobiles.honda.com/civic-sedan/specs-features-trim-comparison",
       "url": "/search/label/Honda#usmodel=Civic%20Sedan",
       "route_type": "database-hash",
-      "specs": {},
-      "details": {}
+      "specs": {
+        "horsepower": "150 hp on LX/Sport; 200 hp total system output on Sport Hybrid and Sport Touring Hybrid"
+      },
+      "details": {
+        "engine": "2.0L Atkinson-cycle inline-4; hybrid trims pair the engine with Honda's two-motor hybrid system",
+        "horsepower": "150 hp on LX/Sport; 200 hp total system output on Sport Hybrid and Sport Touring Hybrid",
+        "torque": "133 lb-ft on non-hybrid trims; hybrid electric drive motor rated at 232 lb-ft",
+        "transmission": "Continuously Variable Transmission on LX/Sport; Direct Drive Unit on hybrid trims",
+        "efficiency": "2026 EPA ratings: LX 32/41/36 mpg, Sport 31/39/34 mpg, and hybrid trims 50/47/49 mpg city/highway/combined",
+        "dimensions": "184.8 in L × 70.9 in W × 55.7 in H; 107.7 in wheelbase",
+        "cargo": "14.8 cu ft trunk volume",
+        "technology": "Wireless smartphone integration is available by trim, with Google built-in on Sport Touring Hybrid and digital/connected features varying by grade",
+        "safety": "Honda Sensing includes Forward Collision Warning, Lane Departure Warning, Collision Mitigation Braking System, Road Departure Mitigation, Lane Keeping Assist, Adaptive Cruise Control with Low-Speed Follow, Traffic Sign Recognition and Traffic Jam Assist; blind-spot and parking features vary by trim",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      }
     },
     {
       "id": "spec-honda-civic-si",
@@ -1772,7 +1800,8 @@
         "horsepower": 200
       },
       "details": {
-        "horsepower": "200 hp"
+        "horsepower": "200 hp",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       }
     },
     {
@@ -1791,7 +1820,9 @@
       "url": "/search/label/Honda#usmodel=Civic%20Type%20R",
       "route_type": "database-hash",
       "specs": {},
-      "details": {}
+      "details": {
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      }
     },
     {
       "id": "spec-honda-cr-v",
@@ -1804,12 +1835,26 @@
       "seating": "5",
       "starting_price": "$31,520",
       "trim_count": 7,
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-16",
       "source": "https://automobiles.honda.com/cr-v/specs-features-trim-comparison",
       "url": "/search/label/Honda#usmodel=CR-V",
       "route_type": "database-hash",
-      "specs": {},
-      "details": {}
+      "specs": {
+        "horsepower": "190 hp on 1.5L turbo trims; 204 hp total system output on hybrid trims"
+      },
+      "details": {
+        "engine": "1.5L turbocharged inline-4 on LX/EX/EX-L; 2.0L Atkinson-cycle inline-4 with Honda two-motor hybrid system on hybrid trims",
+        "horsepower": "190 hp on 1.5L turbo trims; 204 hp total system output on hybrid trims",
+        "torque": "179 lb-ft on 1.5L turbo trims; hybrid electric drive motor rated at 247 lb-ft",
+        "transmission": "Continuously Variable Transmission on 1.5L turbo trims; Direct Drive Unit on two-motor hybrid trims",
+        "efficiency": "2027 EPA ratings: gas 2WD up to 28/33/30 mpg city/highway/combined; hybrid 2WD up to 43/36/40 mpg; hybrid AWD up to 40/34/37 mpg, with TrailSport Hybrid rated 38/33/35 mpg",
+        "dimensions": "184.8 in L × 73.5 in W × 66.2 in H (2WD) or 66.5 in H (AWD); 106.3 in wheelbase",
+        "cargo": "Gas trims: 39.3 cu ft behind second row and up to 76.5 cu ft max; most hybrid trims: 36.3 cu ft behind second row and up to 71.8 cu ft max",
+        "towing": "1,500 lb on gas trims; 1,000 lb on hybrid trims",
+        "technology": "9-in color touchscreen, wireless Apple CarPlay and Android Auto, wireless phone charging; Google built-in available on upper trims",
+        "safety": "Honda Sensing suite includes Collision Mitigation Braking System, Road Departure Mitigation, Adaptive Cruise Control with Low-Speed Follow, Lane Keeping Assist and Traffic Sign Recognition; additional blind-spot, cross-traffic and parking features vary by trim",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      }
     },
     {
       "id": "spec-honda-cr-v-e-fcev",
@@ -1832,7 +1877,8 @@
       },
       "details": {
         "horsepower": "174 hp",
-        "range": "270 miles"
+        "range": "270 miles",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       }
     },
     {
@@ -1851,7 +1897,9 @@
       "url": "/search/label/Honda#usmodel=HR-V",
       "route_type": "database-hash",
       "specs": {},
-      "details": {}
+      "details": {
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      }
     },
     {
       "id": "spec-honda-odyssey",
@@ -1872,7 +1920,8 @@
         "horsepower": 280
       },
       "details": {
-        "horsepower": "280 hp"
+        "horsepower": "280 hp",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       }
     },
     {
@@ -1886,7 +1935,7 @@
       "seating": "5",
       "starting_price": "$44,950",
       "trim_count": 6,
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-16",
       "source": "https://automobiles.honda.com/passport",
       "url": "/search/label/Honda#usmodel=Passport",
       "route_type": "database-hash",
@@ -1894,7 +1943,17 @@
         "horsepower": 285
       },
       "details": {
-        "horsepower": "285 hp"
+        "engine": "3.5L V6",
+        "horsepower": "285 hp",
+        "torque": "262 lb-ft @ 5,000 rpm",
+        "transmission": "10-speed automatic transmission with Shift-By-Wire and paddle shifters; second-generation i-VTM4 AWD standard",
+        "efficiency": "2026 EPA ratings: 19/25/21 mpg city/highway/combined on RTL configurations and 18/23/20 mpg on TrailSport-family configurations",
+        "dimensions": "191.5 in L × 79.4 in W × 73.1 in H; 113.6 in wheelbase; 8.3 in ground clearance",
+        "cargo": "44.0 cu ft behind the second row; up to about 104.6 cu ft maximum behind the first row depending on configuration",
+        "towing": "5,000 lb maximum towing capacity",
+        "technology": "12.3-in color touchscreen, wireless Apple CarPlay and Android Auto, wireless phone charger and Google built-in",
+        "safety": "Honda Sensing and active-safety equipment include Collision Mitigation Braking System with advanced pedestrian detection, Road Departure Mitigation, Adaptive Cruise Control with Low-Speed Follow, Lane Keeping Assist, blind-spot monitoring and parking-assist features by trim",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       }
     },
     {
@@ -1908,12 +1967,26 @@
       "seating": "7–8",
       "starting_price": "$42,395",
       "trim_count": 7,
-      "verified_on": "2026-09-13",
+      "verified_on": "2026-09-16",
       "source": "https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=pilot&modelyear=2026",
       "url": "/search/label/Honda#usmodel=Pilot",
       "route_type": "database-hash",
-      "specs": {},
-      "details": {}
+      "specs": {
+        "horsepower": 285
+      },
+      "details": {
+        "engine": "3.5L V6",
+        "horsepower": "285 hp",
+        "torque": "262 lb-ft @ 5,000 rpm",
+        "transmission": "10-speed automatic transmission with Shift-By-Wire and paddle shifters",
+        "efficiency": "2026 EPA ratings: up to 19/27/22 mpg city/highway/combined in 2WD, 19/25/21 mpg in mainstream AWD configurations, and 18/23/20 mpg on TrailSport",
+        "dimensions": "200.1-200.4 in L × 78.5 in W × 70.9-72.0 in H depending on trim; 113.8 in wheelbase",
+        "cargo": "Up to 113.7 cu ft maximum cargo volume depending on trim; 18.6 cu ft standard behind the third row on listed configurations",
+        "towing": "Up to 3,500 lb on 2WD configurations and 5,000 lb on AWD configurations",
+        "technology": "12.3-in color touchscreen available across the current lineup, with wireless smartphone integration and Google built-in on supported trims",
+        "safety": "Honda Sensing includes Collision Mitigation Braking System, Road Departure Mitigation, Forward Collision Warning, Lane Departure Warning, Lane Keeping Assist, Adaptive Cruise Control with Low-Speed Follow, Traffic Sign Recognition and Traffic Jam Assist; additional blind-spot and parking systems vary by trim",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
+      }
     },
     {
       "id": "spec-honda-prelude",
@@ -1934,7 +2007,8 @@
         "horsepower": 200
       },
       "details": {
-        "horsepower": "200 hp"
+        "horsepower": "200 hp",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       }
     },
     {
@@ -1964,7 +2038,8 @@
           "EX": 308,
           "Touring": 308,
           "Elite": 283
-        }
+        },
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       }
     },
     {
@@ -1986,7 +2061,8 @@
         "horsepower": 280
       },
       "details": {
-        "horsepower": "280 hp"
+        "horsepower": "280 hp",
+        "warranty": "3 years/36,000 miles New Vehicle Limited Warranty and 5 years/60,000 miles Powertrain Limited Warranty; hybrid/high-voltage battery coverage varies by powertrain and applicable warranty booklet."
       }
     },
     {

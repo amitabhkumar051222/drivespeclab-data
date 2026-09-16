@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T01:05:46+00:00",
+  "generated": "2026-09-16T01:08:45+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
@@ -17745,8 +17745,8 @@
         "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/229/2.png?fmt=png-alpha&qlt=90&wid=930",
         "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/229/3.png?fmt=png-alpha&qlt=90&wid=930",
         "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/229/4.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser//6167/8x0/18/3.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser//6167/8x0/18/4.png?fmt=png-alpha&qlt=90&wid=930"
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/040/2.png?fmt=png-alpha&qlt=90&wid=930"
       ],
       "gallery_count": 6,
       "source": "https://www.toyota.com/landcruiser/",
@@ -18724,14 +18724,14 @@
         }
       ],
       "key_detail": "Full-size pickup; hybrid available",
-      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/5.png?fmt=png-alpha&qlt=90&wid=930",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/1.png?fmt=png-alpha&qlt=90&wid=930",
       "gallery": [
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/1.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/2.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/3.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/4.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/5.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/6.png?fmt=png-alpha&qlt=90&wid=930"
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/218/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/218/2.png?fmt=png-alpha&qlt=90&wid=930"
       ],
       "gallery_count": 6,
       "source": "https://www.toyota.com/tundra/",

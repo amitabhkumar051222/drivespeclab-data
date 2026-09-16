@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T09:20:40.023879+00:00",
+  "generated_at": "2026-09-16T09:23:15.412613+00:00",
   "policy": "Missing fields are reported only; no values are guessed. Explicit not-applicable or official-source-not-published states resolve a section without inventing a value.",
   "brands": {
     "Audi": {
@@ -3228,33 +3228,24 @@
           "gallery_count": 0,
           "gallery_complete": false,
           "section_states": {
-            "engine": "missing",
-            "horsepower": "missing",
-            "torque": "missing",
-            "transmission": "missing",
-            "efficiency": "missing",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
-            "technology": "missing",
-            "safety": "missing",
+            "engine": "verified",
+            "horsepower": "verified",
+            "torque": "verified",
+            "transmission": "verified",
+            "efficiency": "verified",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_published",
+            "technology": "verified",
+            "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "engine",
-            "horsepower",
-            "torque",
-            "transmission",
-            "efficiency",
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology",
-            "safety"
+            "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
           "fully_complete": false
@@ -3288,32 +3279,23 @@
           "gallery_count": 0,
           "gallery_complete": false,
           "section_states": {
-            "engine": "missing",
-            "horsepower": "missing",
-            "torque": "missing",
-            "transmission": "missing",
-            "efficiency": "missing",
+            "engine": "verified",
+            "horsepower": "verified",
+            "torque": "verified",
+            "transmission": "not_published",
+            "efficiency": "verified",
             "range": "verified",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
-            "technology": "missing",
-            "safety": "missing",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "verified",
+            "technology": "verified",
+            "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "engine",
-            "horsepower",
-            "torque",
-            "transmission",
-            "efficiency",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology",
-            "safety"
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
+            "transmission"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
           "fully_complete": false
@@ -3372,31 +3354,23 @@
           "gallery_count": 0,
           "gallery_complete": false,
           "section_states": {
-            "engine": "missing",
+            "engine": "verified",
             "horsepower": "verified",
-            "torque": "missing",
-            "transmission": "missing",
-            "efficiency": "missing",
+            "torque": "verified",
+            "transmission": "verified",
+            "efficiency": "verified",
             "range": "verified",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
-            "technology": "missing",
-            "safety": "missing",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_published",
+            "technology": "verified",
+            "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "engine",
-            "torque",
-            "transmission",
-            "efficiency",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology",
-            "safety"
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
+            "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
           "fully_complete": false
@@ -3431,33 +3405,24 @@
           "gallery_count": 0,
           "gallery_complete": false,
           "section_states": {
-            "engine": "missing",
-            "horsepower": "missing",
-            "torque": "missing",
-            "transmission": "missing",
-            "efficiency": "missing",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
-            "technology": "missing",
-            "safety": "missing",
+            "engine": "verified",
+            "horsepower": "verified",
+            "torque": "verified",
+            "transmission": "verified",
+            "efficiency": "verified",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_published",
+            "technology": "verified",
+            "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "engine",
-            "horsepower",
-            "torque",
-            "transmission",
-            "efficiency",
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology",
-            "safety"
+            "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
           "fully_complete": false
@@ -3466,32 +3431,24 @@
           "gallery_count": 0,
           "gallery_complete": false,
           "section_states": {
-            "engine": "missing",
+            "engine": "verified",
             "horsepower": "verified",
-            "torque": "missing",
-            "transmission": "missing",
-            "efficiency": "missing",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
-            "technology": "missing",
-            "safety": "missing",
+            "torque": "verified",
+            "transmission": "verified",
+            "efficiency": "verified",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_published",
+            "technology": "verified",
+            "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "engine",
-            "torque",
-            "transmission",
-            "efficiency",
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology",
-            "safety"
+            "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
           "fully_complete": false
@@ -3500,33 +3457,24 @@
           "gallery_count": 0,
           "gallery_complete": false,
           "section_states": {
-            "engine": "missing",
-            "horsepower": "missing",
-            "torque": "missing",
-            "transmission": "missing",
-            "efficiency": "missing",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
-            "technology": "missing",
-            "safety": "missing",
+            "engine": "verified",
+            "horsepower": "verified",
+            "torque": "verified",
+            "transmission": "verified",
+            "efficiency": "verified",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_published",
+            "technology": "verified",
+            "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "engine",
-            "horsepower",
-            "torque",
-            "transmission",
-            "efficiency",
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology",
-            "safety"
+            "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
           "fully_complete": false
@@ -3561,32 +3509,24 @@
           "gallery_count": 0,
           "gallery_complete": false,
           "section_states": {
-            "engine": "missing",
+            "engine": "verified",
             "horsepower": "verified",
-            "torque": "missing",
-            "transmission": "missing",
-            "efficiency": "missing",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
-            "technology": "missing",
-            "safety": "missing",
+            "torque": "verified",
+            "transmission": "verified",
+            "efficiency": "verified",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_published",
+            "technology": "verified",
+            "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "engine",
-            "torque",
-            "transmission",
-            "efficiency",
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology",
-            "safety"
+            "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
           "fully_complete": false
@@ -3595,32 +3535,23 @@
           "gallery_count": 0,
           "gallery_complete": false,
           "section_states": {
-            "engine": "missing",
+            "engine": "verified",
             "horsepower": "verified",
-            "torque": "missing",
-            "transmission": "missing",
-            "efficiency": "missing",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
-            "technology": "missing",
-            "safety": "missing",
+            "torque": "verified",
+            "transmission": "verified",
+            "efficiency": "verified",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "verified",
+            "technology": "verified",
+            "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "engine",
-            "torque",
-            "transmission",
-            "efficiency",
-            "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology",
-            "safety"
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
+            "range"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
           "fully_complete": false
@@ -3629,32 +3560,24 @@
           "gallery_count": 0,
           "gallery_complete": false,
           "section_states": {
-            "engine": "missing",
+            "engine": "verified",
             "horsepower": "verified",
-            "torque": "missing",
-            "transmission": "missing",
-            "efficiency": "missing",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
-            "technology": "missing",
-            "safety": "missing",
+            "torque": "verified",
+            "transmission": "verified",
+            "efficiency": "verified",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_published",
+            "technology": "verified",
+            "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "engine",
-            "torque",
-            "transmission",
-            "efficiency",
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology",
-            "safety"
+            "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
           "fully_complete": false
@@ -3663,7 +3586,7 @@
       "counts": {
         "models": 14,
         "gallery_6": 0,
-        "spec_complete": 5,
+        "spec_complete": 14,
         "fully_complete": 0
       }
     },
@@ -9727,13 +9650,13 @@
     "current_models_audited": 274,
     "models_with_6_gallery_images": 25,
     "gallery_complete_pct": 9.1,
-    "models_with_complete_spec_sections": 30,
-    "spec_complete_pct": 10.9,
+    "models_with_complete_spec_sections": 39,
+    "spec_complete_pct": 14.2,
     "fully_complete_models": 25,
     "fully_complete_pct": 9.1,
     "models_missing_full_gallery": 249,
-    "models_with_incomplete_specs": 244,
-    "sections_resolved_as_not_applicable_or_not_published": 52
+    "models_with_incomplete_specs": 235,
+    "sections_resolved_as_not_applicable_or_not_published": 67
   },
   "missing_gallery": [
     "Audi Q9",
@@ -11552,152 +11475,6 @@
         "technology",
         "safety",
         "warranty"
-      ]
-    },
-    {
-      "brand": "Honda",
-      "model": "HR-V",
-      "missing": [
-        "engine",
-        "horsepower",
-        "torque",
-        "transmission",
-        "efficiency",
-        "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology",
-        "safety"
-      ]
-    },
-    {
-      "brand": "Honda",
-      "model": "Prologue",
-      "missing": [
-        "engine",
-        "horsepower",
-        "torque",
-        "transmission",
-        "efficiency",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology",
-        "safety"
-      ]
-    },
-    {
-      "brand": "Honda",
-      "model": "CR-V e:FCEV",
-      "missing": [
-        "engine",
-        "torque",
-        "transmission",
-        "efficiency",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology",
-        "safety"
-      ]
-    },
-    {
-      "brand": "Honda",
-      "model": "Civic Hatchback",
-      "missing": [
-        "engine",
-        "horsepower",
-        "torque",
-        "transmission",
-        "efficiency",
-        "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology",
-        "safety"
-      ]
-    },
-    {
-      "brand": "Honda",
-      "model": "Civic Si",
-      "missing": [
-        "engine",
-        "torque",
-        "transmission",
-        "efficiency",
-        "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology",
-        "safety"
-      ]
-    },
-    {
-      "brand": "Honda",
-      "model": "Civic Type R",
-      "missing": [
-        "engine",
-        "horsepower",
-        "torque",
-        "transmission",
-        "efficiency",
-        "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology",
-        "safety"
-      ]
-    },
-    {
-      "brand": "Honda",
-      "model": "Prelude",
-      "missing": [
-        "engine",
-        "torque",
-        "transmission",
-        "efficiency",
-        "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology",
-        "safety"
-      ]
-    },
-    {
-      "brand": "Honda",
-      "model": "Ridgeline",
-      "missing": [
-        "engine",
-        "torque",
-        "transmission",
-        "efficiency",
-        "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology",
-        "safety"
-      ]
-    },
-    {
-      "brand": "Honda",
-      "model": "Odyssey",
-      "missing": [
-        "engine",
-        "torque",
-        "transmission",
-        "efficiency",
-        "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology",
-        "safety"
       ]
     },
     {

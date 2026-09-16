@@ -1,0 +1,50 @@
+{
+  "target": "toyota.json",
+  "brand": "Toyota",
+  "models": {
+    "bZ Woodland": {
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d30/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d30/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_asset_note": "Toyota retail Stepping Stone (0D35) and Steel (0D30) AEM assets; both color codes verified against Toyota vehicle/window-sticker data."
+    },
+    "C-HR": {
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/089/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_asset_note": "Toyota retail AEM assets for the 2026 SE, including Wind Chill Pearl; no third-party imagery."
+    },
+    "RAV4 Plug-in Hybrid": {
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/040/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_asset_note": "Toyota retail AEM assets for 2026 SE; Ice Cap is a current SE exterior color and model code 4544 is verified on Toyota offers."
+    },
+    "Sienna": {
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/040/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_asset_note": "Toyota retail AEM assets for 2026 Sienna LE; Ice Cap color code 040 and model code 5402 verified from Toyota vehicle/window-sticker data."
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T07:01:23+00:00",
+  "generated": "2026-09-16T07:11:12+00:00",
   "architecture": "database-first",
   "count": 279,
   "cars": [
@@ -4496,27 +4496,30 @@
       "model": "bZ",
       "year": "2027",
       "body": "SUV / Crossover",
-      "powertrain": "Battery electric",
+      "powertrain": "Battery-electric crossover; FWD uses one electric motor and AWD uses front and rear electric motors with X-MODE",
       "drivetrain": "FWD / AWD",
       "seating": "5",
       "starting_price": "$34,980",
       "trim_count": 2,
-      "verified_on": "2026-09-15",
+      "verified_on": "2026-09-16",
       "source": "https://www.toyota.com/vehicles/bz/2027",
       "url": "/search/label/Toyota#usmodel=bZ",
       "route_type": "database-hash",
       "specs": {
-        "horsepower": "Up to 338 hp",
+        "horsepower": "Up to 221 hp FWD / 338 total-system hp AWD",
         "range_miles_up_to": 314
       },
       "details": {
         "engine": "Dual-motor all-electric powertrain available; FWD and AWD configurations",
-        "horsepower": "Up to 338 hp",
+        "horsepower": "Up to 221 hp FWD / 338 total-system hp AWD",
+        "efficiency": "EPA-estimated driving range varies by battery and drivetrain; up to 314 miles on XLE FWD Plus",
         "range": "314 miles",
         "charging": "10% to 80% in approximately 30 minutes with compatible DC fast charging under ideal conditions",
-        "technology": "Large Toyota Audio Multimedia touchscreen; NACS charging access on current generation",
-        "safety": "Toyota active-safety suite; equipment varies by grade",
-        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
+        "dimensions": "184.6 in L × 73.2 in W × 65.0 in H; 112.2 in wheelbase",
+        "cargo": "27.7 cu ft behind the rear seats; up to 56.9 cu ft with the second row folded",
+        "technology": "14-in Toyota Audio Multimedia touchscreen, NACS charging port, available dual wireless charging and DC fast charging from 10% to 80% in about 30 minutes under ideal conditions",
+        "safety": "Toyota Safety Sense 3.0 standard",
+        "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; EV driving components including traction battery 8 years/100,000 miles",
         "acceleration": "As quick as 4.9 sec (AWD configuration)"
       }
     },
@@ -4735,7 +4738,7 @@
       "seating": "5",
       "starting_price": "$40,520",
       "trim_count": 5,
-      "verified_on": "2026-09-15",
+      "verified_on": "2026-09-16",
       "source": "https://www.toyota.com/grcorolla/",
       "url": "/search/label/Toyota#usmodel=GR%20Corolla",
       "route_type": "database-hash",
@@ -4744,14 +4747,17 @@
         "torque_lb_ft": "295 lb-ft (302 lb-ft on GRMN)"
       },
       "details": {
-        "engine": "1.6L turbocharged 3-cylinder G16E-GTS",
+        "engine": "G16E-GTS 1.6L turbocharged 3-cylinder",
         "horsepower": "300 hp",
-        "torque": "295 lb-ft (302 lb-ft on GRMN)",
-        "transmission": "6-speed intelligent manual or 8-speed GAZOO Racing Direct Automatic Transmission",
+        "torque": "295 lb-ft on standard GR Corolla; 302 lb-ft on GRMN",
+        "transmission": "8-speed GAZOO Racing Direct Automatic Transmission (DAT) or 6-speed intelligent Manual Transmission (iMT)",
+        "efficiency": "Up to 21/28 MPG city/highway with manual transmission; automatic configurations are rated lower",
+        "dimensions": "173.6 in L × 72.8 in W × about 57.2 in H; 103.9 in wheelbase",
+        "cargo": "17.8 cu ft cargo capacity",
+        "technology": "8-in Toyota Audio Multimedia touchscreen, 12.3-in digital gauge cluster and wireless Apple CarPlay/Android Auto compatibility",
         "safety": "Toyota Safety Sense 3.0 standard",
-        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
-        "drivetrain_detail": "GR-FOUR AWD",
-        "efficiency": "21/28 MPG (manual) or 19/27 MPG (DAT), EPA-estimated"
+        "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; ToyotaCare scheduled maintenance for 2 years/25,000 miles",
+        "drivetrain_detail": "GR-FOUR AWD"
       }
     },
     {
@@ -4765,7 +4771,7 @@
       "seating": "2",
       "starting_price": "$58,300",
       "trim_count": 3,
-      "verified_on": "2026-09-15",
+      "verified_on": "2026-09-16",
       "source": "https://www.toyota.com/grsupra/",
       "url": "/search/label/Toyota#usmodel=GR%20Supra",
       "route_type": "database-hash",
@@ -4774,14 +4780,18 @@
         "torque_lb_ft": 368
       },
       "details": {
-        "engine": "3.0L turbocharged inline-6",
+        "engine": "3.0L twin-scroll single-turbo DOHC 24-valve inline 6-cylinder",
         "horsepower": "382 hp",
         "torque": "368 lb-ft",
-        "transmission": "6-speed manual or 8-speed automatic",
-        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
+        "transmission": "6-speed intelligent Manual Transmission or 8-speed automatic transmission",
+        "efficiency": "Current U.S. retail ratings: up to 22/29 MPG city/highway automatic and 19/26 MPG manual",
+        "dimensions": "172.5 in L × 73.0 in W × 51.1 in H; 97.2 in wheelbase",
+        "cargo": "10.2 cu ft trunk capacity",
+        "technology": "8.8-in multimedia display with available premium audio/navigation and connected convenience features",
+        "safety": "Forward-collision warning with automatic emergency braking, lane-departure warning with steering assist and available driver-assistance package features",
+        "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; ToyotaCare scheduled maintenance for 2 years/25,000 miles",
         "acceleration": "3.9 sec with automatic transmission",
-        "drivetrain_detail": "RWD",
-        "efficiency": "22 city / 29 highway / 25 combined MPG (3.0 automatic)"
+        "drivetrain_detail": "RWD"
       }
     },
     {
@@ -4795,7 +4805,7 @@
       "seating": "4",
       "starting_price": "$31,500",
       "trim_count": 2,
-      "verified_on": "2026-09-15",
+      "verified_on": "2026-09-16",
       "source": "https://www.toyota.com/vehicles/gr86/2027",
       "url": "/search/label/Toyota#usmodel=GR86",
       "route_type": "database-hash",
@@ -4804,15 +4814,18 @@
         "torque_lb_ft": 184
       },
       "details": {
-        "engine": "2.4L naturally aspirated horizontally opposed 4-cylinder",
+        "engine": "2.4L naturally aspirated 4-cylinder boxer engine",
         "horsepower": "228 hp",
         "torque": "184 lb-ft",
-        "transmission": "6-speed manual or 6-speed automatic",
-        "safety": "Active safety suite; features vary by transmission and grade",
-        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
+        "transmission": "6-speed manual or 6-speed automatic transmission",
+        "efficiency": "Up to 20/26 MPG city/highway on Toyota's 2027 retail listing",
+        "dimensions": "167.9 in L × 69.9 in W × about 51.6 in H; 101.4 in wheelbase",
+        "cargo": "Approximately 6.3 cu ft trunk capacity on the current U.S. body",
+        "technology": "8-in touchscreen multimedia system, 7-in GR digital gauge cluster and smartphone integration",
+        "safety": "Active safety suite includes pre-collision braking, lane-departure/sway warning, automatic high beams and adaptive cruise control; equipment varies with transmission/grade",
+        "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; ToyotaCare scheduled maintenance for 2 years/25,000 miles",
         "acceleration": "6.1 sec (manufacturer figure)",
-        "drivetrain_detail": "RWD",
-        "efficiency": "20 city / 26 highway MPG (configuration dependent)"
+        "drivetrain_detail": "RWD"
       }
     },
     {
@@ -4926,12 +4939,12 @@
       "model": "Mirai",
       "year": "2026",
       "body": "Sedan",
-      "powertrain": "Hydrogen fuel cell electric",
+      "powertrain": "Toyota Fuel Cell System hydrogen fuel-cell electric powertrain with rear-wheel drive",
       "drivetrain": "RWD",
       "seating": "5",
       "starting_price": "$51,795",
       "trim_count": 1,
-      "verified_on": "2026-09-15",
+      "verified_on": "2026-09-16",
       "source": "https://www.toyota.com/mirai/",
       "url": "/search/label/Toyota#usmodel=Mirai",
       "route_type": "database-hash",
@@ -4944,14 +4957,16 @@
       "details": {
         "engine": "Hydrogen fuel-cell electric powertrain",
         "horsepower": "182 hp",
-        "torque": "300 lb-ft",
+        "torque": "221 lb-ft",
+        "transmission": "Single-speed direct-drive reduction gear",
+        "efficiency": "EPA-estimated 76 city / 71 highway MPGe on the current U.S. Mirai",
         "range": "402 miles",
-        "cargo": "9.6 cu ft",
-        "technology": "12.3-in. touchscreen with JBL Premium Audio",
+        "dimensions": "195.8 in L × 74.2 in W × 57.9 in H; 114.9 in wheelbase",
+        "cargo": "9.6 cu ft trunk capacity",
+        "technology": "12.3-in Toyota Audio Multimedia touchscreen with premium connectivity and available advanced parking/driver convenience technology",
         "safety": "Toyota Safety Sense 3.0 standard",
-        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
-        "drivetrain_detail": "RWD",
-        "efficiency": "76 city / 71 highway / 74 combined MPGe"
+        "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; key FCEV components covered for 8 years/100,000 miles",
+        "drivetrain_detail": "RWD"
       }
     },
     {
@@ -5104,7 +5119,7 @@
       "seating": "7–8",
       "starting_price": "$65,725",
       "trim_count": 6,
-      "verified_on": "2026-09-15",
+      "verified_on": "2026-09-16",
       "source": "https://www.toyota.com/sequoia/",
       "url": "/search/label/Toyota#usmodel=Sequoia",
       "route_type": "database-hash",
@@ -5114,15 +5129,17 @@
         "towing_lbs_up_to": 9500
       },
       "details": {
-        "engine": "Twin-turbo V6 i-FORCE MAX hybrid",
+        "engine": "i-FORCE MAX twin-turbo V6 hybrid",
         "horsepower": "437 hp",
         "torque": "583 lb-ft",
-        "transmission": "10-speed electronically controlled automatic",
+        "transmission": "10-speed electronically controlled automatic transmission with intelligence",
+        "efficiency": "Up to an EPA-estimated 22 combined MPG",
+        "dimensions": "208.1 in L × 79.8 in W × about 75.4 in H; 122.0 in wheelbase on the referenced U.S. configuration",
+        "cargo": "22.3 cu ft behind the third row; up to 86.9 cu ft with rear seating folded/stowed as applicable",
         "towing": "9500 lb",
-        "technology": "14-in. Toyota Audio Multimedia touchscreen available/standard on upper grades",
+        "technology": "14-in Toyota Audio Multimedia touchscreen with wireless Apple CarPlay and Android Auto compatibility and available towing/camera assistance features",
         "safety": "Toyota Safety Sense 2.5 standard",
-        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
-        "efficiency": "22 mpg combined"
+        "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; hybrid components 8 years/100,000 miles and hybrid battery 10 years/150,000 miles"
       }
     },
     {
@@ -5201,25 +5218,30 @@
       "model": "Toyota Crown",
       "year": "2027",
       "body": "Sedan",
-      "powertrain": "Hybrid",
+      "powertrain": "Fifth-generation Toyota Hybrid System on XLE, Limited and Nightshade; 2.4L turbo Hybrid MAX on Platinum; standard AWD",
       "drivetrain": "AWD",
       "seating": "5",
       "starting_price": "$41,640",
       "trim_count": 4,
-      "verified_on": "2026-09-15",
+      "verified_on": "2026-09-16",
       "source": "https://www.toyota.com/vehicles/toyotacrown/2027",
       "url": "/search/label/Toyota#usmodel=Toyota%20Crown",
       "route_type": "database-hash",
       "specs": {
-        "horsepower": "236 net hp (hybrid) / 340 net hp (Hybrid MAX)",
+        "horsepower": "236 combined hp on XLE/Limited/Nightshade; 340 combined hp on Platinum Hybrid MAX",
         "mpg_combined": "Up to 40 combined MPG (hybrid)"
       },
       "details": {
         "engine": "2.5L hybrid or 2.4L turbo Hybrid MAX",
-        "horsepower": "236 net hp (hybrid) / 340 net hp (Hybrid MAX)",
-        "efficiency": "Up to 40 combined MPG (hybrid)",
+        "horsepower": "236 combined hp on XLE/Limited/Nightshade; 340 combined hp on Platinum Hybrid MAX",
+        "torque": "Platinum Hybrid MAX: 400 lb-ft combined; Toyota does not publish one family-wide combined-system torque figure for the THS 5 grades",
+        "transmission": "Electronically controlled continuously variable transmission on THS 5 grades; Direct Shift-6AT on Platinum Hybrid MAX",
+        "efficiency": "EPA-estimated 40 combined MPG on XLE, Limited and Nightshade; Platinum Hybrid MAX prioritizes higher performance",
+        "dimensions": "196.1 in L × 72.4 in W × 60.6 in H; 112.2 in wheelbase",
+        "cargo": "15.2 cu ft trunk capacity",
+        "technology": "12.3-in Toyota Audio Multimedia touchscreen and digital gauge cluster; wireless Apple CarPlay/Android Auto; higher grades add Panoramic View Monitor, Traffic Jam Assist and Digital Key capability",
         "safety": "Toyota Safety Sense 3.0 standard",
-        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
+        "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; hybrid components 8 years/100,000 miles and hybrid battery 10 years/150,000 miles",
         "drivetrain_detail": "AWD standard"
       }
     },
@@ -5234,23 +5256,27 @@
       "seating": "5",
       "starting_price": "$44,690",
       "trim_count": 2,
-      "verified_on": "2026-09-15",
+      "verified_on": "2026-09-16",
       "source": "https://www.toyota.com/crownsignia/",
       "url": "/search/label/Toyota#usmodel=Toyota%20Crown%20Signia",
       "route_type": "database-hash",
       "specs": {
+        "horsepower": 240,
         "mpg_combined": 38,
         "towing_lbs_up_to": 2700
       },
       "details": {
-        "engine": "2.5L 4-cylinder Toyota Hybrid System",
-        "efficiency": "38 mpg combined",
+        "engine": "2.5L 4-cylinder Toyota Hybrid System with Electronic On-Demand AWD",
+        "horsepower": "240 hp",
+        "transmission": "Electronically controlled continuously variable transmission (ECVT)",
+        "efficiency": "Manufacturer-estimated 38 combined MPG",
+        "dimensions": "194.1 in L × 74.0 in W × about 64.0 in H; 112.2 in wheelbase",
+        "cargo": "25.8 cu ft behind the rear seat; up to 68.8 cu ft with the second row laid flat",
         "towing": "2700 lb",
-        "technology": "12.3-in. digital gauge cluster and Toyota Audio Multimedia",
+        "technology": "12.3-in Toyota Audio Multimedia touchscreen and 12.3-in digital gauge cluster; available Panoramic View Monitor, Digital Rearview Mirror and Traffic Jam Assist",
         "safety": "Toyota Safety Sense 3.0 standard",
-        "warranty": "Basic: 3 years/36,000 miles; powertrain: 5 years/60,000 miles; rust-through: 5 years/unlimited miles. Hybrid-related components: 8 years/100,000 miles; hybrid battery: 10 years/150,000 miles where applicable. Refer to the model Warranty & Maintenance Guide for terms and emissions coverage.",
-        "drivetrain_detail": "AWD standard",
-        "cargo": "68.8 cu ft"
+        "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; hybrid components 8 years/100,000 miles and hybrid battery 10 years/150,000 miles",
+        "drivetrain_detail": "AWD standard"
       }
     },
     {

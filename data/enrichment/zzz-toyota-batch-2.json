@@ -23,11 +23,7 @@
       "gallery_source": "https://www.toyota.com/vehicles/corolla/2027",
       "gallery_asset_note": "Toyota retail carryover-generation assets are used while the 2027 Corolla retail page is live; no third-party imagery is used.",
       "not_applicable": ["range", "towing"],
-      "source_evidence": [
-        "https://www.toyota.com/vehicles/corolla/2027",
-        "https://www.toyota.com/corolla/features/",
-        "https://www.toyota.com/corolla/compare/"
-      ]
+      "source_evidence": ["https://www.toyota.com/vehicles/corolla/2027","https://www.toyota.com/corolla/features/","https://www.toyota.com/corolla/compare/"]
     },
     "Corolla Hatchback": {
       "verified_on": "2026-09-16",
@@ -46,11 +42,7 @@
       ],
       "gallery_source": "https://www.toyota.com/vehicles/corollahatchback/2027",
       "not_applicable": ["range", "towing"],
-      "source_evidence": [
-        "https://www.toyota.com/vehicles/corollahatchback/2027",
-        "https://www.toyota.com/corollahatchback/features/",
-        "https://www.toyota.com/corollahatchback/compare/"
-      ]
+      "source_evidence": ["https://www.toyota.com/vehicles/corollahatchback/2027","https://www.toyota.com/corollahatchback/features/","https://www.toyota.com/corollahatchback/compare/"]
     },
     "Grand Highlander": {
       "verified_on": "2026-09-16",
@@ -71,11 +63,7 @@
       ],
       "gallery_source": "https://www.toyota.com/grandhighlander/",
       "not_applicable": ["range"],
-      "source_evidence": [
-        "https://www.toyota.com/grandhighlander/",
-        "https://www.toyota.com/grandhighlander/compare/",
-        "https://pressroom.toyota.com/comfort-and-style-mile-after-mile-in-the-2026-toyota-grand-highlander/"
-      ]
+      "source_evidence": ["https://www.toyota.com/grandhighlander/","https://www.toyota.com/grandhighlander/compare/","https://pressroom.toyota.com/comfort-and-style-mile-after-mile-in-the-2026-toyota-grand-highlander/"]
     },
     "Land Cruiser": {
       "verified_on": "2026-09-16",
@@ -90,17 +78,12 @@
         "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/229/2.png?fmt=png-alpha&qlt=90&wid=930",
         "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/229/3.png?fmt=png-alpha&qlt=90&wid=930",
         "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/229/4.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser//6167/8x0/18/3.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser//6167/8x0/18/4.png?fmt=png-alpha&qlt=90&wid=930"
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/040/2.png?fmt=png-alpha&qlt=90&wid=930"
       ],
       "gallery_source": "https://www.toyota.com/landcruiser/",
       "not_applicable": ["range"],
-      "source_evidence": [
-        "https://www.toyota.com/landcruiser/",
-        "https://www.toyota.com/landcruiser/features/",
-        "https://www.toyota.com/landcruiser/compare/",
-        "https://pressroom.toyota.com/2027-toyota-land-cruiser-rugged-where-it-counts-premium-where-it-matters/"
-      ]
+      "source_evidence": ["https://www.toyota.com/landcruiser/","https://www.toyota.com/landcruiser/features/","https://www.toyota.com/landcruiser/compare/","https://pressroom.toyota.com/2027-toyota-land-cruiser-rugged-where-it-counts-premium-where-it-matters/"]
     },
     "Tundra": {
       "verified_on": "2026-09-16",
@@ -110,21 +93,18 @@
       "cargo": "Aluminum-reinforced composite bed offered in 5.5-ft, 6.5-ft and 8.1-ft lengths; inside bed length spans 65.6–96.5 in and inside bed width is 58.7 in",
       "technology": "Available 14-in Toyota Audio Multimedia touchscreen and 12.3-in digital gauge cluster; available Panoramic View Monitor and trailer-assistance features",
       "safety": "Toyota Safety Sense 2.5 standard on the 2026 retail model",
-      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/5.png?fmt=png-alpha&qlt=90&wid=930",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/1.png?fmt=png-alpha&qlt=90&wid=930",
       "gallery": [
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/1.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/2.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/3.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/4.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/5.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/6.png?fmt=png-alpha&qlt=90&wid=930"
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/218/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/218/2.png?fmt=png-alpha&qlt=90&wid=930"
       ],
       "gallery_source": "https://www.toyota.com/tundra/",
       "not_applicable": ["range"],
-      "source_evidence": [
-        "https://www.toyota.com/tundra/",
-        "https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/tundra_ebrochure.pdf"
-      ]
+      "source_evidence": ["https://www.toyota.com/tundra/","https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/tundra_ebrochure.pdf"]
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:31:52.182957+00:00",
+  "generated_at": "2026-09-16T01:02:23.563838+00:00",
   "policy": "Missing fields are reported only; no values are guessed. Explicit not-applicable or official-source-not-published states resolve a section without inventing a value.",
   "brands": {
     "Audi": {
@@ -8662,32 +8662,30 @@
           "fully_complete": true
         },
         "Corolla": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
             "torque": "verified",
             "transmission": "verified",
             "efficiency": "verified",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_applicable",
             "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "range",
-            "dimensions",
-            "cargo",
             "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Corolla Cross": {
           "gallery_count": 6,
@@ -8715,32 +8713,30 @@
           "fully_complete": true
         },
         "Corolla Hatchback": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
             "torque": "verified",
             "transmission": "verified",
             "efficiency": "verified",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_applicable",
             "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "range",
-            "dimensions",
-            "cargo",
             "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "GR Corolla": {
           "gallery_count": 0,
@@ -8831,32 +8827,29 @@
           "fully_complete": false
         },
         "Grand Highlander": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
             "torque": "verified",
-            "transmission": "missing",
+            "transmission": "verified",
             "efficiency": "verified",
-            "range": "missing",
-            "dimensions": "missing",
+            "range": "not_applicable",
+            "dimensions": "verified",
             "cargo": "verified",
             "towing": "verified",
-            "technology": "missing",
+            "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "transmission",
-            "range",
-            "dimensions",
-            "technology"
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
+            "range"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Highlander": {
           "gallery_count": 6,
@@ -8884,34 +8877,29 @@
           "fully_complete": true
         },
         "Land Cruiser": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
             "torque": "verified",
-            "transmission": "missing",
-            "efficiency": "missing",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
+            "transmission": "verified",
+            "efficiency": "verified",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
             "towing": "verified",
-            "technology": "missing",
+            "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "transmission",
-            "efficiency",
-            "range",
-            "dimensions",
-            "cargo",
-            "technology"
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
+            "range"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Mirai": {
           "gallery_count": 0,
@@ -9191,39 +9179,36 @@
           "fully_complete": false
         },
         "Tundra": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
             "torque": "verified",
             "transmission": "verified",
-            "efficiency": "missing",
-            "range": "missing",
-            "dimensions": "missing",
+            "efficiency": "verified",
+            "range": "not_applicable",
+            "dimensions": "verified",
             "cargo": "verified",
             "towing": "verified",
-            "technology": "missing",
+            "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "efficiency",
-            "range",
-            "dimensions",
-            "technology"
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
+            "range"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         }
       },
       "counts": {
         "models": 25,
-        "gallery_6": 7,
-        "spec_complete": 7,
-        "fully_complete": 7
+        "gallery_6": 12,
+        "spec_complete": 12,
+        "fully_complete": 12
       }
     },
     "Volkswagen": {
@@ -9838,15 +9823,15 @@
   },
   "summary": {
     "current_models_audited": 274,
-    "models_with_6_gallery_images": 7,
-    "gallery_complete_pct": 2.6,
-    "models_with_complete_spec_sections": 7,
-    "spec_complete_pct": 2.6,
-    "fully_complete_models": 7,
-    "fully_complete_pct": 2.6,
-    "models_missing_full_gallery": 267,
-    "models_with_incomplete_specs": 267,
-    "sections_resolved_as_not_applicable_or_not_published": 11
+    "models_with_6_gallery_images": 12,
+    "gallery_complete_pct": 4.4,
+    "models_with_complete_spec_sections": 12,
+    "spec_complete_pct": 4.4,
+    "fully_complete_models": 12,
+    "fully_complete_pct": 4.4,
+    "models_missing_full_gallery": 262,
+    "models_with_incomplete_specs": 262,
+    "sections_resolved_as_not_applicable_or_not_published": 18
   },
   "missing_gallery": [
     "Audi Q9",
@@ -10084,13 +10069,9 @@
     "Toyota bZ",
     "Toyota bZ Woodland",
     "Toyota C-HR",
-    "Toyota Corolla",
-    "Toyota Corolla Hatchback",
     "Toyota GR Corolla",
     "Toyota GR Supra",
     "Toyota GR86",
-    "Toyota Grand Highlander",
-    "Toyota Land Cruiser",
     "Toyota Mirai",
     "Toyota Prius Plug-in Hybrid",
     "Toyota RAV4 Plug-in Hybrid",
@@ -10098,7 +10079,6 @@
     "Toyota Sienna",
     "Toyota Toyota Crown",
     "Toyota Toyota Crown Signia",
-    "Toyota Tundra",
     "Volkswagen Atlas",
     "Volkswagen Atlas Cross Sport",
     "Volkswagen Tiguan",
@@ -14278,26 +14258,6 @@
     },
     {
       "brand": "Toyota",
-      "model": "Corolla",
-      "missing": [
-        "range",
-        "dimensions",
-        "cargo",
-        "towing"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "Corolla Hatchback",
-      "missing": [
-        "range",
-        "dimensions",
-        "cargo",
-        "towing"
-      ]
-    },
-    {
-      "brand": "Toyota",
       "model": "GR Corolla",
       "missing": [
         "range",
@@ -14327,28 +14287,6 @@
         "dimensions",
         "cargo",
         "towing",
-        "technology"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "Grand Highlander",
-      "missing": [
-        "transmission",
-        "range",
-        "dimensions",
-        "technology"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "Land Cruiser",
-      "missing": [
-        "transmission",
-        "efficiency",
-        "range",
-        "dimensions",
-        "cargo",
         "technology"
       ]
     },
@@ -14424,16 +14362,6 @@
         "transmission",
         "range",
         "dimensions"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "Tundra",
-      "missing": [
-        "efficiency",
-        "range",
-        "dimensions",
-        "technology"
       ]
     },
     {

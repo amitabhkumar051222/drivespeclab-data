@@ -1,13 +1,13 @@
 # DriveSpecLab Gallery Health & Production Readiness
 
-Generated: 2026-09-16T07:12:37.253851+00:00
+Generated: 2026-09-16T07:14:31.799439+00:00
 
 - Models scanned: **278**
 - Models with galleries: **25**
 - Gallery URLs checked: **151**
-- Healthy image URLs: **146 (96.7%)**
-- Unhealthy image URLs: **5**
-- Production-ready models: **23 / 274 (8.4%)**
+- Healthy image URLs: **151 (100.0%)**
+- Unhealthy image URLs: **0**
+- Production-ready models: **25 / 274 (9.1%)**
 
 ## Production-ready models
 
@@ -31,14 +31,8 @@ Generated: 2026-09-16T07:12:37.253851+00:00
 - Toyota Sequoia
 - Toyota Sienna
 - Toyota Tacoma
+- Toyota Toyota Crown
+- Toyota Toyota Crown Signia
 - Toyota Tundra
 - Toyota bZ
 - Toyota bZ Woodland
-
-## Unhealthy URLs
-
-- Toyota Toyota Crown: HTTP 403 — https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/4.png?fmt=png-alpha&qlt=90&wid=930
-- Toyota Toyota Crown: HTTP 403 — https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/089/1.png?fmt=png-alpha&qlt=90&wid=930
-- Toyota Toyota Crown: HTTP 403 — https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/089/2.png?fmt=png-alpha&qlt=90&wid=930
-- Toyota Toyota Crown Signia: HTTP 403 — https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/089/1.png?fmt=png-alpha&qlt=90&wid=930
-- Toyota Toyota Crown Signia: HTTP 403 — https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/089/2.png?fmt=png-alpha&qlt=90&wid=930

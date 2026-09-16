@@ -3,17 +3,17 @@
   "brand": "Honda",
   "market": "United States",
   "verified_on": "2026-09-16",
-  "policy": "Stable reusable current-generation Honda CR-V photographs from Wikimedia Commons replace Honda Automobiles anti-hotlink gallery URLs that returned HTTP 403 in DriveSpecLab health checks. Every asset retains its Commons source, author and license metadata; no manufacturer asset is rehosted or represented as freely licensed.",
+  "policy": "Stable reusable current-generation Honda CR-V photographs from Wikimedia Commons replace Honda Automobiles anti-hotlink gallery URLs that returned HTTP 403 in DriveSpecLab health checks. Exact original upload.wikimedia.org URLs are taken from each Commons file page instead of constructing thumbnail paths. Every asset retains its Commons source, author and license metadata; no manufacturer asset is rehosted or represented as freely licensed.",
   "models": {
     "CR-V": {
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/0_Honda_CR-V_%286th_generation%29_1.jpg/1200px-0_Honda_CR-V_%286th_generation%29_1.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/0_Honda_CR-V_%286th_generation%29_1.jpg",
       "gallery": [
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/0_Honda_CR-V_%286th_generation%29_1.jpg/1200px-0_Honda_CR-V_%286th_generation%29_1.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/2023_Honda_CR-V_Advance_Tech_I-MMD_CVT.jpg/1200px-2023_Honda_CR-V_Advance_Tech_I-MMD_CVT.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2023_Honda_CR-V_EL_4WD.jpg/1200px-2023_Honda_CR-V_EL_4WD.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2023_Honda_CR-V_EX_AWD_in_Lunar_Silver_Metallic%2C_front_left.jpg/1200px-2023_Honda_CR-V_EX_AWD_in_Lunar_Silver_Metallic%2C_front_left.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_front_left.jpg/1200px-2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_front_left.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_rear_right.jpg/1200px-2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_rear_right.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/7/76/0_Honda_CR-V_%286th_generation%29_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9f/2023_Honda_CR-V_Advance_Tech_I-MMD_CVT.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9b/2023_Honda_CR-V_EL_4WD.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/2023_Honda_CR-V_EX_AWD_in_Lunar_Silver_Metallic%2C_front_left.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_front_left.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/30/2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_rear_right.jpg"
       ],
       "gallery_source": "https://commons.wikimedia.org/wiki/Category:Honda_CR-V_(6th_generation)",
       "gallery_generation_note": "Representative sixth-generation Honda CR-V photography; current U.S. model-year specs remain sourced separately from Honda Automobiles U.S.",

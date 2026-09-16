@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T09:23:15.412613+00:00",
+  "generated_at": "2026-09-16T09:34:38.472569+00:00",
   "policy": "Missing fields are reported only; no values are guessed. Explicit not-applicable or official-source-not-published states resolve a section without inventing a value.",
   "brands": {
     "Audi": {
@@ -3251,8 +3251,8 @@
           "fully_complete": false
         },
         "CR-V": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
@@ -3273,7 +3273,7 @@
           ],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Prologue": {
           "gallery_count": 0,
@@ -3301,8 +3301,8 @@
           "fully_complete": false
         },
         "Pilot": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
@@ -3323,11 +3323,11 @@
           ],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Passport": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
@@ -3348,7 +3348,7 @@
           ],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "CR-V e:FCEV": {
           "gallery_count": 0,
@@ -3376,8 +3376,8 @@
           "fully_complete": false
         },
         "Civic Sedan": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
@@ -3399,7 +3399,7 @@
           ],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Civic Hatchback": {
           "gallery_count": 0,
@@ -3480,8 +3480,8 @@
           "fully_complete": false
         },
         "Accord": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
@@ -3503,7 +3503,7 @@
           ],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Prelude": {
           "gallery_count": 0,
@@ -3585,9 +3585,9 @@
       },
       "counts": {
         "models": 14,
-        "gallery_6": 0,
+        "gallery_6": 5,
         "spec_complete": 14,
-        "fully_complete": 0
+        "fully_complete": 5
       }
     },
     "Hyundai": {
@@ -9648,13 +9648,13 @@
   },
   "summary": {
     "current_models_audited": 274,
-    "models_with_6_gallery_images": 25,
-    "gallery_complete_pct": 9.1,
+    "models_with_6_gallery_images": 30,
+    "gallery_complete_pct": 10.9,
     "models_with_complete_spec_sections": 39,
     "spec_complete_pct": 14.2,
-    "fully_complete_models": 25,
-    "fully_complete_pct": 9.1,
-    "models_missing_full_gallery": 249,
+    "fully_complete_models": 30,
+    "fully_complete_pct": 10.9,
+    "models_missing_full_gallery": 244,
     "models_with_incomplete_specs": 235,
     "sections_resolved_as_not_applicable_or_not_published": 67
   },
@@ -9748,16 +9748,11 @@
     "GMC Savana Passenger 2500",
     "GMC Savana Passenger 3500",
     "Honda HR-V",
-    "Honda CR-V",
     "Honda Prologue",
-    "Honda Pilot",
-    "Honda Passport",
     "Honda CR-V e:FCEV",
-    "Honda Civic Sedan",
     "Honda Civic Hatchback",
     "Honda Civic Si",
     "Honda Civic Type R",
-    "Honda Accord",
     "Honda Prelude",
     "Honda Ridgeline",
     "Honda Odyssey",

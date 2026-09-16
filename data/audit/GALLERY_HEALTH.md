@@ -1,16 +1,17 @@
 # DriveSpecLab Gallery Health & Production Readiness
 
-Generated: 2026-09-16T12:05:12.251564+00:00
+Generated: 2026-09-16T12:07:18.960530+00:00
 
 - Models scanned: **278**
 - Models with galleries: **30**
 - Gallery URLs checked: **181**
-- Healthy image URLs: **151 (83.4%)**
-- Unhealthy image URLs: **30**
-- Production-ready models: **25 / 274 (9.1%)**
+- Healthy image URLs: **157 (86.7%)**
+- Unhealthy image URLs: **24**
+- Production-ready models: **26 / 274 (9.5%)**
 
 ## Production-ready models
 
+- Honda CR-V
 - Toyota 4Runner
 - Toyota C-HR
 - Toyota Camry
@@ -39,12 +40,6 @@ Generated: 2026-09-16T12:05:12.251564+00:00
 
 ## Unhealthy URLs
 
-- Honda CR-V: HTTP 400 — https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/0_Honda_CR-V_%286th_generation%29_1.jpg/1200px-0_Honda_CR-V_%286th_generation%29_1.jpg
-- Honda CR-V: HTTP 400 — https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/2023_Honda_CR-V_Advance_Tech_I-MMD_CVT.jpg/1200px-2023_Honda_CR-V_Advance_Tech_I-MMD_CVT.jpg
-- Honda CR-V: HTTP 400 — https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2023_Honda_CR-V_EL_4WD.jpg/1200px-2023_Honda_CR-V_EL_4WD.jpg
-- Honda CR-V: HTTP 400 — https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2023_Honda_CR-V_EX_AWD_in_Lunar_Silver_Metallic%2C_front_left.jpg/1200px-2023_Honda_CR-V_EX_AWD_in_Lunar_Silver_Metallic%2C_front_left.jpg
-- Honda CR-V: HTTP 400 — https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_front_left.jpg/1200px-2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_front_left.jpg
-- Honda CR-V: HTTP 400 — https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_rear_right.jpg/1200px-2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_rear_right.jpg
 - Honda Pilot: HTTP 403 — https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/Pilot/Gallery-OP/Exterior/Thumb/MY26_Honda_Pilot_Gallery_Exterior_01_Thumb.jpg?sc_lang=en&mw=382&hash=506EA731500C995FFBB5E4CC24BF0E2A
 - Honda Pilot: HTTP 403 — https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/Pilot/Gallery-OP/Exterior/Thumb/MY26_Honda_Pilot_Gallery_Exterior_02_Thumb.jpg?sc_lang=en&mw=767&hash=788E9084AA5CD6DE571B430C036CAC0D
 - Honda Pilot: HTTP 403 — https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/Pilot/Gallery-OP/Exterior/Thumb/MY26_Honda_Pilot_Gallery_Exterior_03_Thumb.jpg?sc_lang=en&mw=767&hash=9DC75A8095ED15F641106E77B27E468B

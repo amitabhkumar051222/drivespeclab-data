@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-16T07:01:13.646617+00:00",
+  "generated_at": "2026-09-16T07:12:37.253851+00:00",
   "policy": "Gallery URLs are checked over HTTP and must return an image content type. Production-ready requires the model-completeness audit to pass, at least six gallery URLs, and every checked gallery URL to be healthy. Temporary CDN/network failures are reported and never converted into valid assets.",
   "summary": {
     "models_scanned": 278,
-    "models_with_gallery": 17,
-    "gallery_urls_checked": 103,
-    "healthy_gallery_urls": 103,
-    "unhealthy_gallery_urls": 0,
-    "healthy_pct": 100.0,
+    "models_with_gallery": 25,
+    "gallery_urls_checked": 151,
+    "healthy_gallery_urls": 146,
+    "unhealthy_gallery_urls": 5,
+    "healthy_pct": 96.7,
     "current_models_audited_for_completeness": 274,
-    "production_ready_models": 17,
-    "production_ready_pct": 6.2
+    "production_ready_models": 23,
+    "production_ready_pct": 8.4
   },
   "production_ready_models": [
     {
@@ -39,6 +39,18 @@
     },
     {
       "brand": "Toyota",
+      "model": "GR Corolla"
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Supra"
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR86"
+    },
+    {
+      "brand": "Toyota",
       "model": "Grand Highlander"
     },
     {
@@ -48,6 +60,10 @@
     {
       "brand": "Toyota",
       "model": "Land Cruiser"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Mirai"
     },
     {
       "brand": "Toyota",
@@ -67,6 +83,10 @@
     },
     {
       "brand": "Toyota",
+      "model": "Sequoia"
+    },
+    {
+      "brand": "Toyota",
       "model": "Sienna"
     },
     {
@@ -76,6 +96,10 @@
     {
       "brand": "Toyota",
       "model": "Tundra"
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ"
     },
     {
       "brand": "Toyota",
@@ -145,6 +169,36 @@
     },
     {
       "brand": "Toyota",
+      "model": "GR Corolla",
+      "gallery_urls": 6,
+      "healthy_urls": 6,
+      "all_gallery_urls_healthy": true,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": true
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Supra",
+      "gallery_urls": 6,
+      "healthy_urls": 6,
+      "all_gallery_urls_healthy": true,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": true
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR86",
+      "gallery_urls": 6,
+      "healthy_urls": 6,
+      "all_gallery_urls_healthy": true,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": true
+    },
+    {
+      "brand": "Toyota",
       "model": "Grand Highlander",
       "gallery_urls": 6,
       "healthy_urls": 6,
@@ -166,6 +220,16 @@
     {
       "brand": "Toyota",
       "model": "Land Cruiser",
+      "gallery_urls": 6,
+      "healthy_urls": 6,
+      "all_gallery_urls_healthy": true,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": true
+    },
+    {
+      "brand": "Toyota",
+      "model": "Mirai",
       "gallery_urls": 6,
       "healthy_urls": 6,
       "all_gallery_urls_healthy": true,
@@ -215,6 +279,16 @@
     },
     {
       "brand": "Toyota",
+      "model": "Sequoia",
+      "gallery_urls": 6,
+      "healthy_urls": 6,
+      "all_gallery_urls_healthy": true,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": true
+    },
+    {
+      "brand": "Toyota",
       "model": "Sienna",
       "gallery_urls": 6,
       "healthy_urls": 6,
@@ -235,7 +309,37 @@
     },
     {
       "brand": "Toyota",
+      "model": "Toyota Crown",
+      "gallery_urls": 6,
+      "healthy_urls": 3,
+      "all_gallery_urls_healthy": false,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": false
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown Signia",
+      "gallery_urls": 6,
+      "healthy_urls": 4,
+      "all_gallery_urls_healthy": false,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": false
+    },
+    {
+      "brand": "Toyota",
       "model": "Tundra",
+      "gallery_urls": 6,
+      "healthy_urls": 6,
+      "all_gallery_urls_healthy": true,
+      "completeness_pass": true,
+      "gallery_minimum_pass": true,
+      "production_ready": true
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ",
       "gallery_urls": 6,
       "healthy_urls": 6,
       "all_gallery_urls_healthy": true,
@@ -262,7 +366,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 97,
+      "elapsed_ms": 1371,
       "error": null
     },
     {
@@ -272,7 +376,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 51,
+      "elapsed_ms": 123,
       "error": null
     },
     {
@@ -282,7 +386,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 63,
+      "elapsed_ms": 1474,
       "error": null
     },
     {
@@ -292,7 +396,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 64,
+      "elapsed_ms": 304,
       "error": null
     },
     {
@@ -302,7 +406,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 964,
+      "elapsed_ms": 199,
       "error": null
     },
     {
@@ -312,7 +416,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 44,
+      "elapsed_ms": 195,
       "error": null
     },
     {
@@ -322,7 +426,67 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 57,
+      "elapsed_ms": 974,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bz/xle/2873/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 382,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bz/xle/2873/089/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 687,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bz/xle/2873/089/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 807,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bz/xle/2873/089/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 854,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bz/xle/2873/1l5/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 1154,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "bZ",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bz/xle/2873/1l5/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 1042,
       "error": null
     },
     {
@@ -332,7 +496,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 160,
+      "elapsed_ms": 288,
       "error": null
     },
     {
@@ -342,7 +506,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 168,
+      "elapsed_ms": 1170,
       "error": null
     },
     {
@@ -352,7 +516,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 639,
+      "elapsed_ms": 779,
       "error": null
     },
     {
@@ -362,7 +526,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 717,
+      "elapsed_ms": 254,
       "error": null
     },
     {
@@ -372,7 +536,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 584,
+      "elapsed_ms": 483,
       "error": null
     },
     {
@@ -382,7 +546,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 560,
+      "elapsed_ms": 576,
       "error": null
     },
     {
@@ -392,7 +556,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 522,
+      "elapsed_ms": 76,
       "error": null
     },
     {
@@ -402,7 +566,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 580,
+      "elapsed_ms": 340,
       "error": null
     },
     {
@@ -412,7 +576,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 675,
+      "elapsed_ms": 301,
       "error": null
     },
     {
@@ -422,7 +586,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 101,
+      "elapsed_ms": 587,
       "error": null
     },
     {
@@ -432,7 +596,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 583,
+      "elapsed_ms": 708,
       "error": null
     },
     {
@@ -442,7 +606,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 579,
+      "elapsed_ms": 1041,
       "error": null
     },
     {
@@ -452,7 +616,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 157,
+      "elapsed_ms": 218,
       "error": null
     },
     {
@@ -462,7 +626,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 108,
+      "elapsed_ms": 66,
       "error": null
     },
     {
@@ -472,7 +636,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 532,
+      "elapsed_ms": 326,
       "error": null
     },
     {
@@ -482,7 +646,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 117,
+      "elapsed_ms": 513,
       "error": null
     },
     {
@@ -492,7 +656,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 251,
+      "elapsed_ms": 55,
       "error": null
     },
     {
@@ -502,7 +666,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 125,
+      "elapsed_ms": 63,
       "error": null
     },
     {
@@ -512,7 +676,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 205,
+      "elapsed_ms": 62,
       "error": null
     },
     {
@@ -522,7 +686,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 124,
+      "elapsed_ms": 72,
       "error": null
     },
     {
@@ -532,7 +696,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 520,
+      "elapsed_ms": 51,
       "error": null
     },
     {
@@ -542,7 +706,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 428,
+      "elapsed_ms": 62,
       "error": null
     },
     {
@@ -552,7 +716,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 120,
+      "elapsed_ms": 218,
       "error": null
     },
     {
@@ -562,7 +726,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 82,
+      "elapsed_ms": 56,
       "error": null
     },
     {
@@ -572,7 +736,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 330,
+      "elapsed_ms": 76,
       "error": null
     },
     {
@@ -582,7 +746,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 197,
+      "elapsed_ms": 87,
       "error": null
     },
     {
@@ -592,7 +756,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 163,
+      "elapsed_ms": 62,
       "error": null
     },
     {
@@ -602,7 +766,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 148,
+      "elapsed_ms": 63,
       "error": null
     },
     {
@@ -612,7 +776,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 602,
+      "elapsed_ms": 49,
       "error": null
     },
     {
@@ -622,7 +786,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 154,
+      "elapsed_ms": 104,
       "error": null
     },
     {
@@ -632,7 +796,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 872,
+      "elapsed_ms": 385,
       "error": null
     },
     {
@@ -642,7 +806,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 375,
+      "elapsed_ms": 645,
       "error": null
     },
     {
@@ -652,7 +816,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 112,
+      "elapsed_ms": 520,
       "error": null
     },
     {
@@ -662,7 +826,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 359,
+      "elapsed_ms": 54,
       "error": null
     },
     {
@@ -672,7 +836,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 418,
+      "elapsed_ms": 51,
       "error": null
     },
     {
@@ -682,7 +846,187 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 137,
+      "elapsed_ms": 729,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Corolla",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grcorolla/grcorolla/6281/3u5/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 1823,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Corolla",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grcorolla/grcorolla/6281/3u5/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 1773,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Corolla",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grcorolla/grcorolla/6281/3u5/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 1024,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Corolla",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grcorolla/grcorolla/6281/3u5/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 737,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Corolla",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grcorolla/grcorolla/6281/202/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 548,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Corolla",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grcorolla/grcorolla/6281/202/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 735,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Supra",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grsupra/3-0/2372/d13/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 93,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Supra",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grsupra/3-0/2372/d13/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 628,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Supra",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grsupra/3-0/2372/d13/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 644,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Supra",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grsupra/3-0/2372/d13/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 508,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Supra",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grsupra/3-0/2372/d01/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 548,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR Supra",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/grsupra/3-0/2372/d01/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 607,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR86",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/gr86/gr86/6253/d4s/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 934,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR86",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/gr86/gr86/6253/d4s/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 723,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR86",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/gr86/gr86/6253/d4s/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 880,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR86",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/gr86/gr86/6253/d4s/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 520,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR86",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/gr86/gr86/6253/k1x/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 792,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "GR86",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/gr86/gr86/6253/k1x/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 828,
       "error": null
     },
     {
@@ -692,7 +1036,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 169,
+      "elapsed_ms": 664,
       "error": null
     },
     {
@@ -702,7 +1046,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 628,
+      "elapsed_ms": 63,
       "error": null
     },
     {
@@ -712,7 +1056,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 113,
+      "elapsed_ms": 328,
       "error": null
     },
     {
@@ -722,7 +1066,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 529,
+      "elapsed_ms": 329,
       "error": null
     },
     {
@@ -732,7 +1076,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 460,
+      "elapsed_ms": 73,
       "error": null
     },
     {
@@ -742,7 +1086,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 108,
+      "elapsed_ms": 603,
       "error": null
     },
     {
@@ -752,7 +1096,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 307,
+      "elapsed_ms": 290,
       "error": null
     },
     {
@@ -762,7 +1106,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 84,
+      "elapsed_ms": 404,
       "error": null
     },
     {
@@ -772,7 +1116,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 99,
+      "elapsed_ms": 338,
       "error": null
     },
     {
@@ -782,7 +1126,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 529,
+      "elapsed_ms": 3007,
       "error": null
     },
     {
@@ -792,7 +1136,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 152,
+      "elapsed_ms": 256,
       "error": null
     },
     {
@@ -802,7 +1146,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 312,
+      "elapsed_ms": 84,
       "error": null
     },
     {
@@ -812,7 +1156,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 74,
+      "elapsed_ms": 57,
       "error": null
     },
     {
@@ -822,7 +1166,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 108,
+      "elapsed_ms": 57,
       "error": null
     },
     {
@@ -832,7 +1176,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 510,
+      "elapsed_ms": 63,
       "error": null
     },
     {
@@ -842,7 +1186,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 105,
+      "elapsed_ms": 49,
       "error": null
     },
     {
@@ -852,7 +1196,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 324,
+      "elapsed_ms": 340,
       "error": null
     },
     {
@@ -862,7 +1206,67 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 102,
+      "elapsed_ms": 1065,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Mirai",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/mirai/mirai/3002/8y7/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 327,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Mirai",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/mirai/mirai/3002/8y7/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 670,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Mirai",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/mirai/mirai/3002/8y7/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 652,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Mirai",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/mirai/mirai/3002/8y7/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 506,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Mirai",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/mirai/mirai/3002/202/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 669,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Mirai",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/mirai/mirai/3002/202/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 610,
       "error": null
     },
     {
@@ -872,7 +1276,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 145,
+      "elapsed_ms": 58,
       "error": null
     },
     {
@@ -882,7 +1286,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 133,
+      "elapsed_ms": 76,
       "error": null
     },
     {
@@ -892,7 +1296,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 111,
+      "elapsed_ms": 59,
       "error": null
     },
     {
@@ -902,7 +1306,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 118,
+      "elapsed_ms": 275,
       "error": null
     },
     {
@@ -912,7 +1316,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 70,
+      "elapsed_ms": 46,
       "error": null
     },
     {
@@ -922,7 +1326,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 77,
+      "elapsed_ms": 262,
       "error": null
     },
     {
@@ -932,7 +1336,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 134,
+      "elapsed_ms": 327,
       "error": null
     },
     {
@@ -942,7 +1346,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 126,
+      "elapsed_ms": 314,
       "error": null
     },
     {
@@ -952,7 +1356,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 1057,
+      "elapsed_ms": 312,
       "error": null
     },
     {
@@ -962,7 +1366,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 326,
+      "elapsed_ms": 396,
       "error": null
     },
     {
@@ -972,7 +1376,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 364,
+      "elapsed_ms": 699,
       "error": null
     },
     {
@@ -982,7 +1386,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 471,
+      "elapsed_ms": 234,
       "error": null
     },
     {
@@ -992,7 +1396,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 135,
+      "elapsed_ms": 198,
       "error": null
     },
     {
@@ -1002,7 +1406,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 107,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -1012,7 +1416,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 112,
+      "elapsed_ms": 158,
       "error": null
     },
     {
@@ -1022,7 +1426,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 318,
+      "elapsed_ms": 331,
       "error": null
     },
     {
@@ -1032,7 +1436,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 390,
+      "elapsed_ms": 91,
       "error": null
     },
     {
@@ -1042,7 +1446,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 69,
+      "elapsed_ms": 102,
       "error": null
     },
     {
@@ -1052,7 +1456,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 131,
+      "elapsed_ms": 297,
       "error": null
     },
     {
@@ -1062,7 +1466,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 143,
+      "elapsed_ms": 258,
       "error": null
     },
     {
@@ -1072,7 +1476,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 312,
+      "elapsed_ms": 261,
       "error": null
     },
     {
@@ -1082,7 +1486,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 139,
+      "elapsed_ms": 305,
       "error": null
     },
     {
@@ -1092,7 +1496,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 421,
+      "elapsed_ms": 541,
       "error": null
     },
     {
@@ -1102,7 +1506,67 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 325,
+      "elapsed_ms": 602,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sequoia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sequoia/sr5/7946/6x3/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 311,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sequoia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sequoia/sr5/7946/6x3/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 951,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sequoia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sequoia/sr5/7946/6x3/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 448,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sequoia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sequoia/sr5/7946/6x3/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 693,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sequoia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sequoia/sr5/7946/8x8/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 647,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Sequoia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sequoia/sr5/7946/8x8/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 875,
       "error": null
     },
     {
@@ -1112,7 +1576,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 139,
+      "elapsed_ms": 296,
       "error": null
     },
     {
@@ -1122,7 +1586,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 626,
+      "elapsed_ms": 713,
       "error": null
     },
     {
@@ -1132,7 +1596,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 450,
+      "elapsed_ms": 636,
       "error": null
     },
     {
@@ -1142,7 +1606,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 319,
+      "elapsed_ms": 244,
       "error": null
     },
     {
@@ -1152,7 +1616,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 395,
+      "elapsed_ms": 664,
       "error": null
     },
     {
@@ -1162,7 +1626,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 598,
+      "elapsed_ms": 687,
       "error": null
     },
     {
@@ -1172,7 +1636,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 81,
+      "elapsed_ms": 75,
       "error": null
     },
     {
@@ -1182,7 +1646,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 133,
+      "elapsed_ms": 275,
       "error": null
     },
     {
@@ -1192,7 +1656,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 160,
+      "elapsed_ms": 317,
       "error": null
     },
     {
@@ -1202,7 +1666,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 120,
+      "elapsed_ms": 57,
       "error": null
     },
     {
@@ -1212,7 +1676,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 153,
+      "elapsed_ms": 307,
       "error": null
     },
     {
@@ -1222,8 +1686,128 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 114,
+      "elapsed_ms": 73,
       "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 755,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 659,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 827,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 292,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 255,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/089/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 519,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown Signia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/1l6/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 607,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown Signia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/1l6/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 654,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown Signia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/1l6/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 730,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown Signia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/1l6/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 756,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown Signia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 329,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown Signia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/089/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 237,
+      "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
@@ -1232,7 +1816,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 316,
+      "elapsed_ms": 287,
       "error": null
     },
     {
@@ -1242,7 +1826,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 519,
+      "elapsed_ms": 303,
       "error": null
     },
     {
@@ -1252,7 +1836,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 104,
+      "elapsed_ms": 302,
       "error": null
     },
     {
@@ -1262,7 +1846,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 129,
+      "elapsed_ms": 287,
       "error": null
     },
     {
@@ -1272,7 +1856,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 590,
+      "elapsed_ms": 334,
       "error": null
     },
     {
@@ -1282,9 +1866,60 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 566,
+      "elapsed_ms": 5860,
       "error": null
     }
   ],
-  "unhealthy": []
+  "unhealthy": [
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/1l6/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 292,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 255,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/toyotacrown/xle/4015/089/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 519,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown Signia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 329,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Toyota Crown Signia",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/toyotacrownsignia/xle/4040/089/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 237,
+      "error": "HTTP 403"
+    }
+  ]
 }

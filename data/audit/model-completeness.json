@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:00:43.680533+00:00",
+  "generated_at": "2026-09-16T07:11:21.911312+00:00",
   "policy": "Missing fields are reported only; no values are guessed. Explicit not-applicable or official-source-not-published states resolve a section without inventing a value.",
   "brands": {
     "Audi": {
@@ -8547,34 +8547,31 @@
           "fully_complete": true
         },
         "bZ": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
-            "torque": "missing",
-            "transmission": "missing",
-            "efficiency": "missing",
+            "torque": "not_published",
+            "transmission": "not_published",
+            "efficiency": "verified",
             "range": "verified",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_published",
             "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "torque",
             "transmission",
-            "efficiency",
-            "dimensions",
-            "cargo",
             "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "bZ Woodland": {
           "gallery_count": 6,
@@ -8736,92 +8733,82 @@
           "fully_complete": true
         },
         "GR Corolla": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
             "torque": "verified",
             "transmission": "verified",
             "efficiency": "verified",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
-            "technology": "missing",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_applicable",
+            "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology"
+            "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "GR Supra": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
             "torque": "verified",
             "transmission": "verified",
             "efficiency": "verified",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
-            "technology": "missing",
-            "safety": "missing",
-            "warranty": "verified"
-          },
-          "missing_spec_sections": [
-            "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology",
-            "safety"
-          ],
-          "policy_resolved_sections": [],
-          "source_present": true,
-          "trims_present": true,
-          "fully_complete": false
-        },
-        "GR86": {
-          "gallery_count": 0,
-          "gallery_complete": false,
-          "section_states": {
-            "engine": "verified",
-            "horsepower": "verified",
-            "torque": "verified",
-            "transmission": "verified",
-            "efficiency": "verified",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
-            "technology": "missing",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_applicable",
+            "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology"
+            "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
+        },
+        "GR86": {
+          "gallery_count": 6,
+          "gallery_complete": true,
+          "section_states": {
+            "engine": "verified",
+            "horsepower": "verified",
+            "torque": "verified",
+            "transmission": "verified",
+            "efficiency": "verified",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_applicable",
+            "technology": "verified",
+            "safety": "verified",
+            "warranty": "verified"
+          },
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
+            "range",
+            "towing"
+          ],
+          "source_present": true,
+          "trims_present": true,
+          "fully_complete": true
         },
         "Grand Highlander": {
           "gallery_count": 6,
@@ -8899,31 +8886,29 @@
           "fully_complete": true
         },
         "Mirai": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
             "torque": "verified",
-            "transmission": "missing",
+            "transmission": "verified",
             "efficiency": "verified",
             "range": "verified",
-            "dimensions": "missing",
+            "dimensions": "verified",
             "cargo": "verified",
-            "towing": "missing",
+            "towing": "not_applicable",
             "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "transmission",
-            "dimensions",
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Prius": {
           "gallery_count": 6,
@@ -9029,31 +9014,29 @@
           "fully_complete": true
         },
         "Sequoia": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
             "torque": "verified",
             "transmission": "verified",
             "efficiency": "verified",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
             "towing": "verified",
             "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "range",
-            "dimensions",
-            "cargo"
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
+            "range"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Sienna": {
           "gallery_count": 6,
@@ -9107,64 +9090,56 @@
           "fully_complete": true
         },
         "Toyota Crown": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
             "horsepower": "verified",
-            "torque": "missing",
-            "transmission": "missing",
+            "torque": "verified",
+            "transmission": "verified",
             "efficiency": "verified",
-            "range": "missing",
-            "dimensions": "missing",
-            "cargo": "missing",
-            "towing": "missing",
-            "technology": "missing",
+            "range": "not_applicable",
+            "dimensions": "verified",
+            "cargo": "verified",
+            "towing": "not_applicable",
+            "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "torque",
-            "transmission",
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "range",
-            "dimensions",
-            "cargo",
-            "towing",
-            "technology"
+            "towing"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Toyota Crown Signia": {
-          "gallery_count": 0,
-          "gallery_complete": false,
+          "gallery_count": 6,
+          "gallery_complete": true,
           "section_states": {
             "engine": "verified",
-            "horsepower": "missing",
-            "torque": "missing",
-            "transmission": "missing",
+            "horsepower": "verified",
+            "torque": "not_published",
+            "transmission": "verified",
             "efficiency": "verified",
-            "range": "missing",
-            "dimensions": "missing",
+            "range": "not_applicable",
+            "dimensions": "verified",
             "cargo": "verified",
             "towing": "verified",
             "technology": "verified",
             "safety": "verified",
             "warranty": "verified"
           },
-          "missing_spec_sections": [
-            "horsepower",
+          "missing_spec_sections": [],
+          "policy_resolved_sections": [
             "torque",
-            "transmission",
-            "range",
-            "dimensions"
+            "range"
           ],
-          "policy_resolved_sections": [],
           "source_present": true,
           "trims_present": true,
-          "fully_complete": false
+          "fully_complete": true
         },
         "Tundra": {
           "gallery_count": 6,
@@ -9194,9 +9169,9 @@
       },
       "counts": {
         "models": 25,
-        "gallery_6": 17,
-        "spec_complete": 17,
-        "fully_complete": 17
+        "gallery_6": 25,
+        "spec_complete": 25,
+        "fully_complete": 25
       }
     },
     "Volkswagen": {
@@ -9811,15 +9786,15 @@
   },
   "summary": {
     "current_models_audited": 274,
-    "models_with_6_gallery_images": 17,
-    "gallery_complete_pct": 6.2,
-    "models_with_complete_spec_sections": 17,
-    "spec_complete_pct": 6.2,
-    "fully_complete_models": 17,
-    "fully_complete_pct": 6.2,
-    "models_missing_full_gallery": 257,
-    "models_with_incomplete_specs": 257,
-    "sections_resolved_as_not_applicable_or_not_published": 30
+    "models_with_6_gallery_images": 25,
+    "gallery_complete_pct": 9.1,
+    "models_with_complete_spec_sections": 25,
+    "spec_complete_pct": 9.1,
+    "fully_complete_models": 25,
+    "fully_complete_pct": 9.1,
+    "models_missing_full_gallery": 249,
+    "models_with_incomplete_specs": 249,
+    "sections_resolved_as_not_applicable_or_not_published": 45
   },
   "missing_gallery": [
     "Audi Q9",
@@ -10054,14 +10029,6 @@
     "Tesla Model 3",
     "Tesla Model Y",
     "Tesla Cybertruck",
-    "Toyota bZ",
-    "Toyota GR Corolla",
-    "Toyota GR Supra",
-    "Toyota GR86",
-    "Toyota Mirai",
-    "Toyota Sequoia",
-    "Toyota Toyota Crown",
-    "Toyota Toyota Crown Signia",
     "Volkswagen Atlas",
     "Volkswagen Atlas Cross Sport",
     "Volkswagen Tiguan",
@@ -14203,94 +14170,6 @@
         "technology",
         "safety",
         "warranty"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "bZ",
-      "missing": [
-        "torque",
-        "transmission",
-        "efficiency",
-        "dimensions",
-        "cargo",
-        "towing"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "GR Corolla",
-      "missing": [
-        "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "GR Supra",
-      "missing": [
-        "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology",
-        "safety"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "GR86",
-      "missing": [
-        "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "Mirai",
-      "missing": [
-        "transmission",
-        "dimensions",
-        "towing"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "Sequoia",
-      "missing": [
-        "range",
-        "dimensions",
-        "cargo"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "Toyota Crown",
-      "missing": [
-        "torque",
-        "transmission",
-        "range",
-        "dimensions",
-        "cargo",
-        "towing",
-        "technology"
-      ]
-    },
-    {
-      "brand": "Toyota",
-      "model": "Toyota Crown Signia",
-      "missing": [
-        "horsepower",
-        "torque",
-        "transmission",
-        "range",
-        "dimensions"
       ]
     },
     {

@@ -1,0 +1,155 @@
+{
+  "target": "toyota.json",
+  "brand": "Toyota",
+  "market": "United States",
+  "verified_on": "2026-09-16",
+  "policy": "Official Toyota U.S. retail, full-spec, comparison, brochure and Toyota USA Newsroom sources only. Missing/non-applicable values are explicitly labelled and never guessed. Gallery assets use Toyota retail AEM imagery and must pass the repository gallery-health audit before production readiness.",
+  "models": {
+    "bZ Woodland": {
+      "verified_on": "2026-09-16",
+      "powertrain": "Battery-electric SUV with dual electric motors and standard electronic AWD with X-MODE and Grip Control",
+      "horsepower": 375,
+      "range_miles_up_to": 281,
+      "cargo": "Up to 74.3 cu ft of rear cargo area with the second-row seats folded flat",
+      "towing_lbs_up_to": 3500,
+      "technology": "14-in Toyota Audio Multimedia touchscreen, dual Qi wireless charging, four USB-C ports, NACS charging port and 11-kW onboard charger; DC fast charging 10–80% in around 30 minutes under ideal conditions",
+      "safety": "Toyota Safety Sense 3.0 standard, plus Blind Spot Monitor with Rear Cross-Traffic Alert, Safe Exit Alert and parking-assist features",
+      "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; EV driving components including traction battery 8 years/100,000 miles",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/5.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/bzwoodland/bzwoodland/2860/d35/6.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/vehicles/bzwoodland/2027",
+      "gallery_asset_note": "Toyota states 2027 bZ Woodland features/specifications remain unchanged from 2026; official 2026 Toyota retail carryover imagery is used.",
+      "not_published": ["torque", "transmission", "efficiency", "dimensions"],
+      "source_evidence": [
+        "https://www.toyota.com/vehicles/bzwoodland/2027",
+        "https://www.toyota.com/bzwoodland/features/",
+        "https://pressroom.toyota.com/rugged-powerful-and-charged-up-for-adventure-2027-toyota-bz-woodland/"
+      ]
+    },
+    "C-HR": {
+      "verified_on": "2026-09-16",
+      "powertrain": "Battery-electric SUV with front and rear electric motors and standard electronic AWD",
+      "horsepower": 338,
+      "torque": "Front/rear electric motor torque: 198/125 lb-ft",
+      "range_miles_up_to": 287,
+      "dimensions": "177.9 in L × 73.6 in W × 63.8 in H; 108.3 in wheelbase",
+      "cargo": "25.3 cu ft behind the rear seats; up to 59.5 cu ft with rear seats folded flat",
+      "technology": "14-in Toyota Audio Multimedia touchscreen, dual Qi wireless charging, multiple USB-C ports, NACS charging port, 11-kW onboard AC charger and DC fast charging 10–80% in around 30 minutes under ideal conditions",
+      "safety": "Toyota Safety Sense 3.0 standard, plus Blind Spot Monitor with Rear Cross-Traffic Alert and Safe Exit Alert",
+      "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; EV driving components including traction battery 8 years/100,000 miles",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/5.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/c-hr/se/2416/6y1/6.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/vehicles/chr/2027",
+      "gallery_asset_note": "Toyota states the 2027 C-HR is unchanged from 2026; official Toyota retail carryover imagery is used.",
+      "not_published": ["transmission", "efficiency", "towing"],
+      "source_evidence": [
+        "https://www.toyota.com/vehicles/chr/2027",
+        "https://pressroom.toyota.com/2027-toyota-c-hr-puts-sporty-stylish-spin-on-the-compact-electric-suv/",
+        "https://www.toyota.com/c-hr/faq/"
+      ]
+    },
+    "Prius Plug-in Hybrid": {
+      "verified_on": "2026-09-16",
+      "engine": "2.0L 4-cylinder plug-in hybrid engine with Toyota Hybrid System",
+      "horsepower": 220,
+      "transmission": "Electronically controlled continuously variable transmission (ECVT)",
+      "efficiency": "2027 SE: EPA-estimated 51 MPG combined in hybrid mode and 128 MPGe combined",
+      "range_miles_up_to": 44,
+      "dimensions": "Current-generation U.S. Prius Plug-in Hybrid: 181.1 in overall length, 70.1–70.2 in width and 55.9–56.3 in height by grade; 108.3 in wheelbase",
+      "cargo": "20.3 cu ft EPA-estimated cargo volume with rear seats up",
+      "technology": "Available 12.3-in Toyota Audio Multimedia touchscreen, wireless smartphone integration, available Advanced Park and Traffic Jam Assist",
+      "safety": "Toyota Safety Sense 3.0 standard",
+      "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; hybrid components 8 years/100,000 miles and hybrid battery 10 years/150,000 miles",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/priuspluginhybrid/se/1235/1m2/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/priuspluginhybrid/se/1235/1m2/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/priuspluginhybrid/se/1235/1m2/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/priuspluginhybrid/se/1235/1m2/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/priuspluginhybrid/se/1235/1m2/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/priuspluginhybrid/se/1235/8q4/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/priuspluginhybrid/se/1235/8q4/2.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/priuspluginhybrid/photo-gallery/",
+      "not_applicable": ["towing"],
+      "not_published": ["torque"],
+      "source_evidence": [
+        "https://www.toyota.com/priuspluginhybrid/",
+        "https://www.toyota.com/priuspluginhybrid/features/mpg_other_price/1233/1237/1239/",
+        "https://www.toyota.com/content/dam/toyota/brochures/pdf/2024/priusprime_ebrochure.pdf"
+      ]
+    },
+    "RAV4 Plug-in Hybrid": {
+      "verified_on": "2026-09-16",
+      "engine": "2.5L inline 4-cylinder plug-in hybrid powertrain with electric motors and standard AWD",
+      "horsepower": 324,
+      "transmission": "Electronically controlled continuously variable transmission",
+      "efficiency": "2026 SE: up to about 40 MPG combined in hybrid mode and 102 MPGe combined on Toyota's current retail listing",
+      "range_miles_up_to": 54,
+      "dimensions": "182.0 in L × 74.0 in W × 66.0 in H; 106.0 in wheelbase",
+      "cargo": "33.6 cu ft cargo capacity behind the rear seat on the referenced U.S. configuration",
+      "towing_lbs_up_to": 3500,
+      "technology": "Toyota Audio Multimedia with available 12.9-in touchscreen, 12.3-in digital gauge cluster and available Advanced Park/connected features",
+      "safety": "Toyota Safety Sense 4.0 standard",
+      "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; Toyota hybrid component and traction-battery warranties apply",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/5.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4pluginhybrid/se/4544/218/6.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/rav4pluginhybrid/",
+      "not_published": ["torque"],
+      "source_evidence": [
+        "https://www.toyota.com/rav4pluginhybrid/",
+        "https://www.toyota.com/rav4pluginhybrid/compare/summary/"
+      ]
+    },
+    "Sienna": {
+      "verified_on": "2026-09-16",
+      "engine": "2.5L inline 4-cylinder Toyota Hybrid System",
+      "horsepower": 245,
+      "transmission": "Electronically controlled continuously variable transmission (ECVT)",
+      "efficiency": "EPA-estimated up to 36 city / 36 highway / 36 combined MPG on the referenced U.S. configuration",
+      "dimensions": "203.7 in L × 78.5 in W × 69.7 in H; 120.5 in wheelbase",
+      "cargo": "33.5 cu ft behind the third row; up to 101.0 cu ft with rear seating folded/stowed as applicable",
+      "towing_lbs_up_to": 3500,
+      "technology": "Available 12.3-in Toyota Audio Multimedia touchscreen and 12.3-in digital gauge cluster, multiple USB ports and available premium convenience features",
+      "safety": "Toyota Safety Sense 2.0 standard",
+      "warranty": "36 months/36,000 miles basic; 60 months/60,000 miles powertrain; hybrid system 8 years/100,000 miles and hybrid battery 10 years/150,000 miles",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "gallery": [
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/5.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/sienna/le/5402/3t3/6.png?fmt=png-alpha&qlt=90&wid=930"
+      ],
+      "gallery_source": "https://www.toyota.com/sienna/",
+      "not_applicable": ["range"],
+      "not_published": ["torque"],
+      "source_evidence": [
+        "https://www.toyota.com/sienna/",
+        "https://www.toyota.com/sienna/compare/",
+        "https://www.toyota.com/sienna/features/drivetrain/"
+      ]
+    }
+  }
+}

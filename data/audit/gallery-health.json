@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-16T01:06:29.670193+00:00",
+  "generated_at": "2026-09-16T01:09:29.504390+00:00",
   "policy": "Gallery URLs are checked over HTTP and must return an image content type. Production-ready requires the model-completeness audit to pass, at least six gallery URLs, and every checked gallery URL to be healthy. Temporary CDN/network failures are reported and never converted into valid assets.",
   "summary": {
     "models_scanned": 278,
     "models_with_gallery": 12,
     "gallery_urls_checked": 73,
-    "healthy_gallery_urls": 65,
-    "unhealthy_gallery_urls": 8,
-    "healthy_pct": 89.0,
+    "healthy_gallery_urls": 69,
+    "unhealthy_gallery_urls": 4,
+    "healthy_pct": 94.5,
     "current_models_audited_for_completeness": 274,
-    "production_ready_models": 10,
-    "production_ready_pct": 3.6
+    "production_ready_models": 11,
+    "production_ready_pct": 4.0
   },
   "production_ready_models": [
     {
@@ -40,6 +40,10 @@
     {
       "brand": "Toyota",
       "model": "Highlander"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Land Cruiser"
     },
     {
       "brand": "Toyota",
@@ -129,11 +133,11 @@
       "brand": "Toyota",
       "model": "Land Cruiser",
       "gallery_urls": 6,
-      "healthy_urls": 4,
-      "all_gallery_urls_healthy": false,
+      "healthy_urls": 6,
+      "all_gallery_urls_healthy": true,
       "completeness_pass": true,
       "gallery_minimum_pass": true,
-      "production_ready": false
+      "production_ready": true
     },
     {
       "brand": "Toyota",
@@ -169,7 +173,7 @@
       "brand": "Toyota",
       "model": "Tundra",
       "gallery_urls": 6,
-      "healthy_urls": 0,
+      "healthy_urls": 2,
       "all_gallery_urls_healthy": false,
       "completeness_pass": true,
       "gallery_minimum_pass": true,
@@ -184,7 +188,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 382,
+      "elapsed_ms": 239,
       "error": null
     },
     {
@@ -194,7 +198,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 359,
+      "elapsed_ms": 172,
       "error": null
     },
     {
@@ -204,7 +208,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 302,
+      "elapsed_ms": 77,
       "error": null
     },
     {
@@ -214,7 +218,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 94,
+      "elapsed_ms": 205,
       "error": null
     },
     {
@@ -224,7 +228,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 299,
+      "elapsed_ms": 194,
       "error": null
     },
     {
@@ -234,7 +238,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 274,
+      "elapsed_ms": 135,
       "error": null
     },
     {
@@ -244,7 +248,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 345,
+      "elapsed_ms": 416,
       "error": null
     },
     {
@@ -254,7 +258,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 298,
+      "elapsed_ms": 252,
       "error": null
     },
     {
@@ -264,7 +268,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 288,
+      "elapsed_ms": 134,
       "error": null
     },
     {
@@ -274,7 +278,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 297,
+      "elapsed_ms": 334,
       "error": null
     },
     {
@@ -284,7 +288,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 471,
+      "elapsed_ms": 109,
       "error": null
     },
     {
@@ -294,7 +298,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 96,
+      "elapsed_ms": 82,
       "error": null
     },
     {
@@ -304,7 +308,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 295,
+      "elapsed_ms": 647,
       "error": null
     },
     {
@@ -314,7 +318,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 307,
+      "elapsed_ms": 333,
       "error": null
     },
     {
@@ -324,7 +328,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 599,
+      "elapsed_ms": 634,
       "error": null
     },
     {
@@ -334,7 +338,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 519,
+      "elapsed_ms": 900,
       "error": null
     },
     {
@@ -344,7 +348,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 455,
+      "elapsed_ms": 1237,
       "error": null
     },
     {
@@ -354,7 +358,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 6336,
+      "elapsed_ms": 337,
       "error": null
     },
     {
@@ -364,7 +368,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 549,
+      "elapsed_ms": 998,
       "error": null
     },
     {
@@ -374,7 +378,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 291,
+      "elapsed_ms": 389,
       "error": null
     },
     {
@@ -384,7 +388,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 92,
+      "elapsed_ms": 96,
       "error": null
     },
     {
@@ -394,7 +398,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 286,
+      "elapsed_ms": 294,
       "error": null
     },
     {
@@ -404,7 +408,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 88,
+      "elapsed_ms": 517,
       "error": null
     },
     {
@@ -414,7 +418,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 299,
+      "elapsed_ms": 337,
       "error": null
     },
     {
@@ -424,7 +428,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 290,
+      "elapsed_ms": 266,
       "error": null
     },
     {
@@ -434,7 +438,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 615,
+      "elapsed_ms": 429,
       "error": null
     },
     {
@@ -444,7 +448,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 258,
+      "elapsed_ms": 842,
       "error": null
     },
     {
@@ -454,7 +458,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 341,
+      "elapsed_ms": 909,
       "error": null
     },
     {
@@ -464,7 +468,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 530,
+      "elapsed_ms": 678,
       "error": null
     },
     {
@@ -474,7 +478,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 839,
+      "elapsed_ms": 883,
       "error": null
     },
     {
@@ -484,7 +488,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 573,
+      "elapsed_ms": 392,
       "error": null
     },
     {
@@ -494,7 +498,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 289,
+      "elapsed_ms": 157,
       "error": null
     },
     {
@@ -504,7 +508,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 636,
+      "elapsed_ms": 445,
       "error": null
     },
     {
@@ -514,7 +518,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 753,
+      "elapsed_ms": 599,
       "error": null
     },
     {
@@ -524,7 +528,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 746,
+      "elapsed_ms": 1040,
       "error": null
     },
     {
@@ -534,7 +538,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 766,
+      "elapsed_ms": 1160,
       "error": null
     },
     {
@@ -544,7 +548,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 665,
+      "elapsed_ms": 724,
       "error": null
     },
     {
@@ -554,7 +558,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 297,
+      "elapsed_ms": 444,
       "error": null
     },
     {
@@ -564,7 +568,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 88,
+      "elapsed_ms": 671,
       "error": null
     },
     {
@@ -574,7 +578,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 286,
+      "elapsed_ms": 183,
       "error": null
     },
     {
@@ -584,7 +588,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 91,
+      "elapsed_ms": 334,
       "error": null
     },
     {
@@ -594,7 +598,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 96,
+      "elapsed_ms": 512,
       "error": null
     },
     {
@@ -604,7 +608,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 196,
+      "elapsed_ms": 148,
       "error": null
     },
     {
@@ -614,7 +618,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 288,
+      "elapsed_ms": 377,
       "error": null
     },
     {
@@ -624,7 +628,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 579,
+      "elapsed_ms": 900,
       "error": null
     },
     {
@@ -634,7 +638,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 833,
+      "elapsed_ms": 358,
       "error": null
     },
     {
@@ -644,28 +648,28 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 664,
+      "elapsed_ms": 949,
       "error": null
     },
     {
       "brand": "Toyota",
       "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser//6167/8x0/18/3.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 299,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 613,
+      "error": null
     },
     {
       "brand": "Toyota",
       "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser//6167/8x0/18/4.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 284,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/040/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 657,
+      "error": null
     },
     {
       "brand": "Toyota",
@@ -674,7 +678,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 291,
+      "elapsed_ms": 533,
       "error": null
     },
     {
@@ -684,7 +688,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 312,
+      "elapsed_ms": 602,
       "error": null
     },
     {
@@ -694,7 +698,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 567,
+      "elapsed_ms": 276,
       "error": null
     },
     {
@@ -704,7 +708,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 89,
+      "elapsed_ms": 338,
       "error": null
     },
     {
@@ -714,7 +718,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 242,
+      "elapsed_ms": 217,
       "error": null
     },
     {
@@ -724,7 +728,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 293,
+      "elapsed_ms": 348,
       "error": null
     },
     {
@@ -734,7 +738,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 240,
+      "elapsed_ms": 320,
       "error": null
     },
     {
@@ -744,7 +748,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 272,
+      "elapsed_ms": 1099,
       "error": null
     },
     {
@@ -754,7 +758,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 91,
+      "elapsed_ms": 967,
       "error": null
     },
     {
@@ -764,7 +768,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 94,
+      "elapsed_ms": 810,
       "error": null
     },
     {
@@ -774,7 +778,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 302,
+      "elapsed_ms": 383,
       "error": null
     },
     {
@@ -784,7 +788,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 529,
+      "elapsed_ms": 714,
       "error": null
     },
     {
@@ -794,7 +798,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 339,
+      "elapsed_ms": 163,
       "error": null
     },
     {
@@ -804,7 +808,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 296,
+      "elapsed_ms": 336,
       "error": null
     },
     {
@@ -814,7 +818,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 261,
+      "elapsed_ms": 195,
       "error": null
     },
     {
@@ -824,7 +828,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 285,
+      "elapsed_ms": 104,
       "error": null
     },
     {
@@ -834,7 +838,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 636,
+      "elapsed_ms": 430,
       "error": null
     },
     {
@@ -844,149 +848,109 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 316,
+      "elapsed_ms": 405,
       "error": null
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/1.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 276,
+      "elapsed_ms": 357,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/2.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 352,
+      "elapsed_ms": 731,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/3.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 287,
+      "elapsed_ms": 846,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/4.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 280,
+      "elapsed_ms": 384,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/5.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 147,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/218/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 623,
+      "error": null
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/6.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 182,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/218/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 772,
+      "error": null
     }
   ],
   "unhealthy": [
     {
       "brand": "Toyota",
-      "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser//6167/8x0/18/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "model": "Tundra",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/1.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 299,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser//6167/8x0/18/4.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 284,
+      "elapsed_ms": 357,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/2.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 276,
+      "elapsed_ms": 731,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/3.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 352,
+      "elapsed_ms": 846,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/4.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 287,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/4.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 280,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/5.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 147,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/6.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 182,
+      "elapsed_ms": 384,
       "error": "HTTP 403"
     }
   ]

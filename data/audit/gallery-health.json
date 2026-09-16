@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-16T01:02:56.103570+00:00",
+  "generated_at": "2026-09-16T01:06:29.670193+00:00",
   "policy": "Gallery URLs are checked over HTTP and must return an image content type. Production-ready requires the model-completeness audit to pass, at least six gallery URLs, and every checked gallery URL to be healthy. Temporary CDN/network failures are reported and never converted into valid assets.",
   "summary": {
     "models_scanned": 278,
     "models_with_gallery": 12,
     "gallery_urls_checked": 73,
-    "healthy_gallery_urls": 52,
-    "unhealthy_gallery_urls": 21,
-    "healthy_pct": 71.2,
+    "healthy_gallery_urls": 65,
+    "unhealthy_gallery_urls": 8,
+    "healthy_pct": 89.0,
     "current_models_audited_for_completeness": 274,
-    "production_ready_models": 7,
-    "production_ready_pct": 2.6
+    "production_ready_models": 10,
+    "production_ready_pct": 3.6
   },
   "production_ready_models": [
     {
@@ -23,7 +23,15 @@
     },
     {
       "brand": "Toyota",
+      "model": "Corolla"
+    },
+    {
+      "brand": "Toyota",
       "model": "Corolla Cross"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Corolla Hatchback"
     },
     {
       "brand": "Toyota",
@@ -36,6 +44,10 @@
     {
       "brand": "Toyota",
       "model": "Prius"
+    },
+    {
+      "brand": "Toyota",
+      "model": "RAV4"
     },
     {
       "brand": "Toyota",
@@ -67,11 +79,11 @@
       "brand": "Toyota",
       "model": "Corolla",
       "gallery_urls": 6,
-      "healthy_urls": 0,
-      "all_gallery_urls_healthy": false,
+      "healthy_urls": 6,
+      "all_gallery_urls_healthy": true,
       "completeness_pass": true,
       "gallery_minimum_pass": true,
-      "production_ready": false
+      "production_ready": true
     },
     {
       "brand": "Toyota",
@@ -87,11 +99,11 @@
       "brand": "Toyota",
       "model": "Corolla Hatchback",
       "gallery_urls": 6,
-      "healthy_urls": 4,
-      "all_gallery_urls_healthy": false,
+      "healthy_urls": 6,
+      "all_gallery_urls_healthy": true,
       "completeness_pass": true,
       "gallery_minimum_pass": true,
-      "production_ready": false
+      "production_ready": true
     },
     {
       "brand": "Toyota",
@@ -117,7 +129,7 @@
       "brand": "Toyota",
       "model": "Land Cruiser",
       "gallery_urls": 6,
-      "healthy_urls": 0,
+      "healthy_urls": 4,
       "all_gallery_urls_healthy": false,
       "completeness_pass": true,
       "gallery_minimum_pass": true,
@@ -137,11 +149,11 @@
       "brand": "Toyota",
       "model": "RAV4",
       "gallery_urls": 6,
-      "healthy_urls": 5,
-      "all_gallery_urls_healthy": false,
+      "healthy_urls": 6,
+      "all_gallery_urls_healthy": true,
       "completeness_pass": true,
       "gallery_minimum_pass": true,
-      "production_ready": false
+      "production_ready": true
     },
     {
       "brand": "Toyota",
@@ -172,7 +184,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 399,
+      "elapsed_ms": 382,
       "error": null
     },
     {
@@ -182,7 +194,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 487,
+      "elapsed_ms": 359,
       "error": null
     },
     {
@@ -192,7 +204,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 357,
+      "elapsed_ms": 302,
       "error": null
     },
     {
@@ -202,7 +214,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 383,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -212,7 +224,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 330,
+      "elapsed_ms": 299,
       "error": null
     },
     {
@@ -222,7 +234,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 319,
+      "elapsed_ms": 274,
       "error": null
     },
     {
@@ -232,7 +244,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 331,
+      "elapsed_ms": 345,
       "error": null
     },
     {
@@ -242,7 +254,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 332,
+      "elapsed_ms": 298,
       "error": null
     },
     {
@@ -252,7 +264,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 415,
+      "elapsed_ms": 288,
       "error": null
     },
     {
@@ -262,7 +274,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 469,
+      "elapsed_ms": 297,
       "error": null
     },
     {
@@ -272,7 +284,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 334,
+      "elapsed_ms": 471,
       "error": null
     },
     {
@@ -282,7 +294,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 642,
+      "elapsed_ms": 96,
       "error": null
     },
     {
@@ -292,68 +304,68 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 372,
+      "elapsed_ms": 295,
       "error": null
     },
     {
       "brand": "Toyota",
       "model": "Corolla",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/040/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 362,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corolla/le/1852/1k3/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 307,
+      "error": null
     },
     {
       "brand": "Toyota",
       "model": "Corolla",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/040/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 319,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corolla/le/1852/1k3/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 599,
+      "error": null
     },
     {
       "brand": "Toyota",
       "model": "Corolla",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/040/3.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 333,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corolla/le/1852/1k3/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 519,
+      "error": null
     },
     {
       "brand": "Toyota",
       "model": "Corolla",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/040/4.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 226,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corolla/le/1852/1k3/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 455,
+      "error": null
     },
     {
       "brand": "Toyota",
       "model": "Corolla",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/1f7/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 356,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corolla/le/1852/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 6336,
+      "error": null
     },
     {
       "brand": "Toyota",
       "model": "Corolla",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/1f7/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 309,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/corolla/le/1852/040/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 549,
+      "error": null
     },
     {
       "brand": "Toyota",
@@ -362,7 +374,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 318,
+      "elapsed_ms": 291,
       "error": null
     },
     {
@@ -372,7 +384,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 969,
+      "elapsed_ms": 92,
       "error": null
     },
     {
@@ -382,7 +394,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 335,
+      "elapsed_ms": 286,
       "error": null
     },
     {
@@ -392,7 +404,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 759,
+      "elapsed_ms": 88,
       "error": null
     },
     {
@@ -402,7 +414,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 712,
+      "elapsed_ms": 299,
       "error": null
     },
     {
@@ -412,7 +424,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 712,
+      "elapsed_ms": 290,
       "error": null
     },
     {
@@ -422,7 +434,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 611,
+      "elapsed_ms": 615,
       "error": null
     },
     {
@@ -432,7 +444,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 866,
+      "elapsed_ms": 258,
       "error": null
     },
     {
@@ -442,7 +454,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 626,
+      "elapsed_ms": 341,
       "error": null
     },
     {
@@ -452,28 +464,28 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 855,
+      "elapsed_ms": 530,
       "error": null
     },
     {
       "brand": "Toyota",
       "model": "Corolla Hatchback",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corollahatchback/se/6272/218/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 561,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corollahatchback/se/6272/089/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 839,
+      "error": null
     },
     {
       "brand": "Toyota",
       "model": "Corolla Hatchback",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corollahatchback/se/6272/218/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 364,
-      "error": "HTTP 403"
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corollahatchback/se/6272/089/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 573,
+      "error": null
     },
     {
       "brand": "Toyota",
@@ -482,7 +494,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 756,
+      "elapsed_ms": 289,
       "error": null
     },
     {
@@ -492,7 +504,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 901,
+      "elapsed_ms": 636,
       "error": null
     },
     {
@@ -502,7 +514,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 700,
+      "elapsed_ms": 753,
       "error": null
     },
     {
@@ -512,7 +524,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 629,
+      "elapsed_ms": 746,
       "error": null
     },
     {
@@ -522,7 +534,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 689,
+      "elapsed_ms": 766,
       "error": null
     },
     {
@@ -532,7 +544,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 710,
+      "elapsed_ms": 665,
       "error": null
     },
     {
@@ -542,7 +554,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 365,
+      "elapsed_ms": 297,
       "error": null
     },
     {
@@ -552,7 +564,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 303,
+      "elapsed_ms": 88,
       "error": null
     },
     {
@@ -562,7 +574,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 378,
+      "elapsed_ms": 286,
       "error": null
     },
     {
@@ -572,7 +584,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 312,
+      "elapsed_ms": 91,
       "error": null
     },
     {
@@ -582,7 +594,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 349,
+      "elapsed_ms": 96,
       "error": null
     },
     {
@@ -592,67 +604,67 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 193,
+      "elapsed_ms": 196,
       "error": null
     },
     {
       "brand": "Toyota",
       "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/229/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 288,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/229/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 579,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/229/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 833,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/landcruiser1958/6165/229/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 664,
+      "error": null
+    },
+    {
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser//6167/8x0/18/3.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 352,
+      "elapsed_ms": 299,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/040/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 262,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/040/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser//6167/8x0/18/4.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
       "elapsed_ms": 284,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/040/4.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 397,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/202/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 359,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/202/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 269,
       "error": "HTTP 403"
     },
     {
@@ -662,7 +674,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 311,
+      "elapsed_ms": 291,
       "error": null
     },
     {
@@ -672,7 +684,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 514,
+      "elapsed_ms": 312,
       "error": null
     },
     {
@@ -682,7 +694,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 286,
+      "elapsed_ms": 567,
       "error": null
     },
     {
@@ -692,7 +704,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 315,
+      "elapsed_ms": 89,
       "error": null
     },
     {
@@ -702,7 +714,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 1018,
+      "elapsed_ms": 242,
       "error": null
     },
     {
@@ -712,7 +724,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 320,
+      "elapsed_ms": 293,
       "error": null
     },
     {
@@ -722,7 +734,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 320,
+      "elapsed_ms": 240,
       "error": null
     },
     {
@@ -732,7 +744,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 726,
+      "elapsed_ms": 272,
       "error": null
     },
     {
@@ -742,7 +754,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 376,
+      "elapsed_ms": 91,
       "error": null
     },
     {
@@ -752,7 +764,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 343,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -762,18 +774,18 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 752,
+      "elapsed_ms": 302,
       "error": null
     },
     {
       "brand": "Toyota",
       "model": "RAV4",
       "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/040/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": null,
-      "content_type": "",
-      "elapsed_ms": 50,
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "ok": true,
+      "status": 206,
+      "content_type": "image/avif",
+      "elapsed_ms": 529,
+      "error": null
     },
     {
       "brand": "Toyota",
@@ -782,7 +794,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 259,
+      "elapsed_ms": 339,
       "error": null
     },
     {
@@ -792,7 +804,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 333,
+      "elapsed_ms": 296,
       "error": null
     },
     {
@@ -802,7 +814,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 385,
+      "elapsed_ms": 261,
       "error": null
     },
     {
@@ -812,7 +824,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 312,
+      "elapsed_ms": 285,
       "error": null
     },
     {
@@ -822,7 +834,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 685,
+      "elapsed_ms": 636,
       "error": null
     },
     {
@@ -832,155 +844,23 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 293,
+      "elapsed_ms": 316,
       "error": null
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/1.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 386,
+      "elapsed_ms": 276,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/040/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 393,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/040/3.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 158,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/040/4.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 314,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/1g3/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 206,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/1g3/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 290,
-      "error": "HTTP 403"
-    }
-  ],
-  "unhealthy": [
-    {
-      "brand": "Toyota",
-      "model": "Corolla",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/040/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 362,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Corolla",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/040/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 319,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Corolla",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/040/3.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 333,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Corolla",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/040/4.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 226,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Corolla",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/1f7/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 356,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Corolla",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corolla/le/1852/1f7/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 309,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Corolla Hatchback",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corollahatchback/se/6272/218/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 561,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Corolla Hatchback",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/corollahatchback/se/6272/218/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 364,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/2.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
@@ -989,18 +869,60 @@
     },
     {
       "brand": "Toyota",
-      "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/040/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "model": "Tundra",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/3.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 262,
+      "elapsed_ms": 287,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Tundra",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 280,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Tundra",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/5.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 147,
+      "error": "HTTP 403"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Tundra",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/6.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 182,
+      "error": "HTTP 403"
+    }
+  ],
+  "unhealthy": [
+    {
+      "brand": "Toyota",
+      "model": "Land Cruiser",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser//6167/8x0/18/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "ok": false,
+      "status": 403,
+      "content_type": "text/plain",
+      "elapsed_ms": 299,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/040/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser//6167/8x0/18/4.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
@@ -1009,102 +931,62 @@
     },
     {
       "brand": "Toyota",
-      "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/040/4.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 397,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/202/1.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 359,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "Land Cruiser",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2027/landcruiser/1958/6165/202/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": 403,
-      "content_type": "text/plain",
-      "elapsed_ms": 269,
-      "error": "HTTP 403"
-    },
-    {
-      "brand": "Toyota",
-      "model": "RAV4",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/rav4/le/4521/040/2.png?fmt=png-alpha&qlt=90&wid=930",
-      "ok": false,
-      "status": null,
-      "content_type": "",
-      "elapsed_ms": 50,
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
-    },
-    {
-      "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/040/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/1.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 386,
+      "elapsed_ms": 276,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/040/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/2.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 393,
+      "elapsed_ms": 352,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/040/3.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/3.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 158,
+      "elapsed_ms": 287,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/040/4.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/4.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 314,
+      "elapsed_ms": 280,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/1g3/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/5.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 206,
+      "elapsed_ms": 147,
       "error": "HTTP 403"
     },
     {
       "brand": "Toyota",
       "model": "Tundra",
-      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr5/8361/1g3/2.png?fmt=png-alpha&qlt=90&wid=930",
+      "url": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra//8272/6x3/36/6.png?fmt=png-alpha&qlt=90&wid=930",
       "ok": false,
       "status": 403,
       "content_type": "text/plain",
-      "elapsed_ms": 290,
+      "elapsed_ms": 182,
       "error": "HTTP 403"
     }
   ]

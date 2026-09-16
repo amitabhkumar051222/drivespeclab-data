@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T01:08:45+00:00",
+  "generated": "2026-09-16T01:10:01+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
@@ -18724,14 +18724,14 @@
         }
       ],
       "key_detail": "Full-size pickup; hybrid available",
-      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/1.png?fmt=png-alpha&qlt=90&wid=930",
+      "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/218/1.png?fmt=png-alpha&qlt=90&wid=930",
       "gallery": [
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/1.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/2.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/3.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/8x8/4.png?fmt=png-alpha&qlt=90&wid=930",
         "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/218/1.png?fmt=png-alpha&qlt=90&wid=930",
-        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/218/2.png?fmt=png-alpha&qlt=90&wid=930"
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/218/2.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/218/3.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/218/4.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/1g3/1.png?fmt=png-alpha&qlt=90&wid=930",
+        "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/tundra/sr/8242/1g3/2.png?fmt=png-alpha&qlt=90&wid=930"
       ],
       "gallery_count": 6,
       "source": "https://www.toyota.com/tundra/",

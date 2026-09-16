@@ -1,6 +1,6 @@
 # DriveSpecLab Model Data Completeness
 
-Generated: 2026-09-16T09:34:38.472569+00:00
+Generated: 2026-09-16T12:04:26.859888+00:00
 
 - Current models audited: **274**
 - 6-image gallery complete: **30 (10.9%)**

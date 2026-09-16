@@ -1,6 +1,6 @@
 # DriveSpecLab Gallery Health & Production Readiness
 
-Generated: 2026-09-16T09:34:58.790552+00:00
+Generated: 2026-09-16T12:05:12.251564+00:00
 
 - Models scanned: **278**
 - Models with galleries: **30**
@@ -39,12 +39,12 @@ Generated: 2026-09-16T09:34:58.790552+00:00
 
 ## Unhealthy URLs
 
-- Honda CR-V: HTTP 403 — https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2027/CR-V/Gallery/Exterior/01/Thumb/2027-honda-cr-v-canyon-river-blue-metallic-front.jpg?sc_lang=en&mw=382&hash=A353CF0EC24F1D5CF28C6CF6F98B1445
-- Honda CR-V: HTTP 403 — https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2027/CR-V/Gallery/Exterior/02/Thumb/2027-honda-cr-v-meteorite-gray-metallic-profile-rainy-city-street.jpg?sc_lang=en&mw=767&hash=CC04C2B16426BAA44EFB044371A575CA
-- Honda CR-V: HTTP 403 — https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2027/CR-V/Gallery/Exterior/03/Thumb/2027-honda-cr-v-radiant-red-metallic-back-city-bridge.jpg?sc_lang=en&mw=767&hash=B158C9BEDA73373B56606003E4A95F6D
-- Honda CR-V: HTTP 403 — https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2027/CR-V/Gallery/Exterior/04/Thumb/2027-honda-cr-v-canyon-river-blue-metallic-profile-pavement.jpg?sc_lang=en&mw=382&hash=C0EF78F2AF23986D121F0279620B8313
-- Honda CR-V: HTTP 403 — https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2027/CR-V/Gallery/Exterior/05/Thumb/2027-honda-cr-v-ash-green-metallic-back-desert-canyon-bikes.jpg?sc_lang=en&mw=382&hash=1767B5DE447B594984E5554AC0F5702A
-- Honda CR-V: HTTP 403 — https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2027/CR-V/Gallery/Exterior/06/Thumb/2027-honda-cr-v-solar-silver-metallic-top-driving-on-road.jpg?sc_lang=en&mw=382&hash=E6BABBBE9CA1EB5DAE921E2E0C605C46
+- Honda CR-V: HTTP 400 — https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/0_Honda_CR-V_%286th_generation%29_1.jpg/1200px-0_Honda_CR-V_%286th_generation%29_1.jpg
+- Honda CR-V: HTTP 400 — https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/2023_Honda_CR-V_Advance_Tech_I-MMD_CVT.jpg/1200px-2023_Honda_CR-V_Advance_Tech_I-MMD_CVT.jpg
+- Honda CR-V: HTTP 400 — https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2023_Honda_CR-V_EL_4WD.jpg/1200px-2023_Honda_CR-V_EL_4WD.jpg
+- Honda CR-V: HTTP 400 — https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2023_Honda_CR-V_EX_AWD_in_Lunar_Silver_Metallic%2C_front_left.jpg/1200px-2023_Honda_CR-V_EX_AWD_in_Lunar_Silver_Metallic%2C_front_left.jpg
+- Honda CR-V: HTTP 400 — https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_front_left.jpg/1200px-2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_front_left.jpg
+- Honda CR-V: HTTP 400 — https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_rear_right.jpg/1200px-2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_rear_right.jpg
 - Honda Pilot: HTTP 403 — https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/Pilot/Gallery-OP/Exterior/Thumb/MY26_Honda_Pilot_Gallery_Exterior_01_Thumb.jpg?sc_lang=en&mw=382&hash=506EA731500C995FFBB5E4CC24BF0E2A
 - Honda Pilot: HTTP 403 — https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/Pilot/Gallery-OP/Exterior/Thumb/MY26_Honda_Pilot_Gallery_Exterior_02_Thumb.jpg?sc_lang=en&mw=767&hash=788E9084AA5CD6DE571B430C036CAC0D
 - Honda Pilot: HTTP 403 — https://automobiles.honda.com/-/media/Honda-Automobiles/Vehicles/2026/Pilot/Gallery-OP/Exterior/Thumb/MY26_Honda_Pilot_Gallery_Exterior_03_Thumb.jpg?sc_lang=en&mw=767&hash=9DC75A8095ED15F641106E77B27E468B

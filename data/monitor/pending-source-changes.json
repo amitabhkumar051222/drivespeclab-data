@@ -1,5 +1,231 @@
 {
-  "generated": "2026-09-15T04:49:28+00:00",
-  "count": 0,
-  "changes": []
+  "generated": "2026-09-16T04:47:20+00:00",
+  "count": 25,
+  "changes": [
+    {
+      "url": "https://www.subaru.com/vehicles/index.html",
+      "brand": "Subaru",
+      "model": "Legacy",
+      "kind": "model",
+      "previous_fingerprint": "ca52eba6ed60deb91789ac5fce753e482941b6a4003dfdedbd639003276933d6",
+      "new_fingerprint": "3a7dacd565529ea9ff2a1cceccecb00c11a3b905a8a09b8b4bb4208c95d0eff9",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/suvs/tahoe",
+      "brand": "Chevrolet",
+      "model": "Tahoe",
+      "kind": "model",
+      "previous_fingerprint": "3004dc7a063bef0726b9fb7da2c4738932790e5702385a3365db277e52cbd51b",
+      "new_fingerprint": "88f71e41b270a92d579db536b9b83c336075e80932fbccc5d37b3e4846ef694f",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/suvs/suburban",
+      "brand": "Chevrolet",
+      "model": "Suburban",
+      "kind": "model",
+      "previous_fingerprint": "04d15beedf69b13e92abe917853e9b4e4949c450d74895212bce2e02b81a1e07",
+      "new_fingerprint": "31419766b34e75f31d0a75180bff57ed8058a5dcc60e2a3b317abea0cd6ec3d8",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/mx-5-miata",
+      "brand": "Mazda",
+      "model": "MX-5 Miata",
+      "kind": "model",
+      "previous_fingerprint": "6f2befbfc563913b5b25d79b6b76f7caed02b915510c2814b0d37e52a5342cea",
+      "new_fingerprint": "d007600a77ef4d825ef23c26ac327753aa0497057a2f608310175413d73205d7",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/mx-5-miata-rf",
+      "brand": "Mazda",
+      "model": "MX-5 Miata RF",
+      "kind": "model",
+      "previous_fingerprint": "a9a0ae9dba0359ef8f699929b982f9e54df5f411df8cc3c5f02efe7141cb3c9e",
+      "new_fingerprint": "9f0607d09f3f5d87b6e3a742dbb469e744b1218a792231c22811ffeadfb4d1bf",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-30",
+      "brand": "Mazda",
+      "model": "CX-30",
+      "kind": "model",
+      "previous_fingerprint": "f6c7297245d4616b3ea7eca8832a16d76e7a316ba48d85c1788262f0d759c6b2",
+      "new_fingerprint": "09527ecf0635e7470b9349d904b621723346916937d74e7b22b7ca065b66f67a",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-50",
+      "brand": "Mazda",
+      "model": "CX-50",
+      "kind": "model",
+      "previous_fingerprint": "0d4713736a11900a922e33069f665eb13201bad66a454a80f5465f26f8420033",
+      "new_fingerprint": "b33e2a0f6a604c672bde2261e856c545d512f561b901568530d0e5c0f496d58b",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-50-hybrid",
+      "brand": "Mazda",
+      "model": "CX-50 Hybrid",
+      "kind": "model",
+      "previous_fingerprint": "b4aa4164c55bb36d75b24810377174f0bfddeb3fdc50b5eea422ec74df8bff6b",
+      "new_fingerprint": "941a82f381b19708873af95983a32665d05a28e389368bc8a218b6b995059010",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.kiamedia.com/us/en/media/pressreleases/25004/kia-announces-pricing-for-2027-ev3",
+      "brand": "Kia",
+      "model": "EV3",
+      "kind": "model",
+      "previous_fingerprint": "f6055d47465e07836b0049ee4b26f908b0a2ab3c95001137f3b38537173487a5",
+      "new_fingerprint": "737c1bb80f1a95d6ddd185fbb8f7f283d726061f57e88ea6516221ff3ea1b19b",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.kia.com/us/en/sportage-hybrid",
+      "brand": "Kia",
+      "model": "Sportage",
+      "kind": "model",
+      "previous_fingerprint": "bdc0bce710b2ee7f5166c9570c0168706cede2b1160bb268760ea0702869964e",
+      "new_fingerprint": "f29f4d35841ce6e4b6f37a0065236a11d3ca76214a742ebfd0b1e40348c4826a",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.kiamedia.com/us/en/models/k4/2026/pricing",
+      "brand": "Kia",
+      "model": "K4",
+      "kind": "model",
+      "previous_fingerprint": "06b8d77797424b125e53511ea07d5e3c600d9ba6bc3d4778df6202ef5eac2292",
+      "new_fingerprint": "cc9e02bf82a3ecbe1ede1914371a80e72cb1c28ddddef4b4d60f274fd35c0072",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.kiamedia.com/us/en/models/k4-hatchback/2026/pricing",
+      "brand": "Kia",
+      "model": "K4 Hatchback",
+      "kind": "model",
+      "previous_fingerprint": "3bff288187fa843e5a26739499e3c3665c5a0f4e97bb7a6c8184331a28ad519c",
+      "new_fingerprint": "c22e8e044b9ab65fbb6ddfffb2021e23308052345c5e4900b9715679b573cbed",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.kiamedia.com/us/en/models/seltos/2027/pricing",
+      "brand": "Kia",
+      "model": "Seltos",
+      "kind": "model",
+      "previous_fingerprint": "80b43fc791a1276ccfea5ea6b7d96eb93f1e9c61afb3fa19298e81bcdca59669",
+      "new_fingerprint": "a2699bd13f717f18a8d60ac3b75f78896ea0613e2ee5b7f3a0cb36f27e241dfc",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/wrangler.html",
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "kind": "model",
+      "previous_fingerprint": "2eea3d530fd4b8f6f2d6cf5fbc27b7dcaa976a3b2c665e88dd1d05bbff0e6d3c",
+      "new_fingerprint": "29e0b7e0a5d0f15222fc6e8e460bfd64356a941cd0ee0c9364d95be036600b8a",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/wrangler-4xe.html",
+      "brand": "Jeep",
+      "model": "Wrangler 4xe",
+      "kind": "model",
+      "previous_fingerprint": "2eea3d530fd4b8f6f2d6cf5fbc27b7dcaa976a3b2c665e88dd1d05bbff0e6d3c",
+      "new_fingerprint": "29e0b7e0a5d0f15222fc6e8e460bfd64356a941cd0ee0c9364d95be036600b8a",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/gladiator.html",
+      "brand": "Jeep",
+      "model": "Gladiator",
+      "kind": "model",
+      "previous_fingerprint": "d037e8ba01ef4f55d6d8d6289610c8c166845ec2b25e35acd227496d865260a3",
+      "new_fingerprint": "76eda848141c64c344cca85bde22f10bc64a60f13d66e5ba77f8c5587b3426bf",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/grand-wagoneer.html",
+      "brand": "Jeep",
+      "model": "Grand Wagoneer",
+      "kind": "model",
+      "previous_fingerprint": "608874608340c0e4b8003d57e02ea25eb54a57c6bd2b4fbe8c5fec97c392cee5",
+      "new_fingerprint": "4f619aff657707f74f4f0fef76da6e4fe1f8d52a3200d1ed534912d609e39b1b",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.porsche.com/usa/models/718/configure/",
+      "brand": "Porsche",
+      "model": "718",
+      "kind": "model",
+      "previous_fingerprint": "5342e2c02001b1766a4df5c60da98d30a4aa172d33461336a016137c7b2d4735",
+      "new_fingerprint": "998b92633408815ab0117f19bd85765b935f6f51e4ea55d687d258f3fe1ebd37",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.porsche.com/usa/models/911/configure/",
+      "brand": "Porsche",
+      "model": "911",
+      "kind": "model",
+      "previous_fingerprint": "368dcfcaeaa3f8775de1cf37fcb2a034058d2ee74824427ee3faff03e286d306",
+      "new_fingerprint": "a9f2aa0923dd5abf6ee15be065b10bfe2617e4f5961cef8d6be9654d5caca1b3",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.porsche.com/usa/models/taycan/configure/",
+      "brand": "Porsche",
+      "model": "Taycan",
+      "kind": "model",
+      "previous_fingerprint": "423515badd1a0a4d3d69eb4ebfcab111b2d494799fe7f678a1f180a8848f0178",
+      "new_fingerprint": "6976d8284c55fe7a0c4609eb194903a3aaa814d6c0dee5c4d063ea53ae26be34",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.porsche.com/usa/models/macan/configure/",
+      "brand": "Porsche",
+      "model": "Macan",
+      "kind": "model",
+      "previous_fingerprint": "35896213e63707c7b061ed3fb6f3a5cda6c7df87c0c48f8ce9dbb6092644a222",
+      "new_fingerprint": "99ad569e8b40124b485fb9c266c220a02b8a1edd3416182596b27d0fc7731c61",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.porsche.com/usa/models/cayenne/",
+      "brand": "Porsche",
+      "model": "Cayenne",
+      "kind": "model",
+      "previous_fingerprint": "56accfa3e81f6b99d1e9800830d712b0fcf76318a4e28b9e6004bdada2c0bc72",
+      "new_fingerprint": "4afbe3d676b7b007ac30808a5bd29f8e071281a0daa0160439a50668106c3fdd",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://en.byd.com/",
+      "brand": "BYD",
+      "model": "",
+      "kind": "brand",
+      "previous_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_fingerprint": "8737db01022b8cdfe63798e0f2d9d5800ea29cd8e34da63d82d231371dcace3d",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
+      "brand": "Nissan",
+      "model": "Armada",
+      "kind": "model",
+      "previous_fingerprint": "129b30d7a25d3310280de08108cf1fce22e34d0a1185d17b8c5d008b34a865f0",
+      "new_fingerprint": "75e8cda7460a27c606b7d7ef2d14e775db75e473908dff2ee551f490b5ccd15a",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    },
+    {
+      "url": "https://www.gmc.com/vans/previous-year/savana/cargo",
+      "brand": "GMC",
+      "model": "Savana Cargo 2500",
+      "kind": "model",
+      "previous_fingerprint": "95c2f6bdce7bb7fa51a77f00ab1d2057f12ec420526a29dfed058c2c7561119f",
+      "new_fingerprint": "f5c7a3f7b9ae1a669c51575cf8541910700868076eb9ece214ade2b5b91ec7bd",
+      "detected_at": "2026-09-16T04:47:20+00:00"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T12:04:15+00:00",
+  "generated": "2026-09-16T12:07:28+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
@@ -6425,14 +6425,14 @@
         }
       ],
       "key_detail": "Compact SUV; hybrid available",
-      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/0_Honda_CR-V_%286th_generation%29_1.jpg/1200px-0_Honda_CR-V_%286th_generation%29_1.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/0_Honda_CR-V_%286th_generation%29_1.jpg",
       "gallery": [
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/0_Honda_CR-V_%286th_generation%29_1.jpg/1200px-0_Honda_CR-V_%286th_generation%29_1.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/2023_Honda_CR-V_Advance_Tech_I-MMD_CVT.jpg/1200px-2023_Honda_CR-V_Advance_Tech_I-MMD_CVT.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/2023_Honda_CR-V_EL_4WD.jpg/1200px-2023_Honda_CR-V_EL_4WD.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2023_Honda_CR-V_EX_AWD_in_Lunar_Silver_Metallic%2C_front_left.jpg/1200px-2023_Honda_CR-V_EX_AWD_in_Lunar_Silver_Metallic%2C_front_left.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_front_left.jpg/1200px-2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_front_left.jpg",
-        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_rear_right.jpg/1200px-2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_rear_right.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/7/76/0_Honda_CR-V_%286th_generation%29_1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9f/2023_Honda_CR-V_Advance_Tech_I-MMD_CVT.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9b/2023_Honda_CR-V_EL_4WD.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a1/2023_Honda_CR-V_EX_AWD_in_Lunar_Silver_Metallic%2C_front_left.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_front_left.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/3/30/2023_Honda_CR-V_EX-L_4WD_in_Radiant_Red_Metallic%2C_rear_right.jpg"
       ],
       "gallery_count": 6,
       "source": "https://automobiles.honda.com/cr-v/specs-features-trim-comparison",

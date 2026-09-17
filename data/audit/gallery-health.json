@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:07:18.960530+00:00",
+  "generated_at": "2026-09-17T03:46:22.293986+00:00",
   "policy": "Gallery URLs are checked over HTTP and must return an image content type. Production-ready requires the model-completeness audit to pass, at least six gallery URLs, and every checked gallery URL to be healthy. Temporary CDN/network failures are reported and never converted into valid assets.",
   "summary": {
     "models_scanned": 278,
@@ -428,7 +428,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/jpeg",
-      "elapsed_ms": 157,
+      "elapsed_ms": 240,
       "error": null
     },
     {
@@ -438,7 +438,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/jpeg",
-      "elapsed_ms": 63,
+      "elapsed_ms": 232,
       "error": null
     },
     {
@@ -448,7 +448,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/jpeg",
-      "elapsed_ms": 78,
+      "elapsed_ms": 173,
       "error": null
     },
     {
@@ -458,7 +458,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/jpeg",
-      "elapsed_ms": 57,
+      "elapsed_ms": 159,
       "error": null
     },
     {
@@ -468,7 +468,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/jpeg",
-      "elapsed_ms": 105,
+      "elapsed_ms": 196,
       "error": null
     },
     {
@@ -478,7 +478,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/jpeg",
-      "elapsed_ms": 98,
+      "elapsed_ms": 174,
       "error": null
     },
     {
@@ -488,7 +488,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 211,
+      "elapsed_ms": 158,
       "error": "HTTP 403"
     },
     {
@@ -498,7 +498,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 36,
+      "elapsed_ms": 84,
       "error": "HTTP 403"
     },
     {
@@ -508,7 +508,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 40,
+      "elapsed_ms": 85,
       "error": "HTTP 403"
     },
     {
@@ -518,7 +518,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 53,
+      "elapsed_ms": 83,
       "error": "HTTP 403"
     },
     {
@@ -528,7 +528,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 49,
+      "elapsed_ms": 93,
       "error": "HTTP 403"
     },
     {
@@ -538,7 +538,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 41,
+      "elapsed_ms": 89,
       "error": "HTTP 403"
     },
     {
@@ -548,7 +548,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 45,
+      "elapsed_ms": 93,
       "error": "HTTP 403"
     },
     {
@@ -558,7 +558,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 38,
+      "elapsed_ms": 82,
       "error": "HTTP 403"
     },
     {
@@ -568,7 +568,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 47,
+      "elapsed_ms": 95,
       "error": "HTTP 403"
     },
     {
@@ -578,7 +578,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 39,
+      "elapsed_ms": 84,
       "error": "HTTP 403"
     },
     {
@@ -588,7 +588,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 48,
+      "elapsed_ms": 93,
       "error": "HTTP 403"
     },
     {
@@ -598,7 +598,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 42,
+      "elapsed_ms": 85,
       "error": "HTTP 403"
     },
     {
@@ -608,7 +608,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 46,
+      "elapsed_ms": 83,
       "error": "HTTP 403"
     },
     {
@@ -618,7 +618,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 42,
+      "elapsed_ms": 88,
       "error": "HTTP 403"
     },
     {
@@ -628,7 +628,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 40,
+      "elapsed_ms": 85,
       "error": "HTTP 403"
     },
     {
@@ -638,7 +638,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 50,
+      "elapsed_ms": 95,
       "error": "HTTP 403"
     },
     {
@@ -648,7 +648,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 43,
+      "elapsed_ms": 85,
       "error": "HTTP 403"
     },
     {
@@ -658,7 +658,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 46,
+      "elapsed_ms": 84,
       "error": "HTTP 403"
     },
     {
@@ -668,7 +668,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 39,
+      "elapsed_ms": 82,
       "error": "HTTP 403"
     },
     {
@@ -678,7 +678,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 46,
+      "elapsed_ms": 99,
       "error": "HTTP 403"
     },
     {
@@ -688,7 +688,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 48,
+      "elapsed_ms": 92,
       "error": "HTTP 403"
     },
     {
@@ -698,7 +698,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 41,
+      "elapsed_ms": 83,
       "error": "HTTP 403"
     },
     {
@@ -708,7 +708,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 36,
+      "elapsed_ms": 88,
       "error": "HTTP 403"
     },
     {
@@ -718,7 +718,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 37,
+      "elapsed_ms": 93,
       "error": "HTTP 403"
     },
     {
@@ -728,7 +728,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 367,
+      "elapsed_ms": 368,
       "error": null
     },
     {
@@ -738,7 +738,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 264,
+      "elapsed_ms": 314,
       "error": null
     },
     {
@@ -748,7 +748,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 110,
+      "elapsed_ms": 275,
       "error": null
     },
     {
@@ -758,7 +758,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 122,
+      "elapsed_ms": 275,
       "error": null
     },
     {
@@ -768,7 +768,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 63,
+      "elapsed_ms": 196,
       "error": null
     },
     {
@@ -778,7 +778,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 239,
+      "elapsed_ms": 294,
       "error": null
     },
     {
@@ -788,7 +788,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 77,
+      "elapsed_ms": 248,
       "error": null
     },
     {
@@ -798,7 +798,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 291,
+      "elapsed_ms": 102,
       "error": null
     },
     {
@@ -808,7 +808,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 194,
+      "elapsed_ms": 111,
       "error": null
     },
     {
@@ -818,7 +818,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 96,
+      "elapsed_ms": 95,
       "error": null
     },
     {
@@ -828,7 +828,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 689,
+      "elapsed_ms": 88,
       "error": null
     },
     {
@@ -838,7 +838,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 96,
+      "elapsed_ms": 89,
       "error": null
     },
     {
@@ -848,7 +848,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 1425,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -858,7 +858,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 186,
+      "elapsed_ms": 91,
       "error": null
     },
     {
@@ -868,7 +868,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 489,
+      "elapsed_ms": 116,
       "error": null
     },
     {
@@ -878,7 +878,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 541,
+      "elapsed_ms": 99,
       "error": null
     },
     {
@@ -888,7 +888,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 264,
+      "elapsed_ms": 96,
       "error": null
     },
     {
@@ -898,7 +898,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 283,
+      "elapsed_ms": 95,
       "error": null
     },
     {
@@ -908,7 +908,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 459,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -918,7 +918,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 841,
+      "elapsed_ms": 109,
       "error": null
     },
     {
@@ -928,7 +928,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 47,
+      "elapsed_ms": 122,
       "error": null
     },
     {
@@ -938,7 +938,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 120,
+      "elapsed_ms": 99,
       "error": null
     },
     {
@@ -948,7 +948,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 63,
+      "elapsed_ms": 253,
       "error": null
     },
     {
@@ -958,7 +958,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 220,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -968,7 +968,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 850,
+      "elapsed_ms": 95,
       "error": null
     },
     {
@@ -978,7 +978,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 134,
+      "elapsed_ms": 245,
       "error": null
     },
     {
@@ -988,7 +988,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 281,
+      "elapsed_ms": 571,
       "error": null
     },
     {
@@ -998,7 +998,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 55,
+      "elapsed_ms": 253,
       "error": null
     },
     {
@@ -1008,7 +1008,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 79,
+      "elapsed_ms": 341,
       "error": null
     },
     {
@@ -1018,7 +1018,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 64,
+      "elapsed_ms": 823,
       "error": null
     },
     {
@@ -1028,7 +1028,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 338,
+      "elapsed_ms": 247,
       "error": null
     },
     {
@@ -1038,7 +1038,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 316,
+      "elapsed_ms": 293,
       "error": null
     },
     {
@@ -1048,7 +1048,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 55,
+      "elapsed_ms": 298,
       "error": null
     },
     {
@@ -1058,7 +1058,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 74,
+      "elapsed_ms": 500,
       "error": null
     },
     {
@@ -1068,7 +1068,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 89,
+      "elapsed_ms": 293,
       "error": null
     },
     {
@@ -1078,7 +1078,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 74,
+      "elapsed_ms": 286,
       "error": null
     },
     {
@@ -1088,7 +1088,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 127,
+      "elapsed_ms": 495,
       "error": null
     },
     {
@@ -1098,7 +1098,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 116,
+      "elapsed_ms": 313,
       "error": null
     },
     {
@@ -1108,7 +1108,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 66,
+      "elapsed_ms": 285,
       "error": null
     },
     {
@@ -1118,7 +1118,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 317,
+      "elapsed_ms": 321,
       "error": null
     },
     {
@@ -1128,7 +1128,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 71,
+      "elapsed_ms": 285,
       "error": null
     },
     {
@@ -1138,7 +1138,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 84,
+      "elapsed_ms": 784,
       "error": null
     },
     {
@@ -1148,7 +1148,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 213,
+      "elapsed_ms": 294,
       "error": null
     },
     {
@@ -1158,7 +1158,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 62,
+      "elapsed_ms": 282,
       "error": null
     },
     {
@@ -1168,7 +1168,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 57,
+      "elapsed_ms": 279,
       "error": null
     },
     {
@@ -1178,7 +1178,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 132,
+      "elapsed_ms": 294,
       "error": null
     },
     {
@@ -1188,7 +1188,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 60,
+      "elapsed_ms": 281,
       "error": null
     },
     {
@@ -1198,7 +1198,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 95,
+      "elapsed_ms": 543,
       "error": null
     },
     {
@@ -1208,7 +1208,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 91,
+      "elapsed_ms": 289,
       "error": null
     },
     {
@@ -1218,7 +1218,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 98,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -1228,7 +1228,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 333,
+      "elapsed_ms": 92,
       "error": null
     },
     {
@@ -1238,7 +1238,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 240,
+      "elapsed_ms": 87,
       "error": null
     },
     {
@@ -1248,7 +1248,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 68,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -1258,7 +1258,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 62,
+      "elapsed_ms": 96,
       "error": null
     },
     {
@@ -1268,7 +1268,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 122,
+      "elapsed_ms": 88,
       "error": null
     },
     {
@@ -1278,7 +1278,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 339,
+      "elapsed_ms": 104,
       "error": null
     },
     {
@@ -1288,7 +1288,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 476,
+      "elapsed_ms": 92,
       "error": null
     },
     {
@@ -1298,7 +1298,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 697,
+      "elapsed_ms": 100,
       "error": null
     },
     {
@@ -1308,7 +1308,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 110,
+      "elapsed_ms": 96,
       "error": null
     },
     {
@@ -1318,7 +1318,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 129,
+      "elapsed_ms": 98,
       "error": null
     },
     {
@@ -1328,7 +1328,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 323,
+      "elapsed_ms": 88,
       "error": null
     },
     {
@@ -1338,7 +1338,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 186,
+      "elapsed_ms": 95,
       "error": null
     },
     {
@@ -1348,7 +1348,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 315,
+      "elapsed_ms": 91,
       "error": null
     },
     {
@@ -1358,7 +1358,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 67,
+      "elapsed_ms": 87,
       "error": null
     },
     {
@@ -1368,7 +1368,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 62,
+      "elapsed_ms": 99,
       "error": null
     },
     {
@@ -1378,7 +1378,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 79,
+      "elapsed_ms": 517,
       "error": null
     },
     {
@@ -1388,7 +1388,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 314,
+      "elapsed_ms": 98,
       "error": null
     },
     {
@@ -1398,7 +1398,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 155,
+      "elapsed_ms": 286,
       "error": null
     },
     {
@@ -1408,7 +1408,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 51,
+      "elapsed_ms": 334,
       "error": null
     },
     {
@@ -1418,7 +1418,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 61,
+      "elapsed_ms": 248,
       "error": null
     },
     {
@@ -1428,7 +1428,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 58,
+      "elapsed_ms": 302,
       "error": null
     },
     {
@@ -1438,7 +1438,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 217,
+      "elapsed_ms": 202,
       "error": null
     },
     {
@@ -1448,7 +1448,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 50,
+      "elapsed_ms": 254,
       "error": null
     },
     {
@@ -1458,7 +1458,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 80,
+      "elapsed_ms": 309,
       "error": null
     },
     {
@@ -1468,7 +1468,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 86,
+      "elapsed_ms": 296,
       "error": null
     },
     {
@@ -1478,7 +1478,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 65,
+      "elapsed_ms": 284,
       "error": null
     },
     {
@@ -1488,7 +1488,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 64,
+      "elapsed_ms": 305,
       "error": null
     },
     {
@@ -1498,7 +1498,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 72,
+      "elapsed_ms": 203,
       "error": null
     },
     {
@@ -1508,7 +1508,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 369,
+      "elapsed_ms": 248,
       "error": null
     },
     {
@@ -1518,7 +1518,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 105,
+      "elapsed_ms": 157,
       "error": null
     },
     {
@@ -1528,7 +1528,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 72,
+      "elapsed_ms": 148,
       "error": null
     },
     {
@@ -1538,7 +1538,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 868,
+      "elapsed_ms": 748,
       "error": null
     },
     {
@@ -1548,7 +1548,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 66,
+      "elapsed_ms": 278,
       "error": null
     },
     {
@@ -1558,7 +1558,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 9690,
+      "elapsed_ms": 148,
       "error": null
     },
     {
@@ -1568,7 +1568,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 410,
+      "elapsed_ms": 586,
       "error": null
     },
     {
@@ -1578,7 +1578,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 327,
+      "elapsed_ms": 107,
       "error": null
     },
     {
@@ -1588,7 +1588,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 51,
+      "elapsed_ms": 88,
       "error": null
     },
     {
@@ -1598,7 +1598,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 156,
+      "elapsed_ms": 87,
       "error": null
     },
     {
@@ -1608,7 +1608,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 134,
+      "elapsed_ms": 90,
       "error": null
     },
     {
@@ -1618,7 +1618,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 68,
+      "elapsed_ms": 108,
       "error": null
     },
     {
@@ -1628,7 +1628,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 501,
+      "elapsed_ms": 95,
       "error": null
     },
     {
@@ -1638,7 +1638,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 308,
+      "elapsed_ms": 257,
       "error": null
     },
     {
@@ -1648,7 +1648,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 73,
+      "elapsed_ms": 202,
       "error": null
     },
     {
@@ -1658,7 +1658,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 71,
+      "elapsed_ms": 287,
       "error": null
     },
     {
@@ -1668,7 +1668,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 85,
+      "elapsed_ms": 537,
       "error": null
     },
     {
@@ -1678,7 +1678,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 50,
+      "elapsed_ms": 8719,
       "error": null
     },
     {
@@ -1688,7 +1688,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 142,
+      "elapsed_ms": 908,
       "error": null
     },
     {
@@ -1698,7 +1698,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 54,
+      "elapsed_ms": 98,
       "error": null
     },
     {
@@ -1708,7 +1708,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 317,
+      "elapsed_ms": 91,
       "error": null
     },
     {
@@ -1718,7 +1718,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 294,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -1728,7 +1728,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 130,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -1738,7 +1738,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 308,
+      "elapsed_ms": 93,
       "error": null
     },
     {
@@ -1748,7 +1748,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 297,
+      "elapsed_ms": 98,
       "error": null
     },
     {
@@ -1758,7 +1758,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 301,
+      "elapsed_ms": 209,
       "error": null
     },
     {
@@ -1768,7 +1768,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 333,
+      "elapsed_ms": 286,
       "error": null
     },
     {
@@ -1778,7 +1778,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 161,
+      "elapsed_ms": 293,
       "error": null
     },
     {
@@ -1788,7 +1788,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 216,
+      "elapsed_ms": 296,
       "error": null
     },
     {
@@ -1798,7 +1798,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 132,
+      "elapsed_ms": 310,
       "error": null
     },
     {
@@ -1808,7 +1808,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 737,
+      "elapsed_ms": 262,
       "error": null
     },
     {
@@ -1818,7 +1818,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 53,
+      "elapsed_ms": 106,
       "error": null
     },
     {
@@ -1828,7 +1828,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 329,
+      "elapsed_ms": 107,
       "error": null
     },
     {
@@ -1838,7 +1838,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 70,
+      "elapsed_ms": 108,
       "error": null
     },
     {
@@ -1848,7 +1848,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 51,
+      "elapsed_ms": 95,
       "error": null
     },
     {
@@ -1858,7 +1858,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 88,
+      "elapsed_ms": 256,
       "error": null
     },
     {
@@ -1868,7 +1868,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 54,
+      "elapsed_ms": 90,
       "error": null
     },
     {
@@ -1878,7 +1878,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 95,
+      "elapsed_ms": 88,
       "error": null
     },
     {
@@ -1888,7 +1888,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 146,
+      "elapsed_ms": 98,
       "error": null
     },
     {
@@ -1898,7 +1898,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 104,
+      "elapsed_ms": 93,
       "error": null
     },
     {
@@ -1908,7 +1908,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 260,
+      "elapsed_ms": 98,
       "error": null
     },
     {
@@ -1918,7 +1918,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 58,
+      "elapsed_ms": 99,
       "error": null
     },
     {
@@ -1928,7 +1928,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 47,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -1938,7 +1938,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 70,
+      "elapsed_ms": 97,
       "error": null
     },
     {
@@ -1948,7 +1948,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 48,
+      "elapsed_ms": 94,
       "error": null
     },
     {
@@ -1958,7 +1958,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 304,
+      "elapsed_ms": 96,
       "error": null
     },
     {
@@ -1968,7 +1968,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 67,
+      "elapsed_ms": 103,
       "error": null
     },
     {
@@ -1978,7 +1978,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 59,
+      "elapsed_ms": 100,
       "error": null
     },
     {
@@ -1988,7 +1988,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 701,
+      "elapsed_ms": 103,
       "error": null
     },
     {
@@ -1998,7 +1998,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 8510,
+      "elapsed_ms": 250,
       "error": null
     },
     {
@@ -2008,7 +2008,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 353,
+      "elapsed_ms": 297,
       "error": null
     },
     {
@@ -2018,7 +2018,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 345,
+      "elapsed_ms": 257,
       "error": null
     },
     {
@@ -2028,7 +2028,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 932,
+      "elapsed_ms": 258,
       "error": null
     },
     {
@@ -2038,7 +2038,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 54,
+      "elapsed_ms": 253,
       "error": null
     },
     {
@@ -2048,7 +2048,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 71,
+      "elapsed_ms": 285,
       "error": null
     },
     {
@@ -2058,7 +2058,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 579,
+      "elapsed_ms": 92,
       "error": null
     },
     {
@@ -2068,7 +2068,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 146,
+      "elapsed_ms": 118,
       "error": null
     },
     {
@@ -2078,7 +2078,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 52,
+      "elapsed_ms": 114,
       "error": null
     },
     {
@@ -2088,7 +2088,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 361,
+      "elapsed_ms": 96,
       "error": null
     },
     {
@@ -2098,7 +2098,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 361,
+      "elapsed_ms": 92,
       "error": null
     },
     {
@@ -2108,7 +2108,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 306,
+      "elapsed_ms": 102,
       "error": null
     },
     {
@@ -2118,7 +2118,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 124,
+      "elapsed_ms": 99,
       "error": null
     },
     {
@@ -2128,7 +2128,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 56,
+      "elapsed_ms": 109,
       "error": null
     },
     {
@@ -2138,7 +2138,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 154,
+      "elapsed_ms": 98,
       "error": null
     },
     {
@@ -2148,7 +2148,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 79,
+      "elapsed_ms": 96,
       "error": null
     },
     {
@@ -2158,7 +2158,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 1134,
+      "elapsed_ms": 96,
       "error": null
     },
     {
@@ -2168,7 +2168,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 381,
+      "elapsed_ms": 88,
       "error": null
     },
     {
@@ -2178,7 +2178,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 84,
+      "elapsed_ms": 277,
       "error": null
     },
     {
@@ -2188,7 +2188,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 372,
+      "elapsed_ms": 285,
       "error": null
     },
     {
@@ -2198,7 +2198,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 337,
+      "elapsed_ms": 280,
       "error": null
     },
     {
@@ -2208,7 +2208,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 77,
+      "elapsed_ms": 272,
       "error": null
     },
     {
@@ -2218,7 +2218,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 511,
+      "elapsed_ms": 240,
       "error": null
     },
     {
@@ -2228,7 +2228,7 @@
       "ok": true,
       "status": 206,
       "content_type": "image/avif",
-      "elapsed_ms": 72,
+      "elapsed_ms": 270,
       "error": null
     }
   ],
@@ -2240,7 +2240,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 211,
+      "elapsed_ms": 158,
       "error": "HTTP 403"
     },
     {
@@ -2250,7 +2250,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 36,
+      "elapsed_ms": 84,
       "error": "HTTP 403"
     },
     {
@@ -2260,7 +2260,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 40,
+      "elapsed_ms": 85,
       "error": "HTTP 403"
     },
     {
@@ -2270,7 +2270,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 53,
+      "elapsed_ms": 83,
       "error": "HTTP 403"
     },
     {
@@ -2280,7 +2280,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 49,
+      "elapsed_ms": 93,
       "error": "HTTP 403"
     },
     {
@@ -2290,7 +2290,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 41,
+      "elapsed_ms": 89,
       "error": "HTTP 403"
     },
     {
@@ -2300,7 +2300,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 45,
+      "elapsed_ms": 93,
       "error": "HTTP 403"
     },
     {
@@ -2310,7 +2310,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 38,
+      "elapsed_ms": 82,
       "error": "HTTP 403"
     },
     {
@@ -2320,7 +2320,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 47,
+      "elapsed_ms": 95,
       "error": "HTTP 403"
     },
     {
@@ -2330,7 +2330,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 39,
+      "elapsed_ms": 84,
       "error": "HTTP 403"
     },
     {
@@ -2340,7 +2340,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 48,
+      "elapsed_ms": 93,
       "error": "HTTP 403"
     },
     {
@@ -2350,7 +2350,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 42,
+      "elapsed_ms": 85,
       "error": "HTTP 403"
     },
     {
@@ -2360,7 +2360,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 46,
+      "elapsed_ms": 83,
       "error": "HTTP 403"
     },
     {
@@ -2370,7 +2370,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 42,
+      "elapsed_ms": 88,
       "error": "HTTP 403"
     },
     {
@@ -2380,7 +2380,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 40,
+      "elapsed_ms": 85,
       "error": "HTTP 403"
     },
     {
@@ -2390,7 +2390,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 50,
+      "elapsed_ms": 95,
       "error": "HTTP 403"
     },
     {
@@ -2400,7 +2400,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 43,
+      "elapsed_ms": 85,
       "error": "HTTP 403"
     },
     {
@@ -2410,7 +2410,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 46,
+      "elapsed_ms": 84,
       "error": "HTTP 403"
     },
     {
@@ -2420,7 +2420,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 39,
+      "elapsed_ms": 82,
       "error": "HTTP 403"
     },
     {
@@ -2430,7 +2430,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 46,
+      "elapsed_ms": 99,
       "error": "HTTP 403"
     },
     {
@@ -2440,7 +2440,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 48,
+      "elapsed_ms": 92,
       "error": "HTTP 403"
     },
     {
@@ -2450,7 +2450,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 41,
+      "elapsed_ms": 83,
       "error": "HTTP 403"
     },
     {
@@ -2460,7 +2460,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 36,
+      "elapsed_ms": 88,
       "error": "HTTP 403"
     },
     {
@@ -2470,7 +2470,7 @@
       "ok": false,
       "status": 403,
       "content_type": "text/html",
-      "elapsed_ms": 37,
+      "elapsed_ms": 93,
       "error": "HTTP 403"
     }
   ]

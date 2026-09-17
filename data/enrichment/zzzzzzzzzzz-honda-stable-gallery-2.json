@@ -1,0 +1,85 @@
+{
+  "target": "honda.json",
+  "brand": "Honda",
+  "market": "United States",
+  "verified_on": "2026-09-17",
+  "policy": "Replace Honda Automobiles anti-hotlink gallery URLs that returned HTTP 403 with stable Wikimedia Commons original-file URLs. Preserve per-file source, author, and license metadata; vehicle specifications and pricing remain manufacturer-sourced from Honda Automobiles U.S.",
+  "models": {
+    "Accord": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/(USA-Massachusetts)_Private_Honda_Accord_MA-3DG444_2024-06-11.jpg",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/71/(USA-Massachusetts)_Private_Honda_Accord_MA-3DG444_2024-06-11.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f1/2023_Honda_Accord_(rear_view).jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/0/02/2023_Honda_Accord_EX_in_Canyon_River_Blue_Metallic,_Front_Left,_04-07-2023.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c5/2023_Honda_Accord_EX_in_Crystal_Black_Pearl,_rear_left.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/49/2023_Honda_Accord_EX_in_Meteoroid_Grey_Metallic,_Front_Left,_03-17-2023.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f6/2023_Honda_Accord_EX_in_Meteoroid_Grey_Metallic,_Front_Left2,_03-17-2023.jpg"
+      ],
+      "gallery_attribution": [
+        {"source":"https://commons.wikimedia.org/wiki/File:(USA-Massachusetts)_Private_Honda_Accord_MA-3DG444_2024-06-11.jpg","author":"S5A-0043","license":"CC BY 2.0","license_url":"https://creativecommons.org/licenses/by/2.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2023_Honda_Accord_(rear_view).jpg","author":"deathpallie325","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2023_Honda_Accord_EX_in_Canyon_River_Blue_Metallic,_Front_Left,_04-07-2023.jpg","author":"Elise240SX","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2023_Honda_Accord_EX_in_Crystal_Black_Pearl,_rear_left.jpg","author":"Mr.choppers","license":"CC BY-SA 3.0","license_url":"https://creativecommons.org/licenses/by-sa/3.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2023_Honda_Accord_EX_in_Meteoroid_Grey_Metallic,_Front_Left,_03-17-2023.jpg","author":"Elise240SX","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2023_Honda_Accord_EX_in_Meteoroid_Grey_Metallic,_Front_Left2,_03-17-2023.jpg","author":"Elise240SX","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"}
+      ]
+    },
+    "Pilot": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/2023_Honda_Pilot_(front_view).jpg",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8a/2023_Honda_Pilot_(front_view).jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a8/2023_Honda_Pilot_front_view.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/2023_Honda_Pilot_rear_view.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4a/2023_Honda_Pilot_TrailSport,_rear_8.25.23.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/98/2023_Honda_Pilot_TrailSport,_rear_left,_05-08-2023.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/52/23_Honda_Pilot_TrailSport.jpg"
+      ],
+      "gallery_attribution": [
+        {"source":"https://commons.wikimedia.org/wiki/File:2023_Honda_Pilot_(front_view).jpg","author":"deathpallie325","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2023_Honda_Pilot_front_view.jpg","author":"deathpallie325","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2023_Honda_Pilot_rear_view.jpg","author":"deathpallie325","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2023_Honda_Pilot_TrailSport,_rear_8.25.23.jpg","author":"Kevauto","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2023_Honda_Pilot_TrailSport,_rear_left,_05-08-2023.jpg","author":"MercurySable99","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:23_Honda_Pilot_TrailSport.jpg","author":"HJUdall","license":"CC0 1.0","license_url":"https://creativecommons.org/publicdomain/zero/1.0/"}
+      ]
+    },
+    "Passport": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/%2726_Honda_Passport_TrailSport.jpg",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/commons/a/aa/%2726_Honda_Passport_TrailSport.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/54/2025_Honda_Passport_TrailSport,_front_4.11.25.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e1/2025_Honda_Passport_TrailSport,_front_4.26.25.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/25/2025_Honda_Passport_TrailSport,_rear_4.18.25.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9c/2026_Honda_Passport_Trailsport_Touring_in_Radiant_Red_Metallic_II,_front_right,_2025-06-11.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4c/26_Honda_Passport_TrailSport.jpg"
+      ],
+      "gallery_attribution": [
+        {"source":"https://commons.wikimedia.org/wiki/File:%2726_Honda_Passport_TrailSport.jpg","author":"Bull-Doser","license":"Public domain"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2025_Honda_Passport_TrailSport,_front_4.11.25.jpg","author":"Kevauto","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2025_Honda_Passport_TrailSport,_front_4.26.25.jpg","author":"Kevauto","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2025_Honda_Passport_TrailSport,_rear_4.18.25.jpg","author":"Kevauto","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2026_Honda_Passport_Trailsport_Touring_in_Radiant_Red_Metallic_II,_front_right,_2025-06-11.jpg","author":"Elise240SX","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:26_Honda_Passport_TrailSport.jpg","author":"HJUdall","license":"CC0 1.0","license_url":"https://creativecommons.org/publicdomain/zero/1.0/"}
+      ]
+    },
+    "Civic Sedan": {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/2022_Honda_Civic_e-HEV_RS.jpg",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/96/2022_Honda_Civic_e-HEV_RS.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/ba/2024_Honda_Civic_e-HEV_EL+.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/c/ca/2024_Honda_Civic_e-HEV_RS.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/24/2025_Honda_Civic_Hybrid_Sport_Touring_(facelift),_front_4.18.25.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/ba/2025_Honda_Civic_Hybrid_Sport_Touring_(facelift),_rear_4.18.25.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/de/2025_Honda_Civic_Sport_Touring_Hybrid_in_Blue_Lagoon,_front_left,_2024-09-24.jpg"
+      ],
+      "gallery_attribution": [
+        {"source":"https://commons.wikimedia.org/wiki/File:2022_Honda_Civic_e-HEV_RS.jpg","author":"Chanokchon","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2024_Honda_Civic_e-HEV_EL+.jpg","author":"Chanokchon","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2024_Honda_Civic_e-HEV_RS.jpg","author":"Chanokchon","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2025_Honda_Civic_Hybrid_Sport_Touring_(facelift),_front_4.18.25.jpg","author":"Kevauto","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2025_Honda_Civic_Hybrid_Sport_Touring_(facelift),_rear_4.18.25.jpg","author":"Kevauto","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"},
+        {"source":"https://commons.wikimedia.org/wiki/File:2025_Honda_Civic_Sport_Touring_Hybrid_in_Blue_Lagoon,_front_left,_2024-09-24.jpg","author":"Elise240SX","license":"CC BY-SA 4.0","license_url":"https://creativecommons.org/licenses/by-sa/4.0/"}
+      ]
+    }
+  }
+}

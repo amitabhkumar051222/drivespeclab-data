@@ -6126,9 +6126,16 @@
         }
       ],
       "key_detail": "Compact hatchback; hybrid available",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Hatchback%20EX-L%20in%20Platinum%20White%20Pearl%2C%20front%20right%20(2).jpg",
+      "gallery": [
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Hatchback%20EX-L%20in%20Platinum%20White%20Pearl%2C%20front%20right%20(2).jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Hatchback%20EX-L%20in%20Platinum%20White%20Pearl%2C%20front%20right.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Hatchback%20EX-L%20in%20Platinum%20White%20Pearl%2C%20rear%20right%20(2).jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Hatchback%20EX-L%20in%20Platinum%20White%20Pearl%2C%20rear%20right.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Hatchback%20Sport.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Sport%20Touring%20liftback%2C%20rear%206.18.22.jpg"
+      ],
+      "gallery_count": 6,
       "source": "https://automobiles.honda.com/civic-hatchback/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -6152,7 +6159,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 10
       },
       "search_text": "honda civic hatchback 2026 compact hatchback hatchback / wagon gas / hybrid fwd current u.s. retail model compact hatchback; hybrid available"
@@ -6270,9 +6277,16 @@
         }
       ],
       "key_detail": "Manual performance Civic",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Si%20in%20Blazing%20Orange%20Pearl%2C%20Front%20Right%2C%2012-19-2021.jpg",
+      "gallery": [
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Si%20in%20Blazing%20Orange%20Pearl%2C%20Front%20Right%2C%2012-19-2021.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Si%20in%20Blazing%20Orange%20Pearl%2C%20Rear%20Right%2C%2012-19-2021.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/22%20Honda%20Civic%20Si.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/25%20Honda%20Civic%20Si.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Civic%20si.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Civic%20SI%20(49382494616).jpg"
+      ],
+      "gallery_count": 6,
       "source": "https://automobiles.honda.com/civic-si-sedan/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -6296,7 +6310,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 10
       },
       "search_text": "honda civic si 2026 performance sedan sedan turbo gas fwd current u.s. retail model manual performance civic"
@@ -6329,9 +6343,16 @@
         }
       ],
       "key_detail": "Track-focused performance Civic",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Type%20R%201.jpg",
+      "gallery": [
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Type%20R%201.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Type%20R%202.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CIVIC%20TYPE%20R%20(6BA-FL5).jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CIVIC%20TYPE%20R%20(FL5)%20front.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Civic%20Type%20R%20(FL5)%20Rear%20View.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Civic%20Type%20R%202025.jpg"
+      ],
+      "gallery_count": 6,
       "source": "https://automobiles.honda.com/tools/build-and-price",
       "verified_on": "2026-09-16",
       "specs": {
@@ -6355,7 +6376,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 10
       },
       "search_text": "honda civic type r 2026 performance hatchback hatchback / wagon turbo gas fwd current u.s. retail model track-focused performance civic"
@@ -6493,9 +6514,16 @@
         }
       ],
       "key_detail": "California-focused fuel-cell CR-V",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20e-FCEV.jpg",
+      "gallery": [
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20e-FCEV.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20e-FCEV%20rear.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20e-FCEV%20(ZBA-ZC8)%20front.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20e-FCEV%20(ZBA-ZC8)%20rear.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20eFCEV%202025%20at%20Japan%20Mobility%20Show%20JAPAN%20Front.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20eFCEV%202025%20at%20Japan%20Mobility%20Show%20JAPAN%20Rear.jpg"
+      ],
+      "gallery_count": 6,
       "source": "https://automobiles.honda.com/cr-v-fcev/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -6522,7 +6550,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 11
       },
       "search_text": "honda cr-v e:fcev 2026 fuel-cell suv suv / crossover hydrogen fuel cell / plug-in capable fwd current u.s. retail model california-focused fuel-cell cr-v"
@@ -6567,9 +6595,16 @@
         }
       ],
       "key_detail": "Small crossover",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2023%20Honda%20HR-V%20EX-L%20in%20Nordic%20Forest%20Pearl%2C%20Front%20Right%2C%2010-15-2022.jpg",
+      "gallery": [
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2023%20Honda%20HR-V%20EX-L%20in%20Nordic%20Forest%20Pearl%2C%20Front%20Right%2C%2010-15-2022.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2023%20Honda%20HR-V%20EX-L%20in%20Nordic%20Forest%20Pearl%2C%20Rear%20Right%2C%2010-15-2022.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2023%20Honda%20HR-V%20LX%20AWD%2C%20front%20right%2C%2011-13-2022.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2023%20Honda%20HR-V%20LX%20AWD%2C%20rear%20right%2C%2011-13-2022.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20HR-V%20(3rd%20generation%2C%20North%20America)%20IMG%208345.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20HR-V%20(3rd%20generation%2C%20North%20America)%20IMG%208339.jpg"
+      ],
+      "gallery_count": 6,
       "source": "https://automobiles.honda.com/hr-v/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -6593,7 +6628,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 10
       },
       "search_text": "honda hr-v 2027 subcompact suv suv / crossover gas fwd / awd current u.s. retail model small crossover"
@@ -6644,9 +6679,16 @@
         }
       ],
       "key_detail": "Family minivan",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2025%20Honda%20Odyssey%20front%20view.jpg",
+      "gallery": [
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2025%20Honda%20Odyssey%20front%20view.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2025%20Honda%20Odyssey%20rear%20view.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2025%20Honda%20Odyssey%20rear%20view%20(cropped).jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2018%20Honda%20Odyssey%20EX-L%203.5L%2C%20front%208.23.19.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2018%20Honda%20Odyssey%20Touring%203.5L%2C%20front%208.18.19.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2018%20Honda%20Odyssey%20Elite%203.5L%2C%20rear%206.1.19.jpg"
+      ],
+      "gallery_count": 6,
       "source": "https://automobiles.honda.com/odyssey/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -6670,7 +6712,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 10
       },
       "search_text": "honda odyssey 2027 minivan van / minivan gas fwd current u.s. retail model family minivan"
@@ -6909,9 +6951,16 @@
         }
       ],
       "key_detail": "Hybrid sport model",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(7).jpg",
+      "gallery": [
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(7).jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(8).jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(9).jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(10).jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(11).jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(12).jpg"
+      ],
+      "gallery_count": 6,
       "source": "https://automobiles.honda.com/prelude/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -6935,7 +6984,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 10
       },
       "search_text": "honda prelude 2027 sport coupe/liftback hatchback / wagon hybrid fwd current u.s. retail model hybrid sport model"
@@ -6980,9 +7029,16 @@
         }
       ],
       "key_detail": "Electric midsize crossover",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Elite%20(United%20States)%20interior.jpg",
+      "gallery": [
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Elite%20(United%20States)%20interior.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Elite%20(United%20States)%20rear%20view.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Elite%20AWD%20(United%20States)%20front%20view.png",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Elite%20AWD%20(United%20States)%20rear%20view.png",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Touring%2C%20front%207.11.25.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Touring%2C%20rear%207.11.25.jpg"
+      ],
+      "gallery_count": 6,
       "source": "https://automobiles.honda.com/prologue",
       "verified_on": "2026-09-16",
       "specs": {
@@ -7014,7 +7070,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 11
       },
       "search_text": "honda prologue 2026 electric suv suv / crossover battery electric fwd / awd current u.s. retail model electric midsize crossover"
@@ -7077,9 +7133,16 @@
         }
       ],
       "key_detail": "Unibody midsize pickup",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Ridgeline%20(2nd%20generation)%20IMG%207677.jpg",
+      "gallery": [
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Ridgeline%20(2nd%20generation)%20IMG%207677.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Ridgeline%20(2nd%20generation)%20IMG%207681.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/20%20Honda%20Ridgeline%20RTL-E.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2017%20Honda%20Ridgeline%20Black%20Edition.jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tyrrell%20Honda%20-%20Cheyenne%20Wyoming%20(48710656351).jpg",
+        "https://commons.wikimedia.org/wiki/Special:Redirect/file/V10119P004.jpg"
+      ],
+      "gallery_count": 6,
       "source": "https://automobiles.honda.com/ridgeline/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -7105,7 +7168,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
+        "gallery_6": true,
         "detail_fields": 11
       },
       "search_text": "honda ridgeline 2026 midsize pickup pickup / truck gas awd current u.s. retail model unibody midsize pickup"

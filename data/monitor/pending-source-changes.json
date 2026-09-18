@@ -1,161 +1,323 @@
 {
-  "generated": "2026-09-17T04:47:31+00:00",
-  "count": 17,
+  "generated": "2026-09-18T04:46:18+00:00",
+  "count": 35,
   "changes": [
+    {
+      "url": "https://www.subaru.com/vehicles/crosstrek/2026.html",
+      "brand": "Subaru",
+      "model": "Crosstrek",
+      "kind": "model",
+      "previous_fingerprint": "b351ba7e9246e14cf4fce6dfe4d74220df2774a3456f81876f707c5a5c406be5",
+      "new_fingerprint": "96a739f20a6d4fe59853373476fea8b16ab3934b10984c95c9ffac798d2e70fe",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.subaru.com/vehicles/forester/2026.html",
+      "brand": "Subaru",
+      "model": "Forester",
+      "kind": "model",
+      "previous_fingerprint": "3c6d4f857b249400c0c6e34048cdf3013ebb793311f589c363fdbfd8b05c77d5",
+      "new_fingerprint": "7636e6722800431ab1e11d245aaa0c0a1e028d3c9c4cff7424c4b2d979b94f84",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.subaru.com/vehicles/outback/2026.html",
+      "brand": "Subaru",
+      "model": "Outback",
+      "kind": "model",
+      "previous_fingerprint": "2b7dda8f72ad971b6388f0bb74fde6cae636650093ce21233a396570f4b9987c",
+      "new_fingerprint": "a586ffb19bd11b381a2456f1bc1a8f3d15a51df5e6064c9dac0c2f24d3b3ec82",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.subaru.com/vehicles/ascent/2027.html",
+      "brand": "Subaru",
+      "model": "Ascent",
+      "kind": "model",
+      "previous_fingerprint": "0657238bfde21e48bdf5117e02e344a01c0f0a94e4de4dd9d75129952f0eba4a",
+      "new_fingerprint": "e5b3ece93591eb7313d75394bf5046b2d7842c2fb3242e8caa8b6076eb9fe73a",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.subaru.com/vehicles/impreza/2026.html",
+      "brand": "Subaru",
+      "model": "Impreza",
+      "kind": "model",
+      "previous_fingerprint": "15d1e1c2c2b5957750402e970ad57213dabcbbbbf28432ffa85824b03de9c1ac",
+      "new_fingerprint": "8a77d692160af403f47ce0a1f01827ea749521b13a9703f9250e8fda04bf1078",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.subaru.com/vehicles/wrx/2026.html",
+      "brand": "Subaru",
+      "model": "WRX",
+      "kind": "model",
+      "previous_fingerprint": "cbf5e659f45c29ecd6ff4915a42480fa789a8983372e7a43b54b41c97a4be304",
+      "new_fingerprint": "4e16895bde36947ab233ed26b1dc7c96766933771807e6374b9a48c89a9b5f8e",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.subaru.com/vehicles/brz/2027.html",
+      "brand": "Subaru",
+      "model": "BRZ",
+      "kind": "model",
+      "previous_fingerprint": "5f3e0ab37a5761ebf7b34fe585fa1e8ac304e974b6f6bcc127f6cf5e6b217a2c",
+      "new_fingerprint": "c53346c0602bbf2f61c6e5179c6dff35f0a78d08878cf4c76cfc924540e557eb",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.subaru.com/vehicles/solterra/2026.html",
+      "brand": "Subaru",
+      "model": "Solterra",
+      "kind": "model",
+      "previous_fingerprint": "ee59bfe96b449abd0b73bd4c17f442382110c602aeb1111785ceaec857de2acb",
+      "new_fingerprint": "9031ad784e0e8e2a26b42f221c7f92372db25caa3d5b05b53e261e100c3da79e",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.subaru.com/vehicles/trailseeker/2026.html",
+      "brand": "Subaru",
+      "model": "Trailseeker",
+      "kind": "model",
+      "previous_fingerprint": "f4d7d80ed4a70af041e96492756de66e990ec47be40b89d8da746edee7bb9997",
+      "new_fingerprint": "f1c89b5298cb73c418a694fe92a3bbc792ab927fc2338e97fab4a31e56a06095",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
-      "previous_fingerprint": "3a7dacd565529ea9ff2a1cceccecb00c11a3b905a8a09b8b4bb4208c95d0eff9",
-      "new_fingerprint": "b07c0d69ea442df736658331709606915919dcdfcf7e840dfc126583e489d479",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "b07c0d69ea442df736658331709606915919dcdfcf7e840dfc126583e489d479",
+      "new_fingerprint": "2a3321692390c3d8cdaca1eeb59db1d326e11ad55e98e74554d6cd05cfc2764a",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
-      "url": "https://www.chevrolet.com/electric/equinox-ev",
+      "url": "https://www.chevrolet.com/suvs/trax",
       "brand": "Chevrolet",
-      "model": "Equinox EV",
+      "model": "Trax",
       "kind": "model",
-      "previous_fingerprint": "7aad8cc50e6bdcb8af372c9c946d3a2ac224bcc1aaa53781a9205afde2d9d3b4",
-      "new_fingerprint": "afb87b84570b17039f05c82b718607b6b089d8a6c43e890458c0628170754b17",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "83ca9c5c847159caef23bd9c62dc5506834e4386891d4ecfebb054ce83cbafce",
+      "new_fingerprint": "31bf49e8cee5d1923b6b3dae1f75861bafbab066fb8bff1feec8e941eaf8113d",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
-      "url": "https://www.mazdausa.com/vehicles/cx-50",
-      "brand": "Mazda",
-      "model": "CX-50",
+      "url": "https://www.kia.com/us/en/niro",
+      "brand": "Kia",
+      "model": "Niro",
       "kind": "model",
-      "previous_fingerprint": "b33e2a0f6a604c672bde2261e856c545d512f561b901568530d0e5c0f496d58b",
-      "new_fingerprint": "8df8b4477ed148bfa4424248c6308f32d2db8f9fb7d6dc6cbae4412d3676492e",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "9baa577eea8355d386a2a3e9ba43e7bcd8e0c136c9255a618aa3a09e97674588",
+      "new_fingerprint": "ad731209124c6021e012b46e28072c73d781b36dd3e058941ab715c270eec732",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/media/pressreleases/25004/kia-announces-pricing-for-2027-ev3",
       "brand": "Kia",
       "model": "EV3",
       "kind": "model",
-      "previous_fingerprint": "737c1bb80f1a95d6ddd185fbb8f7f283d726061f57e88ea6516221ff3ea1b19b",
-      "new_fingerprint": "f53c0ecdfe00c9a03e90513e877703d9a54e8dbbffb6c1ddd5979b436ff38e3a",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "f53c0ecdfe00c9a03e90513e877703d9a54e8dbbffb6c1ddd5979b436ff38e3a",
+      "new_fingerprint": "d0b91e29e0326fc6b7b0d4e0ce7e730223566d150f5ee166b98e65e4a0fe298a",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4/2026/pricing",
       "brand": "Kia",
       "model": "K4",
       "kind": "model",
-      "previous_fingerprint": "cc9e02bf82a3ecbe1ede1914371a80e72cb1c28ddddef4b4d60f274fd35c0072",
-      "new_fingerprint": "af690da47e9e598e5aaabcfa623e0418ad62b915849ac256be746c0354af215a",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "af690da47e9e598e5aaabcfa623e0418ad62b915849ac256be746c0354af215a",
+      "new_fingerprint": "a1639580d4bcb3324d99c82828e03c155c8d76c5b0e73c4f25e4c5d3c954eb29",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4-hatchback/2026/pricing",
       "brand": "Kia",
       "model": "K4 Hatchback",
       "kind": "model",
-      "previous_fingerprint": "c22e8e044b9ab65fbb6ddfffb2021e23308052345c5e4900b9715679b573cbed",
-      "new_fingerprint": "1836df5860f5c568dde15b7f350a5612bcaebff299c2a9ef756a10bdb99553df",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "1836df5860f5c568dde15b7f350a5612bcaebff299c2a9ef756a10bdb99553df",
+      "new_fingerprint": "615aa56b061ecde0a17efb183853bded3fe86d1bed6c70a35d8047ea79a7d684",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/seltos/2027/pricing",
       "brand": "Kia",
       "model": "Seltos",
       "kind": "model",
-      "previous_fingerprint": "a2699bd13f717f18a8d60ac3b75f78896ea0613e2ee5b7f3a0cb36f27e241dfc",
-      "new_fingerprint": "0c1c180b58f3c3e821fb3f1b14a50934a02be2ea8a43f1289c25590b52ebbf73",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "0c1c180b58f3c3e821fb3f1b14a50934a02be2ea8a43f1289c25590b52ebbf73",
+      "new_fingerprint": "69b224a688a0bec2cb610ddee02cdb8945f1e6f00942a0d396fde2561e2c421c",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
       "url": "https://www.jeep.com/gladiator.html",
       "brand": "Jeep",
       "model": "Gladiator",
       "kind": "model",
-      "previous_fingerprint": "76eda848141c64c344cca85bde22f10bc64a60f13d66e5ba77f8c5587b3426bf",
-      "new_fingerprint": "93759a2b47cb36771eed1e0e09ea3cfc2e41fe87821df84dc7c5cc18a7c996dc",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "93759a2b47cb36771eed1e0e09ea3cfc2e41fe87821df84dc7c5cc18a7c996dc",
+      "new_fingerprint": "c08b59fcb8dd2cc0d72f8e22cba50ef2503b7561d47ed1f85457ef464caab245",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
-      "url": "https://www.jeep.com/compass.html",
-      "brand": "Jeep",
-      "model": "Compass",
+      "url": "https://www.hyundaiusa.com/us/en/vehicles/venue/compare-specs",
+      "brand": "Hyundai",
+      "model": "Venue",
       "kind": "model",
-      "previous_fingerprint": "548d62e05bf8a36c37d4c4f9278f690566c301cb58159d4564cd267f4a97d614",
-      "new_fingerprint": "ee8b66071cbcaee69b28ba4a1fb42ea32436c65405f6067407c7392720b44b2b",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "73c98d2ffc91f2a1ef8068132fac30adb3f6f7ab34d252f9577229ca1c656ba3",
+      "new_fingerprint": "05cd77af3990e6982dad6d25f8948e5c31cf88f7425eb6131a4e708b77d0069e",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
-      "url": "https://www.porsche.com/usa/models/911/configure/",
-      "brand": "Porsche",
-      "model": "911",
+      "url": "https://www.hyundaiusa.com/us/en/vehicles/kona/compare-specs",
+      "brand": "Hyundai",
+      "model": "Kona",
       "kind": "model",
-      "previous_fingerprint": "a9f2aa0923dd5abf6ee15be065b10bfe2617e4f5961cef8d6be9654d5caca1b3",
-      "new_fingerprint": "56dc9b2d33d8ea3472ca2cebd547b4ac3ace388dcb7bcc7a94981598e4ee8ac7",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "6ffcf82a28e5756a56ff02de7e794a8c01922755a61bf17ddaf0268a123a7233",
+      "new_fingerprint": "516aa2849c5d6d112821f53e7d166eb8f597e9f7e48693109fe502ef4330d3ce",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
-      "url": "https://www.porsche.com/usa/models/cayenne/",
-      "brand": "Porsche",
-      "model": "Cayenne",
+      "url": "https://www.hyundaiusa.com/us/en/vehicles/kona-electric/compare-specs",
+      "brand": "Hyundai",
+      "model": "Kona Electric",
       "kind": "model",
-      "previous_fingerprint": "4afbe3d676b7b007ac30808a5bd29f8e071281a0daa0160439a50668106c3fdd",
-      "new_fingerprint": "6e7ba04db4e470a9d6d0aa68b4129f94c9a8a8eddce8e7f932ee2d7283a9b659",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "791514c3b6739e3943440eeb3a1aa603da07b11005e583edfe5c7c01bce413c7",
+      "new_fingerprint": "4ae63d2a7d3c206094a2453ea94b8c6fe42d327d6e28f51e3718700b89930f9c",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
-      "url": "https://www.toyota.com/landcruiser/",
-      "brand": "Toyota",
-      "model": "Land Cruiser",
+      "url": "https://www.hyundaiusa.com/us/en/vehicles/tucson/compare-specs",
+      "brand": "Hyundai",
+      "model": "Tucson",
       "kind": "model",
-      "previous_fingerprint": "f8a3d3fd9df2ee28561d7aa134318fb38844c686bcebdded9e995ceabea2aff1",
-      "new_fingerprint": "b17a60211b1616662dff1fe770b20d580d658c75182118f3cf0422c7cd93e56e",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "3e9dcabc89084fe19e82f0850fb778b0bf98f31e3eabcbf57cbfeebfece7bbaa",
+      "new_fingerprint": "ff92d756960f4dd3cc03e792d0d3ac1e3bf5fb56600bccf6403c737f63fc53be",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
-      "url": "https://www.toyota.com/sequoia/",
-      "brand": "Toyota",
-      "model": "Sequoia",
+      "url": "https://www.hyundaiusa.com/us/en/vehicles/santa-fe/compare-specs",
+      "brand": "Hyundai",
+      "model": "Santa Fe",
       "kind": "model",
-      "previous_fingerprint": "2d83715e071de9698fff92afc3cd3c792012aea5fbf176746d6d492defb394a4",
-      "new_fingerprint": "2ec13250c6dbe3c947ba640df9e8b81148a47511a80d23ddf21bea14389b86ec",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "fec5f631f7bbd0e0838755ca2beff01a396b0eafc8cf11feab0f437073b10cc5",
+      "new_fingerprint": "9578131d9f1006a0d0cd3f3ce75d75debfa70a28a269b89062fdbb7f51798a91",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.hyundaiusa.com/us/en/vehicles/palisade/compare-specs",
+      "brand": "Hyundai",
+      "model": "Palisade",
+      "kind": "model",
+      "previous_fingerprint": "6ae6f88541192adf4e4f4f03813d3459d70d94f9f79f6041275b857a9e930a54",
+      "new_fingerprint": "e2d12a75735d734cc8abd51115f30b82c3c2fc268d7b9eea810f8e3755cf12e3",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.hyundaiusa.com/us/en/vehicles/santa-cruz/compare-specs",
+      "brand": "Hyundai",
+      "model": "Santa Cruz",
+      "kind": "model",
+      "previous_fingerprint": "d83a0baa032d43207bfbc5270275baa0a9af6c42efdc1c3639d9bb4ecce420e9",
+      "new_fingerprint": "7f45defe652a965de1ffbd490a1efda1a891c6a9c472291129d4fa90441b3b06",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.hyundaiusa.com/us/en/vehicles/elantra/compare-specs",
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "kind": "model",
+      "previous_fingerprint": "ac2a72b04f18ed2da3176b0e23a18d977a0e897e9b97fb53defc8746f192f30a",
+      "new_fingerprint": "61ecb57c896f20acfa3b80d1bb92c80b339bd4321987119429bebfe10b7f335e",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.hyundaiusa.com/us/en/vehicles/sonata/compare-specs",
+      "brand": "Hyundai",
+      "model": "Sonata",
+      "kind": "model",
+      "previous_fingerprint": "26f116294b7f721bc488b517413bd6bcc704b4ae0a8354b5b3620e82984271a8",
+      "new_fingerprint": "d079e42e605fa831eebd50327ee7446fbf0ad17b4b0663ca14fd4ff9f25eb760",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5/compare-specs",
+      "brand": "Hyundai",
+      "model": "IONIQ 5",
+      "kind": "model",
+      "previous_fingerprint": "5a28d23262859d7f91b410584ef1d167781d9c9276263fcb3755d17645f537f2",
+      "new_fingerprint": "99f71de17d52a1aac3fed7eb8e3dc0709a4337127e392d975d2462da8f6dba2d",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n",
+      "brand": "Hyundai",
+      "model": "IONIQ 5 N",
+      "kind": "model",
+      "previous_fingerprint": "b0268819f748ff3f30db0bf1aa2f4d56bdd541962510c72fdef43295a4b724f8",
+      "new_fingerprint": "26a7211e7ee104923d8f57ced15c177a8f9ff4aeedd33a8d7f0f2ab4bc1d03d9",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-6/compare-specs",
+      "brand": "Hyundai",
+      "model": "IONIQ 6",
+      "kind": "model",
+      "previous_fingerprint": "afa2439c42d8e31b56ac298b042759a5f55e2b0f0a11156682cd692de01ba53d",
+      "new_fingerprint": "cf55cf96f2cc7e07e2f90500d2e22eca57cadb426410ae2bb10339943d223cff",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-9/compare-specs",
+      "brand": "Hyundai",
+      "model": "IONIQ 9",
+      "kind": "model",
+      "previous_fingerprint": "f7b0cfbcb6f6e152abcdfad560ddfa79553c701629a12f3cfc4cfba58a3c7e77",
+      "new_fingerprint": "6aee83e36e19b728ef756816b54baa3587ca925006faec1ad4bd2d34e6697f44",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
       "url": "https://en.byd.com/",
       "brand": "BYD",
       "model": "",
       "kind": "brand",
-      "previous_fingerprint": "8737db01022b8cdfe63798e0f2d9d5800ea29cd8e34da63d82d231371dcace3d",
-      "new_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_fingerprint": "8737db01022b8cdfe63798e0f2d9d5800ea29cd8e34da63d82d231371dcace3d",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
-      "url": "https://www.gmc.com/suvs/yukon",
-      "brand": "GMC",
-      "model": "Yukon",
+      "url": "https://www.nissanusa.com/vehicles/electric-cars/leaf/specs-trims.html",
+      "brand": "Nissan",
+      "model": "LEAF",
       "kind": "model",
-      "previous_fingerprint": "fc8c75b85c4e6744fb8e01679af516cbfa33430ac4d580139f91cec2f9391b6d",
-      "new_fingerprint": "c89dd650dff8649bdc45d9b91a47c7079b677f1f2d2a0211b164b703043ccd56",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "92c714e6e0f9ee65d245a13f30e8e4d8e591649c75c231fe56971bc12c6e790b",
+      "new_fingerprint": "5ed324e231f02be56999685bc78b4dd1de3047868289dd40aab2454f1347ca67",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
-      "url": "https://www.mbusa.com/en/all-vehicles",
-      "brand": "Mercedes-Benz",
+      "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
+      "brand": "Nissan",
+      "model": "Armada",
+      "kind": "model",
+      "previous_fingerprint": "75e8cda7460a27c606b7d7ef2d14e775db75e473908dff2ee551f490b5ccd15a",
+      "new_fingerprint": "368c13335d61b074fffea2eddcfac9c3731a783cea7a14ceaf53b7c4c804700d",
+      "detected_at": "2026-09-18T04:46:18+00:00"
+    },
+    {
+      "url": "https://www.hyundaiusa.com/us/en/vehicles",
+      "brand": "Hyundai",
       "model": "",
       "kind": "brand-registry",
       "market": "U.S. retail",
-      "previous_fingerprint": "75b16c70645f90fa7c4b774fbd2217fc621aa39ff7926a83ae16ec0197a7b9d7",
-      "new_fingerprint": "911a36d44496513a510df86e5874ab50e8b85652c808b892389448b54e16ca2b",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "previous_fingerprint": "b24f0954c1c00f3f2bcf4b45066609954544179250a64868e095ae358f8d74f3",
+      "new_fingerprint": "3c74a601fd40808ad3bd047459138144fba61057e217064f4b9b8f0a9474aa53",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     },
     {
-      "url": "https://www.bydglobal.com/en/car.html",
-      "brand": "BYD",
+      "url": "https://www.nissanusa.com/vehicles.html",
+      "brand": "Nissan",
       "model": "",
       "kind": "brand-registry",
-      "market": "Global / selected markets",
-      "previous_fingerprint": "fa0688240d88bf83bd4430aa035c6462d419e0bb85f2cabb2f9b9c70489ca67c",
-      "new_fingerprint": "06967d6dde411ef46bb6c93906e8bc6a46c2cd9594f08bc4d627206bab047f86",
-      "detected_at": "2026-09-17T04:47:31+00:00"
+      "market": "U.S. retail",
+      "previous_fingerprint": "90d7bafcdf71cd9799ce28ce7eca90b9719df6de1f9679b662e9f72ba5a9a383",
+      "new_fingerprint": "1e6cf360baabbdac6ee00b62cdfc8952b025d12198bdaedfb85a4931dfee3750",
+      "detected_at": "2026-09-18T04:46:18+00:00"
     }
   ]
 }

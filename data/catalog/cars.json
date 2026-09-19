@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T03:20:48+00:00",
+  "generated": "2026-09-19T03:20:20+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
@@ -3420,42 +3420,21 @@
         }
       ],
       "key_detail": "Body-on-frame off-road SUV",
-      "image": "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A40a30474-1b04-40f2-9bfa-eb6d207cff21/as/26_FRD_BRO_FRDNSUVT0006_A5772_badl_blk_SL_v1.webp?crop-names=1_16x9&max-quality=75&width=3840",
-      "gallery": [
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A40a30474-1b04-40f2-9bfa-eb6d207cff21/as/26_FRD_BRO_FRDNSUVT0006_A5772_badl_blk_SL_v1.webp?crop-names=1_16x9&max-quality=75&width=3840",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A34df9f30-948f-4e03-a9fe-775b7feaaac0/as/26_FRD_BRO_63287_v1.webp?crop-names=1_21x9&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A04714ddf-5d19-46e8-a6da-e70a5602fd18/as/26_bronco_groundclearance_backup.webp?crop-names=1_8x9&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Abea32fec-312e-4935-8dda-d102b5a30e07/as/26_bronco_exterior-hero_backup.webp?crop-names=1_16x7&max-quality=75&width=3840",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Af7b57e6a-34f7-4f02-95af-1c0e9d211314/as/26_FRD_BRO_C11105822_outb_ruby_DoorsOffRoofOff_v2.webp?crop-names=1_8x9&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A2ef6e73b-d45c-4abe-801e-c745d9bb5e03/as/26_bronco_interior-hero_backup.webp?crop-names=1_16x7&max-quality=75&width=3840"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.ford.com/build-price/bronco/choose-model/",
       "verified_on": "2026-09-13",
-      "specs": {
-        "horsepower": "Up to 418 hp",
-        "towing_lbs_up_to": 4500
-      },
-      "details": {
-        "engine": "2.3L EcoBoost I4, available 2.7L EcoBoost V6; Bronco Raptor uses a 3.0L EcoBoost V6",
-        "horsepower": "Up to 300 hp with the 2.3L, 330 hp with the 2.7L, and 418 hp on Bronco Raptor",
-        "torque": "Up to 325 lb-ft with the 2.3L, 415 lb-ft with the 2.7L, and 440 lb-ft on Bronco Raptor",
-        "transmission": "7-speed manual or 10-speed automatic depending on engine and trim",
-        "drivetrain": "4x4",
-        "towing": "Most configurations are rated up to 3,500 lb; Bronco Raptor up to 4,500 lb when properly equipped",
-        "off_road": "Available advanced 4x4 hardware and off-road packages; Raptor is the highest-output factory off-road variant",
-        "seating": "4-5 passengers depending on body/configuration",
-        "technology": "SYNC 4 and Ford driver-assistance/connected features vary by trim",
-        "safety": "Ford Co-Pilot360 driver-assistance features are available/model-dependent"
-      },
+      "specs": {},
+      "details": {},
       "url": "/search/label/Ford#usmodel=Bronco",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
-        "detail_fields": 10
+        "gallery_6": false,
+        "detail_fields": 0
       },
       "search_text": "ford bronco 2026 suv suv / crossover turbo gas 4wd current u.s. retail model body-on-frame off-road suv"
     },
@@ -3505,41 +3484,21 @@
         }
       ],
       "key_detail": "Adventure-focused compact SUV",
-      "image": "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Aced69901-6214-4677-85aa-a97f839e1b4e/as/26_broncosport_bigbend_bronze_blackdiamond_modal_packages_j2.webp?crop-names=1_3x4&max-quality=75&width=768",
-      "gallery": [
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Aced69901-6214-4677-85aa-a97f839e1b4e/as/26_broncosport_bigbend_bronze_blackdiamond_modal_packages_j2.webp?crop-names=1_3x4&max-quality=75&width=768",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A3c4d9215-d1c4-41d7-9bdc-935b5e711756/as/26_bspt_RSF_desktop_tablet.webp?crop-names=1_82x83&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ac08256a8-02e8-4690-b17e-e773e560d5d2/as/FMDV8586000H_2025_Value_Bronco_Sport_Big_Bend_Oxford_White_Running_Footage_1-29_16x9_HD_H264.webp?crop-names=1_2x1&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ad8c7b6a2-6611-4a80-8860-6072cccc4acd/as/26_FRD_BRS_68460_badl_azure_maiza_lima.webp?crop-names=1_1x1&max-quality=75&width=768",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ada936c0d-324c-4180-a5d8-ad675b5f7411/as/26_FRD_BRS_FRDNBRDT0034_badl_crgr.webp?crop-names=1_16x7&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Af2f63396-1ea8-43b9-99aa-891c8de525f0/as/uap_25_ford_new_light_broncosport_bigbend_azugray_16x9.webp?crop-names=1_16x7&max-quality=75&width=1920"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.ford.com/build-price/bronco-sport/choose-model/",
       "verified_on": "2026-09-13",
-      "specs": {
-        "horsepower": "180-250 hp"
-      },
-      "details": {
-        "engine": "1.5L EcoBoost I3 on Big Bend/Heritage/Outer Banks; 2.0L EcoBoost I4 on Badlands",
-        "horsepower": "180 hp (1.5L) or 250 hp (2.0L)",
-        "torque": "200 lb-ft (1.5L) or 280 lb-ft (2.0L)",
-        "transmission": "8-speed automatic; Badlands uses an 8-speed SelectShift automatic",
-        "drivetrain": "4x4; Badlands uses an advanced 4x4 system",
-        "efficiency": "EPA 25/30/27 mpg city/highway/combined on 1.5L models; Badlands about 21/27/23 mpg",
-        "seating": "5 passengers",
-        "technology": "Connected infotainment and Ford driver-assistance features vary by trim",
-        "safety": "Ford Co-Pilot360 driver-assistance features are model-dependent",
-        "key_configuration": "Badlands is the higher-output 2.0L off-road-focused configuration"
-      },
+      "specs": {},
+      "details": {},
       "url": "/search/label/Ford#usmodel=Bronco%20Sport",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
-        "detail_fields": 10
+        "gallery_6": false,
+        "detail_fields": 0
       },
       "search_text": "ford bronco sport 2026 compact suv suv / crossover turbo gas awd current u.s. retail model adventure-focused compact suv"
     },
@@ -3602,43 +3561,21 @@
         }
       ],
       "key_detail": "Multiple electrified powertrains",
-      "image": "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A6ac0a7d4-e279-4605-b6c6-7d076f1181c1/as/26_FRD_ESP_59140_phev_prm_vpbl.webp?crop-names=1_16x7&max-quality=75&width=3840",
-      "gallery": [
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A6ac0a7d4-e279-4605-b6c6-7d076f1181c1/as/26_FRD_ESP_59140_phev_prm_vpbl.webp?crop-names=1_16x7&max-quality=75&width=3840",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Aa00a7524-d401-41d1-a86e-bcb35bba08fa/as/26_FRD_ESP_52226_stln_elt_spsl.webp?crop-names=1_3x2&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A104494f1-2d49-4e7b-bdc9-786ee6a9095d/as/24_FRD_ESP_45943_plt_vpbl.webp?crop-names=1_21x9&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A93ce32a5-ae6c-4e83-bf56-2d5300e121d2/as/26_FRD_ESP_FPDE5570000H_68160.webp?crop-names=1_8x9&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A4b81d192-eafc-470f-8265-eec1bd2084bf/as/23_FRD_ESP_46645.webp?crop-names=1_8x9&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ac3ee210e-72cc-4320-b641-eeb222078d7c/as/26_FRD_ESP_46630_plt_rprd.webp?crop-names=1_3x2&max-quality=75&width=1920"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.ford.com/suvs-crossovers/escape/",
       "verified_on": "2026-09-13",
-      "specs": {
-        "horsepower": "180-250 hp; 192 hp hybrid; 210 hp PHEV",
-        "ev_range_miles": 37,
-        "towing_lbs_up_to": 3500
-      },
-      "details": {
-        "engine": "1.5L EcoBoost I3, available 2.0L EcoBoost I4, 2.5L hybrid, or 2.5L plug-in hybrid",
-        "horsepower": "180 hp (1.5L), 250 hp (2.0L), 192 hp hybrid, 210 hp plug-in hybrid",
-        "torque": "199 lb-ft on the 1.5L; 280 lb-ft on the 2.0L",
-        "transmission": "8-speed automatic on gas models; eCVT on hybrid and plug-in hybrid",
-        "drivetrain": "FWD or AWD depending on powertrain; plug-in hybrid is FWD",
-        "efficiency": "Up to 27/34/30 mpg on 1.5L FWD; hybrid up to 42/36/39 mpg; PHEV rated 101 MPGe combined",
-        "range": "Plug-in hybrid offers about 37 miles of electric-only range",
-        "towing": "Up to 3,500 lb on properly equipped 2.0L EcoBoost configurations",
-        "technology": "Available 13.2-inch SYNC 4 center display with connected smartphone features",
-        "safety": "Ford Co-Pilot360 driver-assistance technologies are available across the lineup"
-      },
+      "specs": {},
+      "details": {},
       "url": "/search/label/Ford#usmodel=Escape",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
-        "detail_fields": 10
+        "gallery_6": false,
+        "detail_fields": 0
       },
       "search_text": "ford escape 2026 compact suv suv / crossover gas / hybrid / plug-in hybrid fwd / awd current u.s. retail model multiple electrified powertrains"
     },
@@ -3688,42 +3625,21 @@
         }
       ],
       "key_detail": "Full-size three-row SUV",
-      "image": "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Aabaa5768-b6da-41c0-ae2f-e61a8982bc1c/as/27_FRD_EPD_FMDV0753100.webp?crop-names=1_82x83&max-quality=75&width=1280",
-      "gallery": [
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Aabaa5768-b6da-41c0-ae2f-e61a8982bc1c/as/27_FRD_EPD_FMDV0753100.webp?crop-names=1_82x83&max-quality=75&width=1280",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A96a990e3-c2a4-4189-895e-9266884dcab3/as/27_FRD_EPD_FMDV0763100_v1.webp?crop-names=1_1x1&max-quality=75&width=1280",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A60e67b66-7976-43f4-a1d0-2857fa666d56/as/27_FRD_EPD_FMDV0810000_v1.webp?crop-names=1_1x1&max-quality=75&width=1280",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A2ab54015-b86b-42cf-85ac-162c66b8ec6f/as/27_FRD_EPD_PLT_30TH_PKG_64300.webp?crop-names=1_21x9&max-quality=75&width=4096",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ab8d730cd-af9c-40e0-9333-19ba10a58a02/as/27_FRD_EPD_TREM_FRDNSUVT0015_RSF_PB_5827_04_01_E_RGB.webp?crop-names=1_21x9&max-quality=75&width=3840",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ac9f58f90-7693-4a6e-9aa7-10b43d04fe6d/as/27_FRD_EPD_PLT_90A3809.webp?crop-names=1_3x2&max-quality=75&width=1280"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.ford.com/build-price/expedition/choose-model/",
       "verified_on": "2026-09-13",
-      "specs": {
-        "horsepower": "400-440 hp",
-        "towing_lbs_up_to": 9600
-      },
-      "details": {
-        "engine": "3.5L EcoBoost V6; high-output 3.5L EcoBoost V6 on Tremor and selected configurations",
-        "horsepower": "400 hp standard; up to 440 hp with the high-output engine",
-        "torque": "480 lb-ft standard; up to 510 lb-ft with the high-output engine",
-        "transmission": "10-speed automatic",
-        "drivetrain": "4x2 or 4x4 depending on trim; Tremor is 4x4",
-        "efficiency": "Typical 2027 ratings are about 16/23 mpg for 4x2 and 15/22 mpg for many 4x4 configurations",
-        "towing": "Up to 9,600 lb on properly equipped configurations",
-        "seating": "7-8 passengers depending on configuration",
-        "technology": "Ford connected infotainment and available hands-free/driver-assistance technology vary by trim",
-        "safety": "Ford Co-Pilot360 driver-assistance technologies are available across the lineup"
-      },
+      "specs": {},
+      "details": {},
       "url": "/search/label/Ford#usmodel=Expedition",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
-        "detail_fields": 10
+        "gallery_6": false,
+        "detail_fields": 0
       },
       "search_text": "ford expedition 2027 full-size suv suv / crossover turbo gas rwd / 4wd current u.s. retail model full-size three-row suv"
     },
@@ -3779,42 +3695,21 @@
         }
       ],
       "key_detail": "Three-row SUV",
-      "image": "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ac2a77763-8d9a-49c7-95dc-b37ff40a0dcf/as/27_FRD_EPR_90A1909_st_vpbl_performance.webp?crop-names=1_3x2&max-quality=75&width=1920",
-      "gallery": [
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ac2a77763-8d9a-49c7-95dc-b37ff40a0dcf/as/27_FRD_EPR_90A1909_st_vpbl_performance.webp?crop-names=1_3x2&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A0a62ad96-a398-44b7-b9f9-51ba4ebfcb0b/as/27_FRD_EPR_400030_st_vpbl_ext.webp?crop-names=1_21x9&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A344e5163-4336-4ffe-bd4e-922350135f05/as/25_exp_interior_Design-Tablet-Final_01.webp?crop-names=1_21x9&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A8e4ac1fc-9926-4bf9-a14d-532dc329f691/as/2027_Ford_Explorer_ST_Sinister_package_16.webp?crop-names=1_82x83&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ac9f556ad-1b17-49cb-9fc1-42dd17bba898/as/27_FRD_EPR_71446_37_st_vpbl_ptl_ruby_vhp.webp?crop-names=1_1x1&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ae33be678-4d63-41ca-aa89-597a6251c1ae/as/2027_explorer_luxleather_vhp.webp?crop-names=1_3x2&max-quality=75&width=1920"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.ford.com/build-price/explorer/choose-model/",
       "verified_on": "2026-09-13",
-      "specs": {
-        "horsepower": "300-400 hp",
-        "towing_lbs_up_to": 5000
-      },
-      "details": {
-        "engine": "2.3L EcoBoost I4 or available 3.0L EcoBoost V6",
-        "horsepower": "300 hp with the 2.3L; 400 hp with the 3.0L V6",
-        "torque": "310 lb-ft with the 2.3L; 415 lb-ft with the 3.0L V6",
-        "transmission": "10-speed automatic",
-        "drivetrain": "RWD or available 4WD depending on trim; Tremor is 4WD",
-        "towing": "Up to 5,000 lb when properly equipped",
-        "seating": "6-7 passengers depending on configuration",
-        "cargo": "Up to about 85.8 cu ft of maximum cargo space",
-        "technology": "Ford Digital Experience with connected infotainment; available BlueCruise on supported configurations",
-        "safety": "Ford Co-Pilot360 driver-assistance features vary by trim"
-      },
+      "specs": {},
+      "details": {},
       "url": "/search/label/Ford#usmodel=Explorer",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
-        "detail_fields": 10
+        "gallery_6": false,
+        "detail_fields": 0
       },
       "search_text": "ford explorer 2027 three-row suv suv / crossover turbo gas rwd / awd current u.s. retail model three-row suv"
     },
@@ -3889,42 +3784,21 @@
         }
       ],
       "key_detail": "Full-size pickup; multiple engines",
-      "image": "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ac82f0a07-060d-4b81-995e-2e53b65c4d85/as/FRDNTRKT0016_Ford_F-Series_W1_3W0A0151_03_S_RGB_Billboard.webp?crop-names=1_16x9&height%5Blayer1%5D=380&layers=layer1&max-quality=75&origin=0p%2C0p&origin%5Blayer1%5D=0p%2C0p&position%5Blayer1%5D=35p%2C34p&source%5Blayer1%5D=urn%3Aaaid%3Aaem%3Acd36ea62-0cc7-4b5e-9b97-93cf4f1d5959&width=4096&width%5Blayer1%5D=380",
-      "gallery": [
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ac82f0a07-060d-4b81-995e-2e53b65c4d85/as/FRDNTRKT0016_Ford_F-Series_W1_3W0A0151_03_S_RGB_Billboard.webp?crop-names=1_16x9&height%5Blayer1%5D=380&layers=layer1&max-quality=75&origin=0p%2C0p&origin%5Blayer1%5D=0p%2C0p&position%5Blayer1%5D=35p%2C34p&source%5Blayer1%5D=urn%3Aaaid%3Aaem%3Acd36ea62-0cc7-4b5e-9b97-93cf4f1d5959&width=4096&width%5Blayer1%5D=380",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Acbcae376-6017-426a-8782-48be43ff3c7f/as/26_Ford_F-150_Pro_Trailer_Backup_Assist_02_230901_Z99P_V2.webp?crop-names=1_3x2&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Aed2b1e2c-8bf4-4d7d-ac19-b7c2c451ee56/as/25_FRD_F15_64400_FRDNTRKK0042.webp?crop-names=1_3x2&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A3e7bfa5f-246a-47f6-9198-c1b8060d2025/as/26_F150_90A9117_V1.webp?crop-names=1_3x2&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A9aae3aba-ff2b-43db-b4aa-7ae5901bd7d4/as/25_FRD_F15_64420.webp?crop-names=1_82x83&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Aedac5eb8-e8c2-46e3-8e35-b04f180dfe04/as/Chase_May_29.webp?crop-names=1_2x1&max-quality=75&width=1920"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.ford.com/build-price/f150/choose-model/",
       "verified_on": "2026-09-13",
-      "specs": {
-        "horsepower": "325-420 hp mainstream; up to 720 hp Raptor R",
-        "towing_lbs_up_to": 13500
-      },
-      "details": {
-        "engine": "Multiple engines including 2.7L/3.5L EcoBoost V6, 5.0L V8 and available 3.5L PowerBoost full hybrid; Raptor offers high-output powertrains",
-        "horsepower": "Lineup spans roughly 325-420 hp on mainstream engines; Raptor up to 450 hp and Raptor R package up to 720 hp",
-        "torque": "Up to 570 lb-ft on PowerBoost configurations; Raptor R package up to 640 lb-ft",
-        "transmission": "10-speed automatic",
-        "drivetrain": "4x2 or 4x4 depending on configuration",
-        "towing": "Maximum conventional towing up to 13,500 lb when properly equipped",
-        "payload": "Maximum available payload up to about 2,440 lb depending on configuration",
-        "seating": "3-6 passengers depending on cab and seating configuration",
-        "technology": "Available Pro Trailer Backup Assist, connected SYNC features and advanced towing technology",
-        "safety": "Ford Co-Pilot360 driver-assistance features vary by configuration"
-      },
+      "specs": {},
+      "details": {},
       "url": "/search/label/Ford#usmodel=F-150",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
-        "detail_fields": 10
+        "gallery_6": false,
+        "detail_fields": 0
       },
       "search_text": "ford f-150 2026 full-size pickup pickup / truck gas / hybrid rwd / 4wd current u.s. retail model full-size pickup; multiple engines"
     },
@@ -3981,42 +3855,21 @@
         }
       ],
       "key_detail": "Compact pickup; hybrid available",
-      "image": "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ab227af99-4185-455c-b804-1824421c34b9/as/25_FRD_MCK_64382.webp?crop-names=1_82x83&max-quality=75&width=1920",
-      "gallery": [
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ab227af99-4185-455c-b804-1824421c34b9/as/25_FRD_MCK_64382.webp?crop-names=1_82x83&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A35d676bb-ab39-4832-98ca-3f953e4931ff/as/26_FRD_MCK_64385_v3.webp?crop-names=1_2x1&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A5b1ff80d-9f6b-45e7-8be6-809a8a0f8c10/as/26_FRD_MCK_FMMV0624000_Maverick_Launch_KeyVisual_18.webp?crop-names=1_1x1&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A9bb87593-fe80-40fe-8870-7d0cf303b284/as/26_FRD_MCK_63398_C10861122.webp?crop-names=1_16x9&max-quality=75&width=3840",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Abd1aee97-5e65-40ff-baf1-53b6bbabc650/as/25_FRD_MAV_53138_V2.webp?crop-names=1_8x9&max-quality=75&width=3840",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A46f56a21-4a3e-4994-ae31-c0fa424d017c/as/25_FRD_MAV_63396_v2.webp?crop-names=1_8x9&max-quality=75&width=3840"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.ford.com/build-price/maverick/choose-model/",
       "verified_on": "2026-09-13",
-      "specs": {
-        "horsepower": "Hybrid or 250 hp EcoBoost",
-        "towing_lbs_up_to": 4000
-      },
-      "details": {
-        "engine": "2.5L hybrid or 2.0L EcoBoost turbocharged gas engine depending on trim",
-        "horsepower": "Hybrid system or 250 hp 2.0L EcoBoost depending on configuration",
-        "torque": "2.0L EcoBoost produces 280 lb-ft",
-        "transmission": "eCVT on hybrid; 8-speed automatic on most EcoBoost models; Lobo uses a 7-speed quick-shift automatic",
-        "drivetrain": "FWD or AWD depending on configuration; Tremor/Lobo use advanced AWD/4WD hardware",
-        "efficiency": "Hybrid FWD rated up to about 42/35/38 mpg city/highway/combined",
-        "towing": "Up to 4,000 lb when properly equipped with the applicable tow package",
-        "seating": "5 passengers",
-        "technology": "Connected infotainment and Ford truck utility features vary by trim",
-        "safety": "Ford Co-Pilot360 driver-assistance features are model-dependent"
-      },
+      "specs": {},
+      "details": {},
       "url": "/search/label/Ford#usmodel=Maverick",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
-        "detail_fields": 10
+        "gallery_6": false,
+        "detail_fields": 0
       },
       "search_text": "ford maverick 2026 compact pickup pickup / truck gas / hybrid fwd / awd current u.s. retail model compact pickup; hybrid available"
     },
@@ -4084,41 +3937,21 @@
         }
       ],
       "key_detail": "Iconic rear-drive sports car",
-      "image": "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Adb43c164-9c2b-4e08-8760-d8b7eb48d52b/as/26_FRD_MST_60983_GT_Conv_Orange_Fury.webp?crop-names=1_16x7&max-quality=75&width=1920",
-      "gallery": [
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Adb43c164-9c2b-4e08-8760-d8b7eb48d52b/as/26_FRD_MST_60983_GT_Conv_Orange_Fury.webp?crop-names=1_16x7&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A3df378c9-3855-46ea-b020-1cd816bdf59c/as/2026_Mustang_FX_Package_08.webp?crop-names=1_16x7&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A39cb22db-b1a1-4879-a940-5978a9d90cb2/as/25_FRD_MST_61044.webp?crop-names=1_16x7&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A04a66237-cf73-4326-9ac0-b089e49da776/as/25_S5A1004_1d_V1.webp?crop-names=1_16x7&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Aaa1b323a-5bdf-4595-b4f0-fa0e846fe4e0/as/2025_Mustang_Interior_10_pk.webp?crop-names=1_16x7&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ac8333fb4-ae88-40eb-980e-efb78baa3c6c/as/25_FRD_MST_60987.webp?crop-names=1_16x7&max-quality=75&width=1920"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.ford.com/build-price/mustang/choose-model/",
       "verified_on": "2026-09-13",
-      "specs": {
-        "horsepower": "315-795 hp"
-      },
-      "details": {
-        "engine": "2.3L EcoBoost I4, 5.0L Coyote V8, or 5.2L supercharged V8 on Dark Horse SC",
-        "horsepower": "315 hp EcoBoost; 480-486 hp GT depending on exhaust; 500 hp Dark Horse; up to 795 hp Dark Horse SC",
-        "torque": "350 lb-ft EcoBoost; up to 418 lb-ft on GT/Dark Horse; 660 lb-ft Dark Horse SC",
-        "transmission": "10-speed automatic or available 6-speed manual on V8 performance models",
-        "drivetrain": "RWD",
-        "seating": "4 passengers",
-        "performance": "GT and Dark Horse add progressively higher-output V8 performance hardware; Dark Horse SC is the highest-output listed 2026 variant",
-        "technology": "Digital cockpit and connected SYNC features; performance displays and drive modes vary by trim",
-        "safety": "Ford Co-Pilot360 driver-assistance features vary by trim",
-        "body_styles": "Fastback and convertible configurations are offered depending on trim"
-      },
+      "specs": {},
+      "details": {},
       "url": "/search/label/Ford#usmodel=Mustang",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
-        "detail_fields": 10
+        "gallery_6": false,
+        "detail_fields": 0
       },
       "search_text": "ford mustang 2026 sports coupe/convertible sports / coupe gas rwd current u.s. retail model iconic rear-drive sports car"
     },
@@ -4168,42 +4001,21 @@
         }
       ],
       "key_detail": "Electric performance crossover",
-      "image": "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ae6962bb3-3009-4a41-9381-bf1601dcfed7/as/26_FRD_MME_C1055102_prem_stwhite.webp?crop-names=1_3x4&max-quality=75&width=768",
-      "gallery": [
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ae6962bb3-3009-4a41-9381-bf1601dcfed7/as/26_FRD_MME_C1055102_prem_stwhite.webp?crop-names=1_3x4&max-quality=75&width=768",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Acc999f38-7198-4867-970b-a021ed3d455e/as/26my-mme-ambient-light-interior-blue.webp?crop-names=1_16x7&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Aaf00ff96-95ec-4468-8b00-017dfaabf9bd/as/26_FRD_MCH_48120_Prem_RaceRed.webp?crop-names=1_16x7&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A39133787-7f5c-4951-844e-7b8e1572fb5d/as/26_MachESTARWHITEBLUE6054_r4.webp?crop-names=1_16x7&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A8e53bbe1-170d-4632-ac74-51ff0a358447/as/26_FRD_MME_FRDNPERA0001_gt_velblue.webp?crop-names=1_16x7&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A373c56f7-5fb4-43ef-9a18-7384b957840b/as/Mustang_Mach-E_California_Special_26MY_R7A2236-1d_V1.webp?crop-names=1_16x7&max-quality=75&width=1920"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.ford.com/build-price/mach-e/choose-model/",
       "verified_on": "2026-09-13",
-      "specs": {
-        "horsepower": "Approx. 264-480 hp",
-        "range_miles_up_to": 320
-      },
-      "details": {
-        "engine": "Battery-electric powertrain with rear-motor RWD or dual-motor eAWD depending on configuration",
-        "horsepower": "About 264-272 hp on RWD variants; 325-370 hp on many eAWD configurations; GT/Rally up to 480 hp",
-        "torque": "About 387 lb-ft RWD; 500 lb-ft eAWD; GT/Rally up to 700 lb-ft with performance configuration",
-        "transmission": "Single-speed reduction gear",
-        "drivetrain": "RWD or eAWD",
-        "range": "Up to about 320 miles EPA-estimated on an extended-range RWD Premium; other configurations vary",
-        "battery": "Standard-range and extended-range batteries; current database uses 73-kWh and 88-kWh configurations where applicable",
-        "seating": "5 passengers",
-        "technology": "SYNC-based connected EV interface with available advanced driver-assistance features",
-        "safety": "Ford Co-Pilot360 driver-assistance features are model-dependent"
-      },
+      "specs": {},
+      "details": {},
       "url": "/search/label/Ford#usmodel=Mustang%20Mach-E",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
-        "detail_fields": 10
+        "gallery_6": false,
+        "detail_fields": 0
       },
       "search_text": "ford mustang mach-e 2026 electric suv suv / crossover battery electric rwd / awd current u.s. retail model electric performance crossover"
     },
@@ -4253,42 +4065,21 @@
         }
       ],
       "key_detail": "Midsize pickup",
-      "image": "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Aa0121e1a-25dc-4988-bec5-32b6504ecd82/as/p703_fna_shot_01_ext_night_camping_2_car_animation_1920x840.webp?crop-names=1_21x9&max-quality=75&width=1440",
-      "gallery": [
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Aa0121e1a-25dc-4988-bec5-32b6504ecd82/as/p703_fna_shot_01_ext_night_camping_2_car_animation_1920x840.webp?crop-names=1_21x9&max-quality=75&width=1440",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A0d724eff-6a47-4269-b21d-a5b05c89fe47/as/26_FRD_RGR_68507_lariat_blk_app_pkg_desert_trail_v2.webp?crop-names=1_8x9&max-quality=75&width=1440",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ac8987bb0-b04b-40ea-b8c3-aba57556b97a/as/25_FRD_RGR_R7A6286_lar_dsnd.webp?crop-names=1_8x9&max-quality=75&width=768",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A46df204d-f88c-4393-960a-0bebd012d058/as/25_FRD_RGR_61297_lar_fx4_offrd_pkg_oxwh.webp?crop-names=1_8x9&max-quality=75&width=768",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Afe1466d3-f6b0-4360-91f2-66b88a7ef491/as/26_FRD_RGR_61294_lar_fx4_offrd_pkg_dsnd.webp?crop-names=1_8x9&max-quality=75&width=1440",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ae2cfca90-70a4-404c-8022-ec9ff5def93c/as/26_FRD_RGR_26540_lariat_sandstone_full_frame.webp?crop-names=1_21x9&max-quality=75&width=1440"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.ford.com/build-price/ranger/choose-model/",
       "verified_on": "2026-09-13",
-      "specs": {
-        "horsepower": "270-405 hp",
-        "towing_lbs_up_to": 7500
-      },
-      "details": {
-        "engine": "2.3L EcoBoost I4; available 2.7L EcoBoost V6; Ranger Raptor uses a 3.0L EcoBoost V6",
-        "horsepower": "270 hp (2.3L), 315 hp (2.7L), 405 hp (Raptor)",
-        "torque": "310 lb-ft (2.3L), 400 lb-ft (2.7L), 430 lb-ft (Raptor)",
-        "transmission": "10-speed automatic",
-        "drivetrain": "4x2 or 4x4; Raptor is 4x4",
-        "efficiency": "2.3L 4x2 up to about 21/25 mpg; Raptor about 16/18/17 mpg city/highway/combined",
-        "towing": "Up to 7,500 lb on mainstream properly equipped configurations; Raptor up to about 5,510 lb",
-        "seating": "5 passengers",
-        "technology": "Ford truck infotainment and trail/towing features vary by trim",
-        "safety": "Ford Co-Pilot360 driver-assistance features are model-dependent"
-      },
+      "specs": {},
+      "details": {},
       "url": "/search/label/Ford#usmodel=Ranger",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
-        "detail_fields": 10
+        "gallery_6": false,
+        "detail_fields": 0
       },
       "search_text": "ford ranger 2026 midsize pickup pickup / truck turbo gas rwd / 4wd current u.s. retail model midsize pickup"
     },
@@ -4405,42 +4196,21 @@
         }
       ],
       "key_detail": "Heavy-duty F-Series pickup",
-      "image": "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Afb427b84-9d8f-4877-bc1c-869119856a9d/as/27_FRD_FSD_64962_F350_Plt_NeptuneBlue.webp?crop-names=1_16x9&max-quality=75&width=4096",
-      "gallery": [
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Afb427b84-9d8f-4877-bc1c-869119856a9d/as/27_FRD_FSD_64962_F350_Plt_NeptuneBlue.webp?crop-names=1_16x9&max-quality=75&width=4096",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A2f485293-6e52-485a-8861-4497b5928a8a/as/27_FRD_FSD_65060_F350_PLAT_StWh_pk.webp?crop-names=1_21x9&max-quality=75&width=3840",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A115cafdc-1331-4998-a81d-7ee746d8f77c/as/27_FRD_FSD_65400_F250KR_Java.webp?crop-names=1_16x9&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A2341045b-4fee-4bff-8b26-f2d10dadbcf3/as/27_FRD_FPR_69531_f350_xlt_carhrt_crg.webp?crop-names=1_21x9&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A254bd009-b416-4c62-9c7c-72477e06bf93/as/27_FRD_SuperDuty_F350_Lariat_Interior_MH.webp?crop-names=1_3x4&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A4a580849-ac9a-4206-a83a-0fd73817654d/as/27_FRD_FSD_64981_F250_PltPlus_SmkTru_v1.webp?crop-names=1_3x4&max-quality=75&width=1920"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.ford.com/build-price/superduty/choose-model/",
       "verified_on": "2026-09-13",
-      "specs": {
-        "horsepower": "Up to 500 hp",
-        "towing_lbs_up_to": 40000
-      },
-      "details": {
-        "engine": "7.3L gas V8 or available 6.7L Power Stroke turbo-diesel V8; high-output diesel available on selected configurations",
-        "horsepower": "About 420 hp gas; up to 500 hp with the high-output 6.7L Power Stroke",
-        "torque": "About 445 lb-ft gas; up to 1,200 lb-ft with the high-output diesel",
-        "transmission": "10-speed automatic",
-        "drivetrain": "2WD or 4x4 depending on F-250/F-350/F-450 configuration",
-        "towing": "Gooseneck towing can reach up to about 40,000 lb on properly equipped F-450 configurations",
-        "seating": "Cab-dependent seating configurations",
-        "technology": "Available trailer-assist, towing camera and connected truck technologies vary by trim",
-        "safety": "Ford Co-Pilot360 and commercial/trailer driver-assistance features vary by configuration",
-        "lineup": "F-250, F-350 and F-450 configurations span work-truck through luxury and off-road trims"
-      },
+      "specs": {},
+      "details": {},
       "url": "/search/label/Ford#usmodel=Super%20Duty",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
-        "detail_fields": 10
+        "gallery_6": false,
+        "detail_fields": 0
       },
       "search_text": "ford super duty 2027 heavy-duty pickup pickup / truck gas / diesel rwd / 4wd current u.s. retail model heavy-duty f-series pickup"
     },
@@ -4490,43 +4260,21 @@
         }
       ],
       "key_detail": "Cargo/passenger van configurations",
-      "image": "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ae0d33116-96b2-46dd-95b7-824cf5eb6081/as/27_FRD_TRN_CRGV_ICSL_34FrntPassWorkersAtConstructionSite.webp?crop-names=1_82x83&max-quality=75&width=1920",
-      "gallery": [
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Ae0d33116-96b2-46dd-95b7-824cf5eb6081/as/27_FRD_TRN_CRGV_ICSL_34FrntPassWorkersAtConstructionSite.webp?crop-names=1_82x83&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A800177e3-e379-49aa-8dbd-dd1465334736/as/27_FRD_TRN_CRGV_OXWH_57080_C8775018_DdRr2ShotStaticTransitEasternMarket_mj.webp?crop-names=1_2x1&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Abf1341ca-e338-47fb-a62e-33d7f3d4ce8f/as/27_FRD_TRN_47589.webp?crop-names=1_1x1&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3Afdcbecd2-0854-486e-8e18-89d544ba41a9/as/27_FRD_TRN_47568.webp?crop-names=1_1x1&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A186271eb-264c-4b56-a781-060f2ba47bd2/as/FMTN0290000H_2026_E_Transit_Length.webp?crop-names=1_21x9&max-quality=75&width=1920",
-        "https://www.assets.ford.com/adobe/assets/urn%3Aaaid%3Aaem%3A2f1433e1-4d9e-48ae-a964-1c17cad8d5ee/as/FMTN0287000H_2026_E_Transit_Height.webp?crop-names=1_21x9&max-quality=75&width=1280"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://www.ford.com/commercial-trucks/transit-cargo-van/",
       "verified_on": "2026-09-13",
-      "specs": {
-        "horsepower": "275-300 hp gas; electric E-Transit available",
-        "range_miles_up_to": 166,
-        "towing_lbs_up_to": 6900
-      },
-      "details": {
-        "engine": "3.5L PFDi V6 or available 3.5L EcoBoost V6; E-Transit uses a fully electric motor",
-        "horsepower": "275 hp PFDi V6 or up to 300 hp EcoBoost V6",
-        "torque": "260 lb-ft PFDi V6 or 400 lb-ft EcoBoost V6",
-        "transmission": "10-speed automatic on gas models; single-speed electric drive on E-Transit",
-        "drivetrain": "RWD or available Intelligent AWD on gas Transit; E-Transit is RWD",
-        "range": "E-Transit offers up to about 166 miles EPA-estimated range on the low-roof configuration",
-        "towing": "Transit Cargo Van up to 6,900 lb; Passenger Van up to 4,500 lb when properly equipped",
-        "seating": "Cargo Van seats 2; Passenger Van configurations seat up to 15",
-        "technology": "SYNC 4 with 12-inch center display; available 360-degree camera and Ford Pro connected features",
-        "safety": "Ford Co-Pilot360 includes features such as parking sensors, Pre-Collision Assist and Lane-Keeping System"
-      },
+      "specs": {},
+      "details": {},
       "url": "/search/label/Ford#usmodel=Transit",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
-        "detail_fields": 10
+        "gallery_6": false,
+        "detail_fields": 0
       },
       "search_text": "ford transit 2027 commercial van van / minivan gas rwd / awd current u.s. retail model cargo/passenger van configurations"
     },
@@ -6378,16 +6126,9 @@
         }
       ],
       "key_detail": "Compact hatchback; hybrid available",
-      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Hatchback%20EX-L%20in%20Platinum%20White%20Pearl%2C%20front%20right%20(2).jpg",
-      "gallery": [
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Hatchback%20EX-L%20in%20Platinum%20White%20Pearl%2C%20front%20right%20(2).jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Hatchback%20EX-L%20in%20Platinum%20White%20Pearl%2C%20front%20right.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Hatchback%20EX-L%20in%20Platinum%20White%20Pearl%2C%20rear%20right%20(2).jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Hatchback%20EX-L%20in%20Platinum%20White%20Pearl%2C%20rear%20right.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Hatchback%20Sport.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Sport%20Touring%20liftback%2C%20rear%206.18.22.jpg"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://automobiles.honda.com/civic-hatchback/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -6411,7 +6152,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
+        "gallery_6": false,
         "detail_fields": 10
       },
       "search_text": "honda civic hatchback 2026 compact hatchback hatchback / wagon gas / hybrid fwd current u.s. retail model compact hatchback; hybrid available"
@@ -6529,16 +6270,9 @@
         }
       ],
       "key_detail": "Manual performance Civic",
-      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Si%20in%20Blazing%20Orange%20Pearl%2C%20Front%20Right%2C%2012-19-2021.jpg",
-      "gallery": [
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Si%20in%20Blazing%20Orange%20Pearl%2C%20Front%20Right%2C%2012-19-2021.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Si%20in%20Blazing%20Orange%20Pearl%2C%20Rear%20Right%2C%2012-19-2021.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/22%20Honda%20Civic%20Si.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/25%20Honda%20Civic%20Si.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Civic%20si.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Civic%20SI%20(49382494616).jpg"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://automobiles.honda.com/civic-si-sedan/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -6562,7 +6296,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
+        "gallery_6": false,
         "detail_fields": 10
       },
       "search_text": "honda civic si 2026 performance sedan sedan turbo gas fwd current u.s. retail model manual performance civic"
@@ -6595,16 +6329,9 @@
         }
       ],
       "key_detail": "Track-focused performance Civic",
-      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Type%20R%201.jpg",
-      "gallery": [
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Type%20R%201.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2022%20Honda%20Civic%20Type%20R%202.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CIVIC%20TYPE%20R%20(6BA-FL5).jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CIVIC%20TYPE%20R%20(FL5)%20front.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Civic%20Type%20R%20(FL5)%20Rear%20View.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Civic%20Type%20R%202025.jpg"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://automobiles.honda.com/tools/build-and-price",
       "verified_on": "2026-09-16",
       "specs": {
@@ -6628,7 +6355,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
+        "gallery_6": false,
         "detail_fields": 10
       },
       "search_text": "honda civic type r 2026 performance hatchback hatchback / wagon turbo gas fwd current u.s. retail model track-focused performance civic"
@@ -6766,16 +6493,9 @@
         }
       ],
       "key_detail": "California-focused fuel-cell CR-V",
-      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20e-FCEV.jpg",
-      "gallery": [
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20e-FCEV.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20e-FCEV%20rear.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20e-FCEV%20(ZBA-ZC8)%20front.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20e-FCEV%20(ZBA-ZC8)%20rear.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20eFCEV%202025%20at%20Japan%20Mobility%20Show%20JAPAN%20Front.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20CR-V%20eFCEV%202025%20at%20Japan%20Mobility%20Show%20JAPAN%20Rear.jpg"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://automobiles.honda.com/cr-v-fcev/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -6802,7 +6522,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
+        "gallery_6": false,
         "detail_fields": 11
       },
       "search_text": "honda cr-v e:fcev 2026 fuel-cell suv suv / crossover hydrogen fuel cell / plug-in capable fwd current u.s. retail model california-focused fuel-cell cr-v"
@@ -6847,16 +6567,9 @@
         }
       ],
       "key_detail": "Small crossover",
-      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2023%20Honda%20HR-V%20EX-L%20in%20Nordic%20Forest%20Pearl%2C%20Front%20Right%2C%2010-15-2022.jpg",
-      "gallery": [
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2023%20Honda%20HR-V%20EX-L%20in%20Nordic%20Forest%20Pearl%2C%20Front%20Right%2C%2010-15-2022.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2023%20Honda%20HR-V%20EX-L%20in%20Nordic%20Forest%20Pearl%2C%20Rear%20Right%2C%2010-15-2022.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2023%20Honda%20HR-V%20LX%20AWD%2C%20front%20right%2C%2011-13-2022.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2023%20Honda%20HR-V%20LX%20AWD%2C%20rear%20right%2C%2011-13-2022.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20HR-V%20(3rd%20generation%2C%20North%20America)%20IMG%208345.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20HR-V%20(3rd%20generation%2C%20North%20America)%20IMG%208339.jpg"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://automobiles.honda.com/hr-v/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -6880,7 +6593,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
+        "gallery_6": false,
         "detail_fields": 10
       },
       "search_text": "honda hr-v 2027 subcompact suv suv / crossover gas fwd / awd current u.s. retail model small crossover"
@@ -6931,16 +6644,9 @@
         }
       ],
       "key_detail": "Family minivan",
-      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2025%20Honda%20Odyssey%20front%20view.jpg",
-      "gallery": [
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2025%20Honda%20Odyssey%20front%20view.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2025%20Honda%20Odyssey%20rear%20view.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2025%20Honda%20Odyssey%20rear%20view%20(cropped).jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2018%20Honda%20Odyssey%20EX-L%203.5L%2C%20front%208.23.19.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2018%20Honda%20Odyssey%20Touring%203.5L%2C%20front%208.18.19.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2018%20Honda%20Odyssey%20Elite%203.5L%2C%20rear%206.1.19.jpg"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://automobiles.honda.com/odyssey/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -6964,7 +6670,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
+        "gallery_6": false,
         "detail_fields": 10
       },
       "search_text": "honda odyssey 2027 minivan van / minivan gas fwd current u.s. retail model family minivan"
@@ -7203,16 +6909,9 @@
         }
       ],
       "key_detail": "Hybrid sport model",
-      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(7).jpg",
-      "gallery": [
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(7).jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(8).jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(9).jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(10).jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(11).jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Prelude%202.0%20Sport%20HEV%20Hybrid%202026%20(12).jpg"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://automobiles.honda.com/prelude/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -7236,7 +6935,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
+        "gallery_6": false,
         "detail_fields": 10
       },
       "search_text": "honda prelude 2027 sport coupe/liftback hatchback / wagon hybrid fwd current u.s. retail model hybrid sport model"
@@ -7281,16 +6980,9 @@
         }
       ],
       "key_detail": "Electric midsize crossover",
-      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Elite%20(United%20States)%20interior.jpg",
-      "gallery": [
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Elite%20(United%20States)%20interior.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Elite%20(United%20States)%20rear%20view.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Elite%20AWD%20(United%20States)%20front%20view.png",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Elite%20AWD%20(United%20States)%20rear%20view.png",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Touring%2C%20front%207.11.25.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2024%20Honda%20Prologue%20Touring%2C%20rear%207.11.25.jpg"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://automobiles.honda.com/prologue",
       "verified_on": "2026-09-16",
       "specs": {
@@ -7322,7 +7014,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
+        "gallery_6": false,
         "detail_fields": 11
       },
       "search_text": "honda prologue 2026 electric suv suv / crossover battery electric fwd / awd current u.s. retail model electric midsize crossover"
@@ -7385,16 +7077,9 @@
         }
       ],
       "key_detail": "Unibody midsize pickup",
-      "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Ridgeline%20(2nd%20generation)%20IMG%207677.jpg",
-      "gallery": [
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Ridgeline%20(2nd%20generation)%20IMG%207677.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Honda%20Ridgeline%20(2nd%20generation)%20IMG%207681.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/20%20Honda%20Ridgeline%20RTL-E.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/2017%20Honda%20Ridgeline%20Black%20Edition.jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tyrrell%20Honda%20-%20Cheyenne%20Wyoming%20(48710656351).jpg",
-        "https://commons.wikimedia.org/wiki/Special:Redirect/file/V10119P004.jpg"
-      ],
-      "gallery_count": 6,
+      "image": "",
+      "gallery": [],
+      "gallery_count": 0,
       "source": "https://automobiles.honda.com/ridgeline/specs-features-trim-comparison",
       "verified_on": "2026-09-16",
       "specs": {
@@ -7420,7 +7105,7 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": true,
+        "gallery_6": false,
         "detail_fields": 11
       },
       "search_text": "honda ridgeline 2026 midsize pickup pickup / truck gas awd current u.s. retail model unibody midsize pickup"

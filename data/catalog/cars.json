@@ -7187,21 +7187,41 @@
         }
       ],
       "key_detail": "Compact sedan; N performance variant available",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0214-no-talent-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+      "gallery": [
+        "https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0214-no-talent-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0229-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-elantra-0231-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2024-elantra-n-line-0125-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-elantra-n-line-0244-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-elantra-ice-limited-fwd-ultimate-red-en-007?wid=960"
+      ],
+      "gallery_count": 6,
       "source": "https://www.hyundaiusa.com/us/en/vehicles/elantra/compare-specs",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "139 hp hybrid / 147 hp gas / 201 hp N Line"
+      },
+      "details": {
+        "engine": "2.0L MPI inline-4 on most gas trims; 1.6L Turbo-GDI on N Line; 1.6L GDI hybrid system on Hybrid trims",
+        "horsepower": "147 hp on 2.0L gas trims; 201 hp on N Line; 139 hp combined on Hybrid trims",
+        "torque": "132 lb-ft on 2.0L gas trims; 195 lb-ft on N Line",
+        "transmission": "IVT on 2.0L gas trims; 7-speed DCT on N Line; 6-speed DCT on Hybrid trims",
+        "drivetrain": "Front-wheel drive",
+        "efficiency": "Up to 31/40/35 mpg on gas SE; Hybrid Blue up to 51/58 mpg city/highway",
+        "dimensions": "185.4 in length × 71.9 in width × about 55.7 in height; 107.1 in wheelbase",
+        "cargo": "14.2 cu ft trunk volume",
+        "technology": "Available 10.25-inch navigation display, Bose audio, Bluelink+ and wireless/connected features by trim",
+        "safety": "Hyundai SmartSense features include forward-collision assist, blind-spot warning, lane keeping/following assist and related systems by trim"
+      },
       "url": "/search/label/Hyundai#usmodel=Elantra",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 0
+        "gallery_6": true,
+        "detail_fields": 10
       },
       "search_text": "hyundai elantra 2026 compact sedan sedan gas / hybrid fwd current u.s. retail model compact sedan; n performance variant available"
     },
@@ -7257,16 +7277,34 @@
         }
       ],
       "key_detail": "E-GMP electric crossover",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0898-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp",
+      "gallery": [
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0898-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0899-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0232-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0904-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0247-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-0923-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp"
+      ],
+      "gallery_count": 6,
       "source": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5/compare-specs",
       "verified_on": "2026-09-13",
       "specs": {
-        "range_miles_up_to": 318
+        "range_miles_up_to": 318,
+        "horsepower": "168-320 hp",
+        "battery_kwh": "63 / 84"
       },
       "details": {
-        "range": "318 miles"
+        "motor": "Permanent-magnet electric motor; dual-motor AWD available",
+        "horsepower": "168 hp Standard Range RWD; 225 hp long-range RWD; up to 320 hp AWD configurations",
+        "torque": "258 lb-ft RWD; up to 446 lb-ft on AWD configurations",
+        "transmission": "Single-speed reduction gear",
+        "drivetrain": "RWD or AWD depending on trim",
+        "battery": "63-kWh Standard Range or 84-kWh long-range battery",
+        "range": "Up to 318 miles EPA-estimated on long-range RWD; XRT about 259 miles",
+        "efficiency": "Standard Range RWD rated about 115 MPGe combined; other configurations vary by battery and drivetrain",
+        "charging": "800-volt-class E-GMP architecture supports high-power DC fast charging on compatible chargers",
+        "safety": "Hyundai SmartSense driver-assistance features vary by trim"
       },
       "url": "/search/label/Hyundai#usmodel=IONIQ%205",
       "route_type": "database-hash",
@@ -7274,8 +7312,8 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 1
+        "gallery_6": true,
+        "detail_fields": 10
       },
       "search_text": "hyundai ioniq 5 2026 electric crossover suv / crossover battery electric rwd / awd current u.s. retail model e-gmp electric crossover"
     },
@@ -7307,16 +7345,34 @@
         }
       ],
       "key_detail": "High-performance electric crossover",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-n-ne-0537-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+      "gallery": [
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-n-ne-0537-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-n-ne-0543-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-n-ne-0541-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-n-ne-0540-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-n-ne-0536-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-5-n-ne-0539-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp"
+      ],
+      "gallery_count": 6,
       "source": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n",
       "verified_on": "2026-09-13",
       "specs": {
-        "range_miles_up_to": 221
+        "range_miles_up_to": 221,
+        "horsepower": "601 hp; 641 hp with N Grin Boost",
+        "battery_kwh": 84
       },
       "details": {
-        "range": "221 miles"
+        "motor": "Dual electric-motor performance AWD system",
+        "horsepower": "601 hp standard; up to 641 hp with N Grin Boost",
+        "torque": "545 lb-ft standard; up to 568 lb-ft with N Grin Boost",
+        "transmission": "Single-speed reduction gear with N e-shift software simulation",
+        "drivetrain": "AWD",
+        "battery": "84-kWh high-voltage battery",
+        "range": "221 miles EPA-estimated",
+        "efficiency": "About 78 MPGe combined",
+        "performance": "N-specific thermal management, track-focused chassis tuning and regenerative-braking controls",
+        "safety": "Hyundai SmartSense driver-assistance features are included/model-dependent"
       },
       "url": "/search/label/Hyundai#usmodel=IONIQ%205%20N",
       "route_type": "database-hash",
@@ -7324,8 +7380,8 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 1
+        "gallery_6": true,
+        "detail_fields": 10
       },
       "search_text": "hyundai ioniq 5 n 2026 performance electric crossover suv / crossover battery electric awd current u.s. retail model high-performance electric crossover"
     },
@@ -7375,16 +7431,34 @@
         }
       ],
       "key_detail": "Aerodynamic electric sedan",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-6-limited-rwd-transmission-blue-pearl-global-nav?qlt=85&hei=600&fmt=webp-alpha",
+      "gallery": [
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-6-limited-rwd-transmission-blue-pearl-global-nav?qlt=85&hei=600&fmt=webp-alpha",
+        "https://s7d1.scene7.com/is/image/hyundai/2023-ioniq-6-0003-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2023-ioniq-6-0040-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2023-ioniq-6-ce-0049-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2023-ioniq-6-ce-0051-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-ioniq-6-limited-rwd-ultimate-red-pearl-en-007?wid=960"
+      ],
+      "gallery_count": 6,
       "source": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-6/compare-specs",
       "verified_on": "2026-09-13",
       "specs": {
-        "range_miles_up_to": 342
+        "range_miles_up_to": 342,
+        "horsepower": "149 hp Standard Range / 225 hp long-range RWD",
+        "battery_kwh": "53 / 77.4"
       },
       "details": {
-        "range": "342 miles"
+        "motor": "Permanent-magnet synchronous motor; dual-motor AWD available on long-range trims",
+        "horsepower": "149 hp Standard Range RWD; 225 hp long-range RWD; AWD configurations provide higher combined output",
+        "torque": "258 lb-ft on RWD configurations",
+        "transmission": "Single-speed reduction gear",
+        "drivetrain": "RWD or AWD depending on trim",
+        "battery": "53-kWh Standard Range or 77.4-kWh long-range battery",
+        "range": "Up to 342 miles EPA-estimated on SE long-range RWD; Standard Range rated 240 miles",
+        "efficiency": "Up to 135 MPGe combined on Standard Range RWD and 132 MPGe on SE long-range RWD",
+        "charging": "800-volt-class E-GMP electrical architecture supports high-power DC fast charging",
+        "safety": "Hyundai SmartSense driver-assistance features vary by trim"
       },
       "url": "/search/label/Hyundai#usmodel=IONIQ%206",
       "route_type": "database-hash",
@@ -7392,8 +7466,8 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 1
+        "gallery_6": true,
+        "detail_fields": 10
       },
       "search_text": "hyundai ioniq 6 2025 electric sedan sedan battery electric rwd / awd current hyundai usa listed model year during verification aerodynamic electric sedan"
     },
@@ -7455,16 +7529,34 @@
         }
       ],
       "key_detail": "Three-row electric flagship",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-9-me-0019-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+      "gallery": [
+        "https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-9-me-0019-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-9-me-0038-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-9-me-0013-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-9-me-0065-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-9-me-0006-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-ioniq-9-me-0002-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp"
+      ],
+      "gallery_count": 6,
       "source": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-9/compare-specs",
       "verified_on": "2026-09-13",
       "specs": {
-        "range_miles_up_to": 335
+        "range_miles_up_to": 335,
+        "horsepower": "215-422 hp",
+        "battery_kwh": 110.3
       },
       "details": {
-        "range": "335 miles"
+        "motor": "Electric motor system with RWD or dual-motor AWD depending on trim",
+        "horsepower": "215 hp S RWD; 303 hp SE/SEL AWD; 422 hp Limited/Calligraphy AWD",
+        "torque": "258 lb-ft RWD; 446 lb-ft mid AWD; 516 lb-ft performance AWD configurations",
+        "transmission": "Single-speed reduction gear",
+        "drivetrain": "RWD or AWD",
+        "battery": "110.3-kWh high-voltage battery",
+        "range": "Up to 335 miles EPA-estimated on S RWD; AWD trims range roughly 311-320 miles",
+        "efficiency": "Up to about 92 MPGe combined on S RWD",
+        "seating": "6 or 7 passengers depending on trim and seating configuration",
+        "safety": "Hyundai SmartSense driver-assistance features vary by trim"
       },
       "url": "/search/label/Hyundai#usmodel=IONIQ%209",
       "route_type": "database-hash",
@@ -7472,8 +7564,8 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 1
+        "gallery_6": true,
+        "detail_fields": 10
       },
       "search_text": "hyundai ioniq 9 2026 three-row electric suv suv / crossover battery electric rwd / awd current u.s. retail model three-row electric flagship"
     },
@@ -7523,21 +7615,42 @@
         }
       ],
       "key_detail": "Small crossover",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://s7d1.scene7.com/is/image/hyundai/2026-kona-0035-talent-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+      "gallery": [
+        "https://s7d1.scene7.com/is/image/hyundai/2026-kona-0035-talent-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-kona-0062-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-kona-0059-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-kona-0060-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-kona-0054-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-kona-0055-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp"
+      ],
+      "gallery_count": 6,
       "source": "https://www.hyundaiusa.com/us/en/vehicles/kona/compare-specs",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "147-190 hp"
+      },
+      "details": {
+        "engine": "2.0L MPI Atkinson-cycle inline-4 or available 1.6L Turbo-GDI inline-4",
+        "horsepower": "147 hp with the 2.0L; 190 hp with the 1.6L turbo",
+        "torque": "132 lb-ft with the 2.0L; 195 lb-ft with the 1.6L turbo",
+        "transmission": "IVT on 2.0L trims; 8-speed automatic on 1.6L turbo trims",
+        "drivetrain": "FWD with HTRAC AWD available",
+        "efficiency": "Up to 29/34 mpg city/highway on SE; turbo trims about 26/31 mpg",
+        "seating": "5 passengers",
+        "powertrain_choice": "Naturally aspirated economy-focused 2.0L or stronger 1.6L turbo",
+        "technology": "Connected infotainment, digital displays and convenience features vary by trim",
+        "safety": "Hyundai SmartSense driver-assistance features vary by trim",
+        "market": "U.S.-market 2026 Kona gasoline lineup"
+      },
       "url": "/search/label/Hyundai#usmodel=Kona",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 0
+        "gallery_6": true,
+        "detail_fields": 11
       },
       "search_text": "hyundai kona 2026 subcompact suv suv / crossover gas fwd / awd current u.s. retail model small crossover"
     },
@@ -7587,16 +7700,34 @@
         }
       ],
       "key_detail": "Current Hyundai USA listed model year during verification",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://s7d1.scene7.com/is/image/hyundai/2024-kona-ev-sx2ev-0127-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+      "gallery": [
+        "https://s7d1.scene7.com/is/image/hyundai/2024-kona-ev-sx2ev-0127-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2024-kona-ev-sx2ev-0113-talent-iphone-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2024-kona-ev-sx2ev-0115-lightson-nav-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2024-kona-ev-sx2ev-0107-talent2-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2024-kona-ev-sx2ev-0125-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-kona-ev-limited-fwd-ultimate-red-en-007?wid=960"
+      ],
+      "gallery_count": 6,
       "source": "https://www.hyundaiusa.com/us/en/vehicles/kona-electric/compare-specs",
       "verified_on": "2026-09-13",
       "specs": {
-        "range_miles_up_to": 261
+        "range_miles_up_to": 261,
+        "horsepower": "133-201 hp",
+        "battery_kwh": "48.6 / 64.8"
       },
       "details": {
-        "range": "261 miles"
+        "motor": "Permanent-magnet electric motor driving the front wheels",
+        "horsepower": "133 hp Standard Range; 201 hp on SEL, N Line and Limited",
+        "torque": "188 lb-ft",
+        "transmission": "Single-speed reduction gear",
+        "drivetrain": "FWD",
+        "battery": "48.6-kWh Standard Range or 64.8-kWh long-range battery",
+        "range": "200 miles Standard Range; up to 261 miles on long-range SEL/Limited",
+        "efficiency": "Up to about 118 MPGe combined on Standard Range and 116 MPGe on long-range SEL/Limited",
+        "seating": "5 passengers",
+        "safety": "Hyundai SmartSense driver-assistance features vary by trim"
       },
       "url": "/search/label/Hyundai#usmodel=Kona%20Electric",
       "route_type": "database-hash",
@@ -7604,8 +7735,8 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 1
+        "gallery_6": true,
+        "detail_fields": 10
       },
       "search_text": "hyundai kona electric 2025 vehicle vehicle  fwd current hyundai usa listed model year during verification current hyundai usa listed model year during verification"
     },
@@ -7698,21 +7829,43 @@
         }
       ],
       "key_detail": "Flagship three-row SUV; hybrid available",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://s7d1.scene7.com/is/image/hyundai/2027-palisade-calligraphy-black-ink-abyss-black-global-nav?qlt=85&hei=600&fmt=webp-alpha",
+      "gallery": [
+        "https://s7d1.scene7.com/is/image/hyundai/2027-palisade-calligraphy-black-ink-abyss-black-global-nav?qlt=85&hei=600&fmt=webp-alpha",
+        "https://s7d1.scene7.com/is/image/hyundai/2027-palisade-calligraphy-robust-emerald-pearl-global-nav?qlt=85&hei=600&fmt=webp-alpha",
+        "https://s7d1.scene7.com/is/image/hyundai/2027-palisade-0398-for-hev-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2027-palisade-0171-for-hev-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-palisade-0206-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-palisade-0181-freestyle-final-layered-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp"
+      ],
+      "gallery_count": 6,
       "source": "https://www.hyundaiusa.com/us/en/vehicles/palisade/compare-specs",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "287 hp gas / 329 hp hybrid",
+        "towing_lbs_up_to": 4000
+      },
+      "details": {
+        "engine": "3.5L V6 on gas trims; 2.5L turbocharged hybrid system on Hybrid trims",
+        "horsepower": "287 hp gas; 329 hp combined hybrid output",
+        "torque": "260 lb-ft gas; 339 lb-ft hybrid system output",
+        "transmission": "8-speed automatic on gas trims; 6-speed automatic on Hybrid trims",
+        "drivetrain": "FWD with HTRAC AWD available; XRT PRO uses AWD",
+        "efficiency": "Gas FWD configurations are around 19/26 mpg city/highway; Hybrid trims reach roughly 31-35 mpg depending on grade",
+        "towing": "Hybrid trims are rated up to 4,000 lb; gas tow rating varies by configuration/equipment",
+        "seating": "7 or 8 passengers depending on trim and second-row seating",
+        "technology": "Large-screen connected infotainment and premium convenience features vary by trim",
+        "safety": "Hyundai SmartSense driver-assistance features vary by trim",
+        "powertrain_choice": "Available with conventional V6 gasoline or turbo-hybrid powertrain"
+      },
       "url": "/search/label/Hyundai#usmodel=Palisade",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 0
+        "gallery_6": true,
+        "detail_fields": 11
       },
       "search_text": "hyundai palisade 2027 three-row suv suv / crossover gas / hybrid fwd / awd current u.s. retail model flagship three-row suv; hybrid available"
     },
@@ -7768,21 +7921,43 @@
         }
       ],
       "key_detail": "Sport adventure vehicle",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://s7d1.scene7.com/is/image/hyundai/2025-santa-cruz-0002-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+      "gallery": [
+        "https://s7d1.scene7.com/is/image/hyundai/2025-santa-cruz-0002-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-santa-cruz-0086-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-santa-cruz-limited-awd-hampton-gray-en-007?wid=960",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-santa-cruz-0098-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-santa-cruz-0120-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-santa-cruz-0097-lights-on-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp"
+      ],
+      "gallery_count": 6,
       "source": "https://www.hyundaiusa.com/us/en/vehicles/santa-cruz/compare-specs",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "191-281 hp",
+        "towing_lbs_up_to": 5000
+      },
+      "details": {
+        "engine": "2.5L naturally aspirated inline-4 or available 2.5L turbocharged inline-4",
+        "horsepower": "191 hp base engine; 281 hp turbo",
+        "torque": "181 lb-ft base engine; 311 lb-ft turbo",
+        "transmission": "8-speed automatic",
+        "drivetrain": "FWD with HTRAC AWD available; XRT and Limited are AWD",
+        "efficiency": "Up to 22/30 mpg city/highway on 2.5L FWD; turbo AWD about 18/25 mpg",
+        "towing": "Up to 3,500 lb with the base engine and 5,000 lb on turbo AWD configurations when properly equipped",
+        "seating": "5 passengers",
+        "bed": "Compact pickup bed with integrated utility/storage features",
+        "technology": "Connected infotainment and truck-utility features vary by trim",
+        "safety": "Hyundai SmartSense driver-assistance features vary by trim"
+      },
       "url": "/search/label/Hyundai#usmodel=Santa%20Cruz",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 0
+        "gallery_6": true,
+        "detail_fields": 11
       },
       "search_text": "hyundai santa cruz 2026 compact pickup pickup / truck gas fwd / awd current u.s. retail model sport adventure vehicle"
     },
@@ -7863,21 +8038,43 @@
         }
       ],
       "key_detail": "Three-row-capable midsize SUV",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://s7d1.scene7.com/is/image/hyundai/2027-santa-fe-0148-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+      "gallery": [
+        "https://s7d1.scene7.com/is/image/hyundai/2027-santa-fe-0148-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2027-santa-fe-0154-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2027-santa-fe-0150-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2027-santa-fe-0173-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2027-santa-fe-0152-gallery:4-3?wid=800&hei=600&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2027-santa-fe-0147-gallery-02:7-5?wid=700&hei=500&qlt=85,0&fmt=webp"
+      ],
+      "gallery_count": 6,
       "source": "https://www.hyundaiusa.com/us/en/vehicles/santa-fe/compare-specs",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "277 hp gas / 231 hp hybrid",
+        "towing_lbs_up_to": 4500
+      },
+      "details": {
+        "engine": "2.5L Turbo-GDI inline-4 on gas trims; 1.6L Turbo-GDI hybrid system on Hybrid trims",
+        "horsepower": "277 hp gas; 231 hp combined hybrid output",
+        "torque": "311 lb-ft gas; 271 lb-ft hybrid",
+        "transmission": "8-speed automatic on gas trims; 6-speed automatic on Hybrid trims",
+        "drivetrain": "FWD with HTRAC AWD available; XRT uses AWD",
+        "efficiency": "Gas FWD trims up to about 20/29 mpg; Hybrid trims around 37/36 mpg city/highway",
+        "towing": "3,500 lb on most gas trims, 4,500 lb on XRT, and 2,000 lb on Hybrid trims when properly equipped",
+        "seating": "6 or 7 passengers depending on configuration",
+        "technology": "Three-row family SUV with connected infotainment and premium convenience features by trim",
+        "safety": "Hyundai SmartSense driver-assistance features vary by trim",
+        "powertrain_choice": "Gas turbo or turbo-hybrid"
+      },
       "url": "/search/label/Hyundai#usmodel=Santa%20Fe",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 0
+        "gallery_6": true,
+        "detail_fields": 11
       },
       "search_text": "hyundai santa fe 2027 midsize suv suv / crossover gas / hybrid fwd / awd current u.s. retail model three-row-capable midsize suv"
     },
@@ -7940,21 +8137,42 @@
         }
       ],
       "key_detail": "Midsize sedan",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://s7d1.scene7.com/is/image/hyundai/2026-sonata-hev-limited-fwd-aero-silver-metallic-global-nav?qlt=85&hei=600&fmt=webp-alpha",
+      "gallery": [
+        "https://s7d1.scene7.com/is/image/hyundai/2026-sonata-hev-limited-fwd-aero-silver-metallic-global-nav?qlt=85&hei=600&fmt=webp-alpha",
+        "https://s7d1.scene7.com/is/image/hyundai/2025-sonata-n-line-fwd-serenity-white-global-nav?qlt=85&hei=600&fmt=webp-alpha",
+        "https://s7d1.scene7.com/is/image/hyundai/2024-sonata-hev-dn8hev-0455-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2024-sonata-hev-dn8hev-0460-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2024-sonata-dn8-n-line-0361-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2024-sonata-dn8-n-line-0372-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp"
+      ],
+      "gallery_count": 6,
       "source": "https://www.hyundaiusa.com/us/en/vehicles/sonata/compare-specs",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "191 hp gas / 290 hp N Line / 192 hp hybrid"
+      },
+      "details": {
+        "engine": "2.5L inline-4, 2.5L Turbo-GDI on N Line, or 2.0L hybrid system",
+        "horsepower": "191 hp base gas; 290 hp N Line; 192 hp combined hybrid output",
+        "torque": "181 lb-ft base gas; 311 lb-ft N Line",
+        "transmission": "8-speed automatic gas; 8-speed wet DCT N Line; 6-speed automatic Hybrid",
+        "drivetrain": "FWD; HTRAC AWD available on SEL Sport",
+        "efficiency": "Gas SE up to 28/38 mpg; Blue Hybrid up to 47/56 mpg city/highway",
+        "seating": "5 passengers",
+        "performance": "N Line adds the 290-hp turbo engine and performance-focused chassis tuning",
+        "technology": "Connected infotainment, available Bose audio and digital convenience features vary by trim",
+        "safety": "Hyundai SmartSense driver-assistance features vary by trim",
+        "powertrain_choice": "Gas, turbo-performance or hybrid"
+      },
       "url": "/search/label/Hyundai#usmodel=Sonata",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 0
+        "gallery_6": true,
+        "detail_fields": 11
       },
       "search_text": "hyundai sonata 2026 midsize sedan sedan gas / hybrid fwd / awd current u.s. retail model midsize sedan"
     },
@@ -8053,21 +8271,44 @@
         }
       ],
       "key_detail": "Compact crossover with electrified options",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://s7d1.scene7.com/is/image/hyundai/2026-tucson-0264-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+      "gallery": [
+        "https://s7d1.scene7.com/is/image/hyundai/2026-tucson-0264-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-tucson-0265-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-tucson-limited-fwd-ultimate-red-en-007?wid=960",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-tucson-0292-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-tucson-0284-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-tucson-0287-gallery:7-5?wid=700&hei=500&qlt=85,0&fmt=webp"
+      ],
+      "gallery_count": 6,
       "source": "https://www.hyundaiusa.com/us/en/vehicles/tucson/compare-specs",
       "verified_on": "2026-09-13",
-      "specs": {},
-      "details": {},
+      "specs": {
+        "horsepower": "187 hp gas / 231 hp hybrid / 268 hp PHEV",
+        "ev_range_miles": 32,
+        "towing_lbs_up_to": 2750
+      },
+      "details": {
+        "engine": "2.5L inline-4 gas; 1.6L Turbo-GDI hybrid; 1.6L Turbo-GDI plug-in hybrid",
+        "horsepower": "187 hp gas; 231 hp Hybrid; 268 hp Plug-in Hybrid",
+        "transmission": "8-speed automatic gas; 6-speed automatic on Hybrid and Plug-in Hybrid",
+        "drivetrain": "FWD or HTRAC AWD depending on powertrain/trim; Plug-in Hybrid is AWD",
+        "efficiency": "Gas FWD up to 25/33 mpg; Hybrid up to 40/35 mpg city/highway",
+        "ev_range": "Plug-in Hybrid provides 32 miles of EPA-estimated electric range",
+        "towing": "Gas Tucson up to 2,750 lb with trailer brakes; Hybrid and Plug-in Hybrid up to 2,000 lb",
+        "seating": "5 passengers",
+        "technology": "Available dual 12.3-inch displays, connected infotainment and convenience features by trim",
+        "safety": "Hyundai SmartSense driver-assistance features vary by trim",
+        "powertrain_choice": "Gas, hybrid or plug-in hybrid"
+      },
       "url": "/search/label/Hyundai#usmodel=Tucson",
       "route_type": "database-hash",
       "data_quality": {
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 0
+        "gallery_6": true,
+        "detail_fields": 11
       },
       "search_text": "hyundai tucson 2026 compact suv suv / crossover gas / hybrid / plug-in hybrid fwd / awd current u.s. retail model compact crossover with electrified options"
     },
@@ -8111,16 +8352,32 @@
         }
       ],
       "key_detail": "Entry crossover",
-      "image": "",
-      "gallery": [],
-      "gallery_count": 0,
+      "image": "https://s7d1.scene7.com/is/image/hyundai/2026-venue-0107-v2-vlp:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+      "gallery": [
+        "https://s7d1.scene7.com/is/image/hyundai/2026-venue-0107-v2-vlp:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-venue-0041-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-venue-0106-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-venue-0108-gallery:1-1?wid=1024&hei=1024&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-venue-0104-v8-gallery:16-9?wid=1440&hei=810&qlt=85,0&fmt=webp",
+        "https://s7d1.scene7.com/is/image/hyundai/2026-venue-0111-gallery:1-1?wid=1024&hei=1024&qlt=85,0&fmt=webp"
+      ],
+      "gallery_count": 6,
       "source": "https://www.hyundaiusa.com/us/en/vehicles/venue/compare-specs",
       "verified_on": "2026-09-13",
       "specs": {
         "horsepower": 121
       },
       "details": {
-        "horsepower": "121 hp"
+        "engine": "1.6L DPI inline-4",
+        "horsepower": "121 hp",
+        "torque": "113 lb-ft",
+        "transmission": "Intelligent Variable Transmission (IVT)",
+        "drivetrain": "Front-wheel drive",
+        "efficiency": "29/33 mpg city/highway",
+        "seating": "5 passengers",
+        "body": "Subcompact crossover SUV",
+        "technology": "Touchscreen infotainment, smartphone integration and convenience equipment vary by trim",
+        "safety": "Hyundai SmartSense driver-assistance features vary by trim"
       },
       "url": "/search/label/Hyundai#usmodel=Venue",
       "route_type": "database-hash",
@@ -8128,8 +8385,8 @@
         "official_source": true,
         "verified_date": true,
         "trims": true,
-        "gallery_6": false,
-        "detail_fields": 1
+        "gallery_6": true,
+        "detail_fields": 10
       },
       "search_text": "hyundai venue 2026 subcompact suv suv / crossover gas fwd current u.s. retail model entry crossover"
     },

@@ -1,224 +1,70 @@
 {
-  "generated": "2026-09-19T04:45:29+00:00",
-  "count": 24,
+  "generated": "2026-09-20T04:46:37+00:00",
+  "count": 7,
   "changes": [
-    {
-      "url": "https://pressroom.lexus.com/2026-lexus-is-perfecting-the-sport-sedan/",
-      "brand": "Lexus",
-      "model": "IS",
-      "kind": "model",
-      "previous_fingerprint": "f9dd158acc2583913da4e62c058988c13f65626bd0070d910a4d145da0120780",
-      "new_fingerprint": "04a7b11ede1e5ffb9f5ebc60ba3974444919a1365cf14d1e7fcc3b39ab5a25ac",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://pressroom.lexus.com/tangible-elegance-the-2026-lexus-lc-500/",
-      "brand": "Lexus",
-      "model": "LC",
-      "kind": "model",
-      "previous_fingerprint": "b845db5f2ea7ac0a1ea1b616e0b659375b32e8c34cf0403fc0fe1d5b374d8a78",
-      "new_fingerprint": "374cc8c170e041181540b62a8ad9290846e46759d96c2d1ea580dccc2682d0ae",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://pressroom.lexus.com/2026-lexus-ls-a-homage-to-the-original/",
-      "brand": "Lexus",
-      "model": "LS",
-      "kind": "model",
-      "previous_fingerprint": "edc690b5c5fa90f2e7dff8941dc8486aa4986b1bc0b1fa460c51b1e4f6d4e336",
-      "new_fingerprint": "dce4acea8f322b2c883a97d224a75569304530e3568e753c0dbaf7dad262b73e",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://pressroom.lexus.com/2026-lexus-ux-300h-a-powerful-hybrid-hatchback/",
-      "brand": "Lexus",
-      "model": "UX",
-      "kind": "model",
-      "previous_fingerprint": "32f3fd64af5691eea2a7ba372fbb4a4eec3f934ebc2ba6f95d309061f1058c07",
-      "new_fingerprint": "949bbadd4595da80621d799afbff12de5fe70af26a1cbed44fbdf4397e784b59",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://pressroom.lexus.com/2026-lexus-nx-adds-grades-and-drivetrain/",
-      "brand": "Lexus",
-      "model": "NX",
-      "kind": "model",
-      "previous_fingerprint": "e28a9046ddb2dc89f26d1c5ae146e5486cd2ea03e917ddfaa97bde43f1b5b438",
-      "new_fingerprint": "8448307c8eabc2131828a623d8dc3ef951ebcfd60ce2e344bf3de10ee204a989",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://pressroom.lexus.com/2026-lexus-rx-extending-the-range/",
-      "brand": "Lexus",
-      "model": "RX",
-      "kind": "model",
-      "previous_fingerprint": "424fe793085ec0676b4d35f3f6c9f726409801f89a32e99be32f29aeac65bed7",
-      "new_fingerprint": "b16251c53c3abb7da6b0e6dda16e8b764bda672e7e1df5e60f64197e0e0122d4",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://pressroom.lexus.com/2026-lexus-rz-adds-more-power-and-performance-2/",
-      "brand": "Lexus",
-      "model": "RZ",
-      "kind": "model",
-      "previous_fingerprint": "6f1f226abe650095fc8d5e489a57fd13da56e02e1ce937fd35409da3e7cd2741",
-      "new_fingerprint": "9fb11041454923426256fdd514535bc2bd1734fc842fb2d95d570bb3e1687dc9",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://pressroom.lexus.com/style-utility-and-comfort-the-2026-lexus-tx/",
-      "brand": "Lexus",
-      "model": "TX",
-      "kind": "model",
-      "previous_fingerprint": "152eeac5e05d613318548ba318c3f30bb35e0c252db1d0a4fb25c55f84b9be47",
-      "new_fingerprint": "63e57cce579ee662882e7c1386c845e170d08315f042cf64cd45f362430b59be",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://pressroom.lexus.com/2026-lexus-gx/",
-      "brand": "Lexus",
-      "model": "GX",
-      "kind": "model",
-      "previous_fingerprint": "79c0b89a090ff19d13256426cd3ae192ec8a91b681e9a7f5f3640dccf0801b8e",
-      "new_fingerprint": "72d8e05d2b3cdd9a7e442b8f3d95c3fcae735cd5dc2e0c5ffdf72254b63fb4b2",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://pressroom.lexus.com/lexus-flagship-suv-returns-for-2026-with-an-f-sport-appearance-package/",
-      "brand": "Lexus",
-      "model": "LX",
-      "kind": "model",
-      "previous_fingerprint": "b0582d0e6e679776b1a9f5fc012bd92890095e0eaf1e2a76e8204cdf61746955",
-      "new_fingerprint": "561c903e2810b749561033728f26fc33b7008e557e088d717bb65c3bfd613983",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://pressroom.lexus.com/whats-new-for-2026/",
-      "brand": "Lexus",
-      "model": "RC",
-      "kind": "model",
-      "previous_fingerprint": "d1f84587dce58cca4672b4e069cd7512086659f8c4da1f41103ad4fbed18f731",
-      "new_fingerprint": "2557e45d2d9bedcb7a264696fc73bd859e76d51f11b27fce837e0967dc228f37",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
-      "previous_fingerprint": "2a3321692390c3d8cdaca1eeb59db1d326e11ad55e98e74554d6cd05cfc2764a",
-      "new_fingerprint": "cff6200b9980e7e70be6408898859dde74982b0d2c92717cd108f91feec520e2",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/suvs/trax",
-      "brand": "Chevrolet",
-      "model": "Trax",
-      "kind": "model",
-      "previous_fingerprint": "31bf49e8cee5d1923b6b3dae1f75861bafbab066fb8bff1feec8e941eaf8113d",
-      "new_fingerprint": "83ca9c5c847159caef23bd9c62dc5506834e4386891d4ecfebb054ce83cbafce",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/suvs/equinox",
-      "brand": "Chevrolet",
-      "model": "Equinox",
-      "kind": "model",
-      "previous_fingerprint": "a306ece9ef66158cde32f087cd6528a2f9b2120d404c5f9e0672ae829ecb971a",
-      "new_fingerprint": "6ee12c66494f284270f4fb0413a29d5fd15df0923cca6ecb8122dd76951affc7",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/trucks/silverado/2500hd-3500hd",
-      "brand": "Chevrolet",
-      "model": "Silverado HD",
-      "kind": "model",
-      "previous_fingerprint": "fe11c74d0ab3046196fd83f26a86bcc875e2d45c57a004aba1e587c216385ed7",
-      "new_fingerprint": "264fb4de248edd525efdfc052f0c9a5a5528face886b715dc814c4417109d939",
-      "detected_at": "2026-09-19T04:45:29+00:00"
+      "previous_fingerprint": "cff6200b9980e7e70be6408898859dde74982b0d2c92717cd108f91feec520e2",
+      "new_fingerprint": "f74d48504ed1392729a08ed033562a08dffe6377a5b3d2cad46c3365b711bf54",
+      "detected_at": "2026-09-20T04:46:37+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/media/pressreleases/25004/kia-announces-pricing-for-2027-ev3",
       "brand": "Kia",
       "model": "EV3",
       "kind": "model",
-      "previous_fingerprint": "d0b91e29e0326fc6b7b0d4e0ce7e730223566d150f5ee166b98e65e4a0fe298a",
-      "new_fingerprint": "066fe57e00d5ca261b0d085a103532dab5a0cc3f992fcb2c2bb1b45bb66e3b9c",
-      "detected_at": "2026-09-19T04:45:29+00:00"
+      "previous_fingerprint": "066fe57e00d5ca261b0d085a103532dab5a0cc3f992fcb2c2bb1b45bb66e3b9c",
+      "new_fingerprint": "198bdf54b9bdc75ad4b150755d083048aee5f07071c35ef9a5e98b8b4e1362db",
+      "detected_at": "2026-09-20T04:46:37+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4/2026/pricing",
       "brand": "Kia",
       "model": "K4",
       "kind": "model",
-      "previous_fingerprint": "a1639580d4bcb3324d99c82828e03c155c8d76c5b0e73c4f25e4c5d3c954eb29",
-      "new_fingerprint": "b595ce8fffd902efe798ce7f054a0d8ce3df7e052e33ffcdb187d6f4eb7baae0",
-      "detected_at": "2026-09-19T04:45:29+00:00"
+      "previous_fingerprint": "b595ce8fffd902efe798ce7f054a0d8ce3df7e052e33ffcdb187d6f4eb7baae0",
+      "new_fingerprint": "722550310d64e22afabb95f307c27d549ef94c72d3b311942b7a26a42a21f9c6",
+      "detected_at": "2026-09-20T04:46:37+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4-hatchback/2026/pricing",
       "brand": "Kia",
       "model": "K4 Hatchback",
       "kind": "model",
-      "previous_fingerprint": "615aa56b061ecde0a17efb183853bded3fe86d1bed6c70a35d8047ea79a7d684",
-      "new_fingerprint": "a213c7e8bc0a13d46139e6f02796086b796c4f3762f16d8b685f009a96aa30eb",
-      "detected_at": "2026-09-19T04:45:29+00:00"
+      "previous_fingerprint": "a213c7e8bc0a13d46139e6f02796086b796c4f3762f16d8b685f009a96aa30eb",
+      "new_fingerprint": "dba6c0dbb651fd062b7a564a42ad8c5342a932e4e405af0ef63dc0faa4273e14",
+      "detected_at": "2026-09-20T04:46:37+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/seltos/2027/pricing",
       "brand": "Kia",
       "model": "Seltos",
       "kind": "model",
-      "previous_fingerprint": "69b224a688a0bec2cb610ddee02cdb8945f1e6f00942a0d396fde2561e2c421c",
-      "new_fingerprint": "45bbe45807b667f51e338a53b21616707c2e54758e08977d5c4f38bea700dcd8",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://www.jeep.com/gladiator.html",
-      "brand": "Jeep",
-      "model": "Gladiator",
-      "kind": "model",
-      "previous_fingerprint": "c08b59fcb8dd2cc0d72f8e22cba50ef2503b7561d47ed1f85457ef464caab245",
-      "new_fingerprint": "7f8f81e2d6ed9229c129cb4968f6b5fb04d7581e068532aeb96d4dde42c6cfec",
-      "detected_at": "2026-09-19T04:45:29+00:00"
+      "previous_fingerprint": "45bbe45807b667f51e338a53b21616707c2e54758e08977d5c4f38bea700dcd8",
+      "new_fingerprint": "ef8619abd0ce0d73f23ceb13c44e99bdedd6fe83764f2d7abd9d8eeb6b32d6e3",
+      "detected_at": "2026-09-20T04:46:37+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/g-class/suv",
       "brand": "Mercedes-Benz",
       "model": "G-Class",
       "kind": "model",
-      "previous_fingerprint": "12b3c205cf4edf8c7c3bdd2f15eec65db97746c9e65db26b4d2525cb5405ef5d",
-      "new_fingerprint": "06715c836fabfda802445342e70bf8da7e8306d88f9a5a7045793d9825c6356f",
-      "detected_at": "2026-09-19T04:45:29+00:00"
+      "previous_fingerprint": "06715c836fabfda802445342e70bf8da7e8306d88f9a5a7045793d9825c6356f",
+      "new_fingerprint": "12b3c205cf4edf8c7c3bdd2f15eec65db97746c9e65db26b4d2525cb5405ef5d",
+      "detected_at": "2026-09-20T04:46:37+00:00"
     },
     {
-      "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
-      "brand": "Nissan",
-      "model": "Armada",
-      "kind": "model",
-      "previous_fingerprint": "368c13335d61b074fffea2eddcfac9c3731a783cea7a14ceaf53b7c4c804700d",
-      "new_fingerprint": "26cd102405b4f389041b932c19c3dcb99966db050ea9147c3e4566ec72fddff2",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://www.nissanusa.com/vehicles.html",
-      "brand": "Nissan",
+      "url": "https://www.mbusa.com/en/all-vehicles",
+      "brand": "Mercedes-Benz",
       "model": "",
       "kind": "brand-registry",
       "market": "U.S. retail",
-      "previous_fingerprint": "1e6cf360baabbdac6ee00b62cdfc8952b025d12198bdaedfb85a4931dfee3750",
-      "new_fingerprint": "cfbc62cb116f80cd0f193dae5d1c672be0dd527224de3b9f514ed6dc3962ba71",
-      "detected_at": "2026-09-19T04:45:29+00:00"
-    },
-    {
-      "url": "https://auto.mahindra.com/",
-      "brand": "Mahindra",
-      "model": "BE 6",
-      "kind": "global-model",
-      "market": "India",
-      "previous_fingerprint": "15f23b605995222dfff61ccebc8913727f0c70a00ee57240df30f4a23cc04006",
-      "new_fingerprint": "654eb0808e737c5df51aab73e7355ea0be9579b594f1f335f3185c5848777ee4",
-      "detected_at": "2026-09-19T04:45:29+00:00"
+      "previous_fingerprint": "911a36d44496513a510df86e5874ab50e8b85652c808b892389448b54e16ca2b",
+      "new_fingerprint": "34fb2aa59a833d9785dee8ceefd0b5495d7dc7716da2c2183d7480a6a6a13ef2",
+      "detected_at": "2026-09-20T04:46:37+00:00"
     }
   ]
 }

@@ -1,70 +1,60 @@
 {
-  "generated": "2026-09-20T04:46:37+00:00",
-  "count": 7,
+  "generated": "2026-09-21T04:47:53+00:00",
+  "count": 6,
   "changes": [
     {
       "url": "https://www.subaru.com/vehicles/index.html",
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
-      "previous_fingerprint": "cff6200b9980e7e70be6408898859dde74982b0d2c92717cd108f91feec520e2",
-      "new_fingerprint": "f74d48504ed1392729a08ed033562a08dffe6377a5b3d2cad46c3365b711bf54",
-      "detected_at": "2026-09-20T04:46:37+00:00"
+      "previous_fingerprint": "f74d48504ed1392729a08ed033562a08dffe6377a5b3d2cad46c3365b711bf54",
+      "new_fingerprint": "7269e9b081c135116529896f11ee78eebf5ceeeabdc471c23228110011df84dc",
+      "detected_at": "2026-09-21T04:47:53+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/media/pressreleases/25004/kia-announces-pricing-for-2027-ev3",
       "brand": "Kia",
       "model": "EV3",
       "kind": "model",
-      "previous_fingerprint": "066fe57e00d5ca261b0d085a103532dab5a0cc3f992fcb2c2bb1b45bb66e3b9c",
-      "new_fingerprint": "198bdf54b9bdc75ad4b150755d083048aee5f07071c35ef9a5e98b8b4e1362db",
-      "detected_at": "2026-09-20T04:46:37+00:00"
+      "previous_fingerprint": "198bdf54b9bdc75ad4b150755d083048aee5f07071c35ef9a5e98b8b4e1362db",
+      "new_fingerprint": "650597d8c277f788d86135560775c01723b3b7eced7a76560aaa320aa2942d4b",
+      "detected_at": "2026-09-21T04:47:53+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4/2026/pricing",
       "brand": "Kia",
       "model": "K4",
       "kind": "model",
-      "previous_fingerprint": "b595ce8fffd902efe798ce7f054a0d8ce3df7e052e33ffcdb187d6f4eb7baae0",
-      "new_fingerprint": "722550310d64e22afabb95f307c27d549ef94c72d3b311942b7a26a42a21f9c6",
-      "detected_at": "2026-09-20T04:46:37+00:00"
+      "previous_fingerprint": "722550310d64e22afabb95f307c27d549ef94c72d3b311942b7a26a42a21f9c6",
+      "new_fingerprint": "27cf6e233cb23d61d38cec43ef00c22cecfb78238a0880048739393798087eb0",
+      "detected_at": "2026-09-21T04:47:53+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4-hatchback/2026/pricing",
       "brand": "Kia",
       "model": "K4 Hatchback",
       "kind": "model",
-      "previous_fingerprint": "a213c7e8bc0a13d46139e6f02796086b796c4f3762f16d8b685f009a96aa30eb",
-      "new_fingerprint": "dba6c0dbb651fd062b7a564a42ad8c5342a932e4e405af0ef63dc0faa4273e14",
-      "detected_at": "2026-09-20T04:46:37+00:00"
+      "previous_fingerprint": "dba6c0dbb651fd062b7a564a42ad8c5342a932e4e405af0ef63dc0faa4273e14",
+      "new_fingerprint": "7441bb87f2016cafcb1ebd8e2788cf0a9e913bd0db69025afe2e8563918e8f6f",
+      "detected_at": "2026-09-21T04:47:53+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/seltos/2027/pricing",
       "brand": "Kia",
       "model": "Seltos",
       "kind": "model",
-      "previous_fingerprint": "45bbe45807b667f51e338a53b21616707c2e54758e08977d5c4f38bea700dcd8",
-      "new_fingerprint": "ef8619abd0ce0d73f23ceb13c44e99bdedd6fe83764f2d7abd9d8eeb6b32d6e3",
-      "detected_at": "2026-09-20T04:46:37+00:00"
+      "previous_fingerprint": "ef8619abd0ce0d73f23ceb13c44e99bdedd6fe83764f2d7abd9d8eeb6b32d6e3",
+      "new_fingerprint": "9f571c32986f1ba5a67ebc3b9a2a3f760f5c32e2d07e3841c37923a20ea625ba",
+      "detected_at": "2026-09-21T04:47:53+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/g-class/suv",
       "brand": "Mercedes-Benz",
       "model": "G-Class",
       "kind": "model",
-      "previous_fingerprint": "06715c836fabfda802445342e70bf8da7e8306d88f9a5a7045793d9825c6356f",
-      "new_fingerprint": "12b3c205cf4edf8c7c3bdd2f15eec65db97746c9e65db26b4d2525cb5405ef5d",
-      "detected_at": "2026-09-20T04:46:37+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/all-vehicles",
-      "brand": "Mercedes-Benz",
-      "model": "",
-      "kind": "brand-registry",
-      "market": "U.S. retail",
-      "previous_fingerprint": "911a36d44496513a510df86e5874ab50e8b85652c808b892389448b54e16ca2b",
-      "new_fingerprint": "34fb2aa59a833d9785dee8ceefd0b5495d7dc7716da2c2183d7480a6a6a13ef2",
-      "detected_at": "2026-09-20T04:46:37+00:00"
+      "previous_fingerprint": "12b3c205cf4edf8c7c3bdd2f15eec65db97746c9e65db26b4d2525cb5405ef5d",
+      "new_fingerprint": "06715c836fabfda802445342e70bf8da7e8306d88f9a5a7045793d9825c6356f",
+      "detected_at": "2026-09-21T04:47:53+00:00"
     }
   ]
 }

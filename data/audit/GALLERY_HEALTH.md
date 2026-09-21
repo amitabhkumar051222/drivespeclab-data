@@ -1,12 +1,12 @@
 # DriveSpecLab Gallery Health & Production Readiness
 
-Generated: 2026-09-20T03:44:48.246839+00:00
+Generated: 2026-09-21T03:47:05.001025+00:00
 
 - Models scanned: **278**
 - Models with galleries: **30**
 - Gallery URLs checked: **181**
-- Healthy image URLs: **162 (89.5%)**
-- Unhealthy image URLs: **19**
+- Healthy image URLs: **161 (89.0%)**
+- Unhealthy image URLs: **20**
 - Production-ready models: **26 / 274 (9.5%)**
 
 ## Production-ready models
@@ -45,6 +45,7 @@ Generated: 2026-09-20T03:44:48.246839+00:00
 - Honda Passport: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/a/aa/%2726_Honda_Passport_TrailSport.jpg
 - Honda Passport: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/5/54/2025_Honda_Passport_TrailSport,_front_4.11.25.jpg
 - Honda Passport: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/e/e1/2025_Honda_Passport_TrailSport,_front_4.26.25.jpg
+- Honda Passport: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/2/25/2025_Honda_Passport_TrailSport,_rear_4.18.25.jpg
 - Honda Passport: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/9/9c/2026_Honda_Passport_Trailsport_Touring_in_Radiant_Red_Metallic_II,_front_right,_2025-06-11.jpg
 - Honda Passport: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/4/4c/26_Honda_Passport_TrailSport.jpg
 - Honda Civic Sedan: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/9/96/2022_Honda_Civic_e-HEV_RS.jpg

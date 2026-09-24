@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23",
+  "generated": "2026-09-24",
   "policy": "official-us-sources-only",
   "count": 10,
   "cars": [
@@ -22,12 +22,12 @@
       "year": "2027",
       "status": "Official upcoming U.S. model",
       "headline": "Next-generation 2027 Silverado 1500",
-      "powertrain": "Gas / diesel · Expected end of 2026",
+      "powertrain": "Gas / diesel · Available late 2026",
       "price_text": "Price not announced",
       "key_detail": "Redesigned full-size pickup with new 5.7L and 6.6L V8 engines, enhanced TurboMax, available Duramax diesel and a new digital cockpit.",
-      "source": "https://news.gm.com/home.detail.html/Pages/news/us/en/2026/jun/0516-chevrolet-next-generation-2027-silverado.html",
-      "source_label": "Official GM / Chevrolet preview",
-      "image": ""
+      "source": "https://www.chevrolet.com/upcoming-vehicles/2027-silverado-1500",
+      "source_label": "Official Chevrolet vehicle preview",
+      "image": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/upcoming-vehicles/2027-silverado-1500/masthead/2027-sil-mh-xs-01.jpg?imwidth=1920"
     },
     {
       "brand": "Kia",

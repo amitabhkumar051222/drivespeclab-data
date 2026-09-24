@@ -1,420 +1,258 @@
 {
-  "generated": "2026-09-23T04:47:03+00:00",
-  "count": 53,
+  "generated": "2026-09-24T04:46:55+00:00",
+  "count": 32,
   "changes": [
     {
       "url": "https://www.subaru.com/vehicles/index.html",
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
-      "previous_fingerprint": "be06fc315a0a26386a346cbc9e6bfdd4de517906c449fe341a4043abb34cf97b",
-      "new_fingerprint": "e3c7e6de2efe0608591cb2d8e1f68eff1d5f306bfe904d49ad30ce207557fc6d",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "e3c7e6de2efe0608591cb2d8e1f68eff1d5f306bfe904d49ad30ce207557fc6d",
+      "new_fingerprint": "cb0c0aaa352cf0203d9b6c57b487d1614f19005d562a6c254f17f79e7299b5ef",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.chevrolet.com/suvs/blazer",
       "brand": "Chevrolet",
       "model": "Blazer",
       "kind": "model",
-      "previous_fingerprint": "87f11222d668f2dd907288f384e9740daff6ff5fc54e443283feeabebd2a6ca6",
-      "new_fingerprint": "498a3d8c3d78d67b5dbd63aed89ab169fd921ba1f8745e01f36c061fe81410c6",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "498a3d8c3d78d67b5dbd63aed89ab169fd921ba1f8745e01f36c061fe81410c6",
+      "new_fingerprint": "87f11222d668f2dd907288f384e9740daff6ff5fc54e443283feeabebd2a6ca6",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
-      "url": "https://www.chevrolet.com/performance/corvette",
-      "brand": "Chevrolet",
-      "model": "Corvette",
+      "url": "https://www.mazdausa.com/vehicles/mx-5-miata",
+      "brand": "Mazda",
+      "model": "MX-5 Miata",
       "kind": "model",
-      "previous_fingerprint": "137351fd9be7fcb25752c33d7f9417228d0dfec5ead2d3ae4aa21efdc69c85ad",
-      "new_fingerprint": "6cf5f5949739a3b992c4b1cee228b0c1393ada69715a2d6d36f9831b7312ac31",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "d007600a77ef4d825ef23c26ac327753aa0497057a2f608310175413d73205d7",
+      "new_fingerprint": "2f9d33d504225bdb78edd5ed13219db9a3eb005c429a42d34f1e0a83c52240b4",
+      "detected_at": "2026-09-24T04:46:55+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/mx-5-miata-rf",
+      "brand": "Mazda",
+      "model": "MX-5 Miata RF",
+      "kind": "model",
+      "previous_fingerprint": "9f0607d09f3f5d87b6e3a742dbb469e744b1218a792231c22811ffeadfb4d1bf",
+      "new_fingerprint": "d7c0bb283165e49406f0493ff24f300a560d25e6780df99c24babc7ff50740e3",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/media/pressreleases/25004/kia-announces-pricing-for-2027-ev3",
       "brand": "Kia",
       "model": "EV3",
       "kind": "model",
-      "previous_fingerprint": "c66837f51c7ce56b39d605eba71b106a8829d7a10a3da0ddc1d967dc3957f0a1",
-      "new_fingerprint": "ce82bb66fb94bec6e9c367ecc8589226fad677a40f64f49a85f67c3e87aadfe2",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.kia.com/us/en/sportage-hybrid",
-      "brand": "Kia",
-      "model": "Sportage",
-      "kind": "model",
-      "previous_fingerprint": "f29f4d35841ce6e4b6f37a0065236a11d3ca76214a742ebfd0b1e40348c4826a",
-      "new_fingerprint": "2c6dfabadfcedb2f7ea59bba0b06c2a2452d0805a5f2e9a628d4656364624781",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "ce82bb66fb94bec6e9c367ecc8589226fad677a40f64f49a85f67c3e87aadfe2",
+      "new_fingerprint": "a679bc284900b637fdbe61877e98477619dc8fd1400d152a52093cb4c14cfe50",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4/2026/pricing",
       "brand": "Kia",
       "model": "K4",
       "kind": "model",
-      "previous_fingerprint": "689204d65ec94b39c352e415d4d75d10b16ccf0c1db7632a47317e48ddb7d0a7",
-      "new_fingerprint": "a61fd25fb7b976caa5df494bee5582770c76ab3f103b6e31e8ce22a416d56dc7",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "a61fd25fb7b976caa5df494bee5582770c76ab3f103b6e31e8ce22a416d56dc7",
+      "new_fingerprint": "66ea8f0aff7fb4be21eb1e079d2604e385cd678b1bbb343b8be33ccc36890163",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4-hatchback/2026/pricing",
       "brand": "Kia",
       "model": "K4 Hatchback",
       "kind": "model",
-      "previous_fingerprint": "7dd66625e7c647ce5acf8312b4f5be36346489ee6a1cf8c94b493f2596693801",
-      "new_fingerprint": "db18d4c3bf1efe45ad729879c52c8be77b7855d5f6605f627f95ef780c280d10",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "db18d4c3bf1efe45ad729879c52c8be77b7855d5f6605f627f95ef780c280d10",
+      "new_fingerprint": "e281b6769f44b82994915783c9994cf7bf6810a0c0d3df6462ab13ad7170d59a",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/seltos/2027/pricing",
       "brand": "Kia",
       "model": "Seltos",
       "kind": "model",
-      "previous_fingerprint": "87d7e9e2f8a803b975ed9eac0bc88599c2bc3ec1088d36c25826318b39607b92",
-      "new_fingerprint": "765ab8c1e8af9503a982a90f9d429f4c613e82f8bf11b1b2a7230d61d86b695a",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "765ab8c1e8af9503a982a90f9d429f4c613e82f8bf11b1b2a7230d61d86b695a",
+      "new_fingerprint": "2905fa1ab137f87a2c3c4743ec9ab6178847c9fd79b257c3f09bcf351386e6b7",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.jeep.com/gladiator.html",
       "brand": "Jeep",
       "model": "Gladiator",
       "kind": "model",
-      "previous_fingerprint": "ada7117052941032969b51a8cfe74ce39bc634c80af3bd252ce41388d910358e",
-      "new_fingerprint": "96edca0e798fc47f4bb13f983d82fb94c17e7a8d05b63a52b3c4ef013c23c4b2",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/g70",
-      "brand": "Genesis",
-      "model": "G70",
-      "kind": "model",
-      "previous_fingerprint": "c02fa521e3064a270420468b9a0149a9e19060b140ca180ffbcfbbae04493b12",
-      "new_fingerprint": "39c49aae1da727f85acb55a41d0875f2adba1e365120780d3525dd032150f161",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/g80",
-      "brand": "Genesis",
-      "model": "G80",
-      "kind": "model",
-      "previous_fingerprint": "3fa6f90ead8dc425637b94f44847c73da9d64844a914b70216c86144b72f44dd",
-      "new_fingerprint": "db5c49a9e6832628afc465c7de45aa7f6bac5b20284d28c0a668f5b89935380c",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/build-and-price/2026/g90",
-      "brand": "Genesis",
-      "model": "G90",
-      "kind": "model",
-      "previous_fingerprint": "714ff026b9c81d95cbc26c1b444bb53fd045f0fd2b2f8aa846955e7554cdf4de",
-      "new_fingerprint": "3885fba238bd200f7da991789feb1761db99a0a6775ddc77100f7accae6338f2",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/gv60",
-      "brand": "Genesis",
-      "model": "GV60",
-      "kind": "model",
-      "previous_fingerprint": "05d639ba5e642d5febc558c01dcf3cb896d09925f7468b0798a2563dd6884b45",
-      "new_fingerprint": "03b1057fc2ccd10ab718bbb4d2de46f90b03af39054176b8d627ff1b44b523b4",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/gv60-magma",
-      "brand": "Genesis",
-      "model": "GV60 Magma",
-      "kind": "model",
-      "previous_fingerprint": "abdb9455606981e7a5a5f354ab1b6e59a98679631c754fec8dc65df0aa0299da",
-      "new_fingerprint": "90b18317426ddfed8a02ad2d21178262a2efb3bc7d8191cbf25d89b90647d7ee",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/gv70",
-      "brand": "Genesis",
-      "model": "GV70",
-      "kind": "model",
-      "previous_fingerprint": "dac35c849024eb6b342ddf831685ed29c90cea4a6b8c8273f33e51b35ebdc74f",
-      "new_fingerprint": "f9affd7723557c28c329abc96d8e8e3a5af12673d933d2bab5ab38ec7ae13632",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/electrified-gv70",
-      "brand": "Genesis",
-      "model": "Electrified GV70",
-      "kind": "model",
-      "previous_fingerprint": "97bce2261de809bb245bd917810bd9255965d4b541e2d8dcf22636a1f30573f5",
-      "new_fingerprint": "b3d6bd2db6bf69f8ead11cc52bf21b466cdf5e42a6adbf9fa694ea1cfdf3e878",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/gv80",
-      "brand": "Genesis",
-      "model": "GV80",
-      "kind": "model",
-      "previous_fingerprint": "da8041f7811e58f8c3f6974b51a013e13f432304be07858056812d57d4d6f7c5",
-      "new_fingerprint": "771898f3cb695a90887fb0cf24bb128e3a10a78df85149f873c2c827c07b39c6",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/gv80-coupe",
-      "brand": "Genesis",
-      "model": "GV80 Coupe",
-      "kind": "model",
-      "previous_fingerprint": "defb8ff829efa098caf5e0a5b19e94a3b0221948ba1102162de093fb977352dd",
-      "new_fingerprint": "bd0217e6817d1aa3424002c92848db6384c7a1a28f94a1421fe030f73cf88973",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "96edca0e798fc47f4bb13f983d82fb94c17e7a8d05b63a52b3c4ef013c23c4b2",
+      "new_fingerprint": "7a13872c1998f0e8b7f02037c11f2d5d40cca162aaae5c73ed4be2e262d0764f",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.toyota.com/4runner/",
       "brand": "Toyota",
       "model": "4Runner",
       "kind": "model",
-      "previous_fingerprint": "97b0e9b4c2803eaea2d51bf1bdd2be09bbbaeb6be531e4c012b464581bce3a78",
-      "new_fingerprint": "7ae72ff7def095b79d177a2cd784475152aa7348bbaa19ac3ffe0c65b49810f9",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "7ae72ff7def095b79d177a2cd784475152aa7348bbaa19ac3ffe0c65b49810f9",
+      "new_fingerprint": "4d789325f6783b7dd63f7896a6c0378064f9d161c928860e76988a358e6a79e5",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
-      "url": "https://www.toyota.com/grcorolla/",
+      "url": "https://www.toyota.com/vehicles/chr/2027",
       "brand": "Toyota",
-      "model": "GR Corolla",
+      "model": "C-HR",
       "kind": "model",
-      "previous_fingerprint": "027aaa3a1fd4435a009cdb5ce4a5b9f0a56b3683cc52664ab6229d06b8b96112",
-      "new_fingerprint": "a8aee9dcbadce36d585d866cce525d53256b03557397c3ceffaa788dac483a36",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "8c4dfe359a37c3a3d71141916f6963335d9205189b945d78e01a7b3f52c5d8d9",
+      "new_fingerprint": "e87b7be1dec05ff84b3d47d64819c4d190ab69056c376dc944d93adf411d8bc4",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
-      "url": "https://www.toyota.com/grandhighlander/",
+      "url": "https://www.toyota.com/camry/",
       "brand": "Toyota",
-      "model": "Grand Highlander",
+      "model": "Camry",
       "kind": "model",
-      "previous_fingerprint": "8ab129417203fdd4f3b1ccdcd4c8ba546857cc72d160c7bffac9ad3e68008dca",
-      "new_fingerprint": "63e40837928c44354c4d3012dc099d414322c439a0c927f8e71a4979b8715738",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "a5bbe4ac06572dfd9766ab0b8d63bf0d2014bef8f5edd3ee6528b71fd33fe423",
+      "new_fingerprint": "1e2cb77891ddf6e365fefbf8e0868d8711528219b87bff5318fa97e461945cd8",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
-      "url": "https://www.toyota.com/rav4pluginhybrid/",
-      "brand": "Toyota",
-      "model": "RAV4 Plug-in Hybrid",
+      "url": "https://www.landroverusa.com/build-your-own/defender.html",
+      "brand": "Land Rover",
+      "model": "Defender",
       "kind": "model",
-      "previous_fingerprint": "e82de6de21515cbf0a39ee3b3b8cca8e1bab334f4a472997fe5a87b3ecfccf30",
-      "new_fingerprint": "c8bfdd559cc34ba4e4482fbbbe9ac2cf7a8366249ef02ebfc4fe7d7cd47d9d8f",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "35e055fe5d49736097fc0008ba8597431fc827d12622d397b30585bc62ad29be",
+      "new_fingerprint": "a9fd70085a552eeb7717601ddb829a296b5313c9a70ce5344ea5565f50f55cea",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
-      "url": "https://www.ramtrucks.com/bmo.ram_1500_dt.html",
-      "brand": "Ram",
-      "model": "Ram 1500",
+      "url": "https://www.landroverusa.com/discovery/discovery/models-and-specifications.html",
+      "brand": "Land Rover",
+      "model": "Discovery",
       "kind": "model",
-      "previous_fingerprint": "ec96bb9c8cabd28294b5a7f4a57dcd7ea5bf778c54b8266e8bc7bde266f50567",
-      "new_fingerprint": "f0596874a40cc0d5b155d65bf544db1ea04788582ed146c33c155aeeea7c746c",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "2b9bf5369957c591ce3955566cb859357de657089a72d26e78a8511ec7f0e22d",
+      "new_fingerprint": "f65adad614b2efebfd9e976fdd1500e3e919c6b0ced42c659dc838f915d5690e",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
-      "url": "https://www.ramtrucks.com/bmo.ram_2500.html",
-      "brand": "Ram",
-      "model": "Ram 2500",
+      "url": "https://www.landroverusa.com/discovery/discovery-sport/models-and-specifications.html",
+      "brand": "Land Rover",
+      "model": "Discovery Sport",
       "kind": "model",
-      "previous_fingerprint": "b1b93ece75b31dbe27409226d494d5ecdc21a4914cb37452e9670d06a099d3ba",
-      "new_fingerprint": "631d410f68130658a54b87d46df6631cc46d32d7e03c0ddf2b7023272d9b9936",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.ramtrucks.com/bmo.ram_3500.html",
-      "brand": "Ram",
-      "model": "Ram 3500",
-      "kind": "model",
-      "previous_fingerprint": "626cc3d58ef4b11209bd7a3f233c1748134205a0c354464e4b78d280482b176d",
-      "new_fingerprint": "081fd490505bd21de6140198124223f9bfd0ea8ff275e13321460612394fcf66",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.ramtrucks.com/bmo.ram_promaster.html",
-      "brand": "Ram",
-      "model": "Ram ProMaster",
-      "kind": "model",
-      "previous_fingerprint": "d8d75b6c252fd9056b457a619758f496a20ae410222175db6c66c0a189fc1cd5",
-      "new_fingerprint": "cacb47f1062c55893acb2815b525f0a53c58fda73fdf68baa07eef01ab1dc54a",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.ramtrucks.com/electric/ram-promaster-ev.html",
-      "brand": "Ram",
-      "model": "Ram ProMaster EV",
-      "kind": "model",
-      "previous_fingerprint": "9242157e744ac4f906b8b46b9a0e136c92b68f4c4a68d911a48ccf59fb0da5f0",
-      "new_fingerprint": "2970030a2e81ed53e175e55f533b5c60e261fac494e9989a98f519360a654de1",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.ramtrucks.com/ram-chassis-cab.html",
-      "brand": "Ram",
-      "model": "Ram Chassis Cab",
-      "kind": "model",
-      "previous_fingerprint": "7ebe6b0d78e23003b6980158d93359442667f2a0eaa4dbde90270c15da5c8b77",
-      "new_fingerprint": "7fa255b9af150a77c3cb3e570af9529cbe651402405583d01d86cfb60acfd508",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.ramtrucks.com/electric/1500-rev.html",
-      "brand": "Ram",
-      "model": "Ram 1500 REV",
-      "kind": "model",
-      "previous_fingerprint": "36ee88c4f6edcdeaa0920564ce29d4d7ef715c9393d0dddd1cf6b2b8c2e84e1c",
-      "new_fingerprint": "a9624315a896bf38c38abea3c084a852340203b67b4ecb9793d12b8076650b0e",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "eccf3d347a09edf0c56254df697d3ab020ceefa25ee6ab636318b7f136f8dc61",
+      "new_fingerprint": "df1c092119284b4b8e5f31c4b2fa2d63f97a3b3576a4da1607ced7d49d1be098",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles/venue/compare-specs",
       "brand": "Hyundai",
       "model": "Venue",
       "kind": "model",
-      "previous_fingerprint": "05cd77af3990e6982dad6d25f8948e5c31cf88f7425eb6131a4e708b77d0069e",
-      "new_fingerprint": "bacb154e578cbe14fef53d5e13b63da5bcd9e9d7eb31418ca8a59d8a050a1083",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "bacb154e578cbe14fef53d5e13b63da5bcd9e9d7eb31418ca8a59d8a050a1083",
+      "new_fingerprint": "5c21ac7b39920dcfce770131a821ee35aa0c9589f6e43ebae4db458555baf5cf",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles/kona/compare-specs",
       "brand": "Hyundai",
       "model": "Kona",
       "kind": "model",
-      "previous_fingerprint": "516aa2849c5d6d112821f53e7d166eb8f597e9f7e48693109fe502ef4330d3ce",
-      "new_fingerprint": "a3d493aac67d333fca1a24e42f4f8f9b5a57584df665d4c47c572f847dc89c94",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "a3d493aac67d333fca1a24e42f4f8f9b5a57584df665d4c47c572f847dc89c94",
+      "new_fingerprint": "a0687e8e9e6d5020fd181fc89f2a79ab678ef573dba3521bc5e0cba87954964b",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles/tucson/compare-specs",
       "brand": "Hyundai",
       "model": "Tucson",
       "kind": "model",
-      "previous_fingerprint": "ff92d756960f4dd3cc03e792d0d3ac1e3bf5fb56600bccf6403c737f63fc53be",
-      "new_fingerprint": "74ea8160f628b8ef9ac4f43439df36ef8d993dbe0c4cb976d0eeea89911624ef",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "74ea8160f628b8ef9ac4f43439df36ef8d993dbe0c4cb976d0eeea89911624ef",
+      "new_fingerprint": "a08f38215c40ac06896961103cb79327083d1c79f5238bcc0d05785a15c2da66",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles/santa-fe/compare-specs",
       "brand": "Hyundai",
       "model": "Santa Fe",
       "kind": "model",
-      "previous_fingerprint": "9578131d9f1006a0d0cd3f3ce75d75debfa70a28a269b89062fdbb7f51798a91",
-      "new_fingerprint": "e08e4136492dfb50ad7c9e6f6412fd70da94ed1859da30abfd43db3964da8aa6",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "e08e4136492dfb50ad7c9e6f6412fd70da94ed1859da30abfd43db3964da8aa6",
+      "new_fingerprint": "3906bcf26d3f3e87c935c74ec7afe7693ddcacedf77b2ed9cb0eaec452d2b30d",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles/palisade/compare-specs",
       "brand": "Hyundai",
       "model": "Palisade",
       "kind": "model",
-      "previous_fingerprint": "e2d12a75735d734cc8abd51115f30b82c3c2fc268d7b9eea810f8e3755cf12e3",
-      "new_fingerprint": "b2fe0bcb90aeb9706c2417229abe24de5e956f571c7c36233e9e89a60ad85d1b",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "b2fe0bcb90aeb9706c2417229abe24de5e956f571c7c36233e9e89a60ad85d1b",
+      "new_fingerprint": "6aacf4a0b6af93d46f2a6753e94f1efa3a6e3e563047c57e9b40aa7610ca507f",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles/santa-cruz/compare-specs",
       "brand": "Hyundai",
       "model": "Santa Cruz",
       "kind": "model",
-      "previous_fingerprint": "7f45defe652a965de1ffbd490a1efda1a891c6a9c472291129d4fa90441b3b06",
-      "new_fingerprint": "51d06976c43356e8ef0d15b324f88ff25d0ec96008e4cface6e08ea3a678cac4",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "51d06976c43356e8ef0d15b324f88ff25d0ec96008e4cface6e08ea3a678cac4",
+      "new_fingerprint": "8a0ffc62996a17b7cb289a6023146a38ea8449ff07c21929cb3e6c2afed386ae",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles/elantra/compare-specs",
       "brand": "Hyundai",
       "model": "Elantra",
       "kind": "model",
-      "previous_fingerprint": "61ecb57c896f20acfa3b80d1bb92c80b339bd4321987119429bebfe10b7f335e",
-      "new_fingerprint": "73b789eb22d2425bbe46905388193963e779ea3149bd9e1212534f34930d56d6",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "73b789eb22d2425bbe46905388193963e779ea3149bd9e1212534f34930d56d6",
+      "new_fingerprint": "5021099d631b64a18c5dc1799d309c437b8049520a46d8b2120fa31806814dc5",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles/sonata/compare-specs",
       "brand": "Hyundai",
       "model": "Sonata",
       "kind": "model",
-      "previous_fingerprint": "d079e42e605fa831eebd50327ee7446fbf0ad17b4b0663ca14fd4ff9f25eb760",
-      "new_fingerprint": "d1ebdc2bdbe899fd9ae4457a9c69a81cccdef6ff6cdbd609c64d5db754bb0ca3",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "d1ebdc2bdbe899fd9ae4457a9c69a81cccdef6ff6cdbd609c64d5db754bb0ca3",
+      "new_fingerprint": "3e4ed1509471872b6293a9e766836b29d9d845b5fedeb88c1d98fb8621270aed",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5/compare-specs",
       "brand": "Hyundai",
       "model": "IONIQ 5",
       "kind": "model",
-      "previous_fingerprint": "99f71de17d52a1aac3fed7eb8e3dc0709a4337127e392d975d2462da8f6dba2d",
-      "new_fingerprint": "0bd37f387c96232c669a7f858874bacb7c94a76307c8dd4ca1331bfc51bb8106",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "0bd37f387c96232c669a7f858874bacb7c94a76307c8dd4ca1331bfc51bb8106",
+      "new_fingerprint": "2ca12a70b4a00f563272fe6fa99e99c414fe3c791df34d2525965a393baffb6b",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n",
       "brand": "Hyundai",
       "model": "IONIQ 5 N",
       "kind": "model",
-      "previous_fingerprint": "26a7211e7ee104923d8f57ced15c177a8f9ff4aeedd33a8d7f0f2ab4bc1d03d9",
-      "new_fingerprint": "715d036040c22ba9bb368c83613a9286f17c9189bd8a1436040fe57b5bf6cb82",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "715d036040c22ba9bb368c83613a9286f17c9189bd8a1436040fe57b5bf6cb82",
+      "new_fingerprint": "fc9ecd7df406938718ef45da910ef672460a6519fcc976aebe94ee00258597fc",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-6/compare-specs",
       "brand": "Hyundai",
       "model": "IONIQ 6",
       "kind": "model",
-      "previous_fingerprint": "cf55cf96f2cc7e07e2f90500d2e22eca57cadb426410ae2bb10339943d223cff",
-      "new_fingerprint": "ef4d4a63ef8e9724ff67a9840b0bed4d937fcaa49afeaa8cc9a3e0dff7dbd106",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "ef4d4a63ef8e9724ff67a9840b0bed4d937fcaa49afeaa8cc9a3e0dff7dbd106",
+      "new_fingerprint": "dfa8dc0f829dcb38a728f1fa62a9808b9f2d384486e825463ea459c16a0eb5df",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-9/compare-specs",
       "brand": "Hyundai",
       "model": "IONIQ 9",
       "kind": "model",
-      "previous_fingerprint": "6aee83e36e19b728ef756816b54baa3587ca925006faec1ad4bd2d34e6697f44",
-      "new_fingerprint": "806854ffade01c23ff21de628e867c53117f6a5822c540e43847995cca2da7fe",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "806854ffade01c23ff21de628e867c53117f6a5822c540e43847995cca2da7fe",
+      "new_fingerprint": "9b89c65e5ef563e012e6b232213483fbcc844d40c4122d8b505a91e8a627f773",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
       "brand": "Nissan",
       "model": "Armada",
       "kind": "model",
-      "previous_fingerprint": "73942f6cb5957f716c7010d2a66a77b073b3f33f814bcdca33302dace68e1ae9",
-      "new_fingerprint": "5a991b0fd6436d1cdd588d49932e1736e4b3dfa11feacb198e41f7911760e125",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.nissanusa.com/vehicles/cars/sentra/specs-trims.html",
-      "brand": "Nissan",
-      "model": "Sentra",
-      "kind": "model",
-      "previous_fingerprint": "beebc2140a9d2a88becc82b1732cb5a3573ae73cf24607794283da4dd811abcd",
-      "new_fingerprint": "bc8d8fec12af03cc3b1c9bb146b976a65f7cb1e79d063af5163bc57ab7cdf134",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.nissanusa.com/vehicles/sports-cars/nissan-z/specs-trims.html",
-      "brand": "Nissan",
-      "model": "Nissan Z",
-      "kind": "model",
-      "previous_fingerprint": "5521e673360d87f136c422f92368ab2f56f277ef950d0ce4fb44466a9811a0c3",
-      "new_fingerprint": "f61ef3a9203f83a4272b7de206160c3d5d7d477196665aeb39a746cbf2fba91f",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.gmc.com/trucks/sierra/1500",
-      "brand": "GMC",
-      "model": "Sierra 1500",
-      "kind": "model",
-      "previous_fingerprint": "d1128363dce32252ca61f44269913086e514198ca34e58e8284238963a383f90",
-      "new_fingerprint": "5dab72e9145c856cc78c475ce4ba20fe0e974ef75f4dc9724e9c2a409736d764",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.gmc.com/trucks/sierra/2500hd-3500hd",
-      "brand": "GMC",
-      "model": "Sierra 2500HD",
-      "kind": "model",
-      "previous_fingerprint": "1be4e2ce1d211e93b87be03feeec894239614ab33d945b8f56d519991f971afd",
-      "new_fingerprint": "b3065c3be071d298fe1040cff7c2763862640ea9477338246a5ef88b8f81e9d3",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "5a991b0fd6436d1cdd588d49932e1736e4b3dfa11feacb198e41f7911760e125",
+      "new_fingerprint": "edf87143d6cd94cc01ba0e9e138ebb77015a35477944772cf70911bb5015f1a9",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles",
@@ -422,9 +260,9 @@
       "model": "",
       "kind": "brand-registry",
       "market": "U.S. retail",
-      "previous_fingerprint": "3c74a601fd40808ad3bd047459138144fba61057e217064f4b9b8f0a9474aa53",
-      "new_fingerprint": "9978ea5b032d8cf28fb8045e134a6320473b0dd9e00317dc17dad09487728549",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "9978ea5b032d8cf28fb8045e134a6320473b0dd9e00317dc17dad09487728549",
+      "new_fingerprint": "ad79d4327c5241eca482c9d22298d7eac7e42b1c8f486500f21afd4bf2f258aa",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/all-vehicles",
@@ -432,9 +270,9 @@
       "model": "",
       "kind": "brand-registry",
       "market": "U.S. retail",
-      "previous_fingerprint": "911a36d44496513a510df86e5874ab50e8b85652c808b892389448b54e16ca2b",
-      "new_fingerprint": "34fb2aa59a833d9785dee8ceefd0b5495d7dc7716da2c2183d7480a6a6a13ef2",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "34fb2aa59a833d9785dee8ceefd0b5495d7dc7716da2c2183d7480a6a6a13ef2",
+      "new_fingerprint": "911a36d44496513a510df86e5874ab50e8b85652c808b892389448b54e16ca2b",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://www.nissanusa.com/vehicles.html",
@@ -442,29 +280,9 @@
       "model": "",
       "kind": "brand-registry",
       "market": "U.S. retail",
-      "previous_fingerprint": "e841066e60d24080538dc85320dade7dbbfa32b2691b309e2afeb52d561c08c5",
-      "new_fingerprint": "b049d8f1cedd25179bd23c391eed79edfb7d0e2928803155080541574883aacd",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://www.ramtrucks.com/vehicle-selector.html",
-      "brand": "Ram",
-      "model": "",
-      "kind": "brand-registry",
-      "market": "U.S. retail",
-      "previous_fingerprint": "db886a8692cbe8f40d9f515760c7d07be4ea9afa763ee7c5579647d6b365c7e6",
-      "new_fingerprint": "656ba8e47fa4dc091d2219eff5f8fd256964f7cc0c40671f2b45060b99d57fd9",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://auto.mahindra.com/suv",
-      "brand": "Mahindra",
-      "model": "",
-      "kind": "brand-registry",
-      "market": "India",
-      "previous_fingerprint": "8e6169ebed80683c4c65cefcbd931b7f11b1d5d1f8adc3ec4c23daada037c866",
-      "new_fingerprint": "33f14031bb48607843f243451c78d75577996b412a7487d8e8de12cfbf64d8c6",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "b049d8f1cedd25179bd23c391eed79edfb7d0e2928803155080541574883aacd",
+      "new_fingerprint": "7a8807aa9d8d54d79e0cb03b551922873174ba44ffb8d1db06bf225482970ad3",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     },
     {
       "url": "https://auto.mahindra.com/",
@@ -472,19 +290,9 @@
       "model": "BE 6",
       "kind": "global-model",
       "market": "India",
-      "previous_fingerprint": "654eb0808e737c5df51aab73e7355ea0be9579b594f1f335f3185c5848777ee4",
-      "new_fingerprint": "b228bcbd101296c734d44d7605763c6f31e0a62932eb61be29ef2ad6881c3657",
-      "detected_at": "2026-09-23T04:47:03+00:00"
-    },
-    {
-      "url": "https://auto.mahindra.com/press-release/mahindra-leadership-team.html",
-      "brand": "Mahindra",
-      "model": "XEV 9S",
-      "kind": "global-model",
-      "market": "India",
-      "previous_fingerprint": "d6d0a7e7b5e3037dc322647c3aeead6d2eb58a78a11a4e6a3069e9500d35b2a8",
-      "new_fingerprint": "cc21bf7074fe5714d64c1662f72bf239c776695b930f0e061977e0a00f0578ef",
-      "detected_at": "2026-09-23T04:47:03+00:00"
+      "previous_fingerprint": "b228bcbd101296c734d44d7605763c6f31e0a62932eb61be29ef2ad6881c3657",
+      "new_fingerprint": "7607e9211242c50ebc3d978d8f6672d9466d920f3a81a009bce7ad9a936968b1",
+      "detected_at": "2026-09-24T04:46:55+00:00"
     }
   ]
 }

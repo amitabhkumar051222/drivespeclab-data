@@ -1,0 +1,63 @@
+{
+  "brand": "Acura",
+  "market": "United States",
+  "verified_on": "2026-09-26",
+  "source_policy": "Official Acura U.S. model, pricing/specification and fact-sheet pages only. Starting prices are manufacturer-published base prices and exclude destination, taxes and dealer fees unless Acura states otherwise.",
+  "models": {
+    "Integra": {
+      "year": "2026",
+      "source": "https://www.acura.com/cars/integra/pricing-and-specs",
+      "horsepower": 320,
+      "powertrain_note": "200-hp 1.5L turbo on standard/A-Spec variants; 320-hp 2.0L turbo on Type S.",
+      "trims": [
+        {"name":"Integra","msrp":33400,"powertrain":"1.5L VTEC Turbo","drivetrain":"FWD"},
+        {"name":"A-Spec Package","msrp":35950,"powertrain":"1.5L VTEC Turbo","drivetrain":"FWD"},
+        {"name":"A-Spec w/Technology CVT","msrp":39200,"powertrain":"1.5L VTEC Turbo","drivetrain":"FWD"},
+        {"name":"A-Spec w/Technology 6MT","msrp":39200,"powertrain":"1.5L VTEC Turbo","drivetrain":"FWD"},
+        {"name":"Type S","msrp":53900,"powertrain":"2.0L VTEC Turbo","drivetrain":"FWD"}
+      ]
+    },
+    "ADX": {
+      "year": "2026",
+      "source": "https://www.acura.com/-/media/Files/Vehicles/ADX/2026/Acura-2026-ADX-Fact-Sheet.pdf",
+      "horsepower": 190,
+      "trims": [
+        {"name":"ADX FWD","msrp":35000,"powertrain":"1.5L VTEC Turbo","drivetrain":"FWD"},
+        {"name":"ADX AWD","msrp":37000,"powertrain":"1.5L VTEC Turbo","drivetrain":"AWD"},
+        {"name":"A-Spec FWD","msrp":38200,"powertrain":"1.5L VTEC Turbo","drivetrain":"FWD"},
+        {"name":"A-Spec AWD","msrp":40200,"powertrain":"1.5L VTEC Turbo","drivetrain":"AWD"},
+        {"name":"A-Spec with Advance FWD","msrp":42400,"powertrain":"1.5L VTEC Turbo","drivetrain":"FWD"},
+        {"name":"A-Spec with Advance AWD","msrp":44400,"powertrain":"1.5L VTEC Turbo","drivetrain":"AWD"}
+      ]
+    },
+    "RDX": {
+      "year": "2026",
+      "source": "https://www.acura.com/suvs/rdx",
+      "horsepower": 272,
+      "powertrain": "2.0L VTEC Turbo",
+      "drivetrain": "SH-AWD",
+      "trims": [
+        {"name":"RDX","msrp":45100,"powertrain":"2.0L VTEC Turbo","drivetrain":"SH-AWD"},
+        {"name":"Technology Package","msrp":47700,"powertrain":"2.0L VTEC Turbo","drivetrain":"SH-AWD"},
+        {"name":"A-Spec Package","msrp":50700,"powertrain":"2.0L VTEC Turbo","drivetrain":"SH-AWD"},
+        {"name":"Advance Package","msrp":52850,"powertrain":"2.0L VTEC Turbo","drivetrain":"SH-AWD"},
+        {"name":"A-Spec Advance Package","msrp":54850,"powertrain":"2.0L VTEC Turbo","drivetrain":"SH-AWD"}
+      ]
+    },
+    "MDX": {
+      "year": "2026",
+      "source": "https://www.acura.com/suvs/mdx/pricing-and-specs",
+      "powertrain_note": "290-hp 3.5L V6 on standard through A-Spec Advance; 355-hp 3.0L turbo V6 on Type S Advance.",
+      "trims": [
+        {"name":"MDX FWD","msrp":51800,"powertrain":"3.5L V6","drivetrain":"FWD"},
+        {"name":"MDX SH-AWD","msrp":54000,"powertrain":"3.5L V6","drivetrain":"SH-AWD"},
+        {"name":"Technology FWD","msrp":57200,"powertrain":"3.5L V6","drivetrain":"FWD"},
+        {"name":"Technology SH-AWD","msrp":59400,"powertrain":"3.5L V6","drivetrain":"SH-AWD"},
+        {"name":"A-Spec","msrp":62400,"powertrain":"3.5L V6","drivetrain":"SH-AWD"},
+        {"name":"Advance","msrp":66900,"powertrain":"3.5L V6","drivetrain":"SH-AWD"},
+        {"name":"A-Spec Advance","msrp":68900,"powertrain":"3.5L V6","drivetrain":"SH-AWD"},
+        {"name":"Type S Advance","msrp":75850,"powertrain":"3.0L Turbo V6","drivetrain":"SH-AWD"}
+      ]
+    }
+  }
+}

@@ -1,13 +1,13 @@
 # DriveSpecLab Gallery Health & Production Readiness
 
-Generated: 2026-09-26T03:45:00.288359+00:00
+Generated: 2026-09-26T09:44:01.134336+00:00
 
-- Models scanned: **278**
+- Models scanned: **282**
 - Models with galleries: **30**
 - Gallery URLs checked: **181**
-- Healthy image URLs: **162 (89.5%)**
-- Unhealthy image URLs: **19**
-- Production-ready models: **26 / 274 (9.5%)**
+- Healthy image URLs: **161 (89.0%)**
+- Unhealthy image URLs: **20**
+- Production-ready models: **26 / 278 (9.4%)**
 
 ## Production-ready models
 
@@ -40,6 +40,7 @@ Generated: 2026-09-26T03:45:00.288359+00:00
 
 ## Unhealthy URLs
 
+- Honda Pilot: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/9/98/2023_Honda_Pilot_TrailSport,_rear_left,_05-08-2023.jpg
 - Honda Pilot: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/5/52/23_Honda_Pilot_TrailSport.jpg
 - Honda Passport: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/a/aa/%2726_Honda_Passport_TrailSport.jpg
 - Honda Passport: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/5/54/2025_Honda_Passport_TrailSport,_front_4.11.25.jpg

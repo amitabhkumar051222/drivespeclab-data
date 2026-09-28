@@ -1,78 +1,60 @@
 {
-  "generated": "2026-09-27T04:46:54+00:00",
-  "count": 9,
+  "generated": "2026-09-28T04:49:58+00:00",
+  "count": 8,
   "changes": [
     {
       "url": "https://www.jeep.com/gladiator.html",
       "brand": "Jeep",
       "model": "Gladiator",
       "kind": "model",
-      "previous_fingerprint": "15753ca916fe221f410e949d610ededb8907a4b6e7f81c4477e775304fd8821a",
-      "new_fingerprint": "bae67fd676971701350e8d8231a0a1b476e73e82cb58c64081d8d0daa950720c",
-      "detected_at": "2026-09-27T04:46:54+00:00"
-    },
-    {
-      "url": "https://www.jeep.com/wagoneer.html",
-      "brand": "Jeep",
-      "model": "Wagoneer",
-      "kind": "model",
-      "previous_fingerprint": "15ebb5564f9eb6f8e8ab249804f5f681ef65d47267737e2e123508bc30fc9d0c",
-      "new_fingerprint": "071db452a9fcd2734ccaab9198aafb12ee8339314aaf50d207266da97e6e034a",
-      "detected_at": "2026-09-27T04:46:54+00:00"
+      "previous_fingerprint": "bae67fd676971701350e8d8231a0a1b476e73e82cb58c64081d8d0daa950720c",
+      "new_fingerprint": "15753ca916fe221f410e949d610ededb8907a4b6e7f81c4477e775304fd8821a",
+      "detected_at": "2026-09-28T04:49:58+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/media/pressreleases/25004/kia-announces-pricing-for-2027-ev3",
       "brand": "Kia",
       "model": "EV3",
       "kind": "model",
-      "previous_fingerprint": "5d29280143a6738d8533fed40fb6f1419f5050de14761eb5c8ee8a0c5d3b5bea",
-      "new_fingerprint": "5c44e7a393e998577585b330955ec437ab8f98fdee56742d0f94f943f99b592f",
-      "detected_at": "2026-09-27T04:46:54+00:00"
+      "previous_fingerprint": "5c44e7a393e998577585b330955ec437ab8f98fdee56742d0f94f943f99b592f",
+      "new_fingerprint": "535a6109d05cc97a36a01842caaf0322222a56f7149b3e0c3ac3752f77916b56",
+      "detected_at": "2026-09-28T04:49:58+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4/2026/pricing",
       "brand": "Kia",
       "model": "K4",
       "kind": "model",
-      "previous_fingerprint": "c2eaf7d0ef62491bfe0d9a9403aa876b76ade3c8b0a03f93c8394bf70623a442",
-      "new_fingerprint": "9b3c64a890102fa7c8608551850fd2bcfb9aba24a4ae9bfecbc2faf0b4e67fe1",
-      "detected_at": "2026-09-27T04:46:54+00:00"
+      "previous_fingerprint": "9b3c64a890102fa7c8608551850fd2bcfb9aba24a4ae9bfecbc2faf0b4e67fe1",
+      "new_fingerprint": "7798e325a3369dc4b2c2ad41433ea9bc7ec6b5a6bc513b2a519dd9d9b489489c",
+      "detected_at": "2026-09-28T04:49:58+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4-hatchback/2026/pricing",
       "brand": "Kia",
       "model": "K4 Hatchback",
       "kind": "model",
-      "previous_fingerprint": "129d5cca608cd50f86b15bebc4b79840b174c99119aba7bb14ed648f5028b7eb",
-      "new_fingerprint": "44a7fd4878ac1c0bd94bcb8e29de93294ce9c174e76ac260b6a7bd3aa3354c2b",
-      "detected_at": "2026-09-27T04:46:54+00:00"
+      "previous_fingerprint": "44a7fd4878ac1c0bd94bcb8e29de93294ce9c174e76ac260b6a7bd3aa3354c2b",
+      "new_fingerprint": "4d4a0d426a50b3ff93d4b42631092acb431d2e1359780718cbb3a2f6a15047f6",
+      "detected_at": "2026-09-28T04:49:58+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/seltos/2027/pricing",
       "brand": "Kia",
       "model": "Seltos",
       "kind": "model",
-      "previous_fingerprint": "5b280821fbcfddbd0bacc7e07abe7ad70355882a6fa95ca956370cbc9f18dfff",
-      "new_fingerprint": "7c04c312181ef81d51ca913343ceab772c850cbbca314d0ec0d2be157f1322fe",
-      "detected_at": "2026-09-27T04:46:54+00:00"
-    },
-    {
-      "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
-      "brand": "Nissan",
-      "model": "Armada",
-      "kind": "model",
-      "previous_fingerprint": "4350dc5bdb381fa224af9313d83dadd1b811a28bf22704c28671f27ddd94face",
-      "new_fingerprint": "ad79c53f231e75ce412b874e50b769fcb9c04b7a8830f72d6aaf092b854241e1",
-      "detected_at": "2026-09-27T04:46:54+00:00"
+      "previous_fingerprint": "7c04c312181ef81d51ca913343ceab772c850cbbca314d0ec0d2be157f1322fe",
+      "new_fingerprint": "6ffc7cb25602c225e17920b6c9f4499429ad9ca2fa137566b5797b84ee085395",
+      "detected_at": "2026-09-28T04:49:58+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
-      "previous_fingerprint": "5588b484ec9be246764c1816ebaabecb5b90f656888c4e1cc1a10da1f33ba045",
-      "new_fingerprint": "e0e69b8cdf94a3caba74bb85bfa6ac16731f3900f1d2f71c885ee3ef21ae63ae",
-      "detected_at": "2026-09-27T04:46:54+00:00"
+      "previous_fingerprint": "e0e69b8cdf94a3caba74bb85bfa6ac16731f3900f1d2f71c885ee3ef21ae63ae",
+      "new_fingerprint": "0387b7bbbbed9aebef9210a84e9b5ee2832e47ac46efc29fec8ca6f56d3c2781",
+      "detected_at": "2026-09-28T04:49:58+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/all-vehicles",
@@ -80,9 +62,19 @@
       "model": "",
       "kind": "brand-registry",
       "market": "U.S. retail",
-      "previous_fingerprint": "911a36d44496513a510df86e5874ab50e8b85652c808b892389448b54e16ca2b",
-      "new_fingerprint": "34fb2aa59a833d9785dee8ceefd0b5495d7dc7716da2c2183d7480a6a6a13ef2",
-      "detected_at": "2026-09-27T04:46:54+00:00"
+      "previous_fingerprint": "34fb2aa59a833d9785dee8ceefd0b5495d7dc7716da2c2183d7480a6a6a13ef2",
+      "new_fingerprint": "911a36d44496513a510df86e5874ab50e8b85652c808b892389448b54e16ca2b",
+      "detected_at": "2026-09-28T04:49:58+00:00"
+    },
+    {
+      "url": "https://www.nissanusa.com/vehicles.html",
+      "brand": "Nissan",
+      "model": "",
+      "kind": "brand-registry",
+      "market": "U.S. retail",
+      "previous_fingerprint": "e8653f690cff617527f15abb93f65f19869c3fcc0daeb42743f90e0af044b606",
+      "new_fingerprint": "1beddd0a27ae243e71f622ab907a748f2f6ac9fed92944aecc3515c606f2b627",
+      "detected_at": "2026-09-28T04:49:58+00:00"
     }
   ]
 }

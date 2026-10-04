@@ -1,349 +1,69 @@
 {
-  "generated": "2026-10-03T04:48:55+00:00",
-  "count": 40,
+  "generated": "2026-10-04T10:53:02+00:00",
+  "count": 8,
   "changes": [
-    {
-      "url": "https://www.chevrolet.com/suvs/trax",
-      "brand": "Chevrolet",
-      "model": "Trax",
-      "kind": "model",
-      "previous_fingerprint": "1d9427c007df9774c71541ec948847bfb23cafcc893372ec62006a6d84688eb0",
-      "new_fingerprint": "b5be377346cbf0c86e3c8426ec23dc624d73423b79dc122ef78efc26e4cd0763",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/suvs/trailblazer",
-      "brand": "Chevrolet",
-      "model": "Trailblazer",
-      "kind": "model",
-      "previous_fingerprint": "3dd553b4c3ba2fe13f25b66f8907407c2c6343851036ffeb80060a2bccf6d8e4",
-      "new_fingerprint": "d1789d7c7f9632818d381c9fb888dba796c0629babe300274ff26630959016dc",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/suvs/equinox",
-      "brand": "Chevrolet",
-      "model": "Equinox",
-      "kind": "model",
-      "previous_fingerprint": "54ac581e381af8528983506874810bf522b72411f8565c18301951a18a721c2a",
-      "new_fingerprint": "cb29f5e85c9005152db3716ae3bd8ce04ee983fdeed8f34538ad08cb1ae34786",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/suvs/blazer",
-      "brand": "Chevrolet",
-      "model": "Blazer",
-      "kind": "model",
-      "previous_fingerprint": "555744e269a5cdc8650117e95291faf5a096f690708340f3bdd18315a9e9e408",
-      "new_fingerprint": "ee7e0201380595b44044ace0e300834b2093b5f4f185fadf031795cf88ab5e0e",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/suvs/traverse",
-      "brand": "Chevrolet",
-      "model": "Traverse",
-      "kind": "model",
-      "previous_fingerprint": "eaed9424f088d4b69ed993a602b85110510e35a3dc26d8a412e59793403b69a0",
-      "new_fingerprint": "d5523bf9f0695fb67c7fc8c71b15d002ad3a5164248bfb3ef7d27e5ae696d8bd",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
     {
       "url": "https://www.chevrolet.com/suvs/tahoe",
       "brand": "Chevrolet",
       "model": "Tahoe",
       "kind": "model",
-      "previous_fingerprint": "3b8bb0b9191a159378a638eba71783f5825464b86ef3db8d506a47e84fb4b5c7",
-      "new_fingerprint": "94b1c072f53752f9568a253bb485ae230f5cfca6027de110b44dbecc73f53984",
-      "detected_at": "2026-10-03T04:48:55+00:00"
+      "previous_fingerprint": "94b1c072f53752f9568a253bb485ae230f5cfca6027de110b44dbecc73f53984",
+      "new_fingerprint": "8b7a5726d1137a386b94c7bb2780d066345590b618cf2bdd959d28b7af9b1248",
+      "detected_at": "2026-10-04T10:53:02+00:00"
     },
     {
-      "url": "https://www.chevrolet.com/suvs/suburban",
-      "brand": "Chevrolet",
-      "model": "Suburban",
-      "kind": "model",
-      "previous_fingerprint": "ca40a06789f671906a0b0f6670257c70097336faa95df250f4aa5972d9b19f4a",
-      "new_fingerprint": "d7a99411f9130c48de680669749091d0bae7f3c338342eaf87399da127c2b27b",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/trucks/colorado",
-      "brand": "Chevrolet",
-      "model": "Colorado",
-      "kind": "model",
-      "previous_fingerprint": "d1e8d7fae0a0e9782f781b2dd1b5bc39376fecd9a62a48565c430a349961a1e7",
-      "new_fingerprint": "589faa4cce793d3ae9bd7f91bfd5dd1338c728b046fa24fcc4f91dc73c926753",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/trucks/silverado/1500",
-      "brand": "Chevrolet",
-      "model": "Silverado 1500",
-      "kind": "model",
-      "previous_fingerprint": "c62c2e03467f4a28fce8f5eaa18ad2d62bda6498febda39f526a2a75f61040b5",
-      "new_fingerprint": "9f8c5d5efa023dc0357d3e458299f475d3697614ac741806b2817a65e4b42b69",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/trucks/silverado/2500hd-3500hd",
-      "brand": "Chevrolet",
-      "model": "Silverado HD",
-      "kind": "model",
-      "previous_fingerprint": "ab141150717c2f7af736cbbf7020562cd7bd4bc7d5c3a8935b0ab34ebce8a067",
-      "new_fingerprint": "1d7a5b3d802492081dd6e538e5775972783e42ceb7fc31ac5f059aec075f65a0",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/electric/silverado-ev",
-      "brand": "Chevrolet",
-      "model": "Silverado EV",
-      "kind": "model",
-      "previous_fingerprint": "516cb5e80cc4a4260cc587756bba94668ee779b0ca9c0bc282bc27ddadd6516e",
-      "new_fingerprint": "9ab20d7ceb284de6adf1bd2947c81f11d6dc3d66a2a5bef4b319b04f0f6338d6",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/electric/equinox-ev",
-      "brand": "Chevrolet",
-      "model": "Equinox EV",
-      "kind": "model",
-      "previous_fingerprint": "acfd78a694ee132a897f88c130499f5b78b21bbeed34c06031969472cb0d4bbe",
-      "new_fingerprint": "145dc148bedbe302a7fb7baeb1467d2bb3c2c0e1c5527d9e3a27c5d33b632d97",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/electric/blazer-ev",
-      "brand": "Chevrolet",
-      "model": "Blazer EV",
-      "kind": "model",
-      "previous_fingerprint": "6d1c392b8808f677c563e55f48a879c00bfc10442be3c35f1fae981126b6aaa2",
-      "new_fingerprint": "51896a4b569d5ceb787a22bff5022b86d94c59583433bf43069abf12e2780f3d",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/electric/bolt-ev",
-      "brand": "Chevrolet",
-      "model": "Bolt",
-      "kind": "model",
-      "previous_fingerprint": "de83879381d173c708bb92d2e9e1d9395e049ecfda086523f429ca33eee21fd3",
-      "new_fingerprint": "acbf2f9d1c4b804d37b744bee39499eb6bebf8fe12a39e331f229b43f276c5f1",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/performance/corvette",
-      "brand": "Chevrolet",
-      "model": "Corvette",
-      "kind": "model",
-      "previous_fingerprint": "1406f3b809135d52b7078328b1674f8abd8fb9a1ac4ff0089298bee5610b1b02",
-      "new_fingerprint": "2ffa81e52af99c488db8c629b14c795cb75933050a981cf977f850274f6b2d43",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/g70",
-      "brand": "Genesis",
-      "model": "G70",
-      "kind": "model",
-      "previous_fingerprint": "19b6f14ff50e7a6b0d939fb287e7debf2f94d3f905bd023cebfe55c9177574b8",
-      "new_fingerprint": "2df66324b6b6bf2352fe6a23f1be72626a7f9db8b5836a131df0956620f191c0",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/g80",
-      "brand": "Genesis",
-      "model": "G80",
-      "kind": "model",
-      "previous_fingerprint": "8c0981d009a4a1472e619334ba8d02669a466d083e5cbc036970b2829cd8dc55",
-      "new_fingerprint": "d1ff0c58f11edf81b24466de4fd189a8d7e0c78c8e0dce12790fabcf8410eae2",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/build-and-price/2026/g90",
-      "brand": "Genesis",
-      "model": "G90",
-      "kind": "model",
-      "previous_fingerprint": "0868af7414e6321c105f7a3d33e8ceee0f54b78fc66650c69921fcac6cd91761",
-      "new_fingerprint": "9e603b0e5ade3958c02658e5f5853cb1cd57849f8316eab36923a8415119076d",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/gv60",
-      "brand": "Genesis",
-      "model": "GV60",
-      "kind": "model",
-      "previous_fingerprint": "59a1939b9c1332380b829c018ca7986a1e32ac0d749986a874c6b2169977a628",
-      "new_fingerprint": "71bac848633de9a1e520f1c88b29e0f73862e2db0f59ceb2b01f14f06c245a6c",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/gv60-magma",
-      "brand": "Genesis",
-      "model": "GV60 Magma",
-      "kind": "model",
-      "previous_fingerprint": "ec55ba97fdc4bda27d55bc8d3a2c8683bd5cdecab9e785fd9df6d6d500d5fe12",
-      "new_fingerprint": "df12bc6cceb04e40ebaf9f93ffcc11405126eaf0c81bfe6b572aa78df437435e",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/gv70",
-      "brand": "Genesis",
-      "model": "GV70",
-      "kind": "model",
-      "previous_fingerprint": "a627130c57c58f180b446f3393bf7b7a4d3057a4e6b241969be7c867aae5a56d",
-      "new_fingerprint": "fd3c319fea7ec6fb1e1a2f53e84d82eea9b73c5cac0d5e96530916606876f726",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/electrified-gv70",
-      "brand": "Genesis",
-      "model": "Electrified GV70",
-      "kind": "model",
-      "previous_fingerprint": "cc60aa5bb17f8ace1ec6da0e1adcd0a44a9ab5a90a15fd8a95f533a9af7b4a3d",
-      "new_fingerprint": "2158862261d3b14375acd457a9150118479653f07054247364dcb8e6c1257b88",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/gv80",
-      "brand": "Genesis",
-      "model": "GV80",
-      "kind": "model",
-      "previous_fingerprint": "70cae6b41bd3edd7860607dd4404f393dcef7ea07e9283729299d39ebdc9c08a",
-      "new_fingerprint": "767a2993c23e7054170be4c4a931a745f9227f2c7237f738fe31e80eaeba1c4f",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.genesis.com/us/en/gv80-coupe",
-      "brand": "Genesis",
-      "model": "GV80 Coupe",
-      "kind": "model",
-      "previous_fingerprint": "e95866d4f2d7908c1ddabd172b7d5a974ab7a3cb6355eb443497da590e8cd7de",
-      "new_fingerprint": "0f5c3e822cbedd0eb2727e512f828666e9f19a724ee44430fe2e2e923ae1151d",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.porsche.com/usa/models/718/configure/",
-      "brand": "Porsche",
-      "model": "718",
-      "kind": "model",
-      "previous_fingerprint": "47d314ba6004bbc94ccbbaefd3ea91ed24df5ec643096b7fb0b7828b7de39067",
-      "new_fingerprint": "f68fea12936cbd9dfeccd7f32f79d086c79f13442ac623e855b50fa3f1b4e9b8",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.porsche.com/usa/models/911/configure/",
-      "brand": "Porsche",
-      "model": "911",
-      "kind": "model",
-      "previous_fingerprint": "4e4e050eeb3fe170627f8f11ddabce7606225a338305cd992c6ebd19be6bf94a",
-      "new_fingerprint": "6e97a411ea52877b1c22b54534f9f08d9f7e4d57b5d049820fadcf3bc41b1d96",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.porsche.com/usa/models/taycan/configure/",
-      "brand": "Porsche",
-      "model": "Taycan",
-      "kind": "model",
-      "previous_fingerprint": "d25423d731d466b0b32577a97ed22afcff4845d00220d5c3a5ce38621dd66d95",
-      "new_fingerprint": "c5d10869492b28188589ba33eba167c58fa805e59b2f8d613f68187c388dfa6f",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.porsche.com/usa/models/macan/configure/",
-      "brand": "Porsche",
-      "model": "Macan",
-      "kind": "model",
-      "previous_fingerprint": "48ea3d6b04e0c8f28e98b34e8c0dfeed4a754b0c30565309610402238ddabea5",
-      "new_fingerprint": "a024467892cdf9993b789ce9d872edf96b7957e220604ee0b01a4803c2d62c22",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.porsche.com/usa/models/cayenne/",
-      "brand": "Porsche",
-      "model": "Cayenne",
-      "kind": "model",
-      "previous_fingerprint": "72eee92ff004e3626abbb2dd248f19a26a5e98f7db6e8aebfa6631edd6e0d12c",
-      "new_fingerprint": "c98d02049233f036885ebf7817df64262b58e8bf6e89ed27c6d8b7404f6c5b9b",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.jeep.com/gladiator.html",
-      "brand": "Jeep",
-      "model": "Gladiator",
-      "kind": "model",
-      "previous_fingerprint": "bb0ff46f989eecd58f66bed45fc7982062ab6b4033cde5d527826807f2b5287a",
-      "new_fingerprint": "daf4ff399687dcd3281a124926067f4c6deecefb00294794907f357b90abcf3b",
-      "detected_at": "2026-10-03T04:48:55+00:00"
+      "url": "https://en.byd.com/",
+      "brand": "BYD",
+      "model": "",
+      "kind": "brand",
+      "previous_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
+      "detected_at": "2026-10-04T10:53:02+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/media/pressreleases/25004/kia-announces-pricing-for-2027-ev3",
       "brand": "Kia",
       "model": "EV3",
       "kind": "model",
-      "previous_fingerprint": "60437ffcfab0d1dd5d7d3ea4a5cf8187a0c1ad15378019be5a4d967c7fab60fc",
-      "new_fingerprint": "de9034344d93ef677352be1b3eaa97ff27aa0f4962315703cf7d7a39f4256446",
-      "detected_at": "2026-10-03T04:48:55+00:00"
+      "previous_fingerprint": "de9034344d93ef677352be1b3eaa97ff27aa0f4962315703cf7d7a39f4256446",
+      "new_fingerprint": "60458d11f56b56d21a9d8e6837d291e79f202b30605d3738603cfd0f4af391b0",
+      "detected_at": "2026-10-04T10:53:02+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4/2026/pricing",
       "brand": "Kia",
       "model": "K4",
       "kind": "model",
-      "previous_fingerprint": "e0df44945f948778e8359b1f14a441c3ac8b2b6af40e8ed6bc6c9c90531a85b4",
-      "new_fingerprint": "b1926dc4b840a2067f2190dd2e24de9b689615a6fde5f43708f0c4999c415f0c",
-      "detected_at": "2026-10-03T04:48:55+00:00"
+      "previous_fingerprint": "b1926dc4b840a2067f2190dd2e24de9b689615a6fde5f43708f0c4999c415f0c",
+      "new_fingerprint": "97462f48da5352ed6a5eaf89bd94fe80306d52c6aa0916566156f973c43d3043",
+      "detected_at": "2026-10-04T10:53:02+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4-hatchback/2026/pricing",
       "brand": "Kia",
       "model": "K4 Hatchback",
       "kind": "model",
-      "previous_fingerprint": "118c7cbac7c53bc495546219b0ef24d067c4d4ddc8381db2661b5e3dcb8ad207",
-      "new_fingerprint": "74540616141506b4164f65428624ac034cb3f165ab8374cddf1be10d471061a8",
-      "detected_at": "2026-10-03T04:48:55+00:00"
+      "previous_fingerprint": "74540616141506b4164f65428624ac034cb3f165ab8374cddf1be10d471061a8",
+      "new_fingerprint": "2c30e69ca7b7722837e37964689794409200e27e1b8e0c02c7b268d32027a2f1",
+      "detected_at": "2026-10-04T10:53:02+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/seltos/2027/pricing",
       "brand": "Kia",
       "model": "Seltos",
       "kind": "model",
-      "previous_fingerprint": "1d9efbf12c0abda1eb5465b93e5b1a990f38320bc20f981203de0c1ea01d0759",
-      "new_fingerprint": "491f339e88a0314946cb926a2efcb0bcb82365c0839a13da191ebe7c24537dfa",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
-      "brand": "Nissan",
-      "model": "Armada",
-      "kind": "model",
-      "previous_fingerprint": "1a13921abcaf94c431befcd3588a68ebd12d6cc959197643cfed9f198517863b",
-      "new_fingerprint": "badb95c46d7cabc19c590ba313f4d7fbc4978544a71ffa1af5e75d9c5f7b9536",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.nissanusa.com/vehicles/cars/versa-sedan/specs-trims.html",
-      "brand": "Nissan",
-      "model": "Versa",
-      "kind": "model",
-      "previous_fingerprint": "5fc5981307bfa13c9c085776e7be74c3908a48085f672cf3eb23a6270a980f66",
-      "new_fingerprint": "8df08897db8524e88d90f83a1d26e1c68c452161f89c0f5bd792e80b1e2907d3",
-      "detected_at": "2026-10-03T04:48:55+00:00"
+      "previous_fingerprint": "491f339e88a0314946cb926a2efcb0bcb82365c0839a13da191ebe7c24537dfa",
+      "new_fingerprint": "efaa085c8f7990bbe1763fb6f0026e3c457671e2de26860574808c1b432c57fc",
+      "detected_at": "2026-10-04T10:53:02+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
-      "previous_fingerprint": "fa4ae8803c5444674eef83c3c7cca071073e576719bf8ec529fb5427fc757c99",
-      "new_fingerprint": "ba160d79608d3bdde28720e0ed468a8be9edae01755104694bd1c4ded17d6c44",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.chevrolet.com/vehicles",
-      "brand": "Chevrolet",
-      "model": "",
-      "kind": "brand-registry",
-      "market": "U.S. retail",
-      "previous_fingerprint": "86758efb6e2ad1ea8947d518b6eb6725eda58f98b78b160718731350ad8d96f6",
-      "new_fingerprint": "7147fa725d0852fcc6271bbd11a4786869da173e0b027fdbae4b627de4e8081e",
-      "detected_at": "2026-10-03T04:48:55+00:00"
+      "previous_fingerprint": "ba160d79608d3bdde28720e0ed468a8be9edae01755104694bd1c4ded17d6c44",
+      "new_fingerprint": "d21762520a4a2c522856d7496789538f81fbf54c115e5521cbdfec1d31a02a95",
+      "detected_at": "2026-10-04T10:53:02+00:00"
     },
     {
       "url": "https://www.nissanusa.com/vehicles.html",
@@ -351,19 +71,9 @@
       "model": "",
       "kind": "brand-registry",
       "market": "U.S. retail",
-      "previous_fingerprint": "5c5e1a28e42811fdf8002417b492faa349dd9d0187764853212651cfad79bcda",
-      "new_fingerprint": "fadae458c876a1fe58542716fe5398dd74fd84d106b949bdf7fa14fb918024ee",
-      "detected_at": "2026-10-03T04:48:55+00:00"
-    },
-    {
-      "url": "https://www.ramtrucks.com/vehicle-selector.html",
-      "brand": "Ram",
-      "model": "",
-      "kind": "brand-registry",
-      "market": "U.S. retail",
-      "previous_fingerprint": "0e4c50f49cfb806d845853e1805e6da656dc0a340c988f678764036906f90a00",
-      "new_fingerprint": "0e622ad1447012a20bfe5a2dd794e552da759bb117bc675bfaf407ee96e890ed",
-      "detected_at": "2026-10-03T04:48:55+00:00"
+      "previous_fingerprint": "fadae458c876a1fe58542716fe5398dd74fd84d106b949bdf7fa14fb918024ee",
+      "new_fingerprint": "476f8e62889cf8303151a01d18edb0dc50ad4b245b77fbe63bfdd0a006fa5802",
+      "detected_at": "2026-10-04T10:53:02+00:00"
     }
   ]
 }

@@ -1,69 +1,96 @@
 {
-  "generated": "2026-10-04T10:53:02+00:00",
-  "count": 8,
+  "generated": "2026-10-05T05:10:37+00:00",
+  "count": 11,
   "changes": [
     {
       "url": "https://www.chevrolet.com/suvs/tahoe",
       "brand": "Chevrolet",
       "model": "Tahoe",
       "kind": "model",
-      "previous_fingerprint": "94b1c072f53752f9568a253bb485ae230f5cfca6027de110b44dbecc73f53984",
-      "new_fingerprint": "8b7a5726d1137a386b94c7bb2780d066345590b618cf2bdd959d28b7af9b1248",
-      "detected_at": "2026-10-04T10:53:02+00:00"
+      "previous_fingerprint": "8b7a5726d1137a386b94c7bb2780d066345590b618cf2bdd959d28b7af9b1248",
+      "new_fingerprint": "94b1c072f53752f9568a253bb485ae230f5cfca6027de110b44dbecc73f53984",
+      "detected_at": "2026-10-05T05:10:37+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/gladiator.html",
+      "brand": "Jeep",
+      "model": "Gladiator",
+      "kind": "model",
+      "previous_fingerprint": "daf4ff399687dcd3281a124926067f4c6deecefb00294794907f357b90abcf3b",
+      "new_fingerprint": "547e4cb62d08ec200c0a3b525f91e487c3d0e102a2a27031cf4d4be3b35fb7b2",
+      "detected_at": "2026-10-05T05:10:37+00:00"
     },
     {
       "url": "https://en.byd.com/",
       "brand": "BYD",
       "model": "",
       "kind": "brand",
-      "previous_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "new_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
-      "detected_at": "2026-10-04T10:53:02+00:00"
+      "previous_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
+      "new_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "detected_at": "2026-10-05T05:10:37+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/media/pressreleases/25004/kia-announces-pricing-for-2027-ev3",
       "brand": "Kia",
       "model": "EV3",
       "kind": "model",
-      "previous_fingerprint": "de9034344d93ef677352be1b3eaa97ff27aa0f4962315703cf7d7a39f4256446",
-      "new_fingerprint": "60458d11f56b56d21a9d8e6837d291e79f202b30605d3738603cfd0f4af391b0",
-      "detected_at": "2026-10-04T10:53:02+00:00"
+      "previous_fingerprint": "60458d11f56b56d21a9d8e6837d291e79f202b30605d3738603cfd0f4af391b0",
+      "new_fingerprint": "e5dd06f439fe4c52fb97ae287b2faa2fb127e3ac87cddd55b0cf06c7b1d91175",
+      "detected_at": "2026-10-05T05:10:37+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4/2026/pricing",
       "brand": "Kia",
       "model": "K4",
       "kind": "model",
-      "previous_fingerprint": "b1926dc4b840a2067f2190dd2e24de9b689615a6fde5f43708f0c4999c415f0c",
-      "new_fingerprint": "97462f48da5352ed6a5eaf89bd94fe80306d52c6aa0916566156f973c43d3043",
-      "detected_at": "2026-10-04T10:53:02+00:00"
+      "previous_fingerprint": "97462f48da5352ed6a5eaf89bd94fe80306d52c6aa0916566156f973c43d3043",
+      "new_fingerprint": "643d00712b4a8ca2f8aa5971d6774fd530c5feeb770e346e2a497f6893dd333d",
+      "detected_at": "2026-10-05T05:10:37+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/k4-hatchback/2026/pricing",
       "brand": "Kia",
       "model": "K4 Hatchback",
       "kind": "model",
-      "previous_fingerprint": "74540616141506b4164f65428624ac034cb3f165ab8374cddf1be10d471061a8",
-      "new_fingerprint": "2c30e69ca7b7722837e37964689794409200e27e1b8e0c02c7b268d32027a2f1",
-      "detected_at": "2026-10-04T10:53:02+00:00"
+      "previous_fingerprint": "2c30e69ca7b7722837e37964689794409200e27e1b8e0c02c7b268d32027a2f1",
+      "new_fingerprint": "fe7340290d5298ce1b8186f2a23968a4677afa0584881fa4a7298c47a1f8018f",
+      "detected_at": "2026-10-05T05:10:37+00:00"
     },
     {
       "url": "https://www.kiamedia.com/us/en/models/seltos/2027/pricing",
       "brand": "Kia",
       "model": "Seltos",
       "kind": "model",
-      "previous_fingerprint": "491f339e88a0314946cb926a2efcb0bcb82365c0839a13da191ebe7c24537dfa",
-      "new_fingerprint": "efaa085c8f7990bbe1763fb6f0026e3c457671e2de26860574808c1b432c57fc",
-      "detected_at": "2026-10-04T10:53:02+00:00"
+      "previous_fingerprint": "efaa085c8f7990bbe1763fb6f0026e3c457671e2de26860574808c1b432c57fc",
+      "new_fingerprint": "343a76ad0eda1d5f4523ccefbe39c45de6d47caf2086c9a3a79b958b2abd83b1",
+      "detected_at": "2026-10-05T05:10:37+00:00"
+    },
+    {
+      "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
+      "brand": "Nissan",
+      "model": "Armada",
+      "kind": "model",
+      "previous_fingerprint": "badb95c46d7cabc19c590ba313f4d7fbc4978544a71ffa1af5e75d9c5f7b9536",
+      "new_fingerprint": "1da194fb7e334b0e21349ba95d2c0c8b22116baff4d983df6488503f7196b63f",
+      "detected_at": "2026-10-05T05:10:37+00:00"
+    },
+    {
+      "url": "https://www.nissanusa.com/vehicles/cars/versa-sedan/specs-trims.html",
+      "brand": "Nissan",
+      "model": "Versa",
+      "kind": "model",
+      "previous_fingerprint": "8df08897db8524e88d90f83a1d26e1c68c452161f89c0f5bd792e80b1e2907d3",
+      "new_fingerprint": "f9c8a7512a6b5fc411edf121735c5bcebdd475939e1ec0c93f9dcd05a3b48b27",
+      "detected_at": "2026-10-05T05:10:37+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
-      "previous_fingerprint": "ba160d79608d3bdde28720e0ed468a8be9edae01755104694bd1c4ded17d6c44",
-      "new_fingerprint": "d21762520a4a2c522856d7496789538f81fbf54c115e5521cbdfec1d31a02a95",
-      "detected_at": "2026-10-04T10:53:02+00:00"
+      "previous_fingerprint": "d21762520a4a2c522856d7496789538f81fbf54c115e5521cbdfec1d31a02a95",
+      "new_fingerprint": "ad1b250fb9d9d6c40508bdc899e484e0f5b2819112d5712eb650bbb2ee7b15ef",
+      "detected_at": "2026-10-05T05:10:37+00:00"
     },
     {
       "url": "https://www.nissanusa.com/vehicles.html",
@@ -71,9 +98,9 @@
       "model": "",
       "kind": "brand-registry",
       "market": "U.S. retail",
-      "previous_fingerprint": "fadae458c876a1fe58542716fe5398dd74fd84d106b949bdf7fa14fb918024ee",
-      "new_fingerprint": "476f8e62889cf8303151a01d18edb0dc50ad4b245b77fbe63bfdd0a006fa5802",
-      "detected_at": "2026-10-04T10:53:02+00:00"
+      "previous_fingerprint": "476f8e62889cf8303151a01d18edb0dc50ad4b245b77fbe63bfdd0a006fa5802",
+      "new_fingerprint": "fadae458c876a1fe58542716fe5398dd74fd84d106b949bdf7fa14fb918024ee",
+      "detected_at": "2026-10-05T05:10:37+00:00"
     }
   ]
 }

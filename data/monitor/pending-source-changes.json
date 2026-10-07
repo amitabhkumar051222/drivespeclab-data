@@ -1,322 +1,386 @@
 {
-  "generated": "2026-10-06T04:50:32+00:00",
-  "count": 39,
+  "generated": "2026-10-07T04:53:16+00:00",
+  "count": 43,
   "changes": [
+    {
+      "url": "https://www.chevrolet.com/suvs/trax",
+      "brand": "Chevrolet",
+      "model": "Trax",
+      "kind": "model",
+      "previous_fingerprint": "b5be377346cbf0c86e3c8426ec23dc624d73423b79dc122ef78efc26e4cd0763",
+      "new_fingerprint": "e0c55f3adb4ca39d427ed1bd1676a1ceea9b82e4324e4216c428131cd87cda46",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/suvs/trailblazer",
+      "brand": "Chevrolet",
+      "model": "Trailblazer",
+      "kind": "model",
+      "previous_fingerprint": "d1789d7c7f9632818d381c9fb888dba796c0629babe300274ff26630959016dc",
+      "new_fingerprint": "b677df8c9e9f103d2c505f58d85cf6b34450cdd6c421492a5a6d18b218a60294",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/suvs/equinox",
+      "brand": "Chevrolet",
+      "model": "Equinox",
+      "kind": "model",
+      "previous_fingerprint": "cb29f5e85c9005152db3716ae3bd8ce04ee983fdeed8f34538ad08cb1ae34786",
+      "new_fingerprint": "4d8151b2d1229d58a4fa5adccff72ab9f735ffd455e88cd6cd717abb56a8303a",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/suvs/blazer",
+      "brand": "Chevrolet",
+      "model": "Blazer",
+      "kind": "model",
+      "previous_fingerprint": "ee7e0201380595b44044ace0e300834b2093b5f4f185fadf031795cf88ab5e0e",
+      "new_fingerprint": "441590e61517a3d6308b91b2da397efa764c7fc5050cbba9922cb1f9b8c127d7",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/suvs/traverse",
+      "brand": "Chevrolet",
+      "model": "Traverse",
+      "kind": "model",
+      "previous_fingerprint": "d5523bf9f0695fb67c7fc8c71b15d002ad3a5164248bfb3ef7d27e5ae696d8bd",
+      "new_fingerprint": "6dc5234099014cc591ae3c12f5a198d00327f80c7f8d69f4deb0a5b68322c30f",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/suvs/tahoe",
+      "brand": "Chevrolet",
+      "model": "Tahoe",
+      "kind": "model",
+      "previous_fingerprint": "94b1c072f53752f9568a253bb485ae230f5cfca6027de110b44dbecc73f53984",
+      "new_fingerprint": "532c53bb7c8aef479807265fcc5f6613800fa36a0a0696bc4844b84c0d2c2d5b",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/suvs/suburban",
+      "brand": "Chevrolet",
+      "model": "Suburban",
+      "kind": "model",
+      "previous_fingerprint": "d7a99411f9130c48de680669749091d0bae7f3c338342eaf87399da127c2b27b",
+      "new_fingerprint": "969c19ab206b9cf88d260d79537ca590ca0c66cdb2c180ff15d9839b416d57aa",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/trucks/colorado",
+      "brand": "Chevrolet",
+      "model": "Colorado",
+      "kind": "model",
+      "previous_fingerprint": "589faa4cce793d3ae9bd7f91bfd5dd1338c728b046fa24fcc4f91dc73c926753",
+      "new_fingerprint": "cb8f85a057da9845c5c4f6e3e1cbcd3b2b0fbdd9d6f0b71aa9d219f6698428fc",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/trucks/silverado/1500",
+      "brand": "Chevrolet",
+      "model": "Silverado 1500",
+      "kind": "model",
+      "previous_fingerprint": "9f8c5d5efa023dc0357d3e458299f475d3697614ac741806b2817a65e4b42b69",
+      "new_fingerprint": "e61c4d31fd75dd8f7ca0cf593570942e37e530b007a9054263a8181970f688ba",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/trucks/silverado/2500hd-3500hd",
+      "brand": "Chevrolet",
+      "model": "Silverado HD",
+      "kind": "model",
+      "previous_fingerprint": "1d7a5b3d802492081dd6e538e5775972783e42ceb7fc31ac5f059aec075f65a0",
+      "new_fingerprint": "314cd6f1cf7b1a2f46ec2412fc018e96120bb03c18daf364640f06eac95148e3",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/electric/silverado-ev",
+      "brand": "Chevrolet",
+      "model": "Silverado EV",
+      "kind": "model",
+      "previous_fingerprint": "9ab20d7ceb284de6adf1bd2947c81f11d6dc3d66a2a5bef4b319b04f0f6338d6",
+      "new_fingerprint": "d5eeb3a924c2a4bd4a14fd49250bae56df7bbb57fc97b691218774c51ca76721",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/electric/equinox-ev",
+      "brand": "Chevrolet",
+      "model": "Equinox EV",
+      "kind": "model",
+      "previous_fingerprint": "145dc148bedbe302a7fb7baeb1467d2bb3c2c0e1c5527d9e3a27c5d33b632d97",
+      "new_fingerprint": "8c2df3cc3cd18c9126dd54af11c356a1173a6025a751bba6f5e8435b4f40b1c7",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/electric/blazer-ev",
+      "brand": "Chevrolet",
+      "model": "Blazer EV",
+      "kind": "model",
+      "previous_fingerprint": "51896a4b569d5ceb787a22bff5022b86d94c59583433bf43069abf12e2780f3d",
+      "new_fingerprint": "fc9b200ffe3e96f44175a2d810f51628269ac2a5d2d0e6dd33e781599596ba5c",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/electric/bolt-ev",
+      "brand": "Chevrolet",
+      "model": "Bolt",
+      "kind": "model",
+      "previous_fingerprint": "acbf2f9d1c4b804d37b744bee39499eb6bebf8fe12a39e331f229b43f276c5f1",
+      "new_fingerprint": "61074ce085d30f48d926c8f8852f6134a24bd72aabadcada0353800e2866ab72",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.chevrolet.com/performance/corvette",
+      "brand": "Chevrolet",
+      "model": "Corvette",
+      "kind": "model",
+      "previous_fingerprint": "2ffa81e52af99c488db8c629b14c795cb75933050a981cf977f850274f6b2d43",
+      "new_fingerprint": "0d368bc7c598367be02f9090df1ac1fdf70b21bc620f766f8004c0fdc11cdf40",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
     {
       "url": "https://www.jeep.com/gladiator.html",
       "brand": "Jeep",
       "model": "Gladiator",
       "kind": "model",
-      "previous_fingerprint": "547e4cb62d08ec200c0a3b525f91e487c3d0e102a2a27031cf4d4be3b35fb7b2",
-      "new_fingerprint": "d33bd3c2795e2b4e925e96880e0d3afe0044d5cbe9d1ade02a3015260bc3b886",
-      "detected_at": "2026-10-06T04:50:32+00:00"
+      "previous_fingerprint": "d33bd3c2795e2b4e925e96880e0d3afe0044d5cbe9d1ade02a3015260bc3b886",
+      "new_fingerprint": "e820d5171f91a7f8defe4c04fdf61a2b9dbe8ac45fa214c322932bee5c97a2df",
+      "detected_at": "2026-10-07T04:53:16+00:00"
     },
     {
-      "url": "https://en.byd.com/",
-      "brand": "BYD",
-      "model": "",
-      "kind": "brand",
-      "previous_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "new_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
-      "detected_at": "2026-10-06T04:50:32+00:00"
+      "url": "https://www.mazdausa.com/vehicles/mazda3-sedan",
+      "brand": "Mazda",
+      "model": "Mazda3 Sedan",
+      "kind": "model",
+      "previous_fingerprint": "697039597210e6f88dd6aa1b136745858d90c32443d49d3b3ed6ef67c50b9652",
+      "new_fingerprint": "aad710945c1b4610c57d937222c13cd4baaf4ab542ea15eac17d474d3965a0cc",
+      "detected_at": "2026-10-07T04:53:16+00:00"
     },
     {
-      "url": "https://www.kiamedia.com/us/en/media/pressreleases/25004/kia-announces-pricing-for-2027-ev3",
+      "url": "https://www.mazdausa.com/vehicles/mazda3-hatchback",
+      "brand": "Mazda",
+      "model": "Mazda3 Hatchback",
+      "kind": "model",
+      "previous_fingerprint": "cf23f49bae88d895a892b53e6a2f51d0ba64baa1c660038409e717805be2a068",
+      "new_fingerprint": "928a279997b67e047baffca4781b99cd6eb9637cbbff73a1d4e1ecbcfc6b2352",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/mx-5-miata",
+      "brand": "Mazda",
+      "model": "MX-5 Miata",
+      "kind": "model",
+      "previous_fingerprint": "472f7495018d586cf8348cbd3ee9bae6f51402a1f0a1bb401e783ac00b4626c3",
+      "new_fingerprint": "16ceaa8e09e8c006f96f9a00f7265ecbbfa0b1e4735c6146113cae63f3c5df7a",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/mx-5-miata-rf",
+      "brand": "Mazda",
+      "model": "MX-5 Miata RF",
+      "kind": "model",
+      "previous_fingerprint": "86a003bddf6a5b93ea25911340b51d887d594cbac34d74b1db1e980a34a86d6a",
+      "new_fingerprint": "0cf403665aad384f0530ac76bc5ff6b23517b553ca4e4c9401386d3b2d45a203",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-5",
+      "brand": "Mazda",
+      "model": "CX-5",
+      "kind": "model",
+      "previous_fingerprint": "1deecff67402fd148fc288583a1bcaa20aa21fdc6cd57e05f9db99cf52d7a825",
+      "new_fingerprint": "1fc1855430ba009c0baae2a0ca3847e21d99e7a0acb760d25f79af005da0069e",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-50",
+      "brand": "Mazda",
+      "model": "CX-50",
+      "kind": "model",
+      "previous_fingerprint": "bbd4050eb857690051a5d6d844b40b466eb0cf9d91cb286477ca85109818e26c",
+      "new_fingerprint": "bc22249d913f3401f26637e9a5384efe36da5c74db681d784cadc0513d00dddb",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-50-hybrid",
+      "brand": "Mazda",
+      "model": "CX-50 Hybrid",
+      "kind": "model",
+      "previous_fingerprint": "18ecd9ef66f9dcc08ffb4512e215994d67028830783a9e713539054673917d64",
+      "new_fingerprint": "33820ca46cdb5bb041f46b212865bc59191f9e0565ee4696fd0d8454b91f6b4b",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-70",
+      "brand": "Mazda",
+      "model": "CX-70",
+      "kind": "model",
+      "previous_fingerprint": "5afb35a3c6518d6992b80bd12e7030d817ce5a8d9611141c3ce72d42cb742b7d",
+      "new_fingerprint": "b1707f3dffe8010ba8849d06849e62cd75d2c438db44966de61bcc61907fd33b",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-70-phev",
+      "brand": "Mazda",
+      "model": "CX-70 PHEV",
+      "kind": "model",
+      "previous_fingerprint": "ab7ad0714a68ddd3ddfa461c0d8dbb066e1a2b03a5852dc7b8800e2b93b0fced",
+      "new_fingerprint": "8f14d513b86c95f7424146aaec3bd2f650969255fc9ca8e5b8fbf0ddb4e91345",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-90",
+      "brand": "Mazda",
+      "model": "CX-90",
+      "kind": "model",
+      "previous_fingerprint": "90a81c2604f8d838c315be989a63413129d4d262d87e696879f48cd4a9948f9e",
+      "new_fingerprint": "a5162f8072ac7d6bdf75699061499ce30472ba7b5f73ca245eb2a037b3cdada7",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-90-phev",
+      "brand": "Mazda",
+      "model": "CX-90 PHEV",
+      "kind": "model",
+      "previous_fingerprint": "ce3139168e5074ac6fa7280978ac26297d0f93e5bc85b864f081bc46ced28175",
+      "new_fingerprint": "664f64beca18e37472749ec15aae4b1ebfcbf8177892c1ee9ce84974ed98f67c",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.kia.com/us/en/telluride/specs-compare",
       "brand": "Kia",
-      "model": "EV3",
+      "model": "Telluride",
       "kind": "model",
-      "previous_fingerprint": "e5dd06f439fe4c52fb97ae287b2faa2fb127e3ac87cddd55b0cf06c7b1d91175",
-      "new_fingerprint": "7f00fe2ddcb7b85bd8490c8085ac6c57c30ec61965d4301a5347c28e4a46aa55",
-      "detected_at": "2026-10-06T04:50:32+00:00"
+      "previous_fingerprint": "9dc52b0bca9ae7acf941753e5635c36d0367caf91bf3027f80ddc0e9b7881759",
+      "new_fingerprint": "05f4065b055b9595d047d00219967e7a8383d0615f3367bbe5e1d99205ed07b0",
+      "detected_at": "2026-10-07T04:53:16+00:00"
     },
     {
-      "url": "https://www.kiamedia.com/us/en/models/k4/2026/pricing",
+      "url": "https://www.kia.com/us/en/ev6",
       "brand": "Kia",
-      "model": "K4",
+      "model": "EV6",
       "kind": "model",
-      "previous_fingerprint": "643d00712b4a8ca2f8aa5971d6774fd530c5feeb770e346e2a497f6893dd333d",
-      "new_fingerprint": "fd81d3905be83da9b8b7b48281dbaba27d448df033d4eb1e075c2b5980f1b06b",
-      "detected_at": "2026-10-06T04:50:32+00:00"
+      "previous_fingerprint": "4efa4e7b731eb6fdf9e0ed9a782dfe2c814c7f18bc37ee343bfde521cd5422f1",
+      "new_fingerprint": "74dbe6359b0c0da166aa4d235a60c72900f16cd50b6236f1430934b68fda70c3",
+      "detected_at": "2026-10-07T04:53:16+00:00"
     },
     {
-      "url": "https://www.kiamedia.com/us/en/models/k4-hatchback/2026/pricing",
+      "url": "https://www.kia.com/us/en/carnival-mpv",
       "brand": "Kia",
-      "model": "K4 Hatchback",
+      "model": "Carnival",
       "kind": "model",
-      "previous_fingerprint": "fe7340290d5298ce1b8186f2a23968a4677afa0584881fa4a7298c47a1f8018f",
-      "new_fingerprint": "4ea2afb9d06953ad218c7e3129ea89daaf87c2f5bd4e9694e272b68564b46eea",
-      "detected_at": "2026-10-06T04:50:32+00:00"
+      "previous_fingerprint": "8e1dfba3cdf63911dfa4c0ebdb15b66cd549e706542ae09d4c026c86b1121b16",
+      "new_fingerprint": "46475ffd71d42ca0df611ca701c2e689ea091bcdd47dd4ca1910f3404a97a998",
+      "detected_at": "2026-10-07T04:53:16+00:00"
     },
     {
-      "url": "https://www.kiamedia.com/us/en/models/seltos/2027/pricing",
+      "url": "https://www.kia.com/us/en/sorento/specs-compare",
       "brand": "Kia",
-      "model": "Seltos",
+      "model": "Sorento",
       "kind": "model",
-      "previous_fingerprint": "343a76ad0eda1d5f4523ccefbe39c45de6d47caf2086c9a3a79b958b2abd83b1",
-      "new_fingerprint": "ded1130478a2d85258c513bec7f0eabb2a01d00c1c30705a5028a6a28b981ef3",
-      "detected_at": "2026-10-06T04:50:32+00:00"
+      "previous_fingerprint": "bdd2b2c96d724f1f84c91d21dba83d4f10c0abe04c44774a738980cd13dad14f",
+      "new_fingerprint": "c70dd79e84bbf8518b7fc1cccd3499f4e8512d21c50ec2a5f9894d3b49eb2e3d",
+      "detected_at": "2026-10-07T04:53:16+00:00"
     },
     {
-      "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
-      "brand": "Nissan",
-      "model": "Armada",
+      "url": "https://www.kia.com/us/en/ev9/specs-compare",
+      "brand": "Kia",
+      "model": "EV9",
       "kind": "model",
-      "previous_fingerprint": "1da194fb7e334b0e21349ba95d2c0c8b22116baff4d983df6488503f7196b63f",
-      "new_fingerprint": "8cc0ab0d23d433334c5c47913aaea9be07be691067a5b1ed1e398503cc3c1782",
-      "detected_at": "2026-10-06T04:50:32+00:00"
+      "previous_fingerprint": "33668eaddc1a61f45226a812b77cbe6a3caf67d44d1f69ca4c7efe0106537920",
+      "new_fingerprint": "6028ccf5cb68234cea172103773e350c6e3fc4e7490737174176df36259c982f",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.kia.com/us/en/niro",
+      "brand": "Kia",
+      "model": "Niro",
+      "kind": "model",
+      "previous_fingerprint": "ad731209124c6021e012b46e28072c73d781b36dd3e058941ab715c270eec732",
+      "new_fingerprint": "6ddeff02e36e4888e7e1ff37f2568b5791ccd70c7912a2d02185793068f16009",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.kia.com/us/en/niro-ev",
+      "brand": "Kia",
+      "model": "Niro EV",
+      "kind": "model",
+      "previous_fingerprint": "d954ce377e470489f2725db780ab1a44dfa21bd501b235cb572b63994282ce64",
+      "new_fingerprint": "d5322321ae993d8f890d574da4af2d7aace7995347e4cc4da127863d82c0dd86",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.kia.com/us/en/sportage-hybrid",
+      "brand": "Kia",
+      "model": "Sportage",
+      "kind": "model",
+      "previous_fingerprint": "2c6dfabadfcedb2f7ea59bba0b06c2a2452d0805a5f2e9a628d4656364624781",
+      "new_fingerprint": "75b6bb04a6246f2994ac81b449a38eec68e63899dbe4561b745e019599cea48e",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.kia.com/us/en/k5",
+      "brand": "Kia",
+      "model": "K5",
+      "kind": "model",
+      "previous_fingerprint": "83933ce10aad21f4b3e59b5a33bd420bcd968db3c3dde9e08b3acfaecaaff5c4",
+      "new_fingerprint": "a1cef1e6188733c2a7c779348ac854bcc782a7f900630b33352dc47736980edf",
+      "detected_at": "2026-10-07T04:53:16+00:00"
     },
     {
       "url": "https://www.nissanusa.com/vehicles/cars/versa-sedan/specs-trims.html",
       "brand": "Nissan",
       "model": "Versa",
       "kind": "model",
-      "previous_fingerprint": "f9c8a7512a6b5fc411edf121735c5bcebdd475939e1ec0c93f9dcd05a3b48b27",
-      "new_fingerprint": "b7ca49bb3ec2ea9369d4cc886fb51b75058b41f3bbb7924d2167e79348adf5d8",
-      "detected_at": "2026-10-06T04:50:32+00:00"
+      "previous_fingerprint": "b7ca49bb3ec2ea9369d4cc886fb51b75058b41f3bbb7924d2167e79348adf5d8",
+      "new_fingerprint": "f74a62a8d647153605c2ce4ef62a30ddc654f9fb2dfffbe1b7e8cd57549e80fb",
+      "detected_at": "2026-10-07T04:53:16+00:00"
     },
     {
-      "url": "https://www.mbusa.com/en/vehicles/class/cla/sedan",
-      "brand": "Mercedes-Benz",
-      "model": "CLA",
+      "url": "https://www.gmc.com/trucks/sierra/1500",
+      "brand": "GMC",
+      "model": "Sierra 1500",
       "kind": "model",
-      "previous_fingerprint": "3562e4a108154c89469a32afbdd22505394efad047aa8ece978e8f66c0b388d2",
-      "new_fingerprint": "5732d1c926af85b2c6ecf639092cd97d140eb37218075386b3231d48df9f61c6",
-      "detected_at": "2026-10-06T04:50:32+00:00"
+      "previous_fingerprint": "22e10cc91fd9caac7701a076a7736f22511bc719c4e41e7852c706ba961995e6",
+      "new_fingerprint": "21eb9513d6b2236b9ea91ef7e7d2c1fb97cbe7bae19ceb76f6481bc96dee91e5",
+      "detected_at": "2026-10-07T04:53:16+00:00"
     },
     {
-      "url": "https://www.mbusa.com/en/vehicles/class/c-class/sedan",
-      "brand": "Mercedes-Benz",
-      "model": "C-Class",
+      "url": "https://www.subaru.com/vehicles/forester/2026.html",
+      "brand": "Subaru",
+      "model": "Forester",
       "kind": "model",
-      "previous_fingerprint": "30a5418dac14478530c2bf8dde6a51b4c8c21d6f54b85a08ede3bf5f9c0ed1c9",
-      "new_fingerprint": "da3a781ab1d80d6aa26f4665d0dc69e87c3d4c5931e9e83bf29c18371c87ed54",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/e-class/sedan",
-      "brand": "Mercedes-Benz",
-      "model": "E-Class",
-      "kind": "model",
-      "previous_fingerprint": "07b7d07706c78910ffa41ba79989aa634eec3c2edc632ee7779f75a74a1e3df0",
-      "new_fingerprint": "c15cd7c04c8aa5b6be98ed8f28714e1e98e2aefb9a67049a5f20b02a95df0f7e",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/s-class/sedan",
-      "brand": "Mercedes-Benz",
-      "model": "S-Class",
-      "kind": "model",
-      "previous_fingerprint": "f868aea08a289e83fb2f708a5bc98aaee8a3e7cfee337f47df1010231ba6cf49",
-      "new_fingerprint": "6588326e09515e33295052cab567405a7e7cf0176019bf4ef9203df906e4735b",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/e-class/wagon",
-      "brand": "Mercedes-Benz",
-      "model": "E-Class Wagon",
-      "kind": "model",
-      "previous_fingerprint": "5927a58fa15100c2e315a4bb8f5ef5bff12a09c79767263ccddff30b5ac5ce8f",
-      "new_fingerprint": "c8c833d49a44b630b46fc2a400a9db5ac59c81bb2006254220502f10b4055eb2",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/cle/coupe",
-      "brand": "Mercedes-Benz",
-      "model": "CLE Coupe",
-      "kind": "model",
-      "previous_fingerprint": "bf878cf4bb425b75095f282d4b50b0e0c508e0c186cfc81568bd67e44c42c25c",
-      "new_fingerprint": "a658a18d666ce48d46b047dc1d4c94c045c82567d213fc7560506939ae629162",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/cle/cabriolet",
-      "brand": "Mercedes-Benz",
-      "model": "CLE Cabriolet",
-      "kind": "model",
-      "previous_fingerprint": "cdb3c7dd93d5d53e356910703911ce60786cb73d074d9a27eb349f78d82384de",
-      "new_fingerprint": "e774aa3732b00d63d82babf8be5c3e5cca04707784bb852383ec9cdf72847256",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/amg-gt/coupe",
-      "brand": "Mercedes-Benz",
-      "model": "AMG GT Coupe",
-      "kind": "model",
-      "previous_fingerprint": "45d7b6463f8e97023e56e590eb15372ba5e0b79695b2fe70ee4db5dd98ff9bf4",
-      "new_fingerprint": "9a6913f2c49aa208253252329dda18d0a8cf3349e3dff801bc2408b86e9ebd6e",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/sl/roadster",
-      "brand": "Mercedes-Benz",
-      "model": "SL Roadster",
-      "kind": "model",
-      "previous_fingerprint": "bc82f73f8f751f9d43a3889e5ec579914825568a8550f0081b1e465adc0df0bc",
-      "new_fingerprint": "0aa5fea02472c8482e3b5c6977e186f9553b72cbab6029a63b6dfffbe36017c4",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/gla/suv",
-      "brand": "Mercedes-Benz",
-      "model": "GLA",
-      "kind": "model",
-      "previous_fingerprint": "3a1b7da7034dc4262d92736873e7a44e94e1036ec623313db7ccb9b998c1386b",
-      "new_fingerprint": "1fc4c24a5d71612f376001f99b6bdf0129a3cc4ac45dd6888bf2e674ba5bbb31",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/glb/suv",
-      "brand": "Mercedes-Benz",
-      "model": "GLB",
-      "kind": "model",
-      "previous_fingerprint": "9ead8c1de4ba1a262a7fc18182461f7490ee6d6a30b402975ab79ffe555cfa9b",
-      "new_fingerprint": "340125f8633dfccd433c724ea2b1711984cd5078d596d0ccc408379c714985c5",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/glc/suv",
-      "brand": "Mercedes-Benz",
-      "model": "GLC",
-      "kind": "model",
-      "previous_fingerprint": "a43440861021145b55a106b59863a726e08be613268e4a210c626d1a29e054db",
-      "new_fingerprint": "90cd41f4e794d8aee3e0ef62deda242e56dd5d86603b28b63c0d3ab8c6890f88",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/glc/coupe",
-      "brand": "Mercedes-Benz",
-      "model": "GLC Coupe",
-      "kind": "model",
-      "previous_fingerprint": "7b1af277fc9b92cfd55a6e899f69827bb7f4f3b2cb451963803118252db1c600",
-      "new_fingerprint": "2bf0d0cabed48cfdf94e8923d9466ff39c3caed0097b5daffce3437a7e9092f6",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/gle/suv",
-      "brand": "Mercedes-Benz",
-      "model": "GLE SUV",
-      "kind": "model",
-      "previous_fingerprint": "a5243419b5ad9db4bc34d535dfadcee6046630810188b6089b656f0b6a359e63",
-      "new_fingerprint": "6f49a909f478d0c2ad0086c9da1f1c665fd7e620f2716506577d4c990240bbb0",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/gle/coupe",
-      "brand": "Mercedes-Benz",
-      "model": "GLE Coupe",
-      "kind": "model",
-      "previous_fingerprint": "de51c58db4a9ed1f1e9aaeedf852fb95e43b6f7c1aba582b35852842f2f5f439",
-      "new_fingerprint": "41673ce9f7eeaabbef29522b6f54ebaf7c69f55ec93bea8873c70c2bcae04e79",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/gls/suv",
-      "brand": "Mercedes-Benz",
-      "model": "GLS",
-      "kind": "model",
-      "previous_fingerprint": "d770c999bf20963bb3629f84514de1e27fed6f9041cc88d50ebaad608c5edc94",
-      "new_fingerprint": "9b797af64457c5522f816a0df43caa32b111100d35c3419e58b374cfeec9584e",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/g-class/suv",
-      "brand": "Mercedes-Benz",
-      "model": "G-Class",
-      "kind": "model",
-      "previous_fingerprint": "06715c836fabfda802445342e70bf8da7e8306d88f9a5a7045793d9825c6356f",
-      "new_fingerprint": "970f99fcd714ee49fba494a303f66aeb9b4e768b503453bcdec161c9338bdaf1",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/eqb/suv",
-      "brand": "Mercedes-Benz",
-      "model": "EQB",
-      "kind": "model",
-      "previous_fingerprint": "c9f188d06d017cd6ac6807f819d9ffc6078c906fceb8c7ddd61504f690d19db9",
-      "new_fingerprint": "9b2a8c62457a3217f6da07e1fc8843b04a44ddeba6382202e4a336e9c674e3a3",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/eqe/sedan",
-      "brand": "Mercedes-Benz",
-      "model": "EQE Sedan",
-      "kind": "model",
-      "previous_fingerprint": "1d69182c7a642b807f88714867288078fd5fe45c7d6d087ec6c0e948a25f4354",
-      "new_fingerprint": "0c5c87249febf803ca87f9f0dbccfe1d5e544f11299f2f43dbf413d29c060ec4",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/eqe/suv",
-      "brand": "Mercedes-Benz",
-      "model": "EQE SUV",
-      "kind": "model",
-      "previous_fingerprint": "0ddb04f789474981637e740bfed881346ea6f2ce6fbc295b27127b54062ca458",
-      "new_fingerprint": "db69c6479d669729330697b3b7e337faf4f26fa46293e2efda637a589ab478ae",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/eqs/sedan",
-      "brand": "Mercedes-Benz",
-      "model": "EQS Sedan",
-      "kind": "model",
-      "previous_fingerprint": "3ffdde42948eca9778cc5a18027f7e4243b658e47543e2018762a869b90ed29d",
-      "new_fingerprint": "be2e4c9ced1406c35af9ccdf7d73f56060bab99852c03f4fbee1027b0c85152a",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/eqs/suv",
-      "brand": "Mercedes-Benz",
-      "model": "EQS SUV",
-      "kind": "model",
-      "previous_fingerprint": "ef4f6366f789f4bb95d0377a8a0179ae5c7aaab282d564fd86a975c12916e70e",
-      "new_fingerprint": "8df252f8f4f8b18bdc28469f3d4f9676db09e493c31e27677af84b7d2365653a",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/maybach-s-class/sedan",
-      "brand": "Mercedes-Benz",
-      "model": "Mercedes-Maybach S-Class",
-      "kind": "model",
-      "previous_fingerprint": "b4e6f4285913b6eb53f4ccb8dbb74c7676303c868cbafe0a69089074e96d2757",
-      "new_fingerprint": "1670c7c3a2fcfcd5edfe0294d870d3f6a0c67ca67e6c55b0af45220b1a77e155",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/maybach-gls/suv",
-      "brand": "Mercedes-Benz",
-      "model": "Mercedes-Maybach GLS",
-      "kind": "model",
-      "previous_fingerprint": "70f55b03e64592ea7590de21344529cdd84f60d1701218650f46a45caba437da",
-      "new_fingerprint": "4de062f0d2dfe0db96d7fe6e196b8dd27a76cc3a47e6784564737437631269f0",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv",
-      "brand": "Mercedes-Benz",
-      "model": "Mercedes-Maybach EQS SUV",
-      "kind": "model",
-      "previous_fingerprint": "7cc9a7f2b807817dab4c36c7cb195de035b97a5e0c4e6236e1e80c97674702f0",
-      "new_fingerprint": "289968221d6308adeb40dcf9618e35746246287f02f91dd1b63b5136686b07fe",
-      "detected_at": "2026-10-06T04:50:32+00:00"
+      "previous_fingerprint": "7636e6722800431ab1e11d245aaa0c0a1e028d3c9c4cff7424c4b2d979b94f84",
+      "new_fingerprint": "e2641ea9e9b546d8d78d6559b78771fd921f8d0df2dba66ead760da87c64bc64",
+      "detected_at": "2026-10-07T04:53:16+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
-      "previous_fingerprint": "ad1b250fb9d9d6c40508bdc899e484e0f5b2819112d5712eb650bbb2ee7b15ef",
-      "new_fingerprint": "0143592cf257027f93e55549013beb648489410815884263529fb440397b9056",
-      "detected_at": "2026-10-06T04:50:32+00:00"
+      "previous_fingerprint": "0143592cf257027f93e55549013beb648489410815884263529fb440397b9056",
+      "new_fingerprint": "735baed7e3e0c3cf70e76c39c797c69d43f81ba9f6cc46aa9bbc4e01081d9ef6",
+      "detected_at": "2026-10-07T04:53:16+00:00"
     },
     {
-      "url": "https://www.mbusa.com/en/all-vehicles",
-      "brand": "Mercedes-Benz",
+      "url": "https://www.chevrolet.com/vehicles",
+      "brand": "Chevrolet",
       "model": "",
       "kind": "brand-registry",
       "market": "U.S. retail",
-      "previous_fingerprint": "b8ec0862c7e62a1fd680b299f3dc1f7523e6dc93373c61ef3a693e0f11ee71bd",
-      "new_fingerprint": "ca53cc3b4ba69e7f56eac449aa20cd758e5295c8a8dc6909b462829ac5bed63a",
-      "detected_at": "2026-10-06T04:50:32+00:00"
+      "previous_fingerprint": "7147fa725d0852fcc6271bbd11a4786869da173e0b027fdbae4b627de4e8081e",
+      "new_fingerprint": "7b5791f3f99ba2e40a2827dfaa7c13590cd6f554e017683176ba7d809816b94c",
+      "detected_at": "2026-10-07T04:53:16+00:00"
+    },
+    {
+      "url": "https://www.kia.com/us/en/vehicles",
+      "brand": "Kia",
+      "model": "",
+      "kind": "brand-registry",
+      "market": "U.S. retail",
+      "previous_fingerprint": "58ad6e30557ecfaf5584a27aa61dc74e9db37da16fd40b4ad5906b0ae99569e1",
+      "new_fingerprint": "694baeeda1daa5ff12b60af22337c398760592cc95d63b2f779f8943cda8769a",
+      "detected_at": "2026-10-07T04:53:16+00:00"
     },
     {
       "url": "https://www.nissanusa.com/vehicles.html",
@@ -324,39 +388,9 @@
       "model": "",
       "kind": "brand-registry",
       "market": "U.S. retail",
-      "previous_fingerprint": "fadae458c876a1fe58542716fe5398dd74fd84d106b949bdf7fa14fb918024ee",
-      "new_fingerprint": "9dfae4bff5b35c33ab8e9084bb4cf1ebb7af37d6dcb0c35f019396413e9aff84",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://auto.mahindra.com/suv",
-      "brand": "Mahindra",
-      "model": "",
-      "kind": "brand-registry",
-      "market": "India",
-      "previous_fingerprint": "e767842da5f9b5a82a6a9f584d4263838e190d2c3069ac79c6e9c4e636bfa099",
-      "new_fingerprint": "76f4e6ad3c8c983b2d39a1ac03cc1ed7e901cf266b068a985e88975825375ed7",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://auto.mahindra.com/",
-      "brand": "Mahindra",
-      "model": "BE 6",
-      "kind": "global-model",
-      "market": "India",
-      "previous_fingerprint": "7b471ac8cb5723efd49d504999c69081b30c3b965d435683a4d35cb1ee34bc22",
-      "new_fingerprint": "346fbe6a26eb3bef150d6594a5a3cb44afd1b376df30a05dab8feca99a7cc9db",
-      "detected_at": "2026-10-06T04:50:32+00:00"
-    },
-    {
-      "url": "https://auto.mahindra.com/press-release/mahindra-leadership-team.html",
-      "brand": "Mahindra",
-      "model": "XEV 9S",
-      "kind": "global-model",
-      "market": "India",
-      "previous_fingerprint": "ca7c29ed979237d9fac08e0b4475962f87793ec636a24b5baf4f4ff9d6c9326d",
-      "new_fingerprint": "84bc01e79815dbfdaf74ee76b9988ef921ec96bad569a69e8d97fc813d75c303",
-      "detected_at": "2026-10-06T04:50:32+00:00"
+      "previous_fingerprint": "9dfae4bff5b35c33ab8e9084bb4cf1ebb7af37d6dcb0c35f019396413e9aff84",
+      "new_fingerprint": "6d03da3de76c6b12e13625321390f753639be04e16c8062f064b69ebff2fb277",
+      "detected_at": "2026-10-07T04:53:16+00:00"
     }
   ]
 }

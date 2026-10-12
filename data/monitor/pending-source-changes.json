@@ -1,34 +1,42 @@
 {
-  "generated": "2026-10-11T04:51:21+00:00",
-  "count": 3,
+  "generated": "2026-10-12T04:55:32+00:00",
+  "count": 4,
   "changes": [
     {
       "url": "https://www.jeep.com/gladiator.html",
       "brand": "Jeep",
       "model": "Gladiator",
       "kind": "model",
-      "previous_fingerprint": "11642c60f2cbdafd820ced3b9793c76a99bd02095cd9b0ac5325dbb47e2620b3",
-      "new_fingerprint": "ffde1c3f1b55935ad0298d6c0ae5f5939d4374f18c5fb3d810b4173375d08bc7",
-      "detected_at": "2026-10-11T04:51:21+00:00"
+      "previous_fingerprint": "ffde1c3f1b55935ad0298d6c0ae5f5939d4374f18c5fb3d810b4173375d08bc7",
+      "new_fingerprint": "8e85686a29e34acb98a5a3d4b8979fcc5d35b884e1d3630db1ebc5f68924edba",
+      "detected_at": "2026-10-12T04:55:32+00:00"
+    },
+    {
+      "url": "https://www.nissanusa.com/vehicles/cars/versa-sedan/specs-trims.html",
+      "brand": "Nissan",
+      "model": "Versa",
+      "kind": "model",
+      "previous_fingerprint": "b1a67499a47e4b707df25b0af55970b60b6606b2577b9de700d86181715cedee",
+      "new_fingerprint": "04711e7123a0682468fe4c9358e88707ddbdfe557b9fa74de70a8a5b7409ec0d",
+      "detected_at": "2026-10-12T04:55:32+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/eqe/suv",
+      "brand": "Mercedes-Benz",
+      "model": "EQE SUV",
+      "kind": "model",
+      "previous_fingerprint": "db69c6479d669729330697b3b7e337faf4f26fa46293e2efda637a589ab478ae",
+      "new_fingerprint": "5cc395cd9500bc4bd98e3b2285340e240c4c4cc9de270bcf5fd87fb3ae7d71a4",
+      "detected_at": "2026-10-12T04:55:32+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
-      "previous_fingerprint": "e5ba4fe188e5e979f4f167766858b770fe9bb5cdb0cde2058f864333ec855465",
-      "new_fingerprint": "6e1624827ae7520840b26ad1d6e379347ce87b05b5e8950a840ff9a455c9101a",
-      "detected_at": "2026-10-11T04:51:21+00:00"
-    },
-    {
-      "url": "https://www.nissanusa.com/vehicles.html",
-      "brand": "Nissan",
-      "model": "",
-      "kind": "brand-registry",
-      "market": "U.S. retail",
-      "previous_fingerprint": "68336b79af50555025d2f18cf5144396feec67a66ab7776ad22cde7a6b9f94f9",
-      "new_fingerprint": "35ae24d3999dbee44df34f77cb1e181f032f61debc3cbd7841f075a0712e308b",
-      "detected_at": "2026-10-11T04:51:21+00:00"
+      "previous_fingerprint": "6e1624827ae7520840b26ad1d6e379347ce87b05b5e8950a840ff9a455c9101a",
+      "new_fingerprint": "4796f9d27389473044243ed984d489aa0b247f9d9604f65b3dc389dc7006a9fd",
+      "detected_at": "2026-10-12T04:55:32+00:00"
     }
   ]
 }

@@ -1,42 +1,188 @@
 {
-  "generated": "2026-10-12T04:55:32+00:00",
-  "count": 4,
+  "generated": "2026-10-13T04:55:35+00:00",
+  "count": 20,
   "changes": [
+    {
+      "url": "https://www.jeep.com/wrangler.html",
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "kind": "model",
+      "previous_fingerprint": "d1f2daf3502de516138f08de9f14942bcebda3e989e428e75e7e228e935d7c9c",
+      "new_fingerprint": "2c9db9baa09f3eac49abb6472204a8b35ca21964c278c2f8ea839914ae66ee0d",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/wrangler-4xe.html",
+      "brand": "Jeep",
+      "model": "Wrangler 4xe",
+      "kind": "model",
+      "previous_fingerprint": "d1f2daf3502de516138f08de9f14942bcebda3e989e428e75e7e228e935d7c9c",
+      "new_fingerprint": "2c9db9baa09f3eac49abb6472204a8b35ca21964c278c2f8ea839914ae66ee0d",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
     {
       "url": "https://www.jeep.com/gladiator.html",
       "brand": "Jeep",
       "model": "Gladiator",
       "kind": "model",
-      "previous_fingerprint": "ffde1c3f1b55935ad0298d6c0ae5f5939d4374f18c5fb3d810b4173375d08bc7",
-      "new_fingerprint": "8e85686a29e34acb98a5a3d4b8979fcc5d35b884e1d3630db1ebc5f68924edba",
-      "detected_at": "2026-10-12T04:55:32+00:00"
+      "previous_fingerprint": "8e85686a29e34acb98a5a3d4b8979fcc5d35b884e1d3630db1ebc5f68924edba",
+      "new_fingerprint": "bdc8ea20858ffc24809a77336561777084b446c522ce55087bf0f52bb4240abe",
+      "detected_at": "2026-10-13T04:55:35+00:00"
     },
     {
-      "url": "https://www.nissanusa.com/vehicles/cars/versa-sedan/specs-trims.html",
-      "brand": "Nissan",
-      "model": "Versa",
+      "url": "https://www.mazdausa.com/vehicles/mazda3-sedan",
+      "brand": "Mazda",
+      "model": "Mazda3 Sedan",
       "kind": "model",
-      "previous_fingerprint": "b1a67499a47e4b707df25b0af55970b60b6606b2577b9de700d86181715cedee",
-      "new_fingerprint": "04711e7123a0682468fe4c9358e88707ddbdfe557b9fa74de70a8a5b7409ec0d",
-      "detected_at": "2026-10-12T04:55:32+00:00"
+      "previous_fingerprint": "aad710945c1b4610c57d937222c13cd4baaf4ab542ea15eac17d474d3965a0cc",
+      "new_fingerprint": "696398917913ff1d5efe3f9b6d5adcddd528f5e8d10093f41ec606657cb03c0b",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/mazda3-hatchback",
+      "brand": "Mazda",
+      "model": "Mazda3 Hatchback",
+      "kind": "model",
+      "previous_fingerprint": "928a279997b67e047baffca4781b99cd6eb9637cbbff73a1d4e1ecbcfc6b2352",
+      "new_fingerprint": "32f25cc813428216dc89e391465fc91c47ca95b437d7c24e18c660154f68a626",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/mx-5-miata",
+      "brand": "Mazda",
+      "model": "MX-5 Miata",
+      "kind": "model",
+      "previous_fingerprint": "16ceaa8e09e8c006f96f9a00f7265ecbbfa0b1e4735c6146113cae63f3c5df7a",
+      "new_fingerprint": "06b3dacb9cf4d0d826b6af4118cb7652384e98eb093857c68789134f6cc9db41",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/mx-5-miata-rf",
+      "brand": "Mazda",
+      "model": "MX-5 Miata RF",
+      "kind": "model",
+      "previous_fingerprint": "0cf403665aad384f0530ac76bc5ff6b23517b553ca4e4c9401386d3b2d45a203",
+      "new_fingerprint": "c96055e2dbfdb6e251e326063124b0bb682b79d61dc9ba8358b9b5d6453b8162",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-5",
+      "brand": "Mazda",
+      "model": "CX-5",
+      "kind": "model",
+      "previous_fingerprint": "1fc1855430ba009c0baae2a0ca3847e21d99e7a0acb760d25f79af005da0069e",
+      "new_fingerprint": "3efe7832ea9c60e92b66ef7506448b42d8f51f58067379c0c9bced7b0707a22b",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-50",
+      "brand": "Mazda",
+      "model": "CX-50",
+      "kind": "model",
+      "previous_fingerprint": "bc22249d913f3401f26637e9a5384efe36da5c74db681d784cadc0513d00dddb",
+      "new_fingerprint": "32dabaa1f0ad5a5411f0e14a7ec787f47facb8f56602e541b13a5fd87481e3f5",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-50-hybrid",
+      "brand": "Mazda",
+      "model": "CX-50 Hybrid",
+      "kind": "model",
+      "previous_fingerprint": "33820ca46cdb5bb041f46b212865bc59191f9e0565ee4696fd0d8454b91f6b4b",
+      "new_fingerprint": "11017684624832407a6491e6c0819df96294acaf8d04a3b11ae27ccd6284f64a",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-70",
+      "brand": "Mazda",
+      "model": "CX-70",
+      "kind": "model",
+      "previous_fingerprint": "b1707f3dffe8010ba8849d06849e62cd75d2c438db44966de61bcc61907fd33b",
+      "new_fingerprint": "752adc598e4d4b39bcd52396114f5b547fb410361f0328413bd2c9a51d30cc28",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-70-phev",
+      "brand": "Mazda",
+      "model": "CX-70 PHEV",
+      "kind": "model",
+      "previous_fingerprint": "8f14d513b86c95f7424146aaec3bd2f650969255fc9ca8e5b8fbf0ddb4e91345",
+      "new_fingerprint": "cfd48e711a0de6b94e6d74052e0ee36625fd886a4f00437e942107d3be6fe972",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-90",
+      "brand": "Mazda",
+      "model": "CX-90",
+      "kind": "model",
+      "previous_fingerprint": "a5162f8072ac7d6bdf75699061499ce30472ba7b5f73ca245eb2a037b3cdada7",
+      "new_fingerprint": "a296db41f2ab68e5b60031d3ec5a2d8e796022055926f886761bf3c16c1a0e7e",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.mazdausa.com/vehicles/cx-90-phev",
+      "brand": "Mazda",
+      "model": "CX-90 PHEV",
+      "kind": "model",
+      "previous_fingerprint": "453d6ad4cb9c98a58f828e6cc0864b63db03122fcee8dff2e6b65846dadcaf1f",
+      "new_fingerprint": "18d309fd1f82173c86f630ebd45503db7a72e7a4c1db4622e50370ef6b3ecbd8",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.vw.com/en/builder.html/__app/atlas.app",
+      "brand": "Volkswagen",
+      "model": "Atlas",
+      "kind": "model",
+      "previous_fingerprint": "ab2d321ac56a5dc23d9b19d71a85e04a3647579a737d6db9bf11b1b605682ac8",
+      "new_fingerprint": "eb62693c41585eb8e2a2918d68a6dff3b921af4f8a51fc411e397e468c642d98",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
+      "brand": "Nissan",
+      "model": "Armada",
+      "kind": "model",
+      "previous_fingerprint": "ddb894b860f8337658262931c74f9fb684e3f3808018db9146742efa370d9589",
+      "new_fingerprint": "f21382128f763afda0605ed271401c27c27bb2cbb16434559efdd72e4b287c56",
+      "detected_at": "2026-10-13T04:55:35+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/eqe/suv",
       "brand": "Mercedes-Benz",
       "model": "EQE SUV",
       "kind": "model",
-      "previous_fingerprint": "db69c6479d669729330697b3b7e337faf4f26fa46293e2efda637a589ab478ae",
-      "new_fingerprint": "5cc395cd9500bc4bd98e3b2285340e240c4c4cc9de270bcf5fd87fb3ae7d71a4",
-      "detected_at": "2026-10-12T04:55:32+00:00"
+      "previous_fingerprint": "5cc395cd9500bc4bd98e3b2285340e240c4c4cc9de270bcf5fd87fb3ae7d71a4",
+      "new_fingerprint": "db69c6479d669729330697b3b7e337faf4f26fa46293e2efda637a589ab478ae",
+      "detected_at": "2026-10-13T04:55:35+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
-      "previous_fingerprint": "6e1624827ae7520840b26ad1d6e379347ce87b05b5e8950a840ff9a455c9101a",
-      "new_fingerprint": "4796f9d27389473044243ed984d489aa0b247f9d9604f65b3dc389dc7006a9fd",
-      "detected_at": "2026-10-12T04:55:32+00:00"
+      "previous_fingerprint": "4796f9d27389473044243ed984d489aa0b247f9d9604f65b3dc389dc7006a9fd",
+      "new_fingerprint": "435db64f75e698937e6829634010d5f0820836397a0d18fa06239db285eec900",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.nissanusa.com/vehicles.html",
+      "brand": "Nissan",
+      "model": "",
+      "kind": "brand-registry",
+      "market": "U.S. retail",
+      "previous_fingerprint": "35ae24d3999dbee44df34f77cb1e181f032f61debc3cbd7841f075a0712e308b",
+      "new_fingerprint": "881b565045a92295e70682c85bc7beab567ba0a0eb59980490d54c84be8a9082",
+      "detected_at": "2026-10-13T04:55:35+00:00"
+    },
+    {
+      "url": "https://www.vw.com/en/models.html",
+      "brand": "Volkswagen",
+      "model": "",
+      "kind": "brand-registry",
+      "market": "U.S. retail",
+      "previous_fingerprint": "7709994800a311c2dd1ffef5f1a7e3d53b3b271339d9203c7005a2694baeab16",
+      "new_fingerprint": "20006c7eb5b2ae5f50e7382d5e2bdba4a8955b2321c8daac7952d03df8eacead",
+      "detected_at": "2026-10-13T04:55:35+00:00"
     }
   ]
 }

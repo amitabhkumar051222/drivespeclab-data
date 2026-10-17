@@ -1,233 +1,213 @@
 {
-  "generated": "2026-10-16T09:15:11+00:00",
-  "count": 25,
+  "generated": "2026-10-17T08:46:02+00:00",
+  "count": 23,
   "changes": [
     {
-      "url": "https://www.chevrolet.com/suvs/equinox",
-      "brand": "Chevrolet",
-      "model": "Equinox",
+      "url": "https://pressroom.lexus.com/2026-lexus-is-perfecting-the-sport-sedan/",
+      "brand": "Lexus",
+      "model": "IS",
       "kind": "model",
-      "previous_fingerprint": "056de051f9aaa5edcc1d4fb6867c16db614fccdd05c90cbaf9d2812a5a1e8bfc",
-      "new_fingerprint": "6bcfa0b152156600181ae298e6fd184a68d8d8dd4c3e1b39181d050c61540ce7",
-      "detected_at": "2026-10-16T09:15:11+00:00"
+      "previous_fingerprint": "04a7b11ede1e5ffb9f5ebc60ba3974444919a1365cf14d1e7fcc3b39ab5a25ac",
+      "new_fingerprint": "8c18426dc17f86e03a486270cfa75150e0dc25379a01e9fc7f527c9601109dd3",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/tangible-elegance-the-2026-lexus-lc-500/",
+      "brand": "Lexus",
+      "model": "LC",
+      "kind": "model",
+      "previous_fingerprint": "374cc8c170e041181540b62a8ad9290846e46759d96c2d1ea580dccc2682d0ae",
+      "new_fingerprint": "865ab75cbb2f722a4a637416a28046d4b5819f694bb0ed8abaab7ad7e692315c",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/2026-lexus-ls-a-homage-to-the-original/",
+      "brand": "Lexus",
+      "model": "LS",
+      "kind": "model",
+      "previous_fingerprint": "dce4acea8f322b2c883a97d224a75569304530e3568e753c0dbaf7dad262b73e",
+      "new_fingerprint": "4109711bc72eab113034aab01cfb9323788f38428b8a90a53c7cc2ca65c4b778",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/2026-lexus-ux-300h-a-powerful-hybrid-hatchback/",
+      "brand": "Lexus",
+      "model": "UX",
+      "kind": "model",
+      "previous_fingerprint": "949bbadd4595da80621d799afbff12de5fe70af26a1cbed44fbdf4397e784b59",
+      "new_fingerprint": "be18eb3603a1d980d3b21e03de4ec6f92bf8cec1ff1e9e39a79e9162dfbe607b",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/2026-lexus-nx-adds-grades-and-drivetrain/",
+      "brand": "Lexus",
+      "model": "NX",
+      "kind": "model",
+      "previous_fingerprint": "8448307c8eabc2131828a623d8dc3ef951ebcfd60ce2e344bf3de10ee204a989",
+      "new_fingerprint": "9d2f9d73b26797730b2e9880fa985cddbaee7c0a9cdc4229ed1495fe6504f302",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/2026-lexus-rx-extending-the-range/",
+      "brand": "Lexus",
+      "model": "RX",
+      "kind": "model",
+      "previous_fingerprint": "b16251c53c3abb7da6b0e6dda16e8b764bda672e7e1df5e60f64197e0e0122d4",
+      "new_fingerprint": "b73db460859ae9459917a463ff6c8ec108647dfe598972190b2f5e266b2e406a",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/2026-lexus-rz-adds-more-power-and-performance-2/",
+      "brand": "Lexus",
+      "model": "RZ",
+      "kind": "model",
+      "previous_fingerprint": "9fb11041454923426256fdd514535bc2bd1734fc842fb2d95d570bb3e1687dc9",
+      "new_fingerprint": "6d57e66ba8fed08bdbd2aa9bb6bfb7df9dd3857a246de3f1fe93811f34f8837a",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/style-utility-and-comfort-the-2026-lexus-tx/",
+      "brand": "Lexus",
+      "model": "TX",
+      "kind": "model",
+      "previous_fingerprint": "63e57cce579ee662882e7c1386c845e170d08315f042cf64cd45f362430b59be",
+      "new_fingerprint": "c136006e5522230196c550d20215f9a39099e41f3bf4343c376949077df5dd47",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/2026-lexus-gx/",
+      "brand": "Lexus",
+      "model": "GX",
+      "kind": "model",
+      "previous_fingerprint": "72d8e05d2b3cdd9a7e442b8f3d95c3fcae735cd5dc2e0c5ffdf72254b63fb4b2",
+      "new_fingerprint": "17ad1c11d3b6e94f3a321793a17d681fcd0452e7f2a090da70b7e2adfc00e19c",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/lexus-flagship-suv-returns-for-2026-with-an-f-sport-appearance-package/",
+      "brand": "Lexus",
+      "model": "LX",
+      "kind": "model",
+      "previous_fingerprint": "561c903e2810b749561033728f26fc33b7008e557e088d717bb65c3bfd613983",
+      "new_fingerprint": "1afd3e4a3efeec4cf9cf6e8971d75bee031eec66099e585c78119a6980d19f3b",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/whats-new-for-2026/",
+      "brand": "Lexus",
+      "model": "RC",
+      "kind": "model",
+      "previous_fingerprint": "2557e45d2d9bedcb7a264696fc73bd859e76d51f11b27fce837e0967dc228f37",
+      "new_fingerprint": "a7bc21c1bdc98f42f3dcd124b23f762d81f1ec275ef3c682795706fb82e7781d",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://www.genesis.com/us/en/g70",
+      "brand": "Genesis",
+      "model": "G70",
+      "kind": "model",
+      "previous_fingerprint": "2df66324b6b6bf2352fe6a23f1be72626a7f9db8b5836a131df0956620f191c0",
+      "new_fingerprint": "e60ad1409d3855de0317cf3fe055a6031238b05c59044d2192fa1d12944636f6",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://www.genesis.com/us/en/g80",
+      "brand": "Genesis",
+      "model": "G80",
+      "kind": "model",
+      "previous_fingerprint": "d1ff0c58f11edf81b24466de4fd189a8d7e0c78c8e0dce12790fabcf8410eae2",
+      "new_fingerprint": "9a3a6bc252643e06ade72683d84abd3c47e2c6e891d5c3977bc640e2753b90d4",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://www.genesis.com/us/en/gv60",
+      "brand": "Genesis",
+      "model": "GV60",
+      "kind": "model",
+      "previous_fingerprint": "71bac848633de9a1e520f1c88b29e0f73862e2db0f59ceb2b01f14f06c245a6c",
+      "new_fingerprint": "565a76b1180261823b10d2058081e818c11fb3f89e2f0ca3d9eb33273a1ebfb8",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://www.genesis.com/us/en/gv70",
+      "brand": "Genesis",
+      "model": "GV70",
+      "kind": "model",
+      "previous_fingerprint": "fd3c319fea7ec6fb1e1a2f53e84d82eea9b73c5cac0d5e96530916606876f726",
+      "new_fingerprint": "9cdd0cfd9cf4bc37a6d0e3c1a01464a82a79817a6b053617e7d59357a136075f",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://www.genesis.com/us/en/electrified-gv70",
+      "brand": "Genesis",
+      "model": "Electrified GV70",
+      "kind": "model",
+      "previous_fingerprint": "2158862261d3b14375acd457a9150118479653f07054247364dcb8e6c1257b88",
+      "new_fingerprint": "051693f98beb8d7173e18ed909faa1acb4f5f34787c5eabaa2c23e57018578fd",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://www.genesis.com/us/en/gv80",
+      "brand": "Genesis",
+      "model": "GV80",
+      "kind": "model",
+      "previous_fingerprint": "767a2993c23e7054170be4c4a931a745f9227f2c7237f738fe31e80eaeba1c4f",
+      "new_fingerprint": "c5471517eedc29210bb62875d84ea2eca646339986e644c939ec516ccc150bff",
+      "detected_at": "2026-10-17T08:46:02+00:00"
+    },
+    {
+      "url": "https://www.genesis.com/us/en/gv80-coupe",
+      "brand": "Genesis",
+      "model": "GV80 Coupe",
+      "kind": "model",
+      "previous_fingerprint": "0f5c3e822cbedd0eb2727e512f828666e9f19a724ee44430fe2e2e923ae1151d",
+      "new_fingerprint": "96067f151fa402720775d2c8db9edac799ffd91fff997f912e6098aff29fe2c2",
+      "detected_at": "2026-10-17T08:46:02+00:00"
     },
     {
       "url": "https://www.jeep.com/gladiator.html",
       "brand": "Jeep",
       "model": "Gladiator",
       "kind": "model",
-      "previous_fingerprint": "8e85686a29e34acb98a5a3d4b8979fcc5d35b884e1d3630db1ebc5f68924edba",
-      "new_fingerprint": "c51aa4e190b3e807249fd210fc1afc7ac4e4461a94b5099fb3126099c48efcdd",
-      "detected_at": "2026-10-16T09:15:11+00:00"
+      "previous_fingerprint": "c51aa4e190b3e807249fd210fc1afc7ac4e4461a94b5099fb3126099c48efcdd",
+      "new_fingerprint": "4b0ca4d87b6bf8ca26534ece77a9360ba87de3c27a72daa520c9dfc93e39e1a8",
+      "detected_at": "2026-10-17T08:46:02+00:00"
     },
     {
       "url": "https://en.byd.com/",
       "brand": "BYD",
       "model": "",
       "kind": "brand",
-      "previous_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "new_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
-      "detected_at": "2026-10-16T09:15:11+00:00"
+      "previous_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
+      "new_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "detected_at": "2026-10-17T08:46:02+00:00"
     },
     {
-      "url": "https://www.kia.com/us/en/ev6",
-      "brand": "Kia",
-      "model": "EV6",
-      "kind": "model",
-      "previous_fingerprint": "74dbe6359b0c0da166aa4d235a60c72900f16cd50b6236f1430934b68fda70c3",
-      "new_fingerprint": "cb6b14ebdd520bca57e731518317a52e44b27c8f82a8a66a065f80cb392d252b",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.kia.com/us/en/carnival-mpv",
-      "brand": "Kia",
-      "model": "Carnival",
-      "kind": "model",
-      "previous_fingerprint": "46475ffd71d42ca0df611ca701c2e689ea091bcdd47dd4ca1910f3404a97a998",
-      "new_fingerprint": "fbd3d260beeba3ef7c93674c97677ed235f198e2cbeee1207adc40cbadfe27d2",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.kia.com/us/en/sorento/specs-compare",
-      "brand": "Kia",
-      "model": "Sorento",
-      "kind": "model",
-      "previous_fingerprint": "c70dd79e84bbf8518b7fc1cccd3499f4e8512d21c50ec2a5f9894d3b49eb2e3d",
-      "new_fingerprint": "9b531307754ea582f59dfbadda02ec13cb419dd75a4d3c1abf7cc924456af41b",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.kia.com/us/en/ev9/specs-compare",
-      "brand": "Kia",
-      "model": "EV9",
-      "kind": "model",
-      "previous_fingerprint": "6028ccf5cb68234cea172103773e350c6e3fc4e7490737174176df36259c982f",
-      "new_fingerprint": "302d5bccda552cf771550b2b4b6f158cbefb6bfbae20de720f193f4f7a22ef9b",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.kia.com/us/en/niro",
-      "brand": "Kia",
-      "model": "Niro",
-      "kind": "model",
-      "previous_fingerprint": "6ddeff02e36e4888e7e1ff37f2568b5791ccd70c7912a2d02185793068f16009",
-      "new_fingerprint": "c8c8ec72983e9ae0af12d3d209732d5c0ae67aeea2256290217509654f3c6c92",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.kia.com/us/en/niro-ev",
-      "brand": "Kia",
-      "model": "Niro EV",
-      "kind": "model",
-      "previous_fingerprint": "d5322321ae993d8f890d574da4af2d7aace7995347e4cc4da127863d82c0dd86",
-      "new_fingerprint": "6bef0477d01cea7770991fcab12a4f4039e1130bb164bd1278e858ea5eaf3588",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.kia.com/us/en/sportage-hybrid",
-      "brand": "Kia",
-      "model": "Sportage",
-      "kind": "model",
-      "previous_fingerprint": "75b6bb04a6246f2994ac81b449a38eec68e63899dbe4561b745e019599cea48e",
-      "new_fingerprint": "8895d993e23bb97fab9441ad80ff6a8d20da1260b58f79e1094a92677e892156",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.kia.com/us/en/k5",
-      "brand": "Kia",
-      "model": "K5",
-      "kind": "model",
-      "previous_fingerprint": "a1cef1e6188733c2a7c779348ac854bcc782a7f900630b33352dc47736980edf",
-      "new_fingerprint": "31820e3841bdb1bd40986c2e0cec78ed866ca78633ac85305824d34a648e5b34",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
+      "url": "https://www.nissanusa.com/vehicles/trucks/frontier/specs-trims.html",
       "brand": "Nissan",
-      "model": "Armada",
+      "model": "Frontier",
       "kind": "model",
-      "previous_fingerprint": "5d69c6b35a64e3e7e07580bc5274c9aebd9940030c1780868b4f7569a2ff1231",
-      "new_fingerprint": "7bc8a253749fc35c7f876b1410eaf0cda04dc1384252f18a2d5765355255775d",
-      "detected_at": "2026-10-16T09:15:11+00:00"
+      "previous_fingerprint": "0a4c72c871829e61f685d4f69dcac09fc7e95a01879de77bc1a86df8a3127101",
+      "new_fingerprint": "d159ac62f0b68501247058ecbbc53bbd98d41fc59067db0b6bb5ca8cb6e66394",
+      "detected_at": "2026-10-17T08:46:02+00:00"
     },
     {
-      "url": "https://www.nissanusa.com/vehicles/cars/versa-sedan/specs-trims.html",
-      "brand": "Nissan",
-      "model": "Versa",
+      "url": "https://www.gmc.com/trucks/sierra/2500hd-3500hd",
+      "brand": "GMC",
+      "model": "Sierra 2500HD",
       "kind": "model",
-      "previous_fingerprint": "48b96ce9afbbfad0ebdedfbdb940c501efb4d436a01d4f4965bede94a4b232c1",
-      "new_fingerprint": "775d7d7ff1c828aa9211b1127e89fb71073a04829bcd251ab0cc97504d4ab62d",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.subaru.com/vehicles/crosstrek/2026.html",
-      "brand": "Subaru",
-      "model": "Crosstrek",
-      "kind": "model",
-      "previous_fingerprint": "96a739f20a6d4fe59853373476fea8b16ab3934b10984c95c9ffac798d2e70fe",
-      "new_fingerprint": "9ba9030ca9b17434a37feec182d34b248ebabcc0674de098aec8ab4e0241842e",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.subaru.com/vehicles/forester/2026.html",
-      "brand": "Subaru",
-      "model": "Forester",
-      "kind": "model",
-      "previous_fingerprint": "e2641ea9e9b546d8d78d6559b78771fd921f8d0df2dba66ead760da87c64bc64",
-      "new_fingerprint": "de6fc1cfb0c6f8646acf036b0f0189d4e0b5c5b6c13a298a4ec2d4e3bc0f3b1c",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.subaru.com/vehicles/outback/2026.html",
-      "brand": "Subaru",
-      "model": "Outback",
-      "kind": "model",
-      "previous_fingerprint": "a586ffb19bd11b381a2456f1bc1a8f3d15a51df5e6064c9dac0c2f24d3b3ec82",
-      "new_fingerprint": "c22060ab60d6803c129acca9d3eb994fe45cf9b1d9dec95420bbcc7ef98ba9d6",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.subaru.com/vehicles/ascent/2027.html",
-      "brand": "Subaru",
-      "model": "Ascent",
-      "kind": "model",
-      "previous_fingerprint": "e5b3ece93591eb7313d75394bf5046b2d7842c2fb3242e8caa8b6076eb9fe73a",
-      "new_fingerprint": "44cbdb2336f59131128d48efbb1f45bfedda343a24716ccf437ab10bcaa4df2d",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.subaru.com/vehicles/impreza/2026.html",
-      "brand": "Subaru",
-      "model": "Impreza",
-      "kind": "model",
-      "previous_fingerprint": "8a77d692160af403f47ce0a1f01827ea749521b13a9703f9250e8fda04bf1078",
-      "new_fingerprint": "a2d976857855d72eccbb3a7d58ec45acc7e743fa5cdeb05a4cb466977bcf3fd4",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.subaru.com/vehicles/wrx/2026.html",
-      "brand": "Subaru",
-      "model": "WRX",
-      "kind": "model",
-      "previous_fingerprint": "4e16895bde36947ab233ed26b1dc7c96766933771807e6374b9a48c89a9b5f8e",
-      "new_fingerprint": "2fc9dd0f75955e02e1a10bb8ef069f21436f2f86e7657916e7a9f684e208a56a",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.subaru.com/vehicles/brz/2027.html",
-      "brand": "Subaru",
-      "model": "BRZ",
-      "kind": "model",
-      "previous_fingerprint": "c53346c0602bbf2f61c6e5179c6dff35f0a78d08878cf4c76cfc924540e557eb",
-      "new_fingerprint": "601e759aebf426483f011f43967131390774a0df7acb339ac80730e998a52ef2",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.subaru.com/vehicles/solterra/2026.html",
-      "brand": "Subaru",
-      "model": "Solterra",
-      "kind": "model",
-      "previous_fingerprint": "9031ad784e0e8e2a26b42f221c7f92372db25caa3d5b05b53e261e100c3da79e",
-      "new_fingerprint": "90fc83e351eb609e96901895ac7a893eb7124dbf4b785a50311e317cbd4d798a",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.subaru.com/vehicles/trailseeker/2026.html",
-      "brand": "Subaru",
-      "model": "Trailseeker",
-      "kind": "model",
-      "previous_fingerprint": "230a006e55eb6dd99f149785fa87353380182e308864e61455fd1179b25d45d8",
-      "new_fingerprint": "28f06457dadabc6a91ac256816efbb9148a87d77b664704eecf470c2e7c89482",
-      "detected_at": "2026-10-16T09:15:11+00:00"
+      "previous_fingerprint": "1e0684ba7f6cc4ada4e8675b20bdbe0e92d9d130d4bec71f11b948ae49b9dcdb",
+      "new_fingerprint": "41818721498e10349822c2eb271e45d8fd643b789c7c160717ab12e8b5d43eed",
+      "detected_at": "2026-10-17T08:46:02+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
-      "previous_fingerprint": "555f009c28925a356465fd1a731e6e11e154d4c513b048907f4c8a2cff3db11d",
-      "new_fingerprint": "1aef3a74640d4f4457c3cb774d0f907cf9abb0d2e740bfac6acd594df4e6a7f7",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.kia.com/us/en/vehicles",
-      "brand": "Kia",
-      "model": "",
-      "kind": "brand-registry",
-      "market": "U.S. retail",
-      "previous_fingerprint": "694baeeda1daa5ff12b60af22337c398760592cc95d63b2f779f8943cda8769a",
-      "new_fingerprint": "9c22d5804c25efc017850e02346b75565ce99991166b34510641b2b7aaa91a67",
-      "detected_at": "2026-10-16T09:15:11+00:00"
-    },
-    {
-      "url": "https://www.nissanusa.com/vehicles.html",
-      "brand": "Nissan",
-      "model": "",
-      "kind": "brand-registry",
-      "market": "U.S. retail",
-      "previous_fingerprint": "4bf5d4f128d1c32f74981e233cea67520c76ae02197842e7b79bc27cacb9be95",
-      "new_fingerprint": "62306677c522ea745726d36b17a4b6674083f16edcda1543b2caa02a2508c8f1",
-      "detected_at": "2026-10-16T09:15:11+00:00"
+      "previous_fingerprint": "1aef3a74640d4f4457c3cb774d0f907cf9abb0d2e740bfac6acd594df4e6a7f7",
+      "new_fingerprint": "ddfecac56c179fe9b02c0a2ef39fa925b66b3b51950de0eafa74322e94c9d441",
+      "detected_at": "2026-10-17T08:46:02+00:00"
     }
   ]
 }

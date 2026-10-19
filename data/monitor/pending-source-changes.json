@@ -1,141 +1,70 @@
 {
-  "generated": "2026-10-18T09:02:09+00:00",
-  "count": 15,
+  "generated": "2026-10-19T10:13:57+00:00",
+  "count": 7,
   "changes": [
     {
       "url": "https://www.jeep.com/gladiator.html",
       "brand": "Jeep",
       "model": "Gladiator",
       "kind": "model",
-      "previous_fingerprint": "4b0ca4d87b6bf8ca26534ece77a9360ba87de3c27a72daa520c9dfc93e39e1a8",
-      "new_fingerprint": "bb2b141a2e57b0286a92b7af791f3fab675f5e0de0e45923722314fbf37faf7d",
-      "detected_at": "2026-10-18T09:02:09+00:00"
+      "previous_fingerprint": "bb2b141a2e57b0286a92b7af791f3fab675f5e0de0e45923722314fbf37faf7d",
+      "new_fingerprint": "4893f0d8862571ce88dc8f86445c0cf6bd660de8b8656bb40c96a3dbef5107ed",
+      "detected_at": "2026-10-19T10:13:57+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/cx-70-phev",
       "brand": "Mazda",
       "model": "CX-70 PHEV",
       "kind": "model",
-      "previous_fingerprint": "cfd48e711a0de6b94e6d74052e0ee36625fd886a4f00437e942107d3be6fe972",
-      "new_fingerprint": "b932d574fbce4a3057a0bb70c91eabe19fcee5be96a2eaa4b1998b86f94ef76b",
-      "detected_at": "2026-10-18T09:02:09+00:00"
+      "previous_fingerprint": "b932d574fbce4a3057a0bb70c91eabe19fcee5be96a2eaa4b1998b86f94ef76b",
+      "new_fingerprint": "cfd48e711a0de6b94e6d74052e0ee36625fd886a4f00437e942107d3be6fe972",
+      "detected_at": "2026-10-19T10:13:57+00:00"
+    },
+    {
+      "url": "https://en.byd.com/",
+      "brand": "BYD",
+      "model": "",
+      "kind": "brand",
+      "previous_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
+      "detected_at": "2026-10-19T10:13:57+00:00"
     },
     {
       "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
       "brand": "Nissan",
       "model": "Armada",
       "kind": "model",
-      "previous_fingerprint": "7bc8a253749fc35c7f876b1410eaf0cda04dc1384252f18a2d5765355255775d",
-      "new_fingerprint": "9cbf50db9dfb84e728809fd52ec6659ee617da2296fd548e548d66ae5d981f15",
-      "detected_at": "2026-10-18T09:02:09+00:00"
+      "previous_fingerprint": "9cbf50db9dfb84e728809fd52ec6659ee617da2296fd548e548d66ae5d981f15",
+      "new_fingerprint": "7bc8a253749fc35c7f876b1410eaf0cda04dc1384252f18a2d5765355255775d",
+      "detected_at": "2026-10-19T10:13:57+00:00"
     },
     {
-      "url": "https://www.gmc.com/suvs/terrain",
-      "brand": "GMC",
-      "model": "Terrain",
+      "url": "https://www.mbusa.com/en/vehicles/class/cle/coupe",
+      "brand": "Mercedes-Benz",
+      "model": "CLE Coupe",
       "kind": "model",
-      "previous_fingerprint": "a2823fc9ba81c5ec627a646781d279e794afd779b5cf2ea3826a36140d01c317",
-      "new_fingerprint": "3f89890f7156859c1779509913680905a575f2bcd926aa9efd571438f95ca3d3",
-      "detected_at": "2026-10-18T09:02:09+00:00"
-    },
-    {
-      "url": "https://www.gmc.com/suvs/previous-year/acadia",
-      "brand": "GMC",
-      "model": "Acadia",
-      "kind": "model",
-      "previous_fingerprint": "35c32eb638a3a1896f70638a3b98eea3126c7ceec26400e540452f9ca2820525",
-      "new_fingerprint": "c73a44391ef1e0737248d3f0f3da35ce3a352c54f167aa3adbec486d3ef67e41",
-      "detected_at": "2026-10-18T09:02:09+00:00"
-    },
-    {
-      "url": "https://www.gmc.com/suvs/yukon",
-      "brand": "GMC",
-      "model": "Yukon",
-      "kind": "model",
-      "previous_fingerprint": "46a72cecae1e6dec47626f34509b4d9a08e5fc2f788b365ca66664d7f70f66ab",
-      "new_fingerprint": "02c4f8c9fe46ff674f23aa8f2e4af8c05532bf5f2fc0d6a58da94d1168ef9012",
-      "detected_at": "2026-10-18T09:02:09+00:00"
-    },
-    {
-      "url": "https://www.gmc.com/trucks/canyon",
-      "brand": "GMC",
-      "model": "Canyon",
-      "kind": "model",
-      "previous_fingerprint": "e4b57d92bfdc71902358c7489d84a4f4da0770c423c9b481d446ad62c84d1fd0",
-      "new_fingerprint": "73a49c1dcfa2b4d669267c42a5fee0d1b65ba2f5a0bbbfccb9d2c2b3c8f6be59",
-      "detected_at": "2026-10-18T09:02:09+00:00"
-    },
-    {
-      "url": "https://www.gmc.com/trucks/sierra/1500",
-      "brand": "GMC",
-      "model": "Sierra 1500",
-      "kind": "model",
-      "previous_fingerprint": "6a87c20a5d32ee53acb62d3f863ca87fc759bd7077713f5e5fdf20b9f94d7cb8",
-      "new_fingerprint": "7df18bd1cdb7617f35e4015463ca0c654b770f26f920f380aac6cce0595d08e1",
-      "detected_at": "2026-10-18T09:02:09+00:00"
-    },
-    {
-      "url": "https://www.gmc.com/trucks/sierra-3500hd-chassis-cab",
-      "brand": "GMC",
-      "model": "Sierra 3500HD Chassis Cab",
-      "kind": "model",
-      "previous_fingerprint": "6bd4a7936b6487b045e4f5445dad67b5efc9b76253645b424f0511881291bbf3",
-      "new_fingerprint": "b89341c6d545390ebd73f2f81e73e038e8a8026d4c52333e5712f29804e2960d",
-      "detected_at": "2026-10-18T09:02:09+00:00"
-    },
-    {
-      "url": "https://www.gmc.com/electric/sierra-ev",
-      "brand": "GMC",
-      "model": "Sierra EV",
-      "kind": "model",
-      "previous_fingerprint": "2adbb04cf232acbf20a761ad6831d1c2a8555338329bfcaf0914dbce03ace855",
-      "new_fingerprint": "0eb3f26a8de38c311ff898b05752b26aa1203077ba6db104b117ba857b24f8d1",
-      "detected_at": "2026-10-18T09:02:09+00:00"
-    },
-    {
-      "url": "https://www.gmc.com/electric/hummer-ev/suv",
-      "brand": "GMC",
-      "model": "HUMMER EV SUV",
-      "kind": "model",
-      "previous_fingerprint": "25d14d0a160944cbcc25585918fef789ede2a070346c0cd1fcfd4dfc1a731f02",
-      "new_fingerprint": "08b5d7e521341eaecda0d6c07fad7000e1602b0640de7a0cdc6b5e149f969177",
-      "detected_at": "2026-10-18T09:02:09+00:00"
-    },
-    {
-      "url": "https://www.gmc.com/electric/hummer-ev/pickup-truck",
-      "brand": "GMC",
-      "model": "HUMMER EV Pickup",
-      "kind": "model",
-      "previous_fingerprint": "5d5a5fda68e3b492406ae2a4b4a37f0eee9ab157f8ae5dc0b061beebfb34a0d5",
-      "new_fingerprint": "063085d141105e177c6e85ac129a0dba189f260eed6be94eda71f3dfe54ce54c",
-      "detected_at": "2026-10-18T09:02:09+00:00"
-    },
-    {
-      "url": "https://www.gmc.com/vans/previous-year/savana/cargo",
-      "brand": "GMC",
-      "model": "Savana Cargo 2500",
-      "kind": "model",
-      "previous_fingerprint": "fade8fe853b83c05877dfc2cb05a5b943dcf7369843b2684190d121aedde820d",
-      "new_fingerprint": "16df64c888189dbb875b765671c62cd3b4333be736254a2a8836f2a0fb4d795b",
-      "detected_at": "2026-10-18T09:02:09+00:00"
-    },
-    {
-      "url": "https://www.gmc.com/vans/previous-year/savana/passenger",
-      "brand": "GMC",
-      "model": "Savana Passenger 2500",
-      "kind": "model",
-      "previous_fingerprint": "d23a8f963bb666586f7c2730021924a393a726f640fc2ab09ce7a2a67eaeaac0",
-      "new_fingerprint": "06b99d67ed610c414e0913a9952544f540ce12410afb0d4bb425d9ec0a1841da",
-      "detected_at": "2026-10-18T09:02:09+00:00"
+      "previous_fingerprint": "a658a18d666ce48d46b047dc1d4c94c045c82567d213fc7560506939ae629162",
+      "new_fingerprint": "0fd7062816f8a51b9fce59b95e8c49df930b34671ac0a4584318ba7a72300352",
+      "detected_at": "2026-10-19T10:13:57+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
-      "previous_fingerprint": "ddfecac56c179fe9b02c0a2ef39fa925b66b3b51950de0eafa74322e94c9d441",
-      "new_fingerprint": "ca1dd22b183fba76f8c8beaa6f5fcde1bd238cf3e4920d5d840b38f35cee2e89",
-      "detected_at": "2026-10-18T09:02:09+00:00"
+      "previous_fingerprint": "ca1dd22b183fba76f8c8beaa6f5fcde1bd238cf3e4920d5d840b38f35cee2e89",
+      "new_fingerprint": "e50f19d717107aa24eb5850f7f46ea9bde52e20cfc05498ac76c40656b778493",
+      "detected_at": "2026-10-19T10:13:57+00:00"
+    },
+    {
+      "url": "https://www.bydglobal.com/en/car.html",
+      "brand": "BYD",
+      "model": "",
+      "kind": "brand-registry",
+      "market": "Global / selected markets",
+      "previous_fingerprint": "6f77349e089d6fb62d9256d2e7a99d52037d09dfc0cd97452b5fa965d4cd7ca1",
+      "new_fingerprint": "81357d6bf425eb938f1413a0994a0c4ec70a3a8c5db3ee4ea132494c46c1e273",
+      "detected_at": "2026-10-19T10:13:57+00:00"
     }
   ]
 }

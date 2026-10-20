@@ -1,70 +1,332 @@
 {
-  "generated": "2026-10-19T10:13:57+00:00",
-  "count": 7,
+  "generated": "2026-10-20T09:35:53+00:00",
+  "count": 36,
   "changes": [
+    {
+      "url": "https://www.rangerover.com/en-us/range-rover/models-and-specifications.html",
+      "brand": "Land Rover",
+      "model": "Range Rover",
+      "kind": "model",
+      "previous_fingerprint": "acf91020f2379a29fe58b6ae0d05db63f5c3111235e4a233c87c71c74447d58c",
+      "new_fingerprint": "49d64bc44cdc60c7239c31cbeea2c706a00386b9c2c2bc8a5ee67be9e8204e89",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.rangerover.com/en-us/range-rover-sport/models-and-specifications.html",
+      "brand": "Land Rover",
+      "model": "Range Rover Sport",
+      "kind": "model",
+      "previous_fingerprint": "a99bfce64c150eff126c308e63bb9663e00f29fa0ab3a021d169789d4d5477d7",
+      "new_fingerprint": "0a23a2bda145c0394b84bfda8000bd60fcd4129d7c7cdfce1915bab7e897ae04",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.rangerover.com/en-us/range-rover-velar/models-and-specifications.html",
+      "brand": "Land Rover",
+      "model": "Range Rover Velar",
+      "kind": "model",
+      "previous_fingerprint": "59f404a64f4e65833869509e1f829ea2294d556fce26f6cff1392e3397e5cdb5",
+      "new_fingerprint": "c0c9c4a4300b4b42a716b79f77fd1ec78be3e3ec553cf66441757a2878783638",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.rangerover.com/en-us/range-rover-evoque/models-and-specifications.html",
+      "brand": "Land Rover",
+      "model": "Range Rover Evoque",
+      "kind": "model",
+      "previous_fingerprint": "6c1fce4980e1fcbfa5f0241f452439cf2d0624f3a4a450b531ed02f78b8750f3",
+      "new_fingerprint": "38958f6ca19c882904133d75ec73c60daa80cab36f16a1f4f5571868ddc4536f",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
     {
       "url": "https://www.jeep.com/gladiator.html",
       "brand": "Jeep",
       "model": "Gladiator",
       "kind": "model",
-      "previous_fingerprint": "bb2b141a2e57b0286a92b7af791f3fab675f5e0de0e45923722314fbf37faf7d",
-      "new_fingerprint": "4893f0d8862571ce88dc8f86445c0cf6bd660de8b8656bb40c96a3dbef5107ed",
-      "detected_at": "2026-10-19T10:13:57+00:00"
-    },
-    {
-      "url": "https://www.mazdausa.com/vehicles/cx-70-phev",
-      "brand": "Mazda",
-      "model": "CX-70 PHEV",
-      "kind": "model",
-      "previous_fingerprint": "b932d574fbce4a3057a0bb70c91eabe19fcee5be96a2eaa4b1998b86f94ef76b",
-      "new_fingerprint": "cfd48e711a0de6b94e6d74052e0ee36625fd886a4f00437e942107d3be6fe972",
-      "detected_at": "2026-10-19T10:13:57+00:00"
+      "previous_fingerprint": "4893f0d8862571ce88dc8f86445c0cf6bd660de8b8656bb40c96a3dbef5107ed",
+      "new_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
+      "detected_at": "2026-10-20T09:35:53+00:00"
     },
     {
       "url": "https://en.byd.com/",
       "brand": "BYD",
       "model": "",
       "kind": "brand",
-      "previous_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "new_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
-      "detected_at": "2026-10-19T10:13:57+00:00"
+      "previous_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
+      "new_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "detected_at": "2026-10-20T09:35:53+00:00"
     },
     {
       "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
       "brand": "Nissan",
       "model": "Armada",
       "kind": "model",
-      "previous_fingerprint": "9cbf50db9dfb84e728809fd52ec6659ee617da2296fd548e548d66ae5d981f15",
-      "new_fingerprint": "7bc8a253749fc35c7f876b1410eaf0cda04dc1384252f18a2d5765355255775d",
-      "detected_at": "2026-10-19T10:13:57+00:00"
+      "previous_fingerprint": "7bc8a253749fc35c7f876b1410eaf0cda04dc1384252f18a2d5765355255775d",
+      "new_fingerprint": "ae796f8b2f65e00a668c1ced82334da8d13ca5fc74982174c64560a535eddeb7",
+      "detected_at": "2026-10-20T09:35:53+00:00"
     },
     {
-      "url": "https://www.mbusa.com/en/vehicles/class/cle/coupe",
-      "brand": "Mercedes-Benz",
-      "model": "CLE Coupe",
+      "url": "https://www.nissanusa.com/vehicles/cars/versa-sedan/specs-trims.html",
+      "brand": "Nissan",
+      "model": "Versa",
       "kind": "model",
-      "previous_fingerprint": "a658a18d666ce48d46b047dc1d4c94c045c82567d213fc7560506939ae629162",
-      "new_fingerprint": "0fd7062816f8a51b9fce59b95e8c49df930b34671ac0a4584318ba7a72300352",
-      "detected_at": "2026-10-19T10:13:57+00:00"
+      "previous_fingerprint": "775d7d7ff1c828aa9211b1127e89fb71073a04829bcd251ab0cc97504d4ab62d",
+      "new_fingerprint": "aa757bc77af429ba8dce7a9c42fa868c29e665513a3b89171cee770983e3576a",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.nissanusa.com/vehicles/cars/altima/specs-trims.html",
+      "brand": "Nissan",
+      "model": "Altima",
+      "kind": "model",
+      "previous_fingerprint": "e894eecf51962e69deb2396f6da38c9a771146b0803c666b9044962490af5c5f",
+      "new_fingerprint": "ba6faa10db3f7f41792165b39c6ce0220431137dd05ffa69764e786b3347a19b",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.nissanusa.com/vehicles/trucks/frontier/specs-trims.html",
+      "brand": "Nissan",
+      "model": "Frontier",
+      "kind": "model",
+      "previous_fingerprint": "d159ac62f0b68501247058ecbbc53bbd98d41fc59067db0b6bb5ca8cb6e66394",
+      "new_fingerprint": "141ac1c2a7e83221237c2b8f9fee92c8e575c807ea9202ed25b96ef88dd4b05f",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/cla/sedan",
+      "brand": "Mercedes-Benz",
+      "model": "CLA",
+      "kind": "model",
+      "previous_fingerprint": "5732d1c926af85b2c6ecf639092cd97d140eb37218075386b3231d48df9f61c6",
+      "new_fingerprint": "ef46e977ebd5c49d1f4a6d6a156bc3f9d84d68d3ba478b16de9278c29ef8162a",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/c-class/sedan",
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "kind": "model",
+      "previous_fingerprint": "da3a781ab1d80d6aa26f4665d0dc69e87c3d4c5931e9e83bf29c18371c87ed54",
+      "new_fingerprint": "60e120bb749f951650d5acff40464c0785f6d8b49d069c4df469bed2921e8b2a",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/e-class/sedan",
+      "brand": "Mercedes-Benz",
+      "model": "E-Class",
+      "kind": "model",
+      "previous_fingerprint": "c15cd7c04c8aa5b6be98ed8f28714e1e98e2aefb9a67049a5f20b02a95df0f7e",
+      "new_fingerprint": "0cceaa108f71814e33896bb4cf62217930b3a564d6997f75cf80069170993ea4",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/s-class/sedan",
+      "brand": "Mercedes-Benz",
+      "model": "S-Class",
+      "kind": "model",
+      "previous_fingerprint": "6588326e09515e33295052cab567405a7e7cf0176019bf4ef9203df906e4735b",
+      "new_fingerprint": "153501aae648c32dca325b05743b14fd35b87e88fa39abff8b9518ab0f088056",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/e-class/wagon",
+      "brand": "Mercedes-Benz",
+      "model": "E-Class Wagon",
+      "kind": "model",
+      "previous_fingerprint": "c8c833d49a44b630b46fc2a400a9db5ac59c81bb2006254220502f10b4055eb2",
+      "new_fingerprint": "09aa9c7b04561296d87b4db703159ef1f8f9073441d5d78e425513bf24a5fc47",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/cle/cabriolet",
+      "brand": "Mercedes-Benz",
+      "model": "CLE Cabriolet",
+      "kind": "model",
+      "previous_fingerprint": "e774aa3732b00d63d82babf8be5c3e5cca04707784bb852383ec9cdf72847256",
+      "new_fingerprint": "d13d67c7438154cc0ef342ebfa45caee63650b646236043314616065c9823b53",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/amg-gt/coupe",
+      "brand": "Mercedes-Benz",
+      "model": "AMG GT Coupe",
+      "kind": "model",
+      "previous_fingerprint": "9a6913f2c49aa208253252329dda18d0a8cf3349e3dff801bc2408b86e9ebd6e",
+      "new_fingerprint": "cb84e603088855abe108a9b1eb3019b751540c5c7fd867d9c129cf2888e34263",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/sl/roadster",
+      "brand": "Mercedes-Benz",
+      "model": "SL Roadster",
+      "kind": "model",
+      "previous_fingerprint": "0aa5fea02472c8482e3b5c6977e186f9553b72cbab6029a63b6dfffbe36017c4",
+      "new_fingerprint": "0a72ab0841afe04d302a22f4016e6c1c4bcdba6383a2e660c0bf5fddb9c8ba76",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/gla/suv",
+      "brand": "Mercedes-Benz",
+      "model": "GLA",
+      "kind": "model",
+      "previous_fingerprint": "1fc4c24a5d71612f376001f99b6bdf0129a3cc4ac45dd6888bf2e674ba5bbb31",
+      "new_fingerprint": "b5aeaae93c1b9305acbb563c670c84a41da4c0a44ce8f3183ab02fe8c8f040b7",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/glb/suv",
+      "brand": "Mercedes-Benz",
+      "model": "GLB",
+      "kind": "model",
+      "previous_fingerprint": "340125f8633dfccd433c724ea2b1711984cd5078d596d0ccc408379c714985c5",
+      "new_fingerprint": "6b7220c7b10c3e9b996bf6b9dcba244238aff5cb35e0e602851e8b8ce4bda54b",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/glc/suv",
+      "brand": "Mercedes-Benz",
+      "model": "GLC",
+      "kind": "model",
+      "previous_fingerprint": "90cd41f4e794d8aee3e0ef62deda242e56dd5d86603b28b63c0d3ab8c6890f88",
+      "new_fingerprint": "75294e60ae78126720f38c669bb28e024e33c7fddd0c4a1dcd1efe8c2955bcd2",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/glc/coupe",
+      "brand": "Mercedes-Benz",
+      "model": "GLC Coupe",
+      "kind": "model",
+      "previous_fingerprint": "2bf0d0cabed48cfdf94e8923d9466ff39c3caed0097b5daffce3437a7e9092f6",
+      "new_fingerprint": "bb4e880294148075fd2f4ab387869675d1fe30772d2c32166169b46662dda31a",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/gle/suv",
+      "brand": "Mercedes-Benz",
+      "model": "GLE SUV",
+      "kind": "model",
+      "previous_fingerprint": "6f49a909f478d0c2ad0086c9da1f1c665fd7e620f2716506577d4c990240bbb0",
+      "new_fingerprint": "fad28bbf89a5c3f9b451ab1f9aff40321f473d2c2c3367fd09a3404c025192ef",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/gle/coupe",
+      "brand": "Mercedes-Benz",
+      "model": "GLE Coupe",
+      "kind": "model",
+      "previous_fingerprint": "41673ce9f7eeaabbef29522b6f54ebaf7c69f55ec93bea8873c70c2bcae04e79",
+      "new_fingerprint": "f1869621313b394164071873efb36ef38734d5206380d4f405b7e2ff38b1d621",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/gls/suv",
+      "brand": "Mercedes-Benz",
+      "model": "GLS",
+      "kind": "model",
+      "previous_fingerprint": "9b797af64457c5522f816a0df43caa32b111100d35c3419e58b374cfeec9584e",
+      "new_fingerprint": "4e981f1220efb6f18b355a880ec6c42e34587e95ba16994f5fcf7422a284590a",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/g-class/suv",
+      "brand": "Mercedes-Benz",
+      "model": "G-Class",
+      "kind": "model",
+      "previous_fingerprint": "970f99fcd714ee49fba494a303f66aeb9b4e768b503453bcdec161c9338bdaf1",
+      "new_fingerprint": "f7f15619becf8ef78e63f7e1fbd04bd93e6e352672ca86089d2fb3d0d7bb490b",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/eqb/suv",
+      "brand": "Mercedes-Benz",
+      "model": "EQB",
+      "kind": "model",
+      "previous_fingerprint": "9b2a8c62457a3217f6da07e1fc8843b04a44ddeba6382202e4a336e9c674e3a3",
+      "new_fingerprint": "e93135ad15847ed1410e37a89cad24dffd88cda5ffb94a0a7b6b96d6c9343789",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/eqe/sedan",
+      "brand": "Mercedes-Benz",
+      "model": "EQE Sedan",
+      "kind": "model",
+      "previous_fingerprint": "0c5c87249febf803ca87f9f0dbccfe1d5e544f11299f2f43dbf413d29c060ec4",
+      "new_fingerprint": "56aa6f1d36edb89973283560aece4c8ea4c398fe811004406dbabbdb0aa03cfe",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/eqe/suv",
+      "brand": "Mercedes-Benz",
+      "model": "EQE SUV",
+      "kind": "model",
+      "previous_fingerprint": "db69c6479d669729330697b3b7e337faf4f26fa46293e2efda637a589ab478ae",
+      "new_fingerprint": "8cda3ded756bc18b5d68e845de74fdfbee1e396fc00b8c03c7adfa043944fcc3",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/eqs/sedan",
+      "brand": "Mercedes-Benz",
+      "model": "EQS Sedan",
+      "kind": "model",
+      "previous_fingerprint": "be2e4c9ced1406c35af9ccdf7d73f56060bab99852c03f4fbee1027b0c85152a",
+      "new_fingerprint": "8a34d98e8bc8f55086d4e70d35ebe55f1f15918b6b83fe3782d3b514da5fe2a0",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/eqs/suv",
+      "brand": "Mercedes-Benz",
+      "model": "EQS SUV",
+      "kind": "model",
+      "previous_fingerprint": "8df252f8f4f8b18bdc28469f3d4f9676db09e493c31e27677af84b7d2365653a",
+      "new_fingerprint": "47d19403e3a2195622d8ac3a8c5079db8b1f55a79789e3ba343b0d999af35c0d",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/maybach-s-class/sedan",
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach S-Class",
+      "kind": "model",
+      "previous_fingerprint": "594162747252e93dc76c4a812364760da0fd24d7920c4ea53f19ca1b9ef2f7a5",
+      "new_fingerprint": "5efdeded6adec0f5d1317fa53c34b5001d3cb16de123b9861bc4dd203a8c031c",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv",
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach EQS SUV",
+      "kind": "model",
+      "previous_fingerprint": "289968221d6308adeb40dcf9618e35746246287f02f91dd1b63b5136686b07fe",
+      "new_fingerprint": "358f52c58bc5a1e268d2781f2335c2418bbe30452c1e856ce3e8cfc8783d50d2",
+      "detected_at": "2026-10-20T09:35:53+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
-      "previous_fingerprint": "ca1dd22b183fba76f8c8beaa6f5fcde1bd238cf3e4920d5d840b38f35cee2e89",
-      "new_fingerprint": "e50f19d717107aa24eb5850f7f46ea9bde52e20cfc05498ac76c40656b778493",
-      "detected_at": "2026-10-19T10:13:57+00:00"
+      "previous_fingerprint": "e50f19d717107aa24eb5850f7f46ea9bde52e20cfc05498ac76c40656b778493",
+      "new_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
+      "detected_at": "2026-10-20T09:35:53+00:00"
     },
     {
-      "url": "https://www.bydglobal.com/en/car.html",
-      "brand": "BYD",
+      "url": "https://www.mbusa.com/en/all-vehicles",
+      "brand": "Mercedes-Benz",
       "model": "",
       "kind": "brand-registry",
-      "market": "Global / selected markets",
-      "previous_fingerprint": "6f77349e089d6fb62d9256d2e7a99d52037d09dfc0cd97452b5fa965d4cd7ca1",
-      "new_fingerprint": "81357d6bf425eb938f1413a0994a0c4ec70a3a8c5db3ee4ea132494c46c1e273",
-      "detected_at": "2026-10-19T10:13:57+00:00"
+      "market": "U.S. retail",
+      "previous_fingerprint": "cc07fb15bdd0912e3bd0a03c2f40c79142df8925efc5626f5c4722c95f160368",
+      "new_fingerprint": "dfcd94edec82ac54edd101d76ca0449855837381368dbe3e3911f7d8628f8aa8",
+      "detected_at": "2026-10-20T09:35:53+00:00"
+    },
+    {
+      "url": "https://www.nissanusa.com/vehicles.html",
+      "brand": "Nissan",
+      "model": "",
+      "kind": "brand-registry",
+      "market": "U.S. retail",
+      "previous_fingerprint": "62306677c522ea745726d36b17a4b6674083f16edcda1543b2caa02a2508c8f1",
+      "new_fingerprint": "8014fb9b4700db4987e97b9e912e9ff4b3d503998ce4767b198fdc37a77e39f8",
+      "detected_at": "2026-10-20T09:35:53+00:00"
     }
   ]
 }

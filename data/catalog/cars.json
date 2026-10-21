@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T08:28:26+00:00",
+  "generated": "2026-10-21T09:44:46+00:00",
   "architecture": "database-first",
   "route_type": "database-hash",
   "count": 279,
@@ -104,6 +104,8 @@
       "seating": "5",
       "starting_price": 40100,
       "starting_price_text": "$40,100",
+      "display_name": "Audi A3",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -169,6 +171,8 @@
       "seating": "5",
       "starting_price": 50200,
       "starting_price_text": "$50,200",
+      "display_name": "Audi A5",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -222,6 +226,8 @@
       "seating": "5",
       "starting_price": 64100,
       "starting_price_text": "$64,100",
+      "display_name": "Audi A6",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -280,6 +286,8 @@
       "seating": "5",
       "starting_price": 66700,
       "starting_price_text": "$66,700",
+      "display_name": "Audi A6 e-tron",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -333,6 +341,8 @@
       "seating": "5",
       "starting_price": 130700,
       "starting_price_text": "$130,700",
+      "display_name": "Audi A7",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -380,6 +390,8 @@
       "seating": "5",
       "starting_price": 95100,
       "starting_price_text": "$95,100",
+      "display_name": "Audi A8",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -432,6 +444,8 @@
       "seating": "4",
       "starting_price": 127700,
       "starting_price_text": "$127,700",
+      "display_name": "Audi e-tron GT",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -482,6 +496,8 @@
       "seating": "See official details",
       "starting_price": null,
       "starting_price_text": "Price not announced",
+      "display_name": "Audi Nuvolari",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -528,6 +544,8 @@
       "seating": "5",
       "starting_price": 44400,
       "starting_price_text": "$44,400",
+      "display_name": "Audi Q3",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -574,6 +592,8 @@
       "seating": "5",
       "starting_price": 50600,
       "starting_price_text": "$50,600",
+      "display_name": "Audi Q4 e-tron",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -627,6 +647,8 @@
       "seating": "5",
       "starting_price": 52800,
       "starting_price_text": "$52,800",
+      "display_name": "Audi Q5",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -691,6 +713,8 @@
       "seating": "5",
       "starting_price": 64500,
       "starting_price_text": "$64,500",
+      "display_name": "Audi Q6 e-tron",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -756,6 +780,8 @@
       "seating": "6–7",
       "starting_price": 70900,
       "starting_price_text": "$70,900",
+      "display_name": "Audi Q7",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -821,6 +847,8 @@
       "seating": "5",
       "starting_price": 76900,
       "starting_price_text": "$76,900",
+      "display_name": "Audi Q8",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -892,6 +920,8 @@
       "seating": "6–7",
       "starting_price": 87700,
       "starting_price_text": "$87,700",
+      "display_name": "Audi Q9",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -956,6 +986,8 @@
       "seating": "4",
       "starting_price": 40000,
       "starting_price_text": "$40,000",
+      "display_name": "BMW 2 Series",
+      "transmission": "",
       "trim_count": 7,
       "trims": [
         {
@@ -1039,6 +1071,8 @@
       "seating": "5",
       "starting_price": 48000,
       "starting_price_text": "$48,000",
+      "display_name": "BMW 3 Series",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -1103,6 +1137,8 @@
       "seating": "4",
       "starting_price": 51200,
       "starting_price_text": "$51,200",
+      "display_name": "BMW 4 Series",
+      "transmission": "",
       "trim_count": 12,
       "trims": [
         {
@@ -1216,6 +1252,8 @@
       "seating": "5",
       "starting_price": 60500,
       "starting_price_text": "$60,500",
+      "display_name": "BMW 5 Series",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -1281,6 +1319,8 @@
       "seating": "5",
       "starting_price": 99800,
       "starting_price_text": "$99,800",
+      "display_name": "BMW 7 Series",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -1345,6 +1385,8 @@
       "seating": "5",
       "starting_price": 57900,
       "starting_price_text": "$57,900",
+      "display_name": "BMW i4",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -1403,6 +1445,8 @@
       "seating": "5",
       "starting_price": 67100,
       "starting_price_text": "$67,100",
+      "display_name": "BMW i5",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -1461,6 +1505,8 @@
       "seating": "5",
       "starting_price": 106200,
       "starting_price_text": "$106,200",
+      "display_name": "BMW i7",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -1519,6 +1565,8 @@
       "seating": "5",
       "starting_price": 75150,
       "starting_price_text": "$75,150",
+      "display_name": "BMW iX",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -1577,6 +1625,8 @@
       "seating": "5",
       "starting_price": 61500,
       "starting_price_text": "$61,500",
+      "display_name": "BMW iX3",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -1627,6 +1677,8 @@
       "seating": "4",
       "starting_price": 69500,
       "starting_price_text": "$69,500",
+      "display_name": "BMW M2",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -1673,6 +1725,8 @@
       "seating": "5",
       "starting_price": 79300,
       "starting_price_text": "$79,300",
+      "display_name": "BMW M3",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -1731,6 +1785,8 @@
       "seating": "4",
       "starting_price": 82200,
       "starting_price_text": "$82,200",
+      "display_name": "BMW M4",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -1796,6 +1852,8 @@
       "seating": "5",
       "starting_price": 123300,
       "starting_price_text": "$123,300",
+      "display_name": "BMW M5",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -1848,6 +1906,8 @@
       "seating": "5",
       "starting_price": 43200,
       "starting_price_text": "$43,200",
+      "display_name": "BMW X1",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -1900,6 +1960,8 @@
       "seating": "5",
       "starting_price": 44700,
       "starting_price_text": "$44,700",
+      "display_name": "BMW X2",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -1953,6 +2015,8 @@
       "seating": "5",
       "starting_price": 51300,
       "starting_price_text": "$51,300",
+      "display_name": "BMW X3",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -2006,6 +2070,8 @@
       "seating": "5–7",
       "starting_price": 68300,
       "starting_price_text": "$68,300",
+      "display_name": "BMW X5",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -2077,6 +2143,8 @@
       "seating": "5",
       "starting_price": 77300,
       "starting_price_text": "$77,300",
+      "display_name": "BMW X6",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -2136,6 +2204,8 @@
       "seating": "6–7",
       "starting_price": 87500,
       "starting_price_text": "$87,500",
+      "display_name": "BMW X7",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -2195,6 +2265,8 @@
       "seating": "5",
       "starting_price": 159600,
       "starting_price_text": "$159,600",
+      "display_name": "BMW XM",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -2245,6 +2317,8 @@
       "seating": "5",
       "starting_price": 34300,
       "starting_price_text": "$34,300",
+      "display_name": "Chevrolet Blazer",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -2307,6 +2381,8 @@
       "seating": "5",
       "starting_price": 44700,
       "starting_price_text": "$44,700",
+      "display_name": "Chevrolet Blazer EV",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -2362,13 +2438,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 27600,
       "starting_price_text": "$27,600",
+      "display_name": "Chevrolet Bolt",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -2426,6 +2502,8 @@
       "seating": "5",
       "starting_price": 32400,
       "starting_price_text": "$32,400",
+      "display_name": "Chevrolet Colorado",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -2510,6 +2588,8 @@
       "seating": "2",
       "starting_price": 71000,
       "starting_price_text": "$71,000",
+      "display_name": "Chevrolet Corvette",
+      "transmission": "",
       "trim_count": 16,
       "trims": [
         {
@@ -2646,6 +2726,8 @@
       "seating": "5",
       "starting_price": 29000,
       "starting_price_text": "$29,000",
+      "display_name": "Chevrolet Equinox",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -2710,6 +2792,8 @@
       "seating": "5",
       "starting_price": 34995,
       "starting_price_text": "$34,995",
+      "display_name": "Chevrolet Equinox EV",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -2773,6 +2857,8 @@
       "seating": "3–6",
       "starting_price": 36900,
       "starting_price_text": "$36,900",
+      "display_name": "Chevrolet Silverado 1500",
+      "transmission": "",
       "trim_count": 9,
       "trims": [
         {
@@ -2871,6 +2957,8 @@
       "seating": "5",
       "starting_price": 55895,
       "starting_price_text": "$55,895",
+      "display_name": "Chevrolet Silverado EV",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -2936,6 +3024,8 @@
       "seating": "3–6",
       "starting_price": 45900,
       "starting_price_text": "$45,900",
+      "display_name": "Chevrolet Silverado HD",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -3017,6 +3107,8 @@
       "seating": "7–9",
       "starting_price": 63700,
       "starting_price_text": "$63,700",
+      "display_name": "Chevrolet Suburban",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -3094,6 +3186,8 @@
       "seating": "7–9",
       "starting_price": 60700,
       "starting_price_text": "$60,700",
+      "display_name": "Chevrolet Tahoe",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -3170,6 +3264,8 @@
       "seating": "5",
       "starting_price": 23300,
       "starting_price_text": "$23,300",
+      "display_name": "Chevrolet Trailblazer",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -3234,6 +3330,8 @@
       "seating": "7–8",
       "starting_price": 40800,
       "starting_price_text": "$40,800",
+      "display_name": "Chevrolet Traverse",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -3304,6 +3402,8 @@
       "seating": "5",
       "starting_price": 21700,
       "starting_price_text": "$21,700",
+      "display_name": "Chevrolet Trax",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -3374,6 +3474,8 @@
       "seating": "4–5",
       "starting_price": 40795,
       "starting_price_text": "$40,795",
+      "display_name": "Ford Bronco",
+      "transmission": "",
       "trim_count": 7,
       "trims": [
         {
@@ -3456,6 +3558,8 @@
       "seating": "5",
       "starting_price": 32340,
       "starting_price_text": "$32,340",
+      "display_name": "Ford Bronco Sport",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -3515,12 +3619,15 @@
       "powertrain": "Gas / Hybrid / Plug-in hybrid",
       "fuel_types": [
         "Plug-in Hybrid",
+        "Hybrid",
         "Gas"
       ],
       "drivetrain": "FWD / AWD",
       "seating": "5",
       "starting_price": 30350,
       "starting_price_text": "$30,350",
+      "display_name": "Ford Escape",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -3597,6 +3704,8 @@
       "seating": "7–8",
       "starting_price": 64095,
       "starting_price_text": "$64,095",
+      "display_name": "Ford Expedition",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -3661,6 +3770,8 @@
       "seating": "6–7",
       "starting_price": 38860,
       "starting_price_text": "$38,860",
+      "display_name": "Ford Explorer",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -3732,6 +3843,8 @@
       "seating": "3–6",
       "starting_price": 37290,
       "starting_price_text": "$37,290",
+      "display_name": "Ford F-150",
+      "transmission": "",
       "trim_count": 8,
       "trims": [
         {
@@ -3821,6 +3934,8 @@
       "seating": "5",
       "starting_price": 27145,
       "starting_price_text": "$27,145",
+      "display_name": "Ford Maverick",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -3891,6 +4006,8 @@
       "seating": "4",
       "starting_price": 33490,
       "starting_price_text": "$33,490",
+      "display_name": "Ford Mustang",
+      "transmission": "",
       "trim_count": 7,
       "trims": [
         {
@@ -3973,6 +4090,8 @@
       "seating": "5",
       "starting_price": 38290,
       "starting_price_text": "$38,290",
+      "display_name": "Ford Mustang Mach-E",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -4037,6 +4156,8 @@
       "seating": "5",
       "starting_price": 33550,
       "starting_price_text": "$33,550",
+      "display_name": "Ford Ranger",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -4102,6 +4223,8 @@
       "seating": "3–6",
       "starting_price": 45975,
       "starting_price_text": "$45,975",
+      "display_name": "Ford Super Duty",
+      "transmission": "",
       "trim_count": 15,
       "trims": [
         {
@@ -4232,6 +4355,8 @@
       "seating": "2+",
       "starting_price": 48400,
       "starting_price_text": "$48,400",
+      "display_name": "Ford Transit",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -4296,6 +4421,8 @@
       "seating": "5",
       "starting_price": 58500,
       "starting_price_text": "$58,500",
+      "display_name": "Genesis Electrified GV70",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -4354,6 +4481,8 @@
       "seating": "5",
       "starting_price": 43450,
       "starting_price_text": "$43,450",
+      "display_name": "Genesis G70",
+      "transmission": "",
       "trim_count": 8,
       "trims": [
         {
@@ -4442,6 +4571,8 @@
       "seating": "5",
       "starting_price": 59450,
       "starting_price_text": "$59,450",
+      "display_name": "Genesis G80",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -4513,6 +4644,8 @@
       "seating": "5",
       "starting_price": 92700,
       "starting_price_text": "$92,700",
+      "display_name": "Genesis G90",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -4565,6 +4698,8 @@
       "seating": "5",
       "starting_price": 46250,
       "starting_price_text": "$46,250",
+      "display_name": "Genesis GV60",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -4623,6 +4758,8 @@
       "seating": "5",
       "starting_price": 69950,
       "starting_price_text": "$69,950",
+      "display_name": "Genesis GV60 Magma",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -4669,6 +4806,8 @@
       "seating": "5",
       "starting_price": 49350,
       "starting_price_text": "$49,350",
+      "display_name": "Genesis GV70",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -4745,6 +4884,8 @@
       "seating": "5–7",
       "starting_price": 58850,
       "starting_price_text": "$58,850",
+      "display_name": "Genesis GV80",
+      "transmission": "",
       "trim_count": 8,
       "trims": [
         {
@@ -4833,6 +4974,8 @@
       "seating": "5",
       "starting_price": 77200,
       "starting_price_text": "$77,200",
+      "display_name": "Genesis GV80 Coupe",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -4891,6 +5034,8 @@
       "seating": "7–8",
       "starting_price": 43800,
       "starting_price_text": "$43,800",
+      "display_name": "GMC Acadia",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -4955,6 +5100,8 @@
       "seating": "5",
       "starting_price": 38900,
       "starting_price_text": "$38,900",
+      "display_name": "GMC Canyon",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -5031,6 +5178,8 @@
       "seating": "5",
       "starting_price": 97200,
       "starting_price_text": "$97,200",
+      "display_name": "GMC HUMMER EV Pickup",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -5077,6 +5226,8 @@
       "seating": "5",
       "starting_price": 97200,
       "starting_price_text": "$97,200",
+      "display_name": "GMC HUMMER EV SUV",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -5123,6 +5274,8 @@
       "seating": "2+",
       "starting_price": 42200,
       "starting_price_text": "$42,200",
+      "display_name": "GMC Savana Cargo",
+      "transmission": "",
       "trim_count": 0,
       "trims": [],
       "key_detail": "Full-size cargo van",
@@ -5155,13 +5308,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 42700,
       "starting_price_text": "$42,700",
+      "display_name": "GMC Savana Cargo 2500",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -5207,13 +5360,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 46650,
       "starting_price_text": "$46,650",
+      "display_name": "GMC Savana Cargo 3500",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -5266,6 +5419,8 @@
       "seating": "8–15",
       "starting_price": 47950,
       "starting_price_text": "$47,950",
+      "display_name": "GMC Savana Passenger",
+      "transmission": "",
       "trim_count": 0,
       "trims": [],
       "key_detail": "Full-size passenger van",
@@ -5298,13 +5453,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 48550,
       "starting_price_text": "$48,550",
+      "display_name": "GMC Savana Passenger 2500",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -5350,13 +5505,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 49750,
       "starting_price_text": "$49,750",
+      "display_name": "GMC Savana Passenger 3500",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -5410,6 +5565,8 @@
       "seating": "3–6",
       "starting_price": 38300,
       "starting_price_text": "$38,300",
+      "display_name": "GMC Sierra 1500",
+      "transmission": "",
       "trim_count": 7,
       "trims": [
         {
@@ -5485,13 +5642,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 47000,
       "starting_price_text": "$47,000",
+      "display_name": "GMC Sierra 2500HD",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -5555,13 +5712,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 47900,
       "starting_price_text": "$47,900",
+      "display_name": "GMC Sierra 3500HD",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -5625,13 +5782,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 47500,
       "starting_price_text": "$47,500",
+      "display_name": "GMC Sierra 3500HD Chassis Cab",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -5696,6 +5853,8 @@
       "seating": "5",
       "starting_price": 62400,
       "starting_price_text": "$62,400",
+      "display_name": "GMC Sierra EV",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -5755,6 +5914,8 @@
       "seating": "3–6",
       "starting_price": 47000,
       "starting_price_text": "$47,000",
+      "display_name": "GMC Sierra HD",
+      "transmission": "",
       "trim_count": 0,
       "trims": [],
       "key_detail": "Heavy-duty pickup",
@@ -5794,6 +5955,8 @@
       "seating": "5",
       "starting_price": 30400,
       "starting_price_text": "$30,400",
+      "display_name": "GMC Terrain",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -5853,6 +6016,8 @@
       "seating": "7–9",
       "starting_price": 69600,
       "starting_price_text": "$69,600",
+      "display_name": "GMC Yukon",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -5930,6 +6095,8 @@
       "seating": "7–9",
       "starting_price": 72600,
       "starting_price_text": "$72,600",
+      "display_name": "GMC Yukon XL",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -6007,6 +6174,8 @@
       "seating": "5",
       "starting_price": 28395,
       "starting_price_text": "$28,395",
+      "display_name": "Honda Accord",
+      "transmission": "Continuously Variable Transmission on 1.5L turbo trims; Direct Drive Unit on hybrid trims",
       "trim_count": 6,
       "trims": [
         {
@@ -6104,6 +6273,8 @@
       "seating": "5",
       "starting_price": 27895,
       "starting_price_text": "$27,895",
+      "display_name": "Honda Civic Hatchback",
+      "transmission": "Continuously Variable Transmission with paddle shifters on Sport; Direct Drive Unit on two-motor hybrid trims",
       "trim_count": 3,
       "trims": [
         {
@@ -6176,6 +6347,8 @@
       "seating": "5",
       "starting_price": 24695,
       "starting_price_text": "$24,695",
+      "display_name": "Honda Civic Sedan",
+      "transmission": "Continuously Variable Transmission on LX/Sport; Direct Drive Unit on hybrid trims",
       "trim_count": 4,
       "trims": [
         {
@@ -6260,6 +6433,8 @@
       "seating": "5",
       "starting_price": 31495,
       "starting_price_text": "$31,495",
+      "display_name": "Honda Civic Si",
+      "transmission": "6-speed manual transmission with rev-match control and helical limited-slip differential",
       "trim_count": 1,
       "trims": [
         {
@@ -6319,6 +6494,8 @@
       "seating": "4",
       "starting_price": 47395,
       "starting_price_text": "$47,395",
+      "display_name": "Honda Civic Type R",
+      "transmission": "6-speed manual transmission with rev-match control and helical limited-slip differential",
       "trim_count": 1,
       "trims": [
         {
@@ -6379,6 +6556,8 @@
       "seating": "5",
       "starting_price": 31520,
       "starting_price_text": "$31,520",
+      "display_name": "Honda CR-V",
+      "transmission": "Continuously Variable Transmission on 1.5L turbo trims; Direct Drive Unit on two-motor hybrid trims",
       "trim_count": 7,
       "trims": [
         {
@@ -6483,6 +6662,8 @@
       "seating": "5",
       "starting_price": 50000,
       "starting_price_text": "$50,000",
+      "display_name": "Honda CR-V e:FCEV",
+      "transmission": "Fixed single-speed direct-drive transmission with Sport Mode and Shift-by-Wire",
       "trim_count": 1,
       "trims": [
         {
@@ -6545,6 +6726,8 @@
       "seating": "5",
       "starting_price": 26600,
       "starting_price_text": "$26,600",
+      "display_name": "Honda HR-V",
+      "transmission": "Continuously Variable Transmission (CVT); Real Time AWD with Intelligent Control System available",
       "trim_count": 3,
       "trims": [
         {
@@ -6616,6 +6799,8 @@
       "seating": "7–8",
       "starting_price": 43195,
       "starting_price_text": "$43,195",
+      "display_name": "Honda Odyssey",
+      "transmission": "10-speed automatic transmission with Shift-By-Wire and paddle shifters; front-wheel drive",
       "trim_count": 4,
       "trims": [
         {
@@ -6693,6 +6878,8 @@
       "seating": "5",
       "starting_price": 44950,
       "starting_price_text": "$44,950",
+      "display_name": "Honda Passport",
+      "transmission": "10-speed automatic transmission with Shift-By-Wire and paddle shifters; second-generation i-VTM4 AWD standard",
       "trim_count": 6,
       "trims": [
         {
@@ -6790,6 +6977,8 @@
       "seating": "7–8",
       "starting_price": 42395,
       "starting_price_text": "$42,395",
+      "display_name": "Honda Pilot",
+      "transmission": "10-speed automatic transmission with Shift-By-Wire and paddle shifters",
       "trim_count": 7,
       "trims": [
         {
@@ -6893,6 +7082,8 @@
       "seating": "4",
       "starting_price": 42400,
       "starting_price_text": "$42,400",
+      "display_name": "Honda Prelude",
+      "transmission": "Direct Drive Unit with Honda S+ Shift",
       "trim_count": 2,
       "trims": [
         {
@@ -6958,6 +7149,8 @@
       "seating": "5",
       "starting_price": 39900,
       "starting_price_text": "$39,900",
+      "display_name": "Honda Prologue",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -7037,6 +7230,8 @@
       "seating": "5",
       "starting_price": 40795,
       "starting_price_text": "$40,795",
+      "display_name": "Honda Ridgeline",
+      "transmission": "9-speed automatic transmission with Shift-By-Wire and paddle shifters; i-VTM4 AWD standard",
       "trim_count": 6,
       "trims": [
         {
@@ -7129,6 +7324,8 @@
       "seating": "5",
       "starting_price": 22825,
       "starting_price_text": "$22,825",
+      "display_name": "Hyundai Elantra",
+      "transmission": "",
       "trim_count": 9,
       "trims": [
         {
@@ -7223,6 +7420,8 @@
       "seating": "5",
       "starting_price": 35000,
       "starting_price_text": "$35,000",
+      "display_name": "Hyundai IONIQ 5",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -7297,6 +7496,8 @@
       "seating": "5",
       "starting_price": 59900,
       "starting_price_text": "$59,900",
+      "display_name": "Hyundai IONIQ 5 N",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -7347,6 +7548,8 @@
       "seating": "5",
       "starting_price": 37850,
       "starting_price_text": "$37,850",
+      "display_name": "Hyundai IONIQ 6",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -7415,6 +7618,8 @@
       "seating": "6–7",
       "starting_price": 58955,
       "starting_price_text": "$58,955",
+      "display_name": "Hyundai IONIQ 9",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -7495,6 +7700,8 @@
       "seating": "5",
       "starting_price": 25500,
       "starting_price_text": "$25,500",
+      "display_name": "Hyundai Kona",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -7552,13 +7759,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "FWD",
       "seating": "",
       "starting_price": 32975,
       "starting_price_text": "$32,975",
+      "display_name": "Hyundai Kona Electric",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -7628,6 +7835,8 @@
       "seating": "7–8",
       "starting_price": 39735,
       "starting_price_text": "$39,735",
+      "display_name": "Hyundai Palisade",
+      "transmission": "",
       "trim_count": 11,
       "trims": [
         {
@@ -7734,6 +7943,8 @@
       "seating": "5",
       "starting_price": 29750,
       "starting_price_text": "$29,750",
+      "display_name": "Hyundai Santa Cruz",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -7805,6 +8016,8 @@
       "seating": "6–7",
       "starting_price": 35300,
       "starting_price_text": "$35,300",
+      "display_name": "Hyundai Santa Fe",
+      "transmission": "",
       "trim_count": 9,
       "trims": [
         {
@@ -7900,6 +8113,8 @@
       "seating": "5",
       "starting_price": 27450,
       "starting_price_text": "$27,450",
+      "display_name": "Hyundai Sonata",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -7971,12 +8186,15 @@
       "powertrain": "Gas / Hybrid / Plug-in hybrid",
       "fuel_types": [
         "Plug-in Hybrid",
+        "Hybrid",
         "Gas"
       ],
       "drivetrain": "FWD / AWD",
       "seating": "5",
       "starting_price": 29700,
       "starting_price_text": "$29,700",
+      "display_name": "Hyundai Tucson",
+      "transmission": "",
       "trim_count": 12,
       "trims": [
         {
@@ -8089,6 +8307,8 @@
       "seating": "5",
       "starting_price": 20550,
       "starting_price_text": "$20,550",
+      "display_name": "Hyundai Venue",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -8152,6 +8372,8 @@
       "seating": "5",
       "starting_price": 35000,
       "starting_price_text": "$35,000",
+      "display_name": "Jeep Cherokee",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -8230,6 +8452,8 @@
       "seating": "5",
       "starting_price": 29550,
       "starting_price_text": "$29,550",
+      "display_name": "Jeep Compass",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -8306,6 +8530,8 @@
       "seating": "5",
       "starting_price": 39820,
       "starting_price_text": "$39,820",
+      "display_name": "Jeep Gladiator",
+      "transmission": "",
       "trim_count": 12,
       "trims": [
         {
@@ -8419,6 +8645,8 @@
       "seating": "5–7",
       "starting_price": 39515,
       "starting_price_text": "$39,515",
+      "display_name": "Jeep Grand Cherokee",
+      "transmission": "",
       "trim_count": 12,
       "trims": [
         {
@@ -8531,6 +8759,8 @@
       "seating": "7–8",
       "starting_price": 64690,
       "starting_price_text": "$64,690",
+      "display_name": "Jeep Grand Wagoneer",
+      "transmission": "",
       "trim_count": 9,
       "trims": [
         {
@@ -8625,6 +8855,8 @@
       "seating": "5",
       "starting_price": 66995,
       "starting_price_text": "$66,995",
+      "display_name": "Jeep Recon",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -8671,6 +8903,8 @@
       "seating": "5",
       "starting_price": 65200,
       "starting_price_text": "$65,200",
+      "display_name": "Jeep Wagoneer S",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -8724,6 +8958,8 @@
       "seating": "4–5",
       "starting_price": 36035,
       "starting_price_text": "$36,035",
+      "display_name": "Jeep Wrangler",
+      "transmission": "",
       "trim_count": 11,
       "trims": [
         {
@@ -8823,13 +9059,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": null,
       "starting_price_text": "",
+      "display_name": "Jeep Wrangler 4xe",
+      "transmission": "",
       "trim_count": 0,
       "trims": [],
       "key_detail": "Current U.S. model",
@@ -8870,6 +9106,8 @@
       "seating": "7–8",
       "starting_price": 37490,
       "starting_price_text": "$37,490",
+      "display_name": "Kia Carnival",
+      "transmission": "",
       "trim_count": 9,
       "trims": [
         {
@@ -8964,6 +9202,8 @@
       "seating": "5",
       "starting_price": 29890,
       "starting_price_text": "$29,890",
+      "display_name": "Kia EV3",
+      "transmission": "",
       "trim_count": 7,
       "trims": [
         {
@@ -9050,6 +9290,8 @@
       "seating": "5",
       "starting_price": 37900,
       "starting_price_text": "$37,900",
+      "display_name": "Kia EV6",
+      "transmission": "",
       "trim_count": 7,
       "trims": [
         {
@@ -9136,6 +9378,8 @@
       "seating": "6–7",
       "starting_price": 54900,
       "starting_price_text": "$54,900",
+      "display_name": "Kia EV9",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -9212,6 +9456,8 @@
       "seating": "5",
       "starting_price": 22290,
       "starting_price_text": "$22,290",
+      "display_name": "Kia K4",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -9282,6 +9528,8 @@
       "seating": "5",
       "starting_price": 24990,
       "starting_price_text": "$24,990",
+      "display_name": "Kia K4 Hatchback",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -9340,6 +9588,8 @@
       "seating": "5",
       "starting_price": 27690,
       "starting_price_text": "$27,690",
+      "display_name": "Kia K5",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -9399,6 +9649,8 @@
       "seating": "5",
       "starting_price": 29890,
       "starting_price_text": "$29,890",
+      "display_name": "Kia Niro",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -9462,13 +9714,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "FWD",
       "seating": "",
       "starting_price": 39700,
       "starting_price_text": "$39,700",
+      "display_name": "Kia Niro EV",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -9525,6 +9777,8 @@
       "seating": "5",
       "starting_price": 24990,
       "starting_price_text": "$24,990",
+      "display_name": "Kia Seltos",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -9590,12 +9844,15 @@
       "powertrain": "Gas / Hybrid / Plug-in hybrid",
       "fuel_types": [
         "Plug-in Hybrid",
+        "Hybrid",
         "Gas"
       ],
       "drivetrain": "FWD / AWD",
       "seating": "6–7",
       "starting_price": 32390,
       "starting_price_text": "$32,390",
+      "display_name": "Kia Sorento",
+      "transmission": "",
       "trim_count": 12,
       "trims": [
         {
@@ -9703,12 +9960,15 @@
       "powertrain": "Gas / Hybrid / Plug-in hybrid",
       "fuel_types": [
         "Plug-in Hybrid",
+        "Hybrid",
         "Gas"
       ],
       "drivetrain": "FWD / AWD",
       "seating": "5",
       "starting_price": 28990,
       "starting_price_text": "$28,990",
+      "display_name": "Kia Sportage",
+      "transmission": "",
       "trim_count": 13,
       "trims": [
         {
@@ -9828,6 +10088,8 @@
       "seating": "7–8",
       "starting_price": 39190,
       "starting_price_text": "$39,190",
+      "display_name": "Kia Telluride",
+      "transmission": "",
       "trim_count": 15,
       "trims": [
         {
@@ -9953,12 +10215,15 @@
       "powertrain": "Gas / mild hybrid / plug-in variants",
       "fuel_types": [
         "Plug-in Hybrid",
+        "Hybrid",
         "Gas"
       ],
       "drivetrain": "AWD",
       "seating": "5–8",
       "starting_price": 61000,
       "starting_price_text": "$61,000",
+      "display_name": "Land Rover Defender",
+      "transmission": "",
       "trim_count": 12,
       "trims": [
         {
@@ -10072,6 +10337,8 @@
       "seating": "7",
       "starting_price": 64900,
       "starting_price_text": "$64,900",
+      "display_name": "Land Rover Discovery",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -10131,6 +10398,8 @@
       "seating": "5–7",
       "starting_price": 49900,
       "starting_price_text": "$49,900",
+      "display_name": "Land Rover Discovery Sport",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -10178,6 +10447,8 @@
       "seating": "4–7",
       "starting_price": 113300,
       "starting_price_text": "$113,300",
+      "display_name": "Land Rover Range Rover",
+      "transmission": "",
       "trim_count": 13,
       "trims": [
         {
@@ -10297,6 +10568,8 @@
       "seating": "5",
       "starting_price": 49900,
       "starting_price_text": "$49,900",
+      "display_name": "Land Rover Range Rover Evoque",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -10350,6 +10623,8 @@
       "seating": "5",
       "starting_price": 83700,
       "starting_price_text": "$83,700",
+      "display_name": "Land Rover Range Rover Sport",
+      "transmission": "",
       "trim_count": 7,
       "trims": [
         {
@@ -10433,6 +10708,8 @@
       "seating": "5",
       "starting_price": 61600,
       "starting_price_text": "$61,600",
+      "display_name": "Land Rover Range Rover Velar",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -10498,6 +10775,8 @@
       "seating": "5",
       "starting_price": 49005,
       "starting_price_text": "$49,005",
+      "display_name": "Lexus ES",
+      "transmission": "",
       "trim_count": 8,
       "trims": [
         {
@@ -10587,6 +10866,8 @@
       "seating": "5–7",
       "starting_price": 68335,
       "starting_price_text": "$68,335",
+      "display_name": "Lexus GX",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -10663,6 +10944,8 @@
       "seating": "5",
       "starting_price": 46895,
       "starting_price_text": "$46,895",
+      "display_name": "Lexus IS",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -10728,6 +11011,8 @@
       "seating": "2+2",
       "starting_price": 101800,
       "starting_price_text": "$101,800",
+      "display_name": "Lexus LC",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -10781,6 +11066,8 @@
       "seating": "5",
       "starting_price": 99380,
       "starting_price_text": "$99,380",
+      "display_name": "Lexus LS",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -10828,6 +11115,8 @@
       "seating": "4–7",
       "starting_price": 108050,
       "starting_price_text": "$108,050",
+      "display_name": "Lexus LX",
+      "transmission": "",
       "trim_count": 7,
       "trims": [
         {
@@ -10905,12 +11194,15 @@
       "powertrain": "Gas / Hybrid / Plug-in hybrid",
       "fuel_types": [
         "Plug-in Hybrid",
+        "Hybrid",
         "Gas"
       ],
       "drivetrain": "FWD / AWD",
       "seating": "5",
       "starting_price": 45570,
       "starting_price_text": "$45,570",
+      "display_name": "Lexus NX",
+      "transmission": "",
       "trim_count": 15,
       "trims": [
         {
@@ -11036,12 +11328,15 @@
       "powertrain": "Gas / Hybrid / Plug-in hybrid",
       "fuel_types": [
         "Plug-in Hybrid",
+        "Hybrid",
         "Gas"
       ],
       "drivetrain": "FWD / AWD",
       "seating": "5",
       "starting_price": 52775,
       "starting_price_text": "$52,775",
+      "display_name": "Lexus RX",
+      "transmission": "",
       "trim_count": 19,
       "trims": [
         {
@@ -11196,6 +11491,8 @@
       "seating": "5",
       "starting_price": 47395,
       "starting_price_text": "$47,395",
+      "display_name": "Lexus RZ",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -11267,12 +11564,15 @@
       "powertrain": "Gas / Hybrid / Plug-in hybrid",
       "fuel_types": [
         "Plug-in Hybrid",
+        "Hybrid",
         "Gas"
       ],
       "drivetrain": "FWD / AWD",
       "seating": "6–7",
       "starting_price": 58690,
       "starting_price_text": "$58,690",
+      "display_name": "Lexus TX",
+      "transmission": "",
       "trim_count": 10,
       "trims": [
         {
@@ -11373,6 +11673,8 @@
       "seating": "5",
       "starting_price": 38850,
       "starting_price_text": "$38,850",
+      "display_name": "Lexus UX",
+      "transmission": "",
       "trim_count": 8,
       "trims": [
         {
@@ -11461,6 +11763,8 @@
       "seating": "5",
       "starting_price": 26375,
       "starting_price_text": "$26,375",
+      "display_name": "Mazda CX-30",
+      "transmission": "",
       "trim_count": 8,
       "trims": [
         {
@@ -11549,6 +11853,8 @@
       "seating": "5",
       "starting_price": 29990,
       "starting_price_text": "$29,990",
+      "display_name": "Mazda CX-5",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -11620,6 +11926,8 @@
       "seating": "5",
       "starting_price": 29900,
       "starting_price_text": "$29,900",
+      "display_name": "Mazda CX-50",
+      "transmission": "",
       "trim_count": 7,
       "trims": [
         {
@@ -11695,13 +12003,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 34750,
       "starting_price_text": "$34,750",
+      "display_name": "Mazda CX-50 Hybrid",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -11761,6 +12069,8 @@
       "seating": "5",
       "starting_price": 42750,
       "starting_price_text": "$42,750",
+      "display_name": "Mazda CX-70",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -11824,13 +12134,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 44450,
       "starting_price_text": "$44,450",
+      "display_name": "Mazda CX-70 PHEV",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -11884,6 +12194,8 @@
       "seating": "6–8",
       "starting_price": 39300,
       "starting_price_text": "$39,300",
+      "display_name": "Mazda CX-90",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -11953,13 +12265,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 50695,
       "starting_price_text": "$50,695",
+      "display_name": "Mazda CX-90 PHEV",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -12018,6 +12330,8 @@
       "seating": "5",
       "starting_price": 24650,
       "starting_price_text": "$24,650",
+      "display_name": "Mazda Mazda3",
+      "transmission": "",
       "trim_count": 0,
       "trims": [],
       "key_detail": "Compact car in two body styles",
@@ -12050,13 +12364,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 25650,
       "starting_price_text": "$25,650",
+      "display_name": "Mazda Mazda3 Hatchback",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -12126,13 +12440,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 24650,
       "starting_price_text": "$24,650",
+      "display_name": "Mazda Mazda3 Sedan",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -12203,6 +12517,8 @@
       "seating": "2",
       "starting_price": 30430,
       "starting_price_text": "$30,430",
+      "display_name": "Mazda MX-5 Miata",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -12254,13 +12570,13 @@
       "body": "Vehicle",
       "body_group": "Vehicle",
       "powertrain": "",
-      "fuel_types": [
-        "Gas"
-      ],
+      "fuel_types": [],
       "drivetrain": "",
       "seating": "",
       "starting_price": 38450,
       "starting_price_text": "$38,450",
+      "display_name": "Mazda MX-5 Miata RF",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -12314,6 +12630,8 @@
       "seating": "2–4",
       "starting_price": 108850,
       "starting_price_text": "$108,850",
+      "display_name": "Mercedes-Benz AMG GT Coupe",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -12385,6 +12703,8 @@
       "seating": "5",
       "starting_price": 49650,
       "starting_price_text": "$49,650",
+      "display_name": "Mercedes-Benz C-Class",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -12450,6 +12770,8 @@
       "seating": "5",
       "starting_price": 43900,
       "starting_price_text": "$43,900",
+      "display_name": "Mercedes-Benz CLA",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -12509,6 +12831,8 @@
       "seating": "4",
       "starting_price": 69400,
       "starting_price_text": "$69,400",
+      "display_name": "Mercedes-Benz CLE Cabriolet",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -12568,6 +12892,8 @@
       "seating": "4",
       "starting_price": 60900,
       "starting_price_text": "$60,900",
+      "display_name": "Mercedes-Benz CLE Coupe",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -12627,6 +12953,8 @@
       "seating": "5",
       "starting_price": 65200,
       "starting_price_text": "$65,200",
+      "display_name": "Mercedes-Benz E-Class",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -12692,6 +13020,8 @@
       "seating": "5",
       "starting_price": 80000,
       "starting_price_text": "$80,000",
+      "display_name": "Mercedes-Benz E-Class Wagon",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -12744,6 +13074,8 @@
       "seating": "5–7",
       "starting_price": 53050,
       "starting_price_text": "$53,050",
+      "display_name": "Mercedes-Benz EQB",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -12802,6 +13134,8 @@
       "seating": "5",
       "starting_price": 64950,
       "starting_price_text": "$64,950",
+      "display_name": "Mercedes-Benz EQE Sedan",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -12860,6 +13194,8 @@
       "seating": "5",
       "starting_price": 64950,
       "starting_price_text": "$64,950",
+      "display_name": "Mercedes-Benz EQE SUV",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -12918,6 +13254,8 @@
       "seating": "5",
       "starting_price": 101450,
       "starting_price_text": "$101,450",
+      "display_name": "Mercedes-Benz EQS Sedan",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -12976,6 +13314,8 @@
       "seating": "5–7",
       "starting_price": 89950,
       "starting_price_text": "$89,950",
+      "display_name": "Mercedes-Benz EQS SUV",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -13029,6 +13369,8 @@
       "seating": "5",
       "starting_price": 153900,
       "starting_price_text": "$153,900",
+      "display_name": "Mercedes-Benz G-Class",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -13088,6 +13430,8 @@
       "seating": "5",
       "starting_price": 41500,
       "starting_price_text": "$41,500",
+      "display_name": "Mercedes-Benz GLA",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -13147,6 +13491,8 @@
       "seating": "5–7",
       "starting_price": 43800,
       "starting_price_text": "$43,800",
+      "display_name": "Mercedes-Benz GLB",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -13200,12 +13546,15 @@
       "powertrain": "Turbo gas / mild hybrid / plug-in hybrid",
       "fuel_types": [
         "Plug-in Hybrid",
+        "Hybrid",
         "Gas"
       ],
       "drivetrain": "RWD / AWD",
       "seating": "5",
       "starting_price": 52400,
       "starting_price_text": "$52,400",
+      "display_name": "Mercedes-Benz GLC",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -13271,6 +13620,8 @@
       "seating": "5",
       "starting_price": 62950,
       "starting_price_text": "$62,950",
+      "display_name": "Mercedes-Benz GLC Coupe",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -13323,6 +13674,8 @@
       "seating": "5",
       "starting_price": 63500,
       "starting_price_text": "$63,500",
+      "display_name": "Mercedes-Benz GLC Electric",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -13370,6 +13723,8 @@
       "seating": "5",
       "starting_price": 81200,
       "starting_price_text": "$81,200",
+      "display_name": "Mercedes-Benz GLE Coupe",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -13423,12 +13778,15 @@
       "powertrain": "Gas / mild hybrid / plug-in hybrid",
       "fuel_types": [
         "Plug-in Hybrid",
+        "Hybrid",
         "Gas"
       ],
       "drivetrain": "RWD / AWD",
       "seating": "5–7",
       "starting_price": 68400,
       "starting_price_text": "$68,400",
+      "display_name": "Mercedes-Benz GLE SUV",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -13494,6 +13852,8 @@
       "seating": "6–7",
       "starting_price": 90250,
       "starting_price_text": "$90,250",
+      "display_name": "Mercedes-Benz GLS",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -13552,6 +13912,8 @@
       "seating": "4–5",
       "starting_price": 180000,
       "starting_price_text": "$180,000",
+      "display_name": "Mercedes-Benz Mercedes-Maybach EQS SUV",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -13599,6 +13961,8 @@
       "seating": "4–5",
       "starting_price": 180000,
       "starting_price_text": "$180,000",
+      "display_name": "Mercedes-Benz Mercedes-Maybach GLS",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -13645,6 +14009,8 @@
       "seating": "4–5",
       "starting_price": null,
       "starting_price_text": "Price coming soon",
+      "display_name": "Mercedes-Benz Mercedes-Maybach S-Class",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -13692,12 +14058,15 @@
       "powertrain": "Turbo gas / mild hybrid / plug-in hybrid",
       "fuel_types": [
         "Plug-in Hybrid",
+        "Hybrid",
         "Gas"
       ],
       "drivetrain": "AWD",
       "seating": "5",
       "starting_price": 112550,
       "starting_price_text": "$112,550",
+      "display_name": "Mercedes-Benz S-Class",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -13751,6 +14120,8 @@
       "seating": "2+2",
       "starting_price": 114900,
       "starting_price_text": "$114,900",
+      "display_name": "Mercedes-Benz SL Roadster",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -13809,6 +14180,8 @@
       "seating": "5",
       "starting_price": 27580,
       "starting_price_text": "$27,580",
+      "display_name": "Nissan Altima",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -13873,6 +14246,8 @@
       "seating": "7–8",
       "starting_price": 58840,
       "starting_price_text": "$58,840",
+      "display_name": "Nissan Armada",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -13953,6 +14328,8 @@
       "seating": "5",
       "starting_price": 33550,
       "starting_price_text": "$33,550",
+      "display_name": "Nissan Frontier",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -14017,6 +14394,8 @@
       "seating": "5",
       "starting_price": 22790,
       "starting_price_text": "$22,790",
+      "display_name": "Nissan Kicks",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -14085,6 +14464,8 @@
       "seating": "5",
       "starting_price": 29990,
       "starting_price_text": "$29,990",
+      "display_name": "Nissan LEAF",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -14143,6 +14524,8 @@
       "seating": "5",
       "starting_price": 43990,
       "starting_price_text": "$43,990",
+      "display_name": "Nissan Murano",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -14205,6 +14588,8 @@
       "seating": "2",
       "starting_price": 44480,
       "starting_price_text": "$44,480",
+      "display_name": "Nissan Z",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -14263,6 +14648,8 @@
       "seating": "7–8",
       "starting_price": 39990,
       "starting_price_text": "$39,990",
+      "display_name": "Nissan Pathfinder",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -14327,6 +14714,8 @@
       "seating": "5",
       "starting_price": 29490,
       "starting_price_text": "$29,490",
+      "display_name": "Nissan Rogue",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -14401,6 +14790,8 @@
       "seating": "5",
       "starting_price": 45990,
       "starting_price_text": "$45,990",
+      "display_name": "Nissan Rogue Plug-in Hybrid",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -14457,6 +14848,8 @@
       "seating": "5",
       "starting_price": 22890,
       "starting_price_text": "$22,890",
+      "display_name": "Nissan Sentra",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -14525,6 +14918,8 @@
       "seating": "5",
       "starting_price": 17390,
       "starting_price_text": "$17,390",
+      "display_name": "Nissan Versa",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -14589,6 +14984,8 @@
       "seating": "2",
       "starting_price": 75400,
       "starting_price_text": "$75,400",
+      "display_name": "Porsche 718",
+      "transmission": "",
       "trim_count": 10,
       "trims": [
         {
@@ -14689,6 +15086,8 @@
       "seating": "2+2",
       "starting_price": 135500,
       "starting_price_text": "$135,500",
+      "display_name": "Porsche 911",
+      "transmission": "",
       "trim_count": 23,
       "trims": [
         {
@@ -14868,6 +15267,8 @@
       "seating": "5",
       "starting_price": 89900,
       "starting_price_text": "$89,900",
+      "display_name": "Porsche Cayenne",
+      "transmission": "",
       "trim_count": 13,
       "trims": [
         {
@@ -14986,6 +15387,8 @@
       "seating": "5",
       "starting_price": 109000,
       "starting_price_text": "$109,000",
+      "display_name": "Porsche Cayenne Electric",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -15062,6 +15465,8 @@
       "seating": "5",
       "starting_price": 65400,
       "starting_price_text": "$65,400",
+      "display_name": "Porsche Macan",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -15126,6 +15531,8 @@
       "seating": "5",
       "starting_price": 80300,
       "starting_price_text": "$80,300",
+      "display_name": "Porsche Macan Electric",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -15197,6 +15604,8 @@
       "seating": "4",
       "starting_price": 113000,
       "starting_price_text": "$113,000",
+      "display_name": "Porsche Panamera",
+      "transmission": "",
       "trim_count": 7,
       "trims": [
         {
@@ -15279,6 +15688,8 @@
       "seating": "4–5",
       "starting_price": 111900,
       "starting_price_text": "$111,900",
+      "display_name": "Porsche Taycan",
+      "transmission": "",
       "trim_count": 8,
       "trims": [
         {
@@ -15367,6 +15778,8 @@
       "seating": "3–6",
       "starting_price": 42025,
       "starting_price_text": "$42,025",
+      "display_name": "Ram 1500",
+      "transmission": "",
       "trim_count": 10,
       "trims": [
         {
@@ -15465,6 +15878,8 @@
       "seating": "5",
       "starting_price": null,
       "starting_price_text": "Price not announced",
+      "display_name": "Ram 1500 REV",
+      "transmission": "",
       "trim_count": 0,
       "trims": [],
       "key_detail": "Electrified Ram pickup; live retail timing should be checked on official site",
@@ -15513,6 +15928,8 @@
       "seating": "3–6",
       "starting_price": 46855,
       "starting_price_text": "$46,855",
+      "display_name": "Ram 2500",
+      "transmission": "",
       "trim_count": 9,
       "trims": [
         {
@@ -15608,6 +16025,8 @@
       "seating": "3–6",
       "starting_price": 48155,
       "starting_price_text": "$48,155",
+      "display_name": "Ram 3500",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -15679,6 +16098,8 @@
       "seating": "2–6",
       "starting_price": 48605,
       "starting_price_text": "$48,605",
+      "display_name": "Ram Chassis Cab",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -15725,6 +16146,8 @@
       "seating": "2+",
       "starting_price": 49065,
       "starting_price_text": "$49,065",
+      "display_name": "Ram ProMaster",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -15783,6 +16206,8 @@
       "seating": "2+",
       "starting_price": 56495,
       "starting_price_text": "$56,495",
+      "display_name": "Ram ProMaster EV",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -15839,6 +16264,8 @@
       "seating": "7–8",
       "starting_price": 40795,
       "starting_price_text": "$40,795",
+      "display_name": "Subaru Ascent",
+      "transmission": "",
       "trim_count": 7,
       "trims": [
         {
@@ -15921,6 +16348,8 @@
       "seating": "4",
       "starting_price": 36140,
       "starting_price_text": "$36,140",
+      "display_name": "Subaru BRZ",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -15974,6 +16403,8 @@
       "seating": "5",
       "starting_price": 26995,
       "starting_price_text": "$26,995",
+      "display_name": "Subaru Crosstrek",
+      "transmission": "",
       "trim_count": 7,
       "trims": [
         {
@@ -16057,6 +16488,8 @@
       "seating": "5",
       "starting_price": 29995,
       "starting_price_text": "$29,995",
+      "display_name": "Subaru Forester",
+      "transmission": "",
       "trim_count": 10,
       "trims": [
         {
@@ -16157,6 +16590,8 @@
       "seating": "5",
       "starting_price": 26595,
       "starting_price_text": "$26,595",
+      "display_name": "Subaru Impreza",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -16209,6 +16644,8 @@
       "seating": "5",
       "starting_price": 34995,
       "starting_price_text": "$34,995",
+      "display_name": "Subaru Outback",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {
@@ -16285,6 +16722,8 @@
       "seating": "5",
       "starting_price": 38495,
       "starting_price_text": "$38,495",
+      "display_name": "Subaru Solterra",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -16355,6 +16794,8 @@
       "seating": "5",
       "starting_price": 39995,
       "starting_price_text": "$39,995",
+      "display_name": "Subaru Trailseeker",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -16419,6 +16860,8 @@
       "seating": "5",
       "starting_price": 34995,
       "starting_price_text": "$34,995",
+      "display_name": "Subaru Uncharted",
+      "transmission": "",
       "trim_count": 0,
       "trims": [],
       "key_detail": "New Subaru EV",
@@ -16458,6 +16901,8 @@
       "seating": "5",
       "starting_price": 32495,
       "starting_price_text": "$32,495",
+      "display_name": "Subaru WRX",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -16528,6 +16973,8 @@
       "seating": "5",
       "starting_price": 74990,
       "starting_price_text": "$74,990",
+      "display_name": "Tesla Cybertruck",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -16591,6 +17038,8 @@
       "seating": "5",
       "starting_price": 36990,
       "starting_price_text": "$36,990",
+      "display_name": "Tesla Model 3",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -16651,6 +17100,8 @@
       "seating": "5; Model Y L Premium has 6 seats",
       "starting_price": 39990,
       "starting_price_text": "$39,990",
+      "display_name": "Tesla Model Y",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -16724,6 +17175,8 @@
       "seating": "5–7",
       "starting_price": 42270,
       "starting_price_text": "$42,270",
+      "display_name": "Toyota 4Runner",
+      "transmission": "8-speed automatic",
       "trim_count": 12,
       "trims": [
         {
@@ -16862,6 +17315,8 @@
       "seating": "5",
       "starting_price": 34980,
       "starting_price_text": "$34,980",
+      "display_name": "Toyota bZ",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -16936,6 +17391,8 @@
       "seating": "5",
       "starting_price": 45380,
       "starting_price_text": "$45,380",
+      "display_name": "Toyota bZ Woodland",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -17011,6 +17468,8 @@
       "seating": "5",
       "starting_price": 37080,
       "starting_price_text": "$37,080",
+      "display_name": "Toyota C-HR",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -17088,6 +17547,8 @@
       "seating": "5",
       "starting_price": 29600,
       "starting_price_text": "$29,600",
+      "display_name": "Toyota Camry",
+      "transmission": "Electronically controlled continuously variable transmission (eCVT)",
       "trim_count": 10,
       "trims": [
         {
@@ -17209,6 +17670,8 @@
       "seating": "5",
       "starting_price": 23325,
       "starting_price_text": "$23,325",
+      "display_name": "Toyota Corolla",
+      "transmission": "Dynamic-Shift CVT (gas) / electronically controlled CVT (hybrid)",
       "trim_count": 8,
       "trims": [
         {
@@ -17320,6 +17783,8 @@
       "seating": "5",
       "starting_price": 25335,
       "starting_price_text": "$25,335",
+      "display_name": "Toyota Corolla Cross",
+      "transmission": "CVTi-S (gas) / electronically controlled CVT (hybrid)",
       "trim_count": 6,
       "trims": [
         {
@@ -17422,6 +17887,8 @@
       "seating": "5",
       "starting_price": 24780,
       "starting_price_text": "$24,780",
+      "display_name": "Toyota Corolla Hatchback",
+      "transmission": "Dynamic-Shift CVT",
       "trim_count": 2,
       "trims": [
         {
@@ -17496,6 +17963,8 @@
       "seating": "5",
       "starting_price": 40520,
       "starting_price_text": "$40,520",
+      "display_name": "Toyota GR Corolla",
+      "transmission": "8-speed GAZOO Racing Direct Automatic Transmission (DAT) or 6-speed intelligent Manual Transmission (iMT)",
       "trim_count": 5,
       "trims": [
         {
@@ -17588,6 +18057,8 @@
       "seating": "2",
       "starting_price": 58300,
       "starting_price_text": "$58,300",
+      "display_name": "Toyota GR Supra",
+      "transmission": "6-speed intelligent Manual Transmission or 8-speed automatic transmission",
       "trim_count": 3,
       "trims": [
         {
@@ -17669,6 +18140,8 @@
       "seating": "4",
       "starting_price": 31500,
       "starting_price_text": "$31,500",
+      "display_name": "Toyota GR86",
+      "transmission": "6-speed manual or 6-speed automatic transmission",
       "trim_count": 2,
       "trims": [
         {
@@ -17745,6 +18218,8 @@
       "seating": "7–8",
       "starting_price": 42260,
       "starting_price_text": "$42,260",
+      "display_name": "Toyota Grand Highlander",
+      "transmission": "Direct Shift-8AT 8-speed electronically controlled automatic on 2.4L turbo gas models; ECVT on 2.5L hybrid; Direct Shift-6AT 6-speed electronically controlled automatic on Hybrid MAX",
       "trim_count": 10,
       "trims": [
         {
@@ -17870,6 +18345,8 @@
       "seating": "7–8",
       "starting_price": 46270,
       "starting_price_text": "$46,270",
+      "display_name": "Toyota Highlander",
+      "transmission": "Direct Shift-8AT 8-speed electronically controlled automatic (2.4L turbo gas) / electronically controlled CVT (hybrid)",
       "trim_count": 7,
       "trims": [
         {
@@ -17976,6 +18453,8 @@
       "seating": "5",
       "starting_price": 58080,
       "starting_price_text": "$58,080",
+      "display_name": "Toyota Land Cruiser",
+      "transmission": "8-speed automatic transmission",
       "trim_count": 2,
       "trims": [
         {
@@ -18053,6 +18532,8 @@
       "seating": "5",
       "starting_price": 51795,
       "starting_price_text": "$51,795",
+      "display_name": "Toyota Mirai",
+      "transmission": "Single-speed direct-drive reduction gear",
       "trim_count": 1,
       "trims": [
         {
@@ -18124,6 +18605,8 @@
       "seating": "5",
       "starting_price": 28755,
       "starting_price_text": "$28,755",
+      "display_name": "Toyota Prius",
+      "transmission": "Electronically controlled continuously variable transmission (eCVT)",
       "trim_count": 8,
       "trims": [
         {
@@ -18234,6 +18717,8 @@
       "seating": "5",
       "starting_price": 33980,
       "starting_price_text": "$33,980",
+      "display_name": "Toyota Prius Plug-in Hybrid",
+      "transmission": "Electronically controlled continuously variable transmission (ECVT)",
       "trim_count": 4,
       "trims": [
         {
@@ -18321,6 +18806,8 @@
       "seating": "5",
       "starting_price": 31900,
       "starting_price_text": "$31,900",
+      "display_name": "Toyota RAV4",
+      "transmission": "Electronically controlled continuously variable transmission",
       "trim_count": 6,
       "trims": [
         {
@@ -18421,6 +18908,8 @@
       "seating": "5",
       "starting_price": 41500,
       "starting_price_text": "$41,500",
+      "display_name": "Toyota RAV4 Plug-in Hybrid",
+      "transmission": "Electronically controlled continuously variable transmission",
       "trim_count": 4,
       "trims": [
         {
@@ -18511,6 +19000,8 @@
       "seating": "7–8",
       "starting_price": 65725,
       "starting_price_text": "$65,725",
+      "display_name": "Toyota Sequoia",
+      "transmission": "10-speed electronically controlled automatic transmission with intelligence",
       "trim_count": 6,
       "trims": [
         {
@@ -18610,6 +19101,8 @@
       "seating": "7–8",
       "starting_price": 41320,
       "starting_price_text": "$41,320",
+      "display_name": "Toyota Sienna",
+      "transmission": "Electronically controlled continuously variable transmission (ECVT)",
       "trim_count": 6,
       "trims": [
         {
@@ -18710,6 +19203,8 @@
       "seating": "2–5",
       "starting_price": 32545,
       "starting_price_text": "$32,545",
+      "display_name": "Toyota Tacoma",
+      "transmission": "8-speed automatic; 6-speed manual available on selected i-FORCE grades",
       "trim_count": 8,
       "trims": [
         {
@@ -18824,6 +19319,8 @@
       "seating": "5",
       "starting_price": 41640,
       "starting_price_text": "$41,640",
+      "display_name": "Toyota Crown",
+      "transmission": "Electronically controlled continuously variable transmission on THS 5 grades; Direct Shift-6AT on Platinum Hybrid MAX",
       "trim_count": 4,
       "trims": [
         {
@@ -18910,6 +19407,8 @@
       "seating": "5",
       "starting_price": 44690,
       "starting_price_text": "$44,690",
+      "display_name": "Toyota Crown Signia",
+      "transmission": "Electronically controlled continuously variable transmission (ECVT)",
       "trim_count": 2,
       "trims": [
         {
@@ -18986,6 +19485,8 @@
       "seating": "5",
       "starting_price": 41260,
       "starting_price_text": "$41,260",
+      "display_name": "Toyota Tundra",
+      "transmission": "10-speed electronically controlled automatic transmission with intelligence",
       "trim_count": 10,
       "trims": [
         {
@@ -19109,6 +19610,8 @@
       "seating": "6–7",
       "starting_price": 39310,
       "starting_price_text": "$39,310",
+      "display_name": "Volkswagen Atlas",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -19179,6 +19682,8 @@
       "seating": "5",
       "starting_price": 38300,
       "starting_price_text": "$38,300",
+      "display_name": "Volkswagen Atlas Cross Sport",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -19249,6 +19754,8 @@
       "seating": "5",
       "starting_price": 34590,
       "starting_price_text": "$34,590",
+      "display_name": "Volkswagen Golf GTI",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -19311,6 +19818,8 @@
       "seating": "5",
       "starting_price": 49455,
       "starting_price_text": "$49,455",
+      "display_name": "Volkswagen Golf R",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -19361,6 +19870,8 @@
       "seating": "6–7",
       "starting_price": 59995,
       "starting_price_text": "$59,995",
+      "display_name": "Volkswagen ID. Buzz",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -19431,6 +19942,8 @@
       "seating": "5",
       "starting_price": 45095,
       "starting_price_text": "$45,095",
+      "display_name": "Volkswagen ID.4",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -19505,6 +20018,8 @@
       "seating": "5",
       "starting_price": 23995,
       "starting_price_text": "$23,995",
+      "display_name": "Volkswagen Jetta",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -19573,6 +20088,8 @@
       "seating": "5",
       "starting_price": 33795,
       "starting_price_text": "$33,795",
+      "display_name": "Volkswagen Jetta GLI",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -19623,6 +20140,8 @@
       "seating": "5",
       "starting_price": 26500,
       "starting_price_text": "$26,500",
+      "display_name": "Volkswagen Taos",
+      "transmission": "",
       "trim_count": 5,
       "trims": [
         {
@@ -19693,6 +20212,8 @@
       "seating": "5",
       "starting_price": 30805,
       "starting_price_text": "$30,805",
+      "display_name": "Volkswagen Tiguan",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -19757,6 +20278,8 @@
       "seating": "5",
       "starting_price": 40345,
       "starting_price_text": "$40,345",
+      "display_name": "Volvo EX30",
+      "transmission": "",
       "trim_count": 3,
       "trims": [
         {
@@ -19843,6 +20366,8 @@
       "seating": "5",
       "starting_price": 56545,
       "starting_price_text": "$56,545",
+      "display_name": "Volvo EX40",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -19918,6 +20443,8 @@
       "seating": "6–7",
       "starting_price": 78090,
       "starting_price_text": "$78,090",
+      "display_name": "Volvo EX90",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {
@@ -19983,6 +20510,8 @@
       "seating": "5",
       "starting_price": 48695,
       "starting_price_text": "$48,695",
+      "display_name": "Volvo V60 Cross Country",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -20036,6 +20565,8 @@
       "seating": "5",
       "starting_price": 41295,
       "starting_price_text": "$41,295",
+      "display_name": "Volvo XC40",
+      "transmission": "",
       "trim_count": 4,
       "trims": [
         {
@@ -20109,12 +20640,15 @@
       "body_group": "SUV / Crossover",
       "powertrain": "Mild hybrid / Plug-in hybrid",
       "fuel_types": [
-        "Plug-in Hybrid"
+        "Plug-in Hybrid",
+        "Hybrid"
       ],
       "drivetrain": "AWD",
       "seating": "5",
       "starting_price": 51095,
       "starting_price_text": "$51,095",
+      "display_name": "Volvo XC60",
+      "transmission": "",
       "trim_count": 9,
       "trims": [
         {
@@ -20210,12 +20744,15 @@
       "body_group": "SUV / Crossover",
       "powertrain": "Mild hybrid / Plug-in hybrid",
       "fuel_types": [
-        "Plug-in Hybrid"
+        "Plug-in Hybrid",
+        "Hybrid"
       ],
       "drivetrain": "AWD",
       "seating": "6–7",
       "starting_price": 62445,
       "starting_price_text": "$62,445",
+      "display_name": "Volvo XC90",
+      "transmission": "",
       "trim_count": 6,
       "trims": [
         {

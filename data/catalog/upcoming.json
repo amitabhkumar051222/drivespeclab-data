@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T08:28:26+00:00",
+  "generated": "2026-10-21T09:44:46+00:00",
   "count": 2,
   "cars": [
     {
@@ -18,6 +18,8 @@
       "seating": "See official details",
       "starting_price": null,
       "starting_price_text": "Price not announced",
+      "display_name": "Audi Nuvolari",
+      "transmission": "",
       "trim_count": 1,
       "trims": [
         {
@@ -64,6 +66,8 @@
       "seating": "4–5",
       "starting_price": null,
       "starting_price_text": "Price coming soon",
+      "display_name": "Mercedes-Benz Mercedes-Maybach S-Class",
+      "transmission": "",
       "trim_count": 2,
       "trims": [
         {

@@ -34,7 +34,8 @@
       "year": "2026",
       "url": "https://www.drivespeclab.com/2026/09/2026-toyota-rav4-specs-price-mpg-dimensions.html",
       "url_status": "live",
-      "verified_on": "2026-09-15"
+      "verified_on": "2026-09-15",
+      "link_checked_on": "2026-10-21"
     },
     "Honda|CR-V": {
       "brand": "Honda",
@@ -42,7 +43,8 @@
       "year": "2027",
       "url": "https://www.drivespeclab.com/2026/09/2027-honda-cr-v-specs-price-mpg-dimensions.html",
       "url_status": "live",
-      "verified_on": "2026-09-15"
+      "verified_on": "2026-09-15",
+      "link_checked_on": "2026-10-21"
     },
     "Hyundai|Tucson": {
       "brand": "Hyundai",
@@ -50,7 +52,8 @@
       "year": "2026",
       "url": "https://www.drivespeclab.com/2026/09/2026-hyundai-tucson-specs-price-mpg-dimensions.html",
       "url_status": "live",
-      "verified_on": "2026-09-15"
+      "verified_on": "2026-09-15",
+      "link_checked_on": "2026-10-21"
     }
   }
 }

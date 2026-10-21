@@ -85,12 +85,12 @@ def fuel_types(power: object) -> list[str]:
     p = str(power or "").lower()
     out: list[str] = []
     if re.search(r"plug-in|phev", p): out.append("Plug-in Hybrid")
-    if "hybrid" in p and "Plug-in Hybrid" not in out: out.append("Hybrid")
+    if "hybrid" in re.sub(r"plug-in hybrid|phev", "", p): out.append("Hybrid")
     if re.search(r"battery electric|\belectric\b|\bbev\b", p): out.append("Electric")
     if "hydrogen" in p or "fuel-cell" in p: out.append("Hydrogen")
     if "diesel" in p: out.append("Diesel")
     if re.search(r"gas|gasoline|turbo|v6|v8|i4|four-cylinder|six-cylinder", p): out.append("Gas")
-    return out or ["Gas"]
+    return out
 
 
 def parse_price(v: object) -> int | None:
@@ -278,6 +278,8 @@ def make_row(brand: str, base: dict, side: dict, sidecar: dict | None) -> dict:
         "body_group": body_group(body), "powertrain": power, "fuel_types": fuel_types(power),
         "drivetrain": drive, "seating": seating, "starting_price": price_num,
         "starting_price_text": money(price_num) or str(base.get("price") or ""),
+        "display_name": name if name.lower().startswith(brand.lower() + " ") else f"{brand} {name}",
+        "transmission": str(details.get("transmission") or ""),
         "trim_count": len(trims),
         "trims": [{
             "name": str(t.get("name") or ""), "msrp": parse_price(t.get("msrp")),

@@ -55,6 +55,12 @@ def collect_urls() -> dict[str, dict]:
                 if m.get(key):
                     add_url(urls, m[key], {"brand": brand, "model": model, "kind": "model"})
 
+    # Include effective enrichment sources from the built catalog as well.
+    catalog_file = CATALOG_DIR / "cars.json"
+    if catalog_file.exists():
+        for c in json.loads(catalog_file.read_text(encoding="utf-8")).get("cars", []):
+            add_url(urls, c.get("source", ""), {"brand": c.get("brand", ""), "model": c.get("model", ""), "kind": "catalog-model"})
+
     # 25-brand official lineup registry, including BYD/Tata/Mahindra.
     if REGISTRY.exists():
         d = json.loads(REGISTRY.read_text(encoding="utf-8"))
@@ -97,19 +103,24 @@ def main() -> None:
     old = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {"sources": {}}
     old_sources = old.get("sources") or {}
     current = {}
-    changes = []
+    prior_pending = json.loads(PENDING.read_text(encoding="utf-8")) if PENDING.exists() else {}
+    changes = {item["url"]: item for item in prior_pending.get("changes", []) if item.get("url")}
 
     for url, meta in collect_urls().items():
         status, fp = fetch(url)
         prev = old_sources.get(url) or {}
-        row = {**meta, "status": status, "fingerprint": fp, "checked_at": now}
+        # A timeout must never erase the last successful comparison baseline.
+        row = {**prev, **meta, "status": status, "fingerprint": fp or prev.get("fingerprint", ""), "checked_at": now}
+        if fp:
+            row["last_success_at"] = now
         current[url] = row
         if fp and prev.get("fingerprint") and fp != prev.get("fingerprint"):
-            changes.append({"url": url, **meta, "previous_fingerprint": prev.get("fingerprint"), "new_fingerprint": fp, "detected_at": now})
+            pending = changes.get(url, {})
+            changes[url] = {"url": url, **meta, "previous_fingerprint": pending.get("previous_fingerprint", prev.get("fingerprint")), "new_fingerprint": fp, "detected_at": pending.get("detected_at", now), "last_changed_at": now}
 
     STATE.parent.mkdir(parents=True, exist_ok=True)
     STATE.write_text(json.dumps({"generated": now, "count": len(current), "sources": current}, indent=2) + "\n", encoding="utf-8")
-    PENDING.write_text(json.dumps({"generated": now, "count": len(changes), "changes": changes}, indent=2) + "\n", encoding="utf-8")
+    PENDING.write_text(json.dumps({"generated": now, "count": len(changes), "changes": list(changes.values())}, indent=2) + "\n", encoding="utf-8")
     print(f"Checked {len(current)} official URLs across the 25-brand architecture; material fingerprint changes: {len(changes)}")
 
 

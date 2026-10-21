@@ -19,6 +19,9 @@ on:
       - 'scripts/generate_database_catalog.py'
       - 'scripts/postprocess_catalog.py'
       - 'scripts/sync_catalog_manifest.py'
+      - 'scripts/update_car_database.py'
+      - 'scripts/validate_catalog.py'
+      - 'tests/**'
       - '.github/workflows/build-database-catalog.yml'
 
 permissions:
@@ -38,35 +41,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Apply verified V6 enrichment layer
-        run: python scripts/apply_v6_overlay.py
-      - name: Apply verified priority enrichment
-        run: python scripts/apply_verified_enrichment.py
-      - name: Build database catalog, upcoming index and compare index
-        run: python scripts/generate_database_catalog.py
-      - name: Apply conservative catalog policy
-        run: python scripts/postprocess_catalog.py
-      - name: Sync 25-brand live manifest
-        run: python scripts/sync_catalog_manifest.py
-      - name: Validate generated JSON
-        run: |
-          python - <<'PY'
-          import json
-          from pathlib import Path
-          files = [
-            Path('data/catalog/cars.json'),
-            Path('data/catalog/upcoming.json'),
-            Path('data/catalog/change-log.json'),
-            Path('data/catalog/brand-registry-live.json'),
-            Path('data/catalog/global-cars-live.json'),
-            Path('data/catalog/catalog-manifest-live.json'),
-            Path('data/compare/cars.json'),
-            Path('data/seo/model-routes-live.json'),
-          ]
-          for p in files:
-              json.loads(p.read_text(encoding='utf-8'))
-          print('Validated', len(files), 'JSON files')
-          PY
+      - name: Run regression tests
+        run: python -m unittest discover -s tests -v
+      - name: Build and validate catalog in isolated workspace
+        run: python scripts/update_car_database.py
       - name: Commit generated database indexes
         run: |
           git config user.name 'DriveSpecLab Bot'

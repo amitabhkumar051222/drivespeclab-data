@@ -153,6 +153,7 @@ def main() -> None:
             c['fuel_types'] = []
         c['upcoming'] = clean_upcoming(c)
         enrich_details(c, sides.get((norm(c.get('brand')), norm(c.get('model'))), {}))
+        c['transmission'] = str(c.get('details', {}).get('transmission') or '')
 
     upcoming = [c for c in cars if c.get('upcoming')]
     data['upcoming_count'] = len(upcoming)

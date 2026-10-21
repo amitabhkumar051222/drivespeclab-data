@@ -34,3 +34,16 @@ function render(D,brand,sc){var b=D[brand];if(!b)return;addCss();qa('.dsl-car-db
 function init(){var brand=brandFromPath();if(!brand)return;Promise.all([Promise.all(PARTS.map(function(u){return fetch(u,{cache:'no-cache'}).then(function(r){if(!r.ok)throw Error('DB part '+r.status);return r.text()})})),getSidecar(brand)]).then(function(all){var db=JSON.parse(all[0].join('')),D=unpack(db),sc=all[1];window.DriveSpecLabDB={meta:{version:4,base_version:db.v,base_updated:db.u,verified_on:sc&&sc.verified_on||null},brands:D,sidecar:sc};document.dispatchEvent(new CustomEvent('DriveSpecLabDBReady',{detail:window.DriveSpecLabDB}));render(D,brand,sc)}).catch(function(err){console.error('DriveSpecLab V4 database load failed',err)})}
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();
 })();
+// Load the shared adapter on both the homepage and model pages.
+(function () {
+  if (document.getElementById('dsl-catalog-consistency')) return;
+  var script = document.createElement('script');
+  script.id = 'dsl-catalog-consistency';
+  script.src = 'https://raw.githubusercontent.com/amitabhkumar051222/drivespeclab-data/main/js/catalog-consistency.js';
+  script.onerror = function () {
+    if (script.dataset.fallback) return;
+    script.dataset.fallback = '1';
+    script.src = 'https://cdn.jsdelivr.net/gh/amitabhkumar051222/drivespeclab-data@main/js/catalog-consistency.js';
+  };
+  document.head.appendChild(script);
+})();

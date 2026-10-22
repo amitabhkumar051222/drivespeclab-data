@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T09:34:25+00:00",
-  "count": 34,
+  "generated": "2026-10-22T09:35:17+00:00",
+  "count": 66,
   "changes": [
     {
       "url": "https://en.byd.com/",
@@ -26,8 +26,9 @@
       "model": "Armada",
       "kind": "model",
       "previous_fingerprint": "ae796f8b2f65e00a668c1ced82334da8d13ca5fc74982174c64560a535eddeb7",
-      "new_fingerprint": "68e8d0d6b5066dd5345a879aa2d1a6e6fe6ab5c7204bbbb045e7de522531e5ff",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "82af55260cba1a32b8e9e69214e15fe5bf3701f442a0bb7dc6715c741a80322e",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
     },
     {
       "url": "https://www.chevrolet.com/suvs/trax",
@@ -170,8 +171,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "5273efea9424ddaeb5f03cf4aa4f59910de310b852aae5370e41377e0d8a26db",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "ba1d5c0e09bee18d98a30cc339b3b38ee17aa79bfb5aa7fb2a9151f898a20c98",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -179,8 +181,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "cd863b981c2a2033db624d958bcf5ba6a3be8f3922ea156cc19dcb54f2182b6f",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "7f62344590665421c773f36f1fa2c27c1b5f35bdbd0564ad8b907bb2940c4d17",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -224,8 +227,9 @@
       "model": "Corolla",
       "kind": "model",
       "previous_fingerprint": "75488d22867c9ca52da511d8c25111002b45c37d366dcf4d29516c963ab71a37",
-      "new_fingerprint": "5cc048231fe81b84884f884681269f4ae3a5e2744996652e8521fb0507668d90",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "1dd1449d527a18604fae9fa9e90042196a2dd73858544fae495b49d888473a38",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/corollahatchback/2027",
@@ -233,8 +237,9 @@
       "model": "Corolla Hatchback",
       "kind": "model",
       "previous_fingerprint": "ce463b73812b4367c53469f967c71290b4802208c08eef814b7d68052de63126",
-      "new_fingerprint": "9618d8293a4f54e3dc8f414ca9932c45b3700de9a1d651bfc068b297235a9a7d",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "b0a4655d96bc2f479368d07e17f8872791230911386b092bd4125b41dfcf71c6",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
     },
     {
       "url": "https://www.toyota.com/grsupra/",
@@ -278,8 +283,9 @@
       "model": "Prius Plug-in Hybrid",
       "kind": "model",
       "previous_fingerprint": "a1b19c1ce975fd792c76acdb3e8f13ec5acf0c9f3caaa8fb84fe9ec7ea1615d0",
-      "new_fingerprint": "f88bbdefd99b4e11dc0dc733d181c804220e6d5032a0009c0cf3836ab94a5590",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "bd64854f899a53bf02566ee171f458a4c1a7c775744a6881fc8f187add93e4b2",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/toyotacrown/2027",
@@ -309,6 +315,329 @@
       "previous_fingerprint": "3c364505fdc8d99f54161f3dc572b57efd005bfa60974103d90c894b5cecad19",
       "new_fingerprint": "a18cf3ea63713c60e5abe2e1746886e0c78b4fe9eebc5f7a27431a03c7b889cd",
       "detected_at": "2026-10-21T09:34:25+00:00"
+    },
+    {
+      "url": "https://www.landroverusa.com/build-your-own/defender.html",
+      "brand": "Land Rover",
+      "model": "Defender",
+      "kind": "model",
+      "previous_fingerprint": "9e2bb3b84f7191bb0a1251172ace94a1a3dbb5a8118fcea67b57ac30585f50a0",
+      "new_fingerprint": "527ec6cc037ef48a990f908487bca3c6bc00b8006ddb9b103ecbc42d737251c5",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.landroverusa.com/discovery/discovery/models-and-specifications.html",
+      "brand": "Land Rover",
+      "model": "Discovery",
+      "kind": "model",
+      "previous_fingerprint": "f5d7eaee6d64e67c2f041ec2f3c95184a4c82e507da29427511ca7430abca36e",
+      "new_fingerprint": "724ed9bcd97b2006f5e302f0dad8d56c5590bf6907d301e9cda03ebbe2751c35",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.landroverusa.com/discovery/discovery-sport/models-and-specifications.html",
+      "brand": "Land Rover",
+      "model": "Discovery Sport",
+      "kind": "model",
+      "previous_fingerprint": "1c5b357141017ab71128c957a064ae5ff44f4a023b5a664090c5c5b72b854cb6",
+      "new_fingerprint": "9cfcbad5819a36646087f28e235669396aca2293dfc1ebffd5fe73887eab2d42",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/wrangler.html",
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "kind": "model",
+      "previous_fingerprint": "2c9db9baa09f3eac49abb6472204a8b35ca21964c278c2f8ea839914ae66ee0d",
+      "new_fingerprint": "6026a6e9437ebfa5c41a078a9be10c3f9e4e042f7fcb767a01e10773a4560cb2",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/wrangler-4xe.html",
+      "brand": "Jeep",
+      "model": "Wrangler 4xe",
+      "kind": "model",
+      "previous_fingerprint": "2c9db9baa09f3eac49abb6472204a8b35ca21964c278c2f8ea839914ae66ee0d",
+      "new_fingerprint": "6026a6e9437ebfa5c41a078a9be10c3f9e4e042f7fcb767a01e10773a4560cb2",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/grand-cherokee.html",
+      "brand": "Jeep",
+      "model": "Grand Cherokee",
+      "kind": "model",
+      "previous_fingerprint": "04701be0fed399f57e1b8fb5536963619c1bd745f87594e86b8be12b4adc0de6",
+      "new_fingerprint": "3296057b6d2ddeef711cd15cee1d1fa23535464d7eced724c66389e85c6cbd86",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/compass.html",
+      "brand": "Jeep",
+      "model": "Compass",
+      "kind": "model",
+      "previous_fingerprint": "2932d6c1d688b5ed3ddc87851fa0055e8a7368e03fa1dfdfcc4a4fecfa30c25b",
+      "new_fingerprint": "5ac310b29264e72e7b668e240fc698d8107052a57d4a5b03b958160f33be36da",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/cherokee.html",
+      "brand": "Jeep",
+      "model": "Cherokee",
+      "kind": "model",
+      "previous_fingerprint": "3fb3948ef52a252d159d272cbc78691bd96bea357533921e31094cb80d0bc06d",
+      "new_fingerprint": "012f70d122408661e1b87206bd9c1bc557587424c83e049ac51a19cfb4a776eb",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/wagoneer.html",
+      "brand": "Jeep",
+      "model": "Wagoneer",
+      "kind": "model",
+      "previous_fingerprint": "08db8dd48ad001856351ce88b4ccdfd7ad018405e2b4233a5dd10ae4755ef2e2",
+      "new_fingerprint": "35d0e647062a150e7a9e064a7d59be40b87d4614155580dc064f36fe713f2cb9",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/grand-wagoneer.html",
+      "brand": "Jeep",
+      "model": "Grand Wagoneer",
+      "kind": "model",
+      "previous_fingerprint": "16c4c62795b0ebf3713842319e94d3c54e37a057d3e7cc87887d5a9c3581cdf3",
+      "new_fingerprint": "ca893b33ad62335414b88efcf44f1385691242bcaac72479f098d6eabafa586e",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/wagoneer-s.html",
+      "brand": "Jeep",
+      "model": "Wagoneer S",
+      "kind": "model",
+      "previous_fingerprint": "9d60688c19881339f539e5fca61320f6f6e56614fa666c86a22779a3d80fa2c6",
+      "new_fingerprint": "a4fe67c8cfa51d47bf923c895d0dede5c8817bc48b051721746f8914237db033",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/recon.html",
+      "brand": "Jeep",
+      "model": "Recon",
+      "kind": "model",
+      "previous_fingerprint": "5d59da3a722b8c76c1f51a7cfeb4dc0580b04255abf5e0a0bb11124f92fc0910",
+      "new_fingerprint": "7587fd5c7b559814dfffb5c71d31d343fe04d79177c66914fb51d1f9dbc355b5",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.vw.com/en/builder.html/__app/tiguan.app",
+      "brand": "Volkswagen",
+      "model": "Tiguan",
+      "kind": "model",
+      "previous_fingerprint": "379f2ccbea6a81ef040be93d3a34ace7371ebed2637f8f4442892a5bc9e87fb4",
+      "new_fingerprint": "5d75597d22b1c8b8d55b61438bd1b97c6b19a05b39cd20116867a2b5299e4acd",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/rogue/specs-trims.html",
+      "brand": "Nissan",
+      "model": "Rogue",
+      "kind": "model",
+      "previous_fingerprint": "014f1cf55bc9b67f52337eb1ab5bbf36b13726aebd7f6559c8560f6f1bcf002b",
+      "new_fingerprint": "378c2fe1ffd24262034b12aaa700e421025baee93db2998594cb582eba87fa7e",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.gmc.com/suvs/terrain",
+      "brand": "GMC",
+      "model": "Terrain",
+      "kind": "model",
+      "previous_fingerprint": "3f89890f7156859c1779509913680905a575f2bcd926aa9efd571438f95ca3d3",
+      "new_fingerprint": "fe220f77661ef98d84e38daad5eb193c565578f471d9a7d7bf72e291eecbb387",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.gmc.com/suvs/previous-year/acadia",
+      "brand": "GMC",
+      "model": "Acadia",
+      "kind": "model",
+      "previous_fingerprint": "c73a44391ef1e0737248d3f0f3da35ce3a352c54f167aa3adbec486d3ef67e41",
+      "new_fingerprint": "6f24362400f25fbfa9f4eadbecbcaff365a5e72ed4cccee3c5141a788c3272fa",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.gmc.com/suvs/yukon",
+      "brand": "GMC",
+      "model": "Yukon",
+      "kind": "model",
+      "previous_fingerprint": "02c4f8c9fe46ff674f23aa8f2e4af8c05532bf5f2fc0d6a58da94d1168ef9012",
+      "new_fingerprint": "a6950aaec835a50c5ee79ef6ee5e97db0e535066db2f5126fa25b8cc1d2f7678",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.gmc.com/trucks/sierra-3500hd-chassis-cab",
+      "brand": "GMC",
+      "model": "Sierra 3500HD Chassis Cab",
+      "kind": "model",
+      "previous_fingerprint": "b89341c6d545390ebd73f2f81e73e038e8a8026d4c52333e5712f29804e2960d",
+      "new_fingerprint": "022e4ed5e2a0a3d569185f664de3381e9b0283fda04fb0328f1ac75e693a1867",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.gmc.com/electric/sierra-ev",
+      "brand": "GMC",
+      "model": "Sierra EV",
+      "kind": "model",
+      "previous_fingerprint": "0eb3f26a8de38c311ff898b05752b26aa1203077ba6db104b117ba857b24f8d1",
+      "new_fingerprint": "f3eb94f8c7876af1bd8a6a417fa95e777d9b84205bfbcc07b7400671b81645e1",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.gmc.com/electric/hummer-ev/suv",
+      "brand": "GMC",
+      "model": "HUMMER EV SUV",
+      "kind": "model",
+      "previous_fingerprint": "08b5d7e521341eaecda0d6c07fad7000e1602b0640de7a0cdc6b5e149f969177",
+      "new_fingerprint": "002f01d072dcd8a4860a9dbc331a36e035deae86fc30b7f6228e86749c244f6f",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.gmc.com/electric/hummer-ev/pickup-truck",
+      "brand": "GMC",
+      "model": "HUMMER EV Pickup",
+      "kind": "model",
+      "previous_fingerprint": "063085d141105e177c6e85ac129a0dba189f260eed6be94eda71f3dfe54ce54c",
+      "new_fingerprint": "0fbf3155a1b4adabdd11b7286c3e3ff27d32346ad624f297465d2fc459f98ec6",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.gmc.com/vans/previous-year/savana/cargo",
+      "brand": "GMC",
+      "model": "Savana Cargo 2500",
+      "kind": "model",
+      "previous_fingerprint": "16df64c888189dbb875b765671c62cd3b4333be736254a2a8836f2a0fb4d795b",
+      "new_fingerprint": "514ad0a60a2915ff4be79ae1daa1e5a4692ba7ffffc8c8d2e59f6e294d1c799d",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/e-class/wagon",
+      "brand": "Mercedes-Benz",
+      "model": "E-Class Wagon",
+      "kind": "model",
+      "previous_fingerprint": "09aa9c7b04561296d87b4db703159ef1f8f9073441d5d78e425513bf24a5fc47",
+      "new_fingerprint": "c8c833d49a44b630b46fc2a400a9db5ac59c81bb2006254220502f10b4055eb2",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/gla/suv",
+      "brand": "Mercedes-Benz",
+      "model": "GLA",
+      "kind": "model",
+      "previous_fingerprint": "b5aeaae93c1b9305acbb563c670c84a41da4c0a44ce8f3183ab02fe8c8f040b7",
+      "new_fingerprint": "48a2931eaddfbf1dcde968fbc4e11b247a5e59c26db6c22dc8b77de5c9981c15",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/gle/suv",
+      "brand": "Mercedes-Benz",
+      "model": "GLE SUV",
+      "kind": "model",
+      "previous_fingerprint": "fad28bbf89a5c3f9b451ab1f9aff40321f473d2c2c3367fd09a3404c025192ef",
+      "new_fingerprint": "328674ea9c53c4139d622cbf938d60cc1d6501a671122a2f57c8ee5a4c156dd8",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/gls/suv",
+      "brand": "Mercedes-Benz",
+      "model": "GLS",
+      "kind": "model",
+      "previous_fingerprint": "4e981f1220efb6f18b355a880ec6c42e34587e95ba16994f5fcf7422a284590a",
+      "new_fingerprint": "7aa18c20f3448ab463bc3d93f9ce060e5972316ec023aaf18c7187ef4336a9c6",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/eqb/suv",
+      "brand": "Mercedes-Benz",
+      "model": "EQB",
+      "kind": "model",
+      "previous_fingerprint": "e93135ad15847ed1410e37a89cad24dffd88cda5ffb94a0a7b6b96d6c9343789",
+      "new_fingerprint": "9b2a8c62457a3217f6da07e1fc8843b04a44ddeba6382202e4a336e9c674e3a3",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/eqs/suv",
+      "brand": "Mercedes-Benz",
+      "model": "EQS SUV",
+      "kind": "model",
+      "previous_fingerprint": "47d19403e3a2195622d8ac3a8c5079db8b1f55a79789e3ba343b0d999af35c0d",
+      "new_fingerprint": "8df252f8f4f8b18bdc28469f3d4f9676db09e493c31e27677af84b7d2365653a",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/maybach-gls/suv",
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach GLS",
+      "kind": "model",
+      "previous_fingerprint": "4de062f0d2dfe0db96d7fe6e196b8dd27a76cc3a47e6784564737437631269f0",
+      "new_fingerprint": "d1a654df1238f7f5489b4e0705837e42dc9fae3d80d978c525cecfefd5a92233",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.jeep.com/vehicle-selector.html",
+      "brand": "Jeep",
+      "model": "",
+      "kind": "brand-registry",
+      "market": "U.S. retail",
+      "previous_fingerprint": "a995dbc3ad3d2bc2b0d1f0dcb5f854d94bac30b7cd894cc1ff1f3a24fa57be46",
+      "new_fingerprint": "56138dace230600c7b4ec07b8ff5ac930b6bad1ec7ce17ab113a1577c24488a7",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/all-vehicles",
+      "brand": "Mercedes-Benz",
+      "model": "",
+      "kind": "brand-registry",
+      "market": "U.S. retail",
+      "previous_fingerprint": "dfcd94edec82ac54edd101d76ca0449855837381368dbe3e3911f7d8628f8aa8",
+      "new_fingerprint": "7a5a89659148316031a76fa9636e027696e017f8adc7183c3c14b3d4096f758c",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
+    },
+    {
+      "url": "https://www.vw.com/en/models.html",
+      "brand": "Volkswagen",
+      "model": "",
+      "kind": "brand-registry",
+      "market": "U.S. retail",
+      "previous_fingerprint": "20006c7eb5b2ae5f50e7382d5e2bdba4a8955b2321c8daac7952d03df8eacead",
+      "new_fingerprint": "efe7f2201b8ce619c6ab0246046345e04d0ceca3e298b9e8d2b3ab1382c594f7",
+      "detected_at": "2026-10-22T09:35:17+00:00",
+      "last_changed_at": "2026-10-22T09:35:17+00:00"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T09:31:34+00:00",
-  "count": 76,
+  "generated": "2026-10-24T09:04:33+00:00",
+  "count": 82,
   "changes": [
     {
       "url": "https://en.byd.com/",
@@ -8,9 +8,9 @@
       "model": "",
       "kind": "brand",
       "previous_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "new_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-23T09:31:34+00:00"
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
     },
     {
       "url": "https://www.rangerover.com/en-us/range-rover-evoque/models-and-specifications.html",
@@ -92,8 +92,9 @@
       "model": "Suburban",
       "kind": "model",
       "previous_fingerprint": "d84c163cea9abb2a8324048e5b8dde1207a417095c21b65793fd98fb093f38ce",
-      "new_fingerprint": "6ee7c7a2fb102a3d96e3b6c286c82f85e86e48ce4fa708de9edbd39fa503fe37",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "ea3fef7556f50ed67f1385ace96d3dba030aec5c547d7d1cddc0f503920f65c8",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
     },
     {
       "url": "https://www.chevrolet.com/trucks/colorado",
@@ -129,8 +130,9 @@
       "model": "Silverado EV",
       "kind": "model",
       "previous_fingerprint": "e15634e40d42a0a6a9d7ee10f09baa8aabec77c7242b824693255894a382169e",
-      "new_fingerprint": "a6093096a7f58f5f36874dcaef7a4a46676280cff511b3225854c757f79bfe21",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "8ae6e5ef50e6301a3b4e66203dd5ab39b0e452b5badd89a40303b780ef25c7e7",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
     },
     {
       "url": "https://www.chevrolet.com/electric/equinox-ev",
@@ -174,9 +176,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "ee587781b852b00ad16d9ba6dda027e8ea9354c69557a27f7b37a8a001e12874",
+      "new_fingerprint": "f7c84dda0bb7c28150dc28b97a1a03d081cebc48907d1f0e6ff4c2d79f72e543",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-23T09:31:34+00:00"
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -184,9 +186,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "578c2dc9df6cbf83235d02aecdddd38b93e76f235187699c073ca0c912c09310",
+      "new_fingerprint": "ae97ce17507dcb2101aab8b73bd59d9b38dde72e76f7d53f434642592adf6dff",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-23T09:31:34+00:00"
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -565,9 +567,9 @@
       "model": "GLE SUV",
       "kind": "model",
       "previous_fingerprint": "fad28bbf89a5c3f9b451ab1f9aff40321f473d2c2c3367fd09a3404c025192ef",
-      "new_fingerprint": "fad28bbf89a5c3f9b451ab1f9aff40321f473d2c2c3367fd09a3404c025192ef",
+      "new_fingerprint": "328674ea9c53c4139d622cbf938d60cc1d6501a671122a2f57c8ee5a4c156dd8",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-23T09:31:34+00:00"
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/gls/suv",
@@ -585,9 +587,9 @@
       "model": "EQB",
       "kind": "model",
       "previous_fingerprint": "e93135ad15847ed1410e37a89cad24dffd88cda5ffb94a0a7b6b96d6c9343789",
-      "new_fingerprint": "e93135ad15847ed1410e37a89cad24dffd88cda5ffb94a0a7b6b96d6c9343789",
+      "new_fingerprint": "9b2a8c62457a3217f6da07e1fc8843b04a44ddeba6382202e4a336e9c674e3a3",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-23T09:31:34+00:00"
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/eqs/suv",
@@ -627,9 +629,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "previous_fingerprint": "dfcd94edec82ac54edd101d76ca0449855837381368dbe3e3911f7d8628f8aa8",
-      "new_fingerprint": "d9d849a487a8a13c3ef48ae9dcb311ca49b740fda02355c7e6fbba79d293203d",
+      "new_fingerprint": "a70ac871a1a64b63467908cd5bc8f1da11a1e6bf9bb324bfb55db915d1743225",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-23T09:31:34+00:00"
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
     },
     {
       "url": "https://www.vw.com/en/models.html",
@@ -728,9 +730,9 @@
       "model": "S-Class",
       "kind": "model",
       "previous_fingerprint": "153501aae648c32dca325b05743b14fd35b87e88fa39abff8b9518ab0f088056",
-      "new_fingerprint": "6588326e09515e33295052cab567405a7e7cf0176019bf4ef9203df906e4735b",
+      "new_fingerprint": "153501aae648c32dca325b05743b14fd35b87e88fa39abff8b9518ab0f088056",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-10-23T09:31:34+00:00"
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/eqe/sedan",
@@ -738,9 +740,69 @@
       "model": "EQE Sedan",
       "kind": "model",
       "previous_fingerprint": "56aa6f1d36edb89973283560aece4c8ea4c398fe811004406dbabbdb0aa03cfe",
-      "new_fingerprint": "e03746a064703a086ac6af9f24d8a470ff8934727c42f3c5014f5aa182076d25",
+      "new_fingerprint": "b50ad2bbea51b647d60fe94140f0d0c43373316a947104346ea5279dd11d6caa",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-10-23T09:31:34+00:00"
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/c-class/sedan",
+      "brand": "Mercedes-Benz",
+      "model": "C-Class",
+      "kind": "model",
+      "previous_fingerprint": "60e120bb749f951650d5acff40464c0785f6d8b49d069c4df469bed2921e8b2a",
+      "new_fingerprint": "da3a781ab1d80d6aa26f4665d0dc69e87c3d4c5931e9e83bf29c18371c87ed54",
+      "detected_at": "2026-10-24T09:04:33+00:00",
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/amg-gt/coupe",
+      "brand": "Mercedes-Benz",
+      "model": "AMG GT Coupe",
+      "kind": "model",
+      "previous_fingerprint": "cb84e603088855abe108a9b1eb3019b751540c5c7fd867d9c129cf2888e34263",
+      "new_fingerprint": "9a6913f2c49aa208253252329dda18d0a8cf3349e3dff801bc2408b86e9ebd6e",
+      "detected_at": "2026-10-24T09:04:33+00:00",
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/sl/roadster",
+      "brand": "Mercedes-Benz",
+      "model": "SL Roadster",
+      "kind": "model",
+      "previous_fingerprint": "0a72ab0841afe04d302a22f4016e6c1c4bcdba6383a2e660c0bf5fddb9c8ba76",
+      "new_fingerprint": "0aa5fea02472c8482e3b5c6977e186f9553b72cbab6029a63b6dfffbe36017c4",
+      "detected_at": "2026-10-24T09:04:33+00:00",
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv",
+      "brand": "Mercedes-Benz",
+      "model": "Mercedes-Maybach EQS SUV",
+      "kind": "model",
+      "previous_fingerprint": "358f52c58bc5a1e268d2781f2335c2418bbe30452c1e856ce3e8cfc8783d50d2",
+      "new_fingerprint": "289968221d6308adeb40dcf9618e35746246287f02f91dd1b63b5136686b07fe",
+      "detected_at": "2026-10-24T09:04:33+00:00",
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
+    },
+    {
+      "url": "https://www.subaru.com/vehicles/outback/2026.html",
+      "brand": "Subaru",
+      "model": "Outback",
+      "kind": "model",
+      "previous_fingerprint": "c22060ab60d6803c129acca9d3eb994fe45cf9b1d9dec95420bbcc7ef98ba9d6",
+      "new_fingerprint": "0323b30587375d19221c286b7b569b3da431df81962c645d9a18aada5a9932d8",
+      "detected_at": "2026-10-24T09:04:33+00:00",
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
+    },
+    {
+      "url": "https://www.subaru.com/vehicles/impreza/2026.html",
+      "brand": "Subaru",
+      "model": "Impreza",
+      "kind": "model",
+      "previous_fingerprint": "a2d976857855d72eccbb3a7d58ec45acc7e743fa5cdeb05a4cb466977bcf3fd4",
+      "new_fingerprint": "ae758284dbe9ac870aa4ab8269f709946150c7c1ea500f7119bd750c0318e5ee",
+      "detected_at": "2026-10-24T09:04:33+00:00",
+      "last_changed_at": "2026-10-24T09:04:33+00:00"
     }
   ]
 }

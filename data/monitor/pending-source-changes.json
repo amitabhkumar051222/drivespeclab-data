@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T09:04:33+00:00",
+  "generated": "2026-10-25T09:21:25+00:00",
   "count": 82,
   "changes": [
     {
@@ -8,9 +8,9 @@
       "model": "",
       "kind": "brand",
       "previous_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "new_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
+      "new_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-24T09:04:33+00:00"
+      "last_changed_at": "2026-10-25T09:21:25+00:00"
     },
     {
       "url": "https://www.rangerover.com/en-us/range-rover-evoque/models-and-specifications.html",
@@ -176,9 +176,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "f7c84dda0bb7c28150dc28b97a1a03d081cebc48907d1f0e6ff4c2d79f72e543",
+      "new_fingerprint": "eba4b4c30223664a422a36fb844d596c1616fe3db4a04c3c5d51a89a9c93e968",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-24T09:04:33+00:00"
+      "last_changed_at": "2026-10-25T09:21:25+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -186,9 +186,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "ae97ce17507dcb2101aab8b73bd59d9b38dde72e76f7d53f434642592adf6dff",
+      "new_fingerprint": "ffeaa487c2608a4512c403f6e6010a8a06ebde868151094272f62918ef8cbe24",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-24T09:04:33+00:00"
+      "last_changed_at": "2026-10-25T09:21:25+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -567,9 +567,9 @@
       "model": "GLE SUV",
       "kind": "model",
       "previous_fingerprint": "fad28bbf89a5c3f9b451ab1f9aff40321f473d2c2c3367fd09a3404c025192ef",
-      "new_fingerprint": "328674ea9c53c4139d622cbf938d60cc1d6501a671122a2f57c8ee5a4c156dd8",
+      "new_fingerprint": "fad28bbf89a5c3f9b451ab1f9aff40321f473d2c2c3367fd09a3404c025192ef",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-24T09:04:33+00:00"
+      "last_changed_at": "2026-10-25T09:21:25+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/gls/suv",
@@ -587,9 +587,9 @@
       "model": "EQB",
       "kind": "model",
       "previous_fingerprint": "e93135ad15847ed1410e37a89cad24dffd88cda5ffb94a0a7b6b96d6c9343789",
-      "new_fingerprint": "9b2a8c62457a3217f6da07e1fc8843b04a44ddeba6382202e4a336e9c674e3a3",
+      "new_fingerprint": "e93135ad15847ed1410e37a89cad24dffd88cda5ffb94a0a7b6b96d6c9343789",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-24T09:04:33+00:00"
+      "last_changed_at": "2026-10-25T09:21:25+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/eqs/suv",
@@ -740,9 +740,9 @@
       "model": "EQE Sedan",
       "kind": "model",
       "previous_fingerprint": "56aa6f1d36edb89973283560aece4c8ea4c398fe811004406dbabbdb0aa03cfe",
-      "new_fingerprint": "b50ad2bbea51b647d60fe94140f0d0c43373316a947104346ea5279dd11d6caa",
+      "new_fingerprint": "e03746a064703a086ac6af9f24d8a470ff8934727c42f3c5014f5aa182076d25",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-10-24T09:04:33+00:00"
+      "last_changed_at": "2026-10-25T09:21:25+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/c-class/sedan",
@@ -750,9 +750,9 @@
       "model": "C-Class",
       "kind": "model",
       "previous_fingerprint": "60e120bb749f951650d5acff40464c0785f6d8b49d069c4df469bed2921e8b2a",
-      "new_fingerprint": "da3a781ab1d80d6aa26f4665d0dc69e87c3d4c5931e9e83bf29c18371c87ed54",
+      "new_fingerprint": "60e120bb749f951650d5acff40464c0785f6d8b49d069c4df469bed2921e8b2a",
       "detected_at": "2026-10-24T09:04:33+00:00",
-      "last_changed_at": "2026-10-24T09:04:33+00:00"
+      "last_changed_at": "2026-10-25T09:21:25+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/amg-gt/coupe",
@@ -760,9 +760,9 @@
       "model": "AMG GT Coupe",
       "kind": "model",
       "previous_fingerprint": "cb84e603088855abe108a9b1eb3019b751540c5c7fd867d9c129cf2888e34263",
-      "new_fingerprint": "9a6913f2c49aa208253252329dda18d0a8cf3349e3dff801bc2408b86e9ebd6e",
+      "new_fingerprint": "cb84e603088855abe108a9b1eb3019b751540c5c7fd867d9c129cf2888e34263",
       "detected_at": "2026-10-24T09:04:33+00:00",
-      "last_changed_at": "2026-10-24T09:04:33+00:00"
+      "last_changed_at": "2026-10-25T09:21:25+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/sl/roadster",
@@ -770,9 +770,9 @@
       "model": "SL Roadster",
       "kind": "model",
       "previous_fingerprint": "0a72ab0841afe04d302a22f4016e6c1c4bcdba6383a2e660c0bf5fddb9c8ba76",
-      "new_fingerprint": "0aa5fea02472c8482e3b5c6977e186f9553b72cbab6029a63b6dfffbe36017c4",
+      "new_fingerprint": "0a72ab0841afe04d302a22f4016e6c1c4bcdba6383a2e660c0bf5fddb9c8ba76",
       "detected_at": "2026-10-24T09:04:33+00:00",
-      "last_changed_at": "2026-10-24T09:04:33+00:00"
+      "last_changed_at": "2026-10-25T09:21:25+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv",
@@ -780,9 +780,9 @@
       "model": "Mercedes-Maybach EQS SUV",
       "kind": "model",
       "previous_fingerprint": "358f52c58bc5a1e268d2781f2335c2418bbe30452c1e856ce3e8cfc8783d50d2",
-      "new_fingerprint": "289968221d6308adeb40dcf9618e35746246287f02f91dd1b63b5136686b07fe",
+      "new_fingerprint": "358f52c58bc5a1e268d2781f2335c2418bbe30452c1e856ce3e8cfc8783d50d2",
       "detected_at": "2026-10-24T09:04:33+00:00",
-      "last_changed_at": "2026-10-24T09:04:33+00:00"
+      "last_changed_at": "2026-10-25T09:21:25+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/outback/2026.html",

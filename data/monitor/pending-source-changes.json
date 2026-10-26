@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-25T09:21:25+00:00",
-  "count": 82,
+  "generated": "2026-10-26T10:27:42+00:00",
+  "count": 83,
   "changes": [
     {
       "url": "https://en.byd.com/",
@@ -8,9 +8,9 @@
       "model": "",
       "kind": "brand",
       "previous_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "new_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "new_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-25T09:21:25+00:00"
+      "last_changed_at": "2026-10-26T10:27:42+00:00"
     },
     {
       "url": "https://www.rangerover.com/en-us/range-rover-evoque/models-and-specifications.html",
@@ -176,9 +176,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "eba4b4c30223664a422a36fb844d596c1616fe3db4a04c3c5d51a89a9c93e968",
+      "new_fingerprint": "2b71765f63ad880b16ac4d8bad2033c3cf31d237aee7a73be6bbef48f99a7206",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-25T09:21:25+00:00"
+      "last_changed_at": "2026-10-26T10:27:42+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -186,9 +186,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "ffeaa487c2608a4512c403f6e6010a8a06ebde868151094272f62918ef8cbe24",
+      "new_fingerprint": "bf2ae712af818147abcdcbf586231df86e5253ccfdc4e54ffe06401eb305e601",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-25T09:21:25+00:00"
+      "last_changed_at": "2026-10-26T10:27:42+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -547,9 +547,9 @@
       "model": "E-Class Wagon",
       "kind": "model",
       "previous_fingerprint": "09aa9c7b04561296d87b4db703159ef1f8f9073441d5d78e425513bf24a5fc47",
-      "new_fingerprint": "09aa9c7b04561296d87b4db703159ef1f8f9073441d5d78e425513bf24a5fc47",
+      "new_fingerprint": "c8c833d49a44b630b46fc2a400a9db5ac59c81bb2006254220502f10b4055eb2",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-23T09:31:34+00:00"
+      "last_changed_at": "2026-10-26T10:27:42+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/gla/suv",
@@ -629,9 +629,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "previous_fingerprint": "dfcd94edec82ac54edd101d76ca0449855837381368dbe3e3911f7d8628f8aa8",
-      "new_fingerprint": "a70ac871a1a64b63467908cd5bc8f1da11a1e6bf9bb324bfb55db915d1743225",
+      "new_fingerprint": "d9d849a487a8a13c3ef48ae9dcb311ca49b740fda02355c7e6fbba79d293203d",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-24T09:04:33+00:00"
+      "last_changed_at": "2026-10-26T10:27:42+00:00"
     },
     {
       "url": "https://www.vw.com/en/models.html",
@@ -803,6 +803,16 @@
       "new_fingerprint": "ae758284dbe9ac870aa4ab8269f709946150c7c1ea500f7119bd750c0318e5ee",
       "detected_at": "2026-10-24T09:04:33+00:00",
       "last_changed_at": "2026-10-24T09:04:33+00:00"
+    },
+    {
+      "url": "https://www.mbusa.com/en/vehicles/class/eqs/sedan",
+      "brand": "Mercedes-Benz",
+      "model": "EQS Sedan",
+      "kind": "model",
+      "previous_fingerprint": "8a34d98e8bc8f55086d4e70d35ebe55f1f15918b6b83fe3782d3b514da5fe2a0",
+      "new_fingerprint": "be2e4c9ced1406c35af9ccdf7d73f56060bab99852c03f4fbee1027b0c85152a",
+      "detected_at": "2026-10-26T10:27:42+00:00",
+      "last_changed_at": "2026-10-26T10:27:42+00:00"
     }
   ]
 }

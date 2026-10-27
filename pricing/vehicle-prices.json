@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "last_reviewed": "2026-10-27",
+  "currency": "USD",
+  "records": [
+    {
+      "brand": "Toyota",
+      "model": "Camry",
+      "model_year": 2026,
+      "trim": "LE",
+      "msrp_usd": 29600,
+      "destination_usd": null,
+      "msrp_source": "https://www.buyatoyota.com/home/vehicles/camry/2026/",
+      "destination_source": null,
+      "verified_on": null,
+      "status": "needs_reverification"
+    },
+    {
+      "brand": "Honda",
+      "model": "Civic Sedan",
+      "model_year": 2026,
+      "trim": "LX",
+      "msrp_usd": 24695,
+      "destination_usd": 1295,
+      "msrp_source": "https://hondanews.com/en-US/honda-automobiles/releases/release-bb136e6e7af7ccb6b0336e10d8112b0f-2026-honda-civic-sedan-pricing-and-epa-ratings-september",
+      "destination_source": "https://hondanews.com/en-US/honda-automobiles/releases/release-bb136e6e7af7ccb6b0336e10d8112b0f-2026-honda-civic-sedan-pricing-and-epa-ratings-september",
+      "verified_on": null,
+      "status": "needs_reverification"
+    }
+  ]
+}

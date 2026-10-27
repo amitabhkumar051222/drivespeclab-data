@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-26T10:27:42+00:00",
-  "count": 83,
+  "generated": "2026-10-27T10:00:32+00:00",
+  "count": 84,
   "changes": [
     {
       "url": "https://en.byd.com/",
@@ -8,9 +8,9 @@
       "model": "",
       "kind": "brand",
       "previous_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "new_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
+      "new_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-26T10:27:42+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.rangerover.com/en-us/range-rover-evoque/models-and-specifications.html",
@@ -18,9 +18,9 @@
       "model": "Range Rover Evoque",
       "kind": "model",
       "previous_fingerprint": "38958f6ca19c882904133d75ec73c60daa80cab36f16a1f4f5571868ddc4536f",
-      "new_fingerprint": "1b7f500d47e9956bfb753d95c837c18b920330c455c02ed152e9d7990387a3fe",
+      "new_fingerprint": "eada5e45cbe464f077e46661a69a7029cfe56e428e303fd45f6ec3a7b2fd0715",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-23T09:31:34+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
@@ -176,9 +176,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "2b71765f63ad880b16ac4d8bad2033c3cf31d237aee7a73be6bbef48f99a7206",
+      "new_fingerprint": "295bb0bf907826f6a9a4cd12786f97a15e843b1fa19a9624a33e9616f700dbc1",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-26T10:27:42+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -186,9 +186,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "bf2ae712af818147abcdcbf586231df86e5253ccfdc4e54ffe06401eb305e601",
+      "new_fingerprint": "bdfb5ddc7a214091bd24900eae89ea4d726ae1b994ef1de1b81a95763ac8bd1b",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-26T10:27:42+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -196,8 +196,9 @@
       "model": "bZ",
       "kind": "model",
       "previous_fingerprint": "4f206924ef98e071ef31bdbb96623932b31b11c3659909b8ee8b8c35f268d69c",
-      "new_fingerprint": "bc654b2e0f5ed854ad83cbd06dc28ccf38a14ae4064922b93f3b40a4013d62d7",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "8facaa8837fa9c60c8705e99a84dc605d83783a2c7553121cd0d1289850920d9",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bzwoodland/2027",
@@ -205,8 +206,9 @@
       "model": "bZ Woodland",
       "kind": "model",
       "previous_fingerprint": "42bb45ce57d302cef844b494fc0313907dd33e8ce2e92575172442d1b6d9630a",
-      "new_fingerprint": "98239ab2bb675513f7bc60f83712fb9f5df94fba026028a016060a6f49e9ce66",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "61b3cd86ba5d2886d3b0e0717c1c77ebb0529abec6347c33c16913419ae375ca",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/chr/2027",
@@ -214,8 +216,9 @@
       "model": "C-HR",
       "kind": "model",
       "previous_fingerprint": "e6c2f4f8c6d77a0934e32db19ae58f58a67523de71cd50f16486c2f372858ba2",
-      "new_fingerprint": "2edf045fefa2365599cd4f5f5184eaf88f2ca263564e10c614e7ef69d2f2fd35",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "0c6a2106da1774904b6f593cf3caa7b65034ecee87107d3dac4464d1735b0af6",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.toyota.com/camry/",
@@ -223,8 +226,9 @@
       "model": "Camry",
       "kind": "model",
       "previous_fingerprint": "1053cff964e0013806d373615aa4acb2975e6344db2ac4edc2c536be80329cc0",
-      "new_fingerprint": "404785fceca3fca410d2b637d01a2da894fb088f5135fb77608f38c103d0c91a",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "a66b7fad8885b9551aa3e80f1b317c134f2fc47638e4e7995f9c70e7721586d5",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/corolla/2027",
@@ -232,9 +236,9 @@
       "model": "Corolla",
       "kind": "model",
       "previous_fingerprint": "75488d22867c9ca52da511d8c25111002b45c37d366dcf4d29516c963ab71a37",
-      "new_fingerprint": "1dd1449d527a18604fae9fa9e90042196a2dd73858544fae495b49d888473a38",
+      "new_fingerprint": "c167465ee01b15b4eb04c091e122b41872aeb29ebaa1570fb61787ff934f6299",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-22T09:35:17+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/corollahatchback/2027",
@@ -242,9 +246,9 @@
       "model": "Corolla Hatchback",
       "kind": "model",
       "previous_fingerprint": "ce463b73812b4367c53469f967c71290b4802208c08eef814b7d68052de63126",
-      "new_fingerprint": "b0a4655d96bc2f479368d07e17f8872791230911386b092bd4125b41dfcf71c6",
+      "new_fingerprint": "b73c00522b40a4ca6babdc63ea5c0f62fc5d6c7813a4d1a412b56f686fde0d0c",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-22T09:35:17+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.toyota.com/grsupra/",
@@ -252,8 +256,9 @@
       "model": "GR Supra",
       "kind": "model",
       "previous_fingerprint": "5134762d28172522403b5ed1ad6c71a6b7ae5704917af10df35144d4ecf91c25",
-      "new_fingerprint": "f83d5828e87fc01334d01f81ca9596eba11a24ff02abd6a8d29e3802ebc43418",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "e88c5e3bd3362fb02bad0837d015a92dcd54083a4b4448d4ae4e5d7d1faff110",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/gr86/2027",
@@ -261,8 +266,9 @@
       "model": "GR86",
       "kind": "model",
       "previous_fingerprint": "69260fac2d5b177a2f84221c0573d7ddf144d54223df29ee7ecc072578ddaa3c",
-      "new_fingerprint": "2f66a2d8204217201ace9bb53d252bdbf04e2edec159148fb5271717b5959d59",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "0e4f1b5c4840eabb2d33ad4a704e94e4da459d6c3519223267c4b3c5b4ae6f8c",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.toyota.com/landcruiser/",
@@ -270,8 +276,9 @@
       "model": "Land Cruiser",
       "kind": "model",
       "previous_fingerprint": "c387d81ee73b294dae9e9fe390087b1e22781604d3dd60bc82e1e4e46c6ddff7",
-      "new_fingerprint": "de4884bb82e0fa4457395c93c73f3137da27bfe069df0946a98074e8a0b0dd9b",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "02fe17820d22852b1f01c827d1db330bf99d400e347fec7dae0ce07cc8a0b9d4",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.toyota.com/prius/",
@@ -279,8 +286,9 @@
       "model": "Prius",
       "kind": "model",
       "previous_fingerprint": "ff49189637bce58017638808ade3add8b755f9ae73b2edf2e5e0f25c235df0c8",
-      "new_fingerprint": "80148614ddd0eefcf08f098a313630ccc806f1b417dc44d0eb63e2782b001a6f",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "910112075d0309e1709bdb3b2163195eb01423a64f63188646a5d3a9f5c1436e",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.toyota.com/priuspluginhybrid/",
@@ -288,9 +296,9 @@
       "model": "Prius Plug-in Hybrid",
       "kind": "model",
       "previous_fingerprint": "a1b19c1ce975fd792c76acdb3e8f13ec5acf0c9f3caaa8fb84fe9ec7ea1615d0",
-      "new_fingerprint": "bd64854f899a53bf02566ee171f458a4c1a7c775744a6881fc8f187add93e4b2",
+      "new_fingerprint": "3cf66951a54117fb36ad7491958efc29fccfaaebc768ad1c99e08c18438f90b4",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-22T09:35:17+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/toyotacrown/2027",
@@ -298,8 +306,9 @@
       "model": "Toyota Crown",
       "kind": "model",
       "previous_fingerprint": "92ac9154440c6f15a1aa84a361a144548281c6c02ec91447482a009341d6b7c1",
-      "new_fingerprint": "46fcce282c8c4d33574e69cd38bf050a1b6818cb1a779c94443b4c5ddad551b0",
-      "detected_at": "2026-10-21T09:34:25+00:00"
+      "new_fingerprint": "6fdde23d2647235d004b8f52a25460ea99d3c3ac4fc2b35b38b65d9e93f033cf",
+      "detected_at": "2026-10-21T09:34:25+00:00",
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.chevrolet.com/vehicles",
@@ -357,9 +366,9 @@
       "model": "Wrangler",
       "kind": "model",
       "previous_fingerprint": "2c9db9baa09f3eac49abb6472204a8b35ca21964c278c2f8ea839914ae66ee0d",
-      "new_fingerprint": "6026a6e9437ebfa5c41a078a9be10c3f9e4e042f7fcb767a01e10773a4560cb2",
+      "new_fingerprint": "d2a1e2c279754750f5bae81415a1a3b15ec67e398e8b1a436676741604a7d19c",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-22T09:35:17+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.jeep.com/wrangler-4xe.html",
@@ -367,9 +376,9 @@
       "model": "Wrangler 4xe",
       "kind": "model",
       "previous_fingerprint": "2c9db9baa09f3eac49abb6472204a8b35ca21964c278c2f8ea839914ae66ee0d",
-      "new_fingerprint": "6026a6e9437ebfa5c41a078a9be10c3f9e4e042f7fcb767a01e10773a4560cb2",
+      "new_fingerprint": "d2a1e2c279754750f5bae81415a1a3b15ec67e398e8b1a436676741604a7d19c",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-22T09:35:17+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.jeep.com/grand-cherokee.html",
@@ -397,9 +406,9 @@
       "model": "Cherokee",
       "kind": "model",
       "previous_fingerprint": "3fb3948ef52a252d159d272cbc78691bd96bea357533921e31094cb80d0bc06d",
-      "new_fingerprint": "012f70d122408661e1b87206bd9c1bc557587424c83e049ac51a19cfb4a776eb",
+      "new_fingerprint": "a3855f8d68ef3b45ffee65315af873c67c94a7386a72e85123a80b4232c2057a",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-22T09:35:17+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.jeep.com/wagoneer.html",
@@ -417,9 +426,9 @@
       "model": "Grand Wagoneer",
       "kind": "model",
       "previous_fingerprint": "16c4c62795b0ebf3713842319e94d3c54e37a057d3e7cc87887d5a9c3581cdf3",
-      "new_fingerprint": "ca893b33ad62335414b88efcf44f1385691242bcaac72479f098d6eabafa586e",
+      "new_fingerprint": "2725e195ba4b40ea9ae6de89db5babe518cbe03fc56b51d96c48bcc19976b0f8",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-22T09:35:17+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.jeep.com/wagoneer-s.html",
@@ -427,9 +436,9 @@
       "model": "Wagoneer S",
       "kind": "model",
       "previous_fingerprint": "9d60688c19881339f539e5fca61320f6f6e56614fa666c86a22779a3d80fa2c6",
-      "new_fingerprint": "a4fe67c8cfa51d47bf923c895d0dede5c8817bc48b051721746f8914237db033",
+      "new_fingerprint": "a3ae75c2648de2391cd08a0a42fb07325213b1ab52d6f0dc8eeece1c2ce93b76",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-22T09:35:17+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.jeep.com/recon.html",
@@ -547,9 +556,9 @@
       "model": "E-Class Wagon",
       "kind": "model",
       "previous_fingerprint": "09aa9c7b04561296d87b4db703159ef1f8f9073441d5d78e425513bf24a5fc47",
-      "new_fingerprint": "c8c833d49a44b630b46fc2a400a9db5ac59c81bb2006254220502f10b4055eb2",
+      "new_fingerprint": "09aa9c7b04561296d87b4db703159ef1f8f9073441d5d78e425513bf24a5fc47",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-26T10:27:42+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/gla/suv",
@@ -629,9 +638,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "previous_fingerprint": "dfcd94edec82ac54edd101d76ca0449855837381368dbe3e3911f7d8628f8aa8",
-      "new_fingerprint": "d9d849a487a8a13c3ef48ae9dcb311ca49b740fda02355c7e6fbba79d293203d",
+      "new_fingerprint": "a70ac871a1a64b63467908cd5bc8f1da11a1e6bf9bb324bfb55db915d1743225",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-26T10:27:42+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.vw.com/en/models.html",
@@ -650,9 +659,9 @@
       "model": "Range Rover",
       "kind": "model",
       "previous_fingerprint": "49d64bc44cdc60c7239c31cbeea2c706a00386b9c2c2bc8a5ee67be9e8204e89",
-      "new_fingerprint": "add109c3c64eae5072927ce849a139616d2b9b44b0a9a6ab3e7ba5c73d89e4d5",
+      "new_fingerprint": "53218ee6f61cd9cd8b24f88de51e3c8c43b25e7263499c27a401b5e084c65036",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-10-23T09:31:34+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.rangerover.com/en-us/range-rover-sport/models-and-specifications.html",
@@ -660,9 +669,9 @@
       "model": "Range Rover Sport",
       "kind": "model",
       "previous_fingerprint": "0a23a2bda145c0394b84bfda8000bd60fcd4129d7c7cdfce1915bab7e897ae04",
-      "new_fingerprint": "466e4feb6a58e1cf9ab9fb7523528900826677fb0fb05a823a28099d08173fc1",
+      "new_fingerprint": "8781549231f3adfd48edaa17049bbc5a97ea1b9e1d5a7c80c72ebf87a79637c7",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-10-23T09:31:34+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.rangerover.com/en-us/range-rover-velar/models-and-specifications.html",
@@ -670,9 +679,9 @@
       "model": "Range Rover Velar",
       "kind": "model",
       "previous_fingerprint": "c0c9c4a4300b4b42a716b79f77fd1ec78be3e3ec553cf66441757a2878783638",
-      "new_fingerprint": "c8083a8d66c3b2e43bf4bad629924987040827aceabb0d0a3511436462afd1b1",
+      "new_fingerprint": "fdbfe66ba122778ccb05f20e188bfab76490a23b56e4c172a151f11a50a54684",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-10-23T09:31:34+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     },
     {
       "url": "https://www.kia.com/us/en/niro",
@@ -810,9 +819,19 @@
       "model": "EQS Sedan",
       "kind": "model",
       "previous_fingerprint": "8a34d98e8bc8f55086d4e70d35ebe55f1f15918b6b83fe3782d3b514da5fe2a0",
-      "new_fingerprint": "be2e4c9ced1406c35af9ccdf7d73f56060bab99852c03f4fbee1027b0c85152a",
+      "new_fingerprint": "8a34d98e8bc8f55086d4e70d35ebe55f1f15918b6b83fe3782d3b514da5fe2a0",
       "detected_at": "2026-10-26T10:27:42+00:00",
-      "last_changed_at": "2026-10-26T10:27:42+00:00"
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
+    },
+    {
+      "url": "https://www.subaru.com/vehicles/wrx/2026.html",
+      "brand": "Subaru",
+      "model": "WRX",
+      "kind": "model",
+      "previous_fingerprint": "2fc9dd0f75955e02e1a10bb8ef069f21436f2f86e7657916e7a9f684e208a56a",
+      "new_fingerprint": "188c5ff6e81d1a67f65783d7d19757be329acedea03aa82c306c759b0e2d5659",
+      "detected_at": "2026-10-27T10:00:32+00:00",
+      "last_changed_at": "2026-10-27T10:00:32+00:00"
     }
   ]
 }

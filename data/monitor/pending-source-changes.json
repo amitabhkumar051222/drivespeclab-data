@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-31T10:33:54+00:00",
+  "generated": "2026-11-01T11:27:39+00:00",
   "count": 165,
   "changes": [
     {
@@ -188,9 +188,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "6c8a7546ab332f6ff71f0446d6e8babce6a9d050f6c94c90807e015ea6330a63",
+      "new_fingerprint": "5adc84b2b78af56b44b4a1f88af1ad00b98c742db76d123cf9448deab3cf7729",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-31T10:33:54+00:00"
+      "last_changed_at": "2026-11-01T11:27:39+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -198,9 +198,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "34e7e6b000740113a8b3cafe3a36e2977c85a54bea00c25b647817bf535840ed",
+      "new_fingerprint": "1f90bb906b88daed2fd954babbc5b21baf1bb59951f249757aee0899efaba012",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-31T10:33:54+00:00"
+      "last_changed_at": "2026-11-01T11:27:39+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -641,9 +641,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "previous_fingerprint": "a995dbc3ad3d2bc2b0d1f0dcb5f854d94bac30b7cd894cc1ff1f3a24fa57be46",
-      "new_fingerprint": "653ac72ee105e97f7848498ef0193086acddaba46bcc128b5585acfb15c9874a",
+      "new_fingerprint": "4cb9f40a159fa1d00214581526f3ff582537ce78468473190ba3eaf8cf98be0a",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-10-28T10:46:54+00:00"
+      "last_changed_at": "2026-11-01T11:27:39+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/all-vehicles",
@@ -1436,9 +1436,9 @@
       "model": "Versa",
       "kind": "model",
       "previous_fingerprint": "aa757bc77af429ba8dce7a9c42fa868c29e665513a3b89171cee770983e3576a",
-      "new_fingerprint": "0d6a7efdcaca19fb03d3be3658562f73408b7130916b425547fa62b9471c1b43",
+      "new_fingerprint": "b376a7037afa523e1ff4f5a5fe9d8336d23f7eee8a6953296794c39ece4fe68f",
       "detected_at": "2026-10-29T11:03:34+00:00",
-      "last_changed_at": "2026-10-31T10:33:54+00:00"
+      "last_changed_at": "2026-11-01T11:27:39+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/cle/cabriolet",
@@ -1517,9 +1517,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "previous_fingerprint": "8014fb9b4700db4987e97b9e912e9ff4b3d503998ce4767b198fdc37a77e39f8",
-      "new_fingerprint": "08ad117e83a1d756c5990e6693da5410c54e3c88a7e28bda4b96d457898a72ef",
+      "new_fingerprint": "181ba666aeb75a20726edcd7b127864b780224a83f6d2eb155e63be810f43d51",
       "detected_at": "2026-10-29T11:03:34+00:00",
-      "last_changed_at": "2026-10-31T10:33:54+00:00"
+      "last_changed_at": "2026-11-01T11:27:39+00:00"
     },
     {
       "url": "https://www.ramtrucks.com/bmo.ram_1500_dt.html",

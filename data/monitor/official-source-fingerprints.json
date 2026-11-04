@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T12:17:25+00:00",
+  "generated": "2026-11-04T12:28:25+00:00",
   "count": 290,
   "sources": {
     "https://www.audiusa.com/en/models/q9/q9/2027/overview/": {
@@ -8,7 +8,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/q7/q7/2027/overview/": {
       "brand": "Audi",
@@ -16,7 +16,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/nuvolari/intro/": {
       "brand": "Audi",
@@ -24,7 +24,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/q3/q3/2027/overview/": {
       "brand": "Audi",
@@ -32,7 +32,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/q5/q5/2026/overview/": {
       "brand": "Audi",
@@ -40,7 +40,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/q8/q8/2027/overview/": {
       "brand": "Audi",
@@ -48,7 +48,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/a3/a3/2026/overview/": {
       "brand": "Audi",
@@ -56,7 +56,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/a5/a5/2026/overview/": {
       "brand": "Audi",
@@ -64,7 +64,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/a6/a6-sedan/2026/overview/": {
       "brand": "Audi",
@@ -72,7 +72,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/a7/rs7/2026/overview/": {
       "brand": "Audi",
@@ -80,7 +80,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/a8/a8-sedan/2027/overview/": {
       "brand": "Audi",
@@ -88,7 +88,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/q4/q4-e-tron/2026/overview/": {
       "brand": "Audi",
@@ -96,7 +96,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/q6-e-tron/q6-e-tron/2027/overview/": {
       "brand": "Audi",
@@ -104,7 +104,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/a6-e-tron/a6-sportback-e-tron/2027/overview/": {
       "brand": "Audi",
@@ -112,7 +112,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/e-tron-gt/rs-e-tron-gt/2027/overview/": {
       "brand": "Audi",
@@ -120,7 +120,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.gmc.com/suvs/terrain": {
       "brand": "GMC",
@@ -128,8 +128,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "e7e3f380be966a1baac845ae121c30f532fd26fbdf40b110faf2475ae44b50ce",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.gmc.com/suvs/previous-year/acadia": {
       "brand": "GMC",
@@ -137,35 +137,35 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "e5308a559a96e1d1feb80be0142a2170a87b0354488f35bdbcfa7b7abd32e4a2",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.gmc.com/suvs/yukon": {
       "brand": "GMC",
       "model": "Yukon",
       "kind": "model",
       "status": 200,
-      "fingerprint": "a6950aaec835a50c5ee79ef6ee5e97db0e535066db2f5126fa25b8cc1d2f7678",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "c74b510f471c287660b2d48f447d9c72209cb2357f065c1fcfca2d18fe3e277d",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.gmc.com/trucks/canyon": {
       "brand": "GMC",
       "model": "Canyon",
       "kind": "model",
       "status": 200,
-      "fingerprint": "cef9034083b3317103247e05047527263cca6e54bb02b90578e428fea71d712b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "26d9a57e248c685d3caeec0987a61a998ccec68de0dfefe1bd70b9d834875787",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.gmc.com/trucks/sierra/1500": {
       "brand": "GMC",
       "model": "Sierra 1500",
       "kind": "model",
       "status": 200,
-      "fingerprint": "154e2214ba8a42b9ef22d6f84758fabc5de6a32092d4a42396b592f722352b31",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "73a3341be81f16b5f72e82ed4fd9250656aeb5cbeb490856b29aea77b62136fa",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.gmc.com/trucks/sierra/2500hd-3500hd": {
       "brand": "GMC",
@@ -173,26 +173,26 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "4f20bfdbb05c73b4d9d2174d03a306cc82738b527640e9a231391ee16c7a6ffa",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.gmc.com/trucks/sierra-3500hd-chassis-cab": {
       "brand": "GMC",
       "model": "Sierra 3500HD Chassis Cab",
       "kind": "model",
       "status": 200,
-      "fingerprint": "022e4ed5e2a0a3d569185f664de3381e9b0283fda04fb0328f1ac75e693a1867",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "6fb5be8fbf2d6b421133b1d85eebdee3bb7ff4389c993a493914663a04027a4e",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.gmc.com/electric/sierra-ev": {
       "brand": "GMC",
       "model": "Sierra EV",
       "kind": "model",
       "status": 200,
-      "fingerprint": "f3eb94f8c7876af1bd8a6a417fa95e777d9b84205bfbcc07b7400671b81645e1",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "cae778be3af3a1e365b1dec38be5aaa8350d093b836970f16e29d36900aaa877",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.gmc.com/electric/hummer-ev/suv": {
       "brand": "GMC",
@@ -200,8 +200,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "802eaa7d25c46565f91648cb1fbeda5a69e8b4bee50ee7c74e1b02edd98180db",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.gmc.com/electric/hummer-ev/pickup-truck": {
       "brand": "GMC",
@@ -209,26 +209,26 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "bd879d96572b795abd6b7fa86d6e1998d8803b643c0d3e9b250c0e90b0461bd4",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.gmc.com/vans/previous-year/savana/cargo": {
       "brand": "GMC",
       "model": "Savana Cargo 2500",
       "kind": "model",
       "status": 200,
-      "fingerprint": "514ad0a60a2915ff4be79ae1daa1e5a4692ba7ffffc8c8d2e59f6e294d1c799d",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "4a31ec719483a1a7335974d0b7ff81855d71064c2f8f8c892c71d19c8b7060cb",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.gmc.com/vans/previous-year/savana/passenger": {
       "brand": "GMC",
       "model": "Savana Passenger 2500",
       "kind": "model",
       "status": 200,
-      "fingerprint": "b71920891c7da24545cad9d3e2b09938fe955df5796bd60c934d87e76c246573",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "dc1451fbdd7c05f2bf0475fbfd2b019571848824b30b384e57508a50465c2a68",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.lexus.com/models/ES": {
       "brand": "Lexus",
@@ -236,8 +236,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "0047ec9c212f1e42f46f8cdd955e149a07d4b365a95f5590ef6200064606fbd2",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://pressroom.lexus.com/2026-lexus-is-perfecting-the-sport-sedan/": {
       "brand": "Lexus",
@@ -245,8 +245,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "8c18426dc17f86e03a486270cfa75150e0dc25379a01e9fc7f527c9601109dd3",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://pressroom.lexus.com/tangible-elegance-the-2026-lexus-lc-500/": {
       "brand": "Lexus",
@@ -254,8 +254,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "865ab75cbb2f722a4a637416a28046d4b5819f694bb0ed8abaab7ad7e692315c",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://pressroom.lexus.com/2026-lexus-ls-a-homage-to-the-original/": {
       "brand": "Lexus",
@@ -263,8 +263,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "4109711bc72eab113034aab01cfb9323788f38428b8a90a53c7cc2ca65c4b778",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://pressroom.lexus.com/2026-lexus-ux-300h-a-powerful-hybrid-hatchback/": {
       "brand": "Lexus",
@@ -272,8 +272,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "be18eb3603a1d980d3b21e03de4ec6f92bf8cec1ff1e9e39a79e9162dfbe607b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://pressroom.lexus.com/2026-lexus-nx-adds-grades-and-drivetrain/": {
       "brand": "Lexus",
@@ -281,8 +281,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "9d2f9d73b26797730b2e9880fa985cddbaee7c0a9cdc4229ed1495fe6504f302",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://pressroom.lexus.com/2026-lexus-rx-extending-the-range/": {
       "brand": "Lexus",
@@ -290,8 +290,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "b73db460859ae9459917a463ff6c8ec108647dfe598972190b2f5e266b2e406a",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://pressroom.lexus.com/2026-lexus-rz-adds-more-power-and-performance-2/": {
       "brand": "Lexus",
@@ -299,8 +299,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "6d57e66ba8fed08bdbd2aa9bb6bfb7df9dd3857a246de3f1fe93811f34f8837a",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://pressroom.lexus.com/style-utility-and-comfort-the-2026-lexus-tx/": {
       "brand": "Lexus",
@@ -308,8 +308,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "c136006e5522230196c550d20215f9a39099e41f3bf4343c376949077df5dd47",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://pressroom.lexus.com/2026-lexus-gx/": {
       "brand": "Lexus",
@@ -317,8 +317,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "17ad1c11d3b6e94f3a321793a17d681fcd0452e7f2a090da70b7e2adfc00e19c",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://pressroom.lexus.com/lexus-flagship-suv-returns-for-2026-with-an-f-sport-appearance-package/": {
       "brand": "Lexus",
@@ -326,8 +326,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "1afd3e4a3efeec4cf9cf6e8971d75bee031eec66099e585c78119a6980d19f3b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://pressroom.lexus.com/whats-new-for-2026/": {
       "brand": "Lexus",
@@ -335,44 +335,44 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "a7bc21c1bdc98f42f3dcd124b23f762d81f1ec275ef3c682795706fb82e7781d",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.rangerover.com/en-us/range-rover/models-and-specifications.html": {
       "brand": "Land Rover",
       "model": "Range Rover",
       "kind": "model",
       "status": 200,
-      "fingerprint": "1bfd8d5b818ed1e10317be5d231bcdd187ec4914f0a0e3ce50127e0fd00408ec",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "581d0a911a94e86571cc5c603676d7e1456d5a3af8668d94f4129301fb4415c1",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.rangerover.com/en-us/range-rover-sport/models-and-specifications.html": {
       "brand": "Land Rover",
       "model": "Range Rover Sport",
       "kind": "model",
       "status": 200,
-      "fingerprint": "8781549231f3adfd48edaa17049bbc5a97ea1b9e1d5a7c80c72ebf87a79637c7",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "f2bb1cff58017ea7198406ba3db7e71c7f6eeedb8835aab37d827b90ff1b261b",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.rangerover.com/en-us/range-rover-velar/models-and-specifications.html": {
       "brand": "Land Rover",
       "model": "Range Rover Velar",
       "kind": "model",
       "status": 200,
-      "fingerprint": "fdbfe66ba122778ccb05f20e188bfab76490a23b56e4c172a151f11a50a54684",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "31947573c541f5b4b5826fb29141b88d7e0944322182366d1bed15b2a92674fc",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.rangerover.com/en-us/range-rover-evoque/models-and-specifications.html": {
       "brand": "Land Rover",
       "model": "Range Rover Evoque",
       "kind": "model",
       "status": 200,
-      "fingerprint": "eada5e45cbe464f077e46661a69a7029cfe56e428e303fd45f6ec3a7b2fd0715",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "c19248c828a97c7d38096f7213de934fa247ac07b0b2d664a67e942b3286f903",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.landroverusa.com/build-your-own/defender.html": {
       "brand": "Land Rover",
@@ -380,8 +380,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "527ec6cc037ef48a990f908487bca3c6bc00b8006ddb9b103ecbc42d737251c5",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.landroverusa.com/discovery/discovery/models-and-specifications.html": {
       "brand": "Land Rover",
@@ -389,8 +389,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "724ed9bcd97b2006f5e302f0dad8d56c5590bf6907d301e9cda03ebbe2751c35",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.landroverusa.com/discovery/discovery-sport/models-and-specifications.html": {
       "brand": "Land Rover",
@@ -398,8 +398,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "9cfcbad5819a36646087f28e235669396aca2293dfc1ebffd5fe73887eab2d42",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.nissanusa.com/vehicles/crossovers-suvs/kicks/specs-trims.html": {
       "brand": "Nissan",
@@ -407,8 +407,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "278fec10b2b69d88c4ea404a1b16a97edb6d3982b1869efd39895662d4935a9d",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.nissanusa.com/vehicles/crossovers-suvs/rogue/specs-trims.html": {
       "brand": "Nissan",
@@ -416,8 +416,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "378c2fe1ffd24262034b12aaa700e421025baee93db2998594cb582eba87fa7e",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.nissanusa.com/vehicles/electric-cars/leaf/specs-trims.html": {
       "brand": "Nissan",
@@ -425,8 +425,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "adae1d3638e40527efd834a6b9bd50ffc3161e827a1c45bb3a4cb46eae50f893",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.nissanusa.com/vehicles/crossovers-suvs/pathfinder/specs-trims.html": {
       "brand": "Nissan",
@@ -434,8 +434,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "614c692fd92540577d69b41ca4d87f16bf5f5e5966ed03029faf7395c1d32e23",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.nissanusa.com/vehicles/crossovers-suvs/murano/specs-trims.html": {
       "brand": "Nissan",
@@ -443,8 +443,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "6fa69ee55e6fd3be269b869cd15d08f274d662d2ef585d0556a918213d6b4fda",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.nissanusa.com/vehicles/crossovers-suvs/rogue-plug-in-hybrid/specs-trims.html": {
       "brand": "Nissan",
@@ -452,17 +452,17 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "747b3dc4bc7aa18c5231f7daeb609baa5497ef098e0ddc5d1d616766524adab3",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html": {
       "brand": "Nissan",
       "model": "Armada",
       "kind": "model",
       "status": 200,
-      "fingerprint": "653d9b7f4dbd7ece9cc0745a169575defcb3c778ed473e64ffae2c2e9860285b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "704640509094597e9b6176d831b1df0d59832f8c9998a6a6202c7c122b560e81",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.nissanusa.com/vehicles/cars/versa-sedan/specs-trims.html": {
       "brand": "Nissan",
@@ -470,8 +470,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "0d6a7efdcaca19fb03d3be3658562f73408b7130916b425547fa62b9471c1b43",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.nissanusa.com/vehicles/cars/sentra/specs-trims.html": {
       "brand": "Nissan",
@@ -479,8 +479,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "48173e4f7185100c0d37c84194ee6ebaa5c937792ea9658ce52a43fa5cefc153",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.nissanusa.com/vehicles/cars/altima/specs-trims.html": {
       "brand": "Nissan",
@@ -488,8 +488,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "ba6faa10db3f7f41792165b39c6ce0220431137dd05ffa69764e786b3347a19b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.nissanusa.com/vehicles/trucks/frontier/specs-trims.html": {
       "brand": "Nissan",
@@ -497,8 +497,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "141ac1c2a7e83221237c2b8f9fee92c8e575c807ea9202ed25b96ef88dd4b05f",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.nissanusa.com/vehicles/sports-cars/nissan-z/specs-trims.html": {
       "brand": "Nissan",
@@ -506,8 +506,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "f61ef3a9203f83a4272b7de206160c3d5d7d477196665aeb39a746cbf2fba91f",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/suvs/trax": {
       "brand": "Chevrolet",
@@ -515,8 +515,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "31b742ae14718e48b8939b11ba58250bbbcb9e8e92149b9daafa572145b13077",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/suvs/trailblazer": {
       "brand": "Chevrolet",
@@ -524,8 +524,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "80d5e17059279a00338ee864683eabf68265606c1a2046ffa05f7ec63ed662f0",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/suvs/equinox": {
       "brand": "Chevrolet",
@@ -533,8 +533,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "9ddf9be342be73fbac1bb65b5d6d2847d28e13743d3208f7bad947bb7e67c590",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/suvs/blazer": {
       "brand": "Chevrolet",
@@ -542,8 +542,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "7aa93b676db9759727e8e21491dfb53bec799f9fdd51b04051a6e05800dde9d1",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/suvs/traverse": {
       "brand": "Chevrolet",
@@ -551,8 +551,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "c5f42738c9f565fb960711aa57c6135b7431ac1ca3ef7e34e55e2aebac87ed17",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/suvs/tahoe": {
       "brand": "Chevrolet",
@@ -560,8 +560,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "8fd997aa757078ca336fd229245150d9c3e4a5020d64c60bf572e4984effda8b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/suvs/suburban": {
       "brand": "Chevrolet",
@@ -569,8 +569,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "aca845ecaf28ffee2aea35443ea8e38ff801f777a3d5142019f2d8a4213afe5a",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/trucks/colorado": {
       "brand": "Chevrolet",
@@ -578,8 +578,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "3b0550c772b48485e3bee83e8bd69aca28e4cf2097078c2e4166a6ff0f1bfc49",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/trucks/silverado/1500": {
       "brand": "Chevrolet",
@@ -587,8 +587,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "ec6badda6215bd73ab305e8886f8458be548782328b9650e91ead6c7a2f5723d",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/trucks/silverado/2500hd-3500hd": {
       "brand": "Chevrolet",
@@ -596,8 +596,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "35e06975d214a9b7fa3b93e4f864718c1d3a3cb696369dff5e9720674f760713",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/electric/silverado-ev": {
       "brand": "Chevrolet",
@@ -605,8 +605,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "e5b5adc3aef009b0618a6598949d7d5b77d59cc9b25b5768a731432dea67c552",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/electric/equinox-ev": {
       "brand": "Chevrolet",
@@ -614,8 +614,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "b5fec02ff22ff7a28661890e6b92454039c9377267b790e5de5cfe2bc8d48431",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/electric/blazer-ev": {
       "brand": "Chevrolet",
@@ -623,8 +623,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "c31d4261ab66de34ae18e446787bdf297c100624c375ecb22906bb56676199aa",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/electric/bolt-ev": {
       "brand": "Chevrolet",
@@ -632,8 +632,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "ef926cbc1be6d658513d14ad733e31d378ba5614818091cf39f1693ea0856176",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/performance/corvette": {
       "brand": "Chevrolet",
@@ -641,8 +641,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "c623768afbdd49f744a24e340d32b7f82a3689250b02c55db5424d65ff1f9852",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.tesla.com/model3": {
       "brand": "Tesla",
@@ -650,7 +650,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.tesla.com/modely": {
       "brand": "Tesla",
@@ -658,7 +658,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.tesla.com/cybertruck/design": {
       "brand": "Tesla",
@@ -666,7 +666,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.acura.com/cars/integra/pricing-and-specs": {
       "brand": "Acura",
@@ -674,7 +674,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.acura.com/-/media/Files/Vehicles/ADX/2026/Acura-2026-ADX-Fact-Sheet.pdf": {
       "brand": "Acura",
@@ -682,7 +682,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.acura.com/suvs/rdx": {
       "brand": "Acura",
@@ -690,7 +690,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.acura.com/suvs/mdx/pricing-and-specs": {
       "brand": "Acura",
@@ -698,16 +698,16 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ramtrucks.com/bmo.ram_1500_dt.html": {
       "brand": "Ram",
       "model": "Ram 1500",
       "kind": "model",
       "status": 200,
-      "fingerprint": "05ad7ae609f06275e562cbd75f7493afce959f54d05f84f433bf9aac0b7994c3",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "eaf0478c61b9d9a001a8321bb992495ad7e1ecede56431c8fb0aecfebf9adec1",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ramtrucks.com/bmo.ram_2500.html": {
       "brand": "Ram",
@@ -715,17 +715,17 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "33d57e406d053eb5abbbc3605b8f488067cea81f71cb79bb8942961d6099ec76",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ramtrucks.com/bmo.ram_3500.html": {
       "brand": "Ram",
       "model": "Ram 3500",
       "kind": "model",
       "status": 200,
-      "fingerprint": "ac9f6bec121620f80b7eac7717e0f78a33a9e91533cedc3e57d449c42afa2599",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "b3d3f73f87f2931cb63aa32f61eee7207dff1afa0bc72391c528b7b942f1648d",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ramtrucks.com/bmo.ram_promaster.html": {
       "brand": "Ram",
@@ -733,17 +733,17 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "bb434c8aa808d067ca720801f393486438ac5dd1ec405d4f8f496450262bcb02",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ramtrucks.com/electric/ram-promaster-ev.html": {
       "brand": "Ram",
       "model": "Ram ProMaster EV",
       "kind": "model",
       "status": 200,
-      "fingerprint": "704c5ca5a87df3f60e71c79adbf0bd81c232fff92b678097c853b2cba166aca6",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "9f6e60a8218e74b01a983221b5a6cb11501ded40bc6daeabcf2519b56eb0bf07",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ramtrucks.com/ram-chassis-cab.html": {
       "brand": "Ram",
@@ -751,17 +751,17 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "37d9280994f3f2e2c2dc4aecc498f74f830345fde209aff668557efbd2f8528c",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ramtrucks.com/electric/1500-rev.html": {
       "brand": "Ram",
       "model": "Ram 1500 REV",
       "kind": "model",
       "status": 200,
-      "fingerprint": "2da55c39c5dae2a2511db47c530dbfa84c96d6e395b3a0bc67b60bd50343f0f0",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "6e0146379d97d2f745ac6564545b1a5689c4e767d0016a10f5656de8e8980b94",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.bmwusa.com/all-bmws.html": {
       "brand": "BMW",
@@ -769,7 +769,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.bmwusa.com/vehicles/7-series/sedan/bmw-7-series-sedan.html": {
       "brand": "BMW",
@@ -777,7 +777,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.bmwusa.com/vehicles/m-series/m3-series/bmw-m3-sedan.html": {
       "brand": "BMW",
@@ -785,7 +785,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/hr-v/specs-features-trim-comparison": {
       "brand": "Honda",
@@ -793,7 +793,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/cr-v/specs-features-trim-comparison": {
       "brand": "Honda",
@@ -801,7 +801,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/prologue": {
       "brand": "Honda",
@@ -809,7 +809,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=pilot&modelyear=2026": {
       "brand": "Honda",
@@ -817,7 +817,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/passport": {
       "brand": "Honda",
@@ -825,7 +825,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/cr-v-fcev/specs-features-trim-comparison": {
       "brand": "Honda",
@@ -833,7 +833,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/civic-sedan/specs-features-trim-comparison": {
       "brand": "Honda",
@@ -841,7 +841,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/civic-hatchback/specs-features-trim-comparison": {
       "brand": "Honda",
@@ -849,7 +849,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/civic-si-sedan/specs-features-trim-comparison": {
       "brand": "Honda",
@@ -857,7 +857,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/tools/build-and-price": {
       "brand": "Honda",
@@ -865,7 +865,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/accord-sedan/specs-features-trim-comparison": {
       "brand": "Honda",
@@ -873,7 +873,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/prelude/specs-features-trim-comparison": {
       "brand": "Honda",
@@ -881,7 +881,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/ridgeline/specs-features-trim-comparison": {
       "brand": "Honda",
@@ -889,7 +889,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/odyssey/specs-features-trim-comparison": {
       "brand": "Honda",
@@ -897,43 +897,43 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.jeep.com/wrangler.html": {
       "brand": "Jeep",
       "model": "Wrangler",
       "kind": "model",
       "status": 200,
-      "fingerprint": "79a2359d5231535eaf1a19c8f3f5ec10eeb2f079a40f675359737120265fbdd8",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "726f64b635d54f3ffbb6158de6f82eb708f4ee17cb568144ffc8ed2d4998be5d",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.jeep.com/wrangler-4xe.html": {
       "brand": "Jeep",
       "model": "Wrangler 4xe",
       "kind": "model",
       "status": 200,
-      "fingerprint": "79a2359d5231535eaf1a19c8f3f5ec10eeb2f079a40f675359737120265fbdd8",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "726f64b635d54f3ffbb6158de6f82eb708f4ee17cb568144ffc8ed2d4998be5d",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.jeep.com/gladiator.html": {
       "brand": "Jeep",
       "model": "Gladiator",
       "kind": "model",
       "status": 200,
-      "fingerprint": "741978b77d1d97126bb32528cfc54a83d877853261ad7f5fcf3b5133e783d60d",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "2204786d004b94fd9a9ba4493403c6b6a7659fec5fe84e153dd24ccbeacc61cc",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.jeep.com/grand-cherokee.html": {
       "brand": "Jeep",
       "model": "Grand Cherokee",
       "kind": "model",
       "status": 200,
-      "fingerprint": "73e7c5fdddff76818c2df042ac696522873e0952badefc9fa4bee0d0a629d690",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "94a39df92d13f3fc76b169e65312d31e0152c8854e91c56eeff529c764d6a276",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.jeep.com/grand-cherokee-4xe.html": {
       "brand": "Jeep",
@@ -941,25 +941,25 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.jeep.com/compass.html": {
       "brand": "Jeep",
       "model": "Compass",
       "kind": "model",
       "status": 200,
-      "fingerprint": "a61116061097c12153aa145b5189b3bf7f3cf2c29d804ca77bb92bf3278d4d7b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "9cb88e1330ffb11381c26d0f3fb3f23fbc34cd9a127eb1116c5fa4e18971c0ea",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.jeep.com/cherokee.html": {
       "brand": "Jeep",
       "model": "Cherokee",
       "kind": "model",
       "status": 200,
-      "fingerprint": "1b3ec21dee2d27dfe03a723afc5b612a8259e8bc4dec989df0704b545809710b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "41801cb3eb4dab6ceabf656917f69071dadaba4a2cefbd1636f38c979b0228c7",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.jeep.com/wagoneer.html": {
       "brand": "Jeep",
@@ -967,143 +967,143 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "2912843fea9812f4ab6f84a39e3b79187d6940c301eb7c195af41b23bbdcb912",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.jeep.com/grand-wagoneer.html": {
       "brand": "Jeep",
       "model": "Grand Wagoneer",
       "kind": "model",
       "status": 200,
-      "fingerprint": "20cb2c268c04e79f54f9e992fccb906dc9d05370eacf7924b111ccf634224e24",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "455070a83223f510edb227e9f3b680fdc1f70d56829b9f8ae7dc9902d60cf2bc",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.jeep.com/wagoneer-s.html": {
       "brand": "Jeep",
       "model": "Wagoneer S",
       "kind": "model",
       "status": 200,
-      "fingerprint": "4b9cebec68eb57e8db11bb0941a2868195847f787921f799d56345ea3e164705",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "c0a674d4035e6fbf9a92b686b48ceffe558cacfa51411191c19bcc20bef07f5e",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.jeep.com/recon.html": {
       "brand": "Jeep",
       "model": "Recon",
       "kind": "model",
       "status": 200,
-      "fingerprint": "2aed9482997d779abc84745d83c654cb4e8a0c1a4a463b56477f6934e8264790",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "1c4bc895b7bac344f6c49b3c366a585c7bfd0d00ac880c7e07753991c9872719",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mazdausa.com/vehicles/mazda3-sedan": {
       "brand": "Mazda",
       "model": "Mazda3 Sedan",
       "kind": "model",
       "status": 200,
-      "fingerprint": "d3b2ff6712592565b22e17e9b37e2f3fbc60d9cddf2fd7b2eb8c3a3471d37d80",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "ff2f80a5c88a9ea4b49f04c5be97409a4583e4380b0a952873e0af5ab69121fc",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mazdausa.com/vehicles/mazda3-hatchback": {
       "brand": "Mazda",
       "model": "Mazda3 Hatchback",
       "kind": "model",
       "status": 200,
-      "fingerprint": "84daa93b61a5e564840e55923ed32411e9742ec2cbf114690ee7dd085c7f742e",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "640b61966d3e54e060ef43f5d7f2323f51e572e201dedb30f67569cb11339c6c",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mazdausa.com/vehicles/mx-5-miata": {
       "brand": "Mazda",
       "model": "MX-5 Miata",
       "kind": "model",
       "status": 200,
-      "fingerprint": "44d1972efe8a02375a358aad3cb0bf1547dc4cda673e34c1ddd8d83e7ce27463",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "1492d51fda8e57108215a450d98c9266b0cc5a39a967b177af2400e79d75347e",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mazdausa.com/vehicles/mx-5-miata-rf": {
       "brand": "Mazda",
       "model": "MX-5 Miata RF",
       "kind": "model",
       "status": 200,
-      "fingerprint": "0a5c4e2bce6c87a5ac8789d1ad553f7f33e0edc227c588e73b0d5be266aaaf17",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "c85ed4a878bee03ac74f56e5b5c0365ba1d3beb063a371003fe2a253cfb42aff",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mazdausa.com/vehicles/cx-30": {
       "brand": "Mazda",
       "model": "CX-30",
       "kind": "model",
       "status": 200,
-      "fingerprint": "d078a04824093afc1bbdb29e6445d0b5173fc7bd44edaec519930c4370ae6c4e",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "a3ccfcce70f9b93e7ff28dbcac90df403d084aa3d52fe2896173f7ade4f03e97",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mazdausa.com/vehicles/cx-5": {
       "brand": "Mazda",
       "model": "CX-5",
       "kind": "model",
       "status": 200,
-      "fingerprint": "8a5bdab4a57762b0d504a1a7782356c3e8c3c9d1ed46291cbbd24d7e3f5532a1",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "39bfbf85fb66f955e61f92a1127a90367febb54034e98cc30db8bcce77c7fb1e",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mazdausa.com/vehicles/cx-50": {
       "brand": "Mazda",
       "model": "CX-50",
       "kind": "model",
       "status": 200,
-      "fingerprint": "e4b8e95dea6e613e17d8bce4a620106328e9070d909fcfad148e812a61314bb9",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "14d81b91bf505c0fee8c7412d5bbb003929522859918c12efa80baf514351a00",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mazdausa.com/vehicles/cx-50-hybrid": {
       "brand": "Mazda",
       "model": "CX-50 Hybrid",
       "kind": "model",
       "status": 200,
-      "fingerprint": "58fbc1a28ba2121bb5ec1aedc4233eea7cb11e6f93768e910bb3cf7d92f0d5db",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "74a9dfd2df1ccfb679fb27d3b13ddb88d9ebf92f34bb1ace257497a9a347de73",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mazdausa.com/vehicles/cx-70": {
       "brand": "Mazda",
       "model": "CX-70",
       "kind": "model",
       "status": 200,
-      "fingerprint": "6be1c4924b2619db13bab72ab8f1eeb488d34838d8bb5eb4e5791c3dc3cd84da",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "24f08baf38ffccb0cabf1ced3f1068f1739e65b6313b81b54b1df30d41436621",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mazdausa.com/vehicles/cx-70-phev": {
       "brand": "Mazda",
       "model": "CX-70 PHEV",
       "kind": "model",
       "status": 200,
-      "fingerprint": "b36ea595e9c47810828ba0fc330e7863530c64eb283144f03247a779cff0a625",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "56e71cefc11f795071037f4a2729655bc45ac18f71297332f59a5eaa2888ea5f",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mazdausa.com/vehicles/cx-90": {
       "brand": "Mazda",
       "model": "CX-90",
       "kind": "model",
       "status": 200,
-      "fingerprint": "83c21b1570eeea2c1576b0f202f57fe201f62ec3c501e7fe54e8283e78ad85ed",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "7c71b5ca8f0e97f2b1407e276b2070c5208557696b2b80672f775fc137ae0831",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mazdausa.com/vehicles/cx-90-phev": {
       "brand": "Mazda",
       "model": "CX-90 PHEV",
       "kind": "model",
       "status": 200,
-      "fingerprint": "b27acf12b4f6faffbde27c74329c515272506ad8fa99d69f5cfa3046110c4c00",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "3bc397fcbcb6ee8593000bd01736d6ebd2b8b4f59fad494c990b23029807cbf7",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.vw.com/en/builder.html/__app/atlas.app": {
       "brand": "Volkswagen",
@@ -1111,8 +1111,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "ef2ad8392959bf44e1505f21ebd22c5ea99c3063d1d74aa3259b7952ea21a517",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.vw.com/en/builder.html/__app/atlas-cross-sport.app": {
       "brand": "Volkswagen",
@@ -1120,8 +1120,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "f4e0f861d749cf63c298c81579f104ec795805ebbb18972c4dc5cf14740bf90f",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.vw.com/en/builder.html/__app/tiguan.app": {
       "brand": "Volkswagen",
@@ -1129,8 +1129,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "e0a3769c4977208af70c758238280abc1cf74007f4f0baef62fff2efb700c1fa",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.vw.com/en/builder.html/__app/taos.app": {
       "brand": "Volkswagen",
@@ -1138,8 +1138,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "c5373f899846954c82c68c4381eca570fc527c18b05f2281daa3dfc7936b4b6a",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.vw.com/en/builder.html/__app/id-4.app": {
       "brand": "Volkswagen",
@@ -1147,8 +1147,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "37c6d67d6f28c9c466e957619a75513230c249cf341a65c1dc27430bc72cd451",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.vw.com/en/builder.html/__app/jetta.app": {
       "brand": "Volkswagen",
@@ -1156,8 +1156,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "e178feeb69ab7f3e2d7e3c2677f16ce30178c86f865228a7eba7ccb9b42774c6",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.vw.com/en/builder.html/__app/jetta-gli.app": {
       "brand": "Volkswagen",
@@ -1165,8 +1165,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "3c25c2572091a392743d82a61677501225cc60e3495c573dd5662a1cec6a8d1c",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.vw.com/en/builder.html/__app/golf-r.app": {
       "brand": "Volkswagen",
@@ -1174,8 +1174,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "5d06449edf20535b3cfa693189cdbca33eefa27bfd3e9729614c3a3322e54bd7",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.vw.com/en/builder.html/__app/golf-gti.app": {
       "brand": "Volkswagen",
@@ -1183,8 +1183,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "88f9e367913b88c412dd265e9d2a18d66156b88d0fdf721a534b8c524cf13a55",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.vw.com/en/builder.html/__app/id-buzz.app": {
       "brand": "Volkswagen",
@@ -1192,8 +1192,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "1211a43130d24912ec80c0f0be24141af9ab9fc1dca0c1e6148410f74077dfd8",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mahindrausa.com/": {
       "brand": "Mahindra",
@@ -1201,8 +1201,8 @@
       "kind": "brand",
       "status": 200,
       "fingerprint": "4cf2dc5a05c76fd4dbd645de70ead9f53b0d01d73821c198590105e3d0cde535",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles/venue/compare-specs": {
       "brand": "Hyundai",
@@ -1210,8 +1210,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "14ae174a052eb401f9646566a92ac79bf5ec0f5a3d9dc64b2fb2f2dc4c5a7fac",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles/kona/compare-specs": {
       "brand": "Hyundai",
@@ -1219,8 +1219,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "0733a53c91282cdc713c946a4dfefd1016015f1b233b8380841b77b57a3e7344",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles/kona-electric/compare-specs": {
       "brand": "Hyundai",
@@ -1228,8 +1228,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "21015ea896ab0584f37019923cfe681d0cfe9c5a01136b1d82eabb4726b8f72f",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles/tucson/compare-specs": {
       "brand": "Hyundai",
@@ -1237,8 +1237,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "ee729ea8f90d5d4d86db2f79429a493b7ee720e3a41766aa237498b62d8b6f14",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles/santa-fe/compare-specs": {
       "brand": "Hyundai",
@@ -1246,8 +1246,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "6bbb82521a3e1f438e1c2d727c0c29e0947501682074171cbdc1dcb6bce908df",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles/palisade/compare-specs": {
       "brand": "Hyundai",
@@ -1255,8 +1255,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "b71002c30819f8189df3fa240a0240e86949daa71c13534d2f74b0f134e11749",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles/santa-cruz/compare-specs": {
       "brand": "Hyundai",
@@ -1264,8 +1264,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "c404115646a5e818878abc2cd6887ede1e129d9eaf6d8d4735a5dead6e64967b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles/elantra/compare-specs": {
       "brand": "Hyundai",
@@ -1273,8 +1273,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "d8f009cd9608126b6f67356039496a81e6fbcaa475b5f8b00d27b82a0c64da94",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles/sonata/compare-specs": {
       "brand": "Hyundai",
@@ -1282,8 +1282,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "c9a65378948fdb55401a8b97d07edce490109cbf19e8c8324d8e530f078262fb",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5/compare-specs": {
       "brand": "Hyundai",
@@ -1291,8 +1291,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "dcde44dc4de6dedc74516d5dfbe0959a5ca877a7c2e663133b6b7016b0be77a3",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n": {
       "brand": "Hyundai",
@@ -1300,8 +1300,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "f60a9c7a1bbd0ebd7e634f7c76a82334765b902f1dfcaf59ae7b625f938e4235",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles/ioniq-6/compare-specs": {
       "brand": "Hyundai",
@@ -1309,8 +1309,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "6563be3a4776d4c954edcb28c955d1877e93e4695e78dba99f8d75c187ac0000",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles/ioniq-9/compare-specs": {
       "brand": "Hyundai",
@@ -1318,8 +1318,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "aec06455245b954cdae2046471edb5c3acc507bd8bd1c669c165cee6f3df5087",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kia.com/us/en/telluride/specs-compare": {
       "brand": "Kia",
@@ -1327,8 +1327,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "c7759bf0cf744294e61605e475e117eac4a7f58394e37ec932cdd7642f04b18b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kia.com/us/en/ev6": {
       "brand": "Kia",
@@ -1336,8 +1336,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "4dff12924aa1608fd8eec871d074bf9d7c245e39a9120facaec961a6f2de335b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kia.com/us/en/carnival-mpv": {
       "brand": "Kia",
@@ -1345,8 +1345,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "74b76295e5a9499a2fb251f1c11e6478eca325e607536bd36f849c9a49ca40e8",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kia.com/us/en/sorento/specs-compare": {
       "brand": "Kia",
@@ -1354,8 +1354,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "886dd922524730a497014efc52522501838af3ada8b5b54f584cf65d817171e9",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kia.com/us/en/ev9/specs-compare": {
       "brand": "Kia",
@@ -1363,8 +1363,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "e44462a4a32df62a786375e44e1ad1df2b2148b033e8cf78ccf111be7f5cd5e9",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kia.com/us/en/niro": {
       "brand": "Kia",
@@ -1372,8 +1372,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "b479501e910fcbb293ab210d697b9991a3ec842416be5b9953de03cb5a7c4e77",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kia.com/us/en/niro-ev": {
       "brand": "Kia",
@@ -1381,8 +1381,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "5704cbc2dbd51139a48ff8620f056cee45fa0be3e0416da7e7c247ed6afd7d25",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kiamedia.com/us/en/media/pressreleases/25004/kia-announces-pricing-for-2027-ev3": {
       "brand": "Kia",
@@ -1390,7 +1390,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kia.com/us/en/sportage-hybrid": {
       "brand": "Kia",
@@ -1398,8 +1398,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "4912910ca869be6579cb9265f17232dddbb3bbebe8fc1e8a736cf8f857bd4ff4",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kia.com/us/en/k5": {
       "brand": "Kia",
@@ -1407,8 +1407,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "7719098b41a584fe4b5bbaf2a938669c281aacd144cb185ca9a33f19035da434",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kiamedia.com/us/en/models/k4/2026/pricing": {
       "brand": "Kia",
@@ -1416,7 +1416,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kiamedia.com/us/en/models/k4-hatchback/2026/pricing": {
       "brand": "Kia",
@@ -1424,7 +1424,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kiamedia.com/us/en/models/seltos/2027/pricing": {
       "brand": "Kia",
@@ -1432,25 +1432,25 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/cla/sedan": {
       "brand": "Mercedes-Benz",
       "model": "CLA",
       "kind": "model",
       "status": 200,
-      "fingerprint": "5732d1c926af85b2c6ecf639092cd97d140eb37218075386b3231d48df9f61c6",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "ef46e977ebd5c49d1f4a6d6a156bc3f9d84d68d3ba478b16de9278c29ef8162a",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/c-class/sedan": {
       "brand": "Mercedes-Benz",
       "model": "C-Class",
       "kind": "model",
       "status": 200,
-      "fingerprint": "60e120bb749f951650d5acff40464c0785f6d8b49d069c4df469bed2921e8b2a",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "da3a781ab1d80d6aa26f4665d0dc69e87c3d4c5931e9e83bf29c18371c87ed54",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/e-class/sedan": {
       "brand": "Mercedes-Benz",
@@ -1458,8 +1458,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "0cceaa108f71814e33896bb4cf62217930b3a564d6997f75cf80069170993ea4",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/s-class/sedan": {
       "brand": "Mercedes-Benz",
@@ -1467,8 +1467,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "153501aae648c32dca325b05743b14fd35b87e88fa39abff8b9518ab0f088056",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/e-class/wagon": {
       "brand": "Mercedes-Benz",
@@ -1476,8 +1476,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "09aa9c7b04561296d87b4db703159ef1f8f9073441d5d78e425513bf24a5fc47",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/cle/coupe": {
       "brand": "Mercedes-Benz",
@@ -1485,26 +1485,26 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "a658a18d666ce48d46b047dc1d4c94c045c82567d213fc7560506939ae629162",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/cle/cabriolet": {
       "brand": "Mercedes-Benz",
       "model": "CLE Cabriolet",
       "kind": "model",
       "status": 200,
-      "fingerprint": "d13d67c7438154cc0ef342ebfa45caee63650b646236043314616065c9823b53",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "e774aa3732b00d63d82babf8be5c3e5cca04707784bb852383ec9cdf72847256",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/amg-gt/coupe": {
       "brand": "Mercedes-Benz",
       "model": "AMG GT Coupe",
       "kind": "model",
       "status": 200,
-      "fingerprint": "cb84e603088855abe108a9b1eb3019b751540c5c7fd867d9c129cf2888e34263",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "9a6913f2c49aa208253252329dda18d0a8cf3349e3dff801bc2408b86e9ebd6e",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/sl/roadster": {
       "brand": "Mercedes-Benz",
@@ -1512,8 +1512,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "0a72ab0841afe04d302a22f4016e6c1c4bcdba6383a2e660c0bf5fddb9c8ba76",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/gla/suv": {
       "brand": "Mercedes-Benz",
@@ -1521,17 +1521,17 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "48a2931eaddfbf1dcde968fbc4e11b247a5e59c26db6c22dc8b77de5c9981c15",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/glb/suv": {
       "brand": "Mercedes-Benz",
       "model": "GLB",
       "kind": "model",
       "status": 200,
-      "fingerprint": "6b7220c7b10c3e9b996bf6b9dcba244238aff5cb35e0e602851e8b8ce4bda54b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "340125f8633dfccd433c724ea2b1711984cd5078d596d0ccc408379c714985c5",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/glc/suv": {
       "brand": "Mercedes-Benz",
@@ -1539,17 +1539,17 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "75294e60ae78126720f38c669bb28e024e33c7fddd0c4a1dcd1efe8c2955bcd2",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/glc/coupe": {
       "brand": "Mercedes-Benz",
       "model": "GLC Coupe",
       "kind": "model",
       "status": 200,
-      "fingerprint": "bb4e880294148075fd2f4ab387869675d1fe30772d2c32166169b46662dda31a",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "2bf0d0cabed48cfdf94e8923d9466ff39c3caed0097b5daffce3437a7e9092f6",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/gle/suv": {
       "brand": "Mercedes-Benz",
@@ -1557,8 +1557,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "fad28bbf89a5c3f9b451ab1f9aff40321f473d2c2c3367fd09a3404c025192ef",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/gle/coupe": {
       "brand": "Mercedes-Benz",
@@ -1566,8 +1566,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "f1869621313b394164071873efb36ef38734d5206380d4f405b7e2ff38b1d621",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/gls/suv": {
       "brand": "Mercedes-Benz",
@@ -1575,8 +1575,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "7e0e8321092ea0f2782ed7d7edfd619eebdd4155145c270340cbc0d40fb8235d",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/g-class/suv": {
       "brand": "Mercedes-Benz",
@@ -1584,8 +1584,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "970f99fcd714ee49fba494a303f66aeb9b4e768b503453bcdec161c9338bdaf1",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/eqb/suv": {
       "brand": "Mercedes-Benz",
@@ -1593,8 +1593,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "e93135ad15847ed1410e37a89cad24dffd88cda5ffb94a0a7b6b96d6c9343789",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/eqe/sedan": {
       "brand": "Mercedes-Benz",
@@ -1602,17 +1602,17 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "e03746a064703a086ac6af9f24d8a470ff8934727c42f3c5014f5aa182076d25",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/eqe/suv": {
       "brand": "Mercedes-Benz",
       "model": "EQE SUV",
       "kind": "model",
       "status": 200,
-      "fingerprint": "db69c6479d669729330697b3b7e337faf4f26fa46293e2efda637a589ab478ae",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "8cda3ded756bc18b5d68e845de74fdfbee1e396fc00b8c03c7adfa043944fcc3",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/eqs/sedan": {
       "brand": "Mercedes-Benz",
@@ -1620,8 +1620,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "8a34d98e8bc8f55086d4e70d35ebe55f1f15918b6b83fe3782d3b514da5fe2a0",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/eqs/suv": {
       "brand": "Mercedes-Benz",
@@ -1629,8 +1629,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "47d19403e3a2195622d8ac3a8c5079db8b1f55a79789e3ba343b0d999af35c0d",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/glc/electric": {
       "brand": "Mercedes-Benz",
@@ -1638,7 +1638,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/maybach-s-class/sedan": {
       "brand": "Mercedes-Benz",
@@ -1646,8 +1646,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "5efdeded6adec0f5d1317fa53c34b5001d3cb16de123b9861bc4dd203a8c031c",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/maybach-gls/suv": {
       "brand": "Mercedes-Benz",
@@ -1655,35 +1655,35 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "f9d12b8e1cae2ce1385ed423e46c135756c7438fb468dddd5eec6f4f616a1d05",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv": {
       "brand": "Mercedes-Benz",
       "model": "Mercedes-Maybach EQS SUV",
       "kind": "model",
       "status": 200,
-      "fingerprint": "358f52c58bc5a1e268d2781f2335c2418bbe30452c1e856ce3e8cfc8783d50d2",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "289968221d6308adeb40dcf9618e35746246287f02f91dd1b63b5136686b07fe",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.tatamotors.com/passenger-vehicles/": {
       "brand": "Tata Motors",
       "model": "",
       "kind": "brand",
-      "status": 200,
+      "status": 0,
       "fingerprint": "50b5a0f90e73b0c1e2329c0cbecd1c61d95214e9f01bb54455e519469a989e96",
-      "checked_at": "2026-11-03T12:17:25+00:00",
+      "checked_at": "2026-11-04T12:28:25+00:00",
       "last_success_at": "2026-11-03T12:17:25+00:00"
     },
     "https://en.byd.com/": {
       "brand": "BYD",
       "model": "",
       "kind": "brand",
-      "status": 0,
-      "fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-02T12:49:00+00:00"
+      "status": 200,
+      "fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.porsche.com/usa/models/718/configure/": {
       "brand": "Porsche",
@@ -1691,7 +1691,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.porsche.com/usa/models/911/configure/": {
       "brand": "Porsche",
@@ -1699,7 +1699,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.porsche.com/usa/models/taycan/configure/": {
       "brand": "Porsche",
@@ -1707,7 +1707,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.porsche.com/usa/models/panamera/": {
       "brand": "Porsche",
@@ -1715,7 +1715,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.porsche.com/usa/models/macan/configure/": {
       "brand": "Porsche",
@@ -1723,7 +1723,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.porsche.com/usa/models/cayenne/": {
       "brand": "Porsche",
@@ -1731,7 +1731,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.volvocars.com/us/cars/ex30-electric/": {
       "brand": "Volvo",
@@ -1739,7 +1739,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.volvocars.com/us/cars/ex40-electric/": {
       "brand": "Volvo",
@@ -1747,7 +1747,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.volvocars.com/us/cars/ex90-electric/": {
       "brand": "Volvo",
@@ -1755,7 +1755,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.volvocars.com/us/cars/xc40/": {
       "brand": "Volvo",
@@ -1763,7 +1763,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.volvocars.com/us/cars/xc60/": {
       "brand": "Volvo",
@@ -1771,7 +1771,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.volvocars.com/us/cars/xc60-hybrid/": {
       "brand": "Volvo",
@@ -1779,7 +1779,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.volvocars.com/us/cars/xc90/": {
       "brand": "Volvo",
@@ -1787,7 +1787,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.volvocars.com/us/cars/xc90-hybrid/": {
       "brand": "Volvo",
@@ -1795,7 +1795,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.volvocars.com/us/cars/v60-cross-country/": {
       "brand": "Volvo",
@@ -1803,16 +1803,16 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/4runner/": {
       "brand": "Toyota",
       "model": "4Runner",
       "kind": "model",
       "status": 200,
-      "fingerprint": "a90dfbc0389372f286523c346f941872e3ff3092e05ac68305acc0a3518ab9ea",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "ea5388a1a3b012145d3d81b3ddff6d876ea38d9a473789979e46054b9dcadb18",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/vehicles/bz/2027": {
       "brand": "Toyota",
@@ -1820,8 +1820,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "5016d0bbcb68bf4ae9d8fda2b49b55e1abdcdf18b752095926d4795dda58e3e1",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/vehicles/bzwoodland/2027": {
       "brand": "Toyota",
@@ -1829,8 +1829,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "c85255e46a5127b873646aa2a55be385708c099d0aad3863290269522074682e",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/vehicles/chr/2027": {
       "brand": "Toyota",
@@ -1838,8 +1838,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "2daa2942ab16d92d56c56f5deb90cab58c92aae50266170618dc47cbd62d083f",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/camry/": {
       "brand": "Toyota",
@@ -1847,8 +1847,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "d04a0b794be15ad21bb21e6179a36101f06657e758d482cecf1a29c2bbe1b77b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/vehicles/corolla/2027": {
       "brand": "Toyota",
@@ -1856,8 +1856,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "d75a4e139691b8fd31a9d34799695f09e13bffa9c4e95febed13bf5bb4aa8d5b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/corollacross/": {
       "brand": "Toyota",
@@ -1865,8 +1865,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "218e75baf3aeaa2239acd95a9610cfacc9d83b09032c389c065bb68356eda227",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/vehicles/corollahatchback/2027": {
       "brand": "Toyota",
@@ -1874,8 +1874,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "23c72a015d0a1b791886244ff8e6506af2ff82fd65e6a00408efba2eb220fcf3",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/grcorolla/": {
       "brand": "Toyota",
@@ -1883,8 +1883,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "f3aeb006a382282d0014bb963e3036cbdf1028bdfc351cd95763539abf0f5bbd",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/grsupra/": {
       "brand": "Toyota",
@@ -1892,8 +1892,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "b09ef6db1e7b8dcc6f8e9507ebebe879cfc729861de5ab6f59fc05777bd28829",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/vehicles/gr86/2027": {
       "brand": "Toyota",
@@ -1901,8 +1901,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "e9d6cd4a71e271e6ac976c9fc1fac2781a9fe090c5a5e55e2fafcc6dc6b87409",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/grandhighlander/": {
       "brand": "Toyota",
@@ -1910,8 +1910,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "2ea19195bdb46d721d6bc6579d8b4c947813e04d4d797560aae1904625c3e446",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/highlander/": {
       "brand": "Toyota",
@@ -1919,17 +1919,17 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "c4f306028df6318e37856e87fb8f5cde94351c294362a7fd0d22887e6fa5794b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/landcruiser/": {
       "brand": "Toyota",
       "model": "Land Cruiser",
       "kind": "model",
       "status": 200,
-      "fingerprint": "81826e0090f41401d1878c4ba6b58f617870b4fb8cce418fe6242ded0170d1a3",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "4ecaaccb5b450b1b82571424b4cf483b9c8e9d2444e98f74cf60321a7b805d8a",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/mirai/": {
       "brand": "Toyota",
@@ -1937,8 +1937,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "698d8b889d3e078de9571e2d5f7ac0bd14e4ad0b4e430f39b4f233b4f3b3e769",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/prius/": {
       "brand": "Toyota",
@@ -1946,8 +1946,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "3c728c80a22cef90b8dc005434104b4951342d67e1018b144674b83ea6cee973",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/priuspluginhybrid/": {
       "brand": "Toyota",
@@ -1955,8 +1955,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "bb89fe6441056c43acfbb340456917408ebe174f8c7400f6ef6b2ee5e925af53",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/rav4/": {
       "brand": "Toyota",
@@ -1964,8 +1964,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "8265c4a1d7c963b07dea0aa7d09761abb10076f083d5c689aa50888cc6cd0b9e",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/rav4pluginhybrid/": {
       "brand": "Toyota",
@@ -1973,17 +1973,17 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "5398e822086691a6e97d3be7420c3eee6e3c851d364a9117b731a75695f9e3c6",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/sequoia/": {
       "brand": "Toyota",
       "model": "Sequoia",
       "kind": "model",
       "status": 200,
-      "fingerprint": "eacc7d99822df5e57fece2560c321c7b310e102fe6ef3d3bdd130472df8fe614",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "23bc49edbdeb4319602c9a360af98a8a0e031fc83e6e2ad0af7af8029eae2d58",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/sienna/": {
       "brand": "Toyota",
@@ -1991,8 +1991,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "d99a946ee879e318410daae85aa04ce3b1f76859f0f4e6efeec127af95b76df6",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/tacoma/": {
       "brand": "Toyota",
@@ -2000,8 +2000,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "463e3a29dd0c7492eb4fd3576e0626c09de3fce9e02b0651be6efddd36b2ffb6",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/vehicles/toyotacrown/2027": {
       "brand": "Toyota",
@@ -2009,8 +2009,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "08f393dcca6b6219cc6073335caba1f0da1d1b8e4fcb1f6be97029f871001a61",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/crownsignia/": {
       "brand": "Toyota",
@@ -2018,98 +2018,98 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "a1ab8ec2df77a1c053eb4f686e94af06f85a05a4e223ebbf5ed59cb705779e94",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/tundra/": {
       "brand": "Toyota",
       "model": "Tundra",
       "kind": "model",
       "status": 200,
-      "fingerprint": "261c38d742098b9dea32ce7dac6c0755952c3df2deee5198a616ca804dbfd5f0",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "92296eba95176a680257effd69cb342a934d1ea3ce549f1b5d83f765c2c530b7",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.genesis.com/us/en/g70": {
       "brand": "Genesis",
       "model": "G70",
       "kind": "model",
       "status": 200,
-      "fingerprint": "f2940198fc105f6e4844ccfb000e3e798b24a347fb13ddaa0ec0e7a3325e9c5a",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "33f7355200fcc6618c2677f193aa528359724261f0f14f93b3ee936f4de4308a",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.genesis.com/us/en/g80": {
       "brand": "Genesis",
       "model": "G80",
       "kind": "model",
       "status": 200,
-      "fingerprint": "a8e5398b1c4f4a138a4d98c0f72479170ffce6922230390573fab85e30b24c55",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "f9b834a8bd330be2625380a8b64693d640ee93ef42a3328fe2622a1125b1f956",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.genesis.com/us/en/build-and-price/2026/g90": {
       "brand": "Genesis",
       "model": "G90",
       "kind": "model",
       "status": 200,
-      "fingerprint": "9e603b0e5ade3958c02658e5f5853cb1cd57849f8316eab36923a8415119076d",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "c3afdd68812572de063d432336578434068d5aa8dfb342c4765e649dddee4bb1",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.genesis.com/us/en/gv60": {
       "brand": "Genesis",
       "model": "GV60",
       "kind": "model",
       "status": 200,
-      "fingerprint": "303a01734c81c949e52c3f2d75e17c9cbd9027e3146269759e6d4596733c22ec",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "6f6a5c51190632bf672121e6804ab9110f0a2d33183932af1ca9c64cd8d03803",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.genesis.com/us/en/gv60-magma": {
       "brand": "Genesis",
       "model": "GV60 Magma",
       "kind": "model",
       "status": 200,
-      "fingerprint": "df12bc6cceb04e40ebaf9f93ffcc11405126eaf0c81bfe6b572aa78df437435e",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "8b25890e476be6af394110edd6d471f3484edc65c4169e23ee25be9db000acd9",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.genesis.com/us/en/gv70": {
       "brand": "Genesis",
       "model": "GV70",
       "kind": "model",
       "status": 200,
-      "fingerprint": "d3f1dc1ea87942027460613ff5554b4b6a5e940030745c4d22e377b140026f45",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "1bc6425d525c179a7cbaa663e11f4cf36f2a6e8298e794f69ab8214aad683f0a",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.genesis.com/us/en/electrified-gv70": {
       "brand": "Genesis",
       "model": "Electrified GV70",
       "kind": "model",
       "status": 200,
-      "fingerprint": "b803f16d320567a67dbfde3df0dda45abb71736bf13d3d8f670d0a593210e83f",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "a0a5accceffe4c74250e2b0d34db41a133cf12cde24d0e412bd5f1c3621639b0",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.genesis.com/us/en/gv80": {
       "brand": "Genesis",
       "model": "GV80",
       "kind": "model",
       "status": 200,
-      "fingerprint": "514751fc51920bd0dd6213d1b5c74b94f261ca103f5d371e5186c0cc5a2b4802",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "6301805df1ac20f0d503e6ac81bde81b843a88bcc9961ae0a0dd88466d9edfbb",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.genesis.com/us/en/gv80-coupe": {
       "brand": "Genesis",
       "model": "GV80 Coupe",
       "kind": "model",
       "status": 200,
-      "fingerprint": "6edf07cc6a985231820a2c3bdd553ee5005c055c19c319b946051d4cdc1f3318",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "5c4f229bc43ee1991af5417752ad70b4bc4f02d691f6d57b1b4be86d1191aeb3",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.subaru.com/vehicles/crosstrek/2026.html": {
       "brand": "Subaru",
@@ -2117,8 +2117,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "1111cd660ad752a06f490752303e24b796408c3eb63a11a946a26dbbc9352741",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.subaru.com/vehicles/forester/2026.html": {
       "brand": "Subaru",
@@ -2126,8 +2126,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "2f687313a837b19595b51b9bb2dcf5e69e15d6537afc82756b6b5a8dd385ff01",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.subaru.com/vehicles/outback/2026.html": {
       "brand": "Subaru",
@@ -2135,8 +2135,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "27b29e70e9719b64739656cb4eac3737340c55e3c1935b540ca6eb6b9988f536",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.subaru.com/vehicles/ascent/2027.html": {
       "brand": "Subaru",
@@ -2144,8 +2144,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "a08fb003345129a3c252a9cd926b3ef7f1724f24ecdae54990d39cbc399d8bce",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.subaru.com/vehicles/impreza/2026.html": {
       "brand": "Subaru",
@@ -2153,8 +2153,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "cd32a8514453545b8cc0d36eaf6542c58d2c753245f2a4c286331d21b75b5cf6",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.subaru.com/vehicles/wrx/2026.html": {
       "brand": "Subaru",
@@ -2162,8 +2162,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "3a5b49750ca450c9b1a134822320942f477320a9002bc5c5077b040d3d1a3996",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.subaru.com/vehicles/brz/2027.html": {
       "brand": "Subaru",
@@ -2171,8 +2171,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "d3c54538499e496d23f65bdb3919bc7110625b4e252496093c478d9d5e57a18f",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.subaru.com/vehicles/solterra/2026.html": {
       "brand": "Subaru",
@@ -2180,8 +2180,8 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "5566f268fd910829a389ad5e9ffdfb8953d33080b74eae6e8e7f4769140db4c8",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.subaru.com/vehicles/trailseeker/2026.html": {
       "brand": "Subaru",
@@ -2189,17 +2189,17 @@
       "kind": "model",
       "status": 200,
       "fingerprint": "c2e3a158b68d61a4a40c041ca479f71c1dce828d08e2798d956234d2c0068b9e",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.subaru.com/vehicles/index.html": {
       "brand": "Subaru",
       "model": "Legacy",
       "kind": "model",
       "status": 200,
-      "fingerprint": "5061f8b278a021673ff5c82fa71fdc4142af939dd915657bf74f2d83b998d002",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "cd2a11126bd24727dfb83c22804c5e2ca3cec0f20d167e30d383b792bedbf000",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ford.com/suvs-crossovers/escape/": {
       "brand": "Ford",
@@ -2207,7 +2207,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ford.com/build-price/bronco-sport/choose-model/": {
       "brand": "Ford",
@@ -2215,7 +2215,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ford.com/build-price/mach-e/choose-model/": {
       "brand": "Ford",
@@ -2223,7 +2223,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ford.com/build-price/explorer/choose-model/": {
       "brand": "Ford",
@@ -2231,7 +2231,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ford.com/build-price/bronco/choose-model/": {
       "brand": "Ford",
@@ -2239,7 +2239,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ford.com/build-price/expedition/choose-model/": {
       "brand": "Ford",
@@ -2247,7 +2247,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ford.com/build-price/maverick/choose-model/": {
       "brand": "Ford",
@@ -2255,7 +2255,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ford.com/build-price/ranger/choose-model/": {
       "brand": "Ford",
@@ -2263,7 +2263,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ford.com/build-price/f150/choose-model/": {
       "brand": "Ford",
@@ -2271,7 +2271,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ford.com/build-price/superduty/choose-model/": {
       "brand": "Ford",
@@ -2279,7 +2279,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ford.com/commercial-trucks/transit-cargo-van/": {
       "brand": "Ford",
@@ -2287,7 +2287,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ford.com/build-price/mustang/choose-model/": {
       "brand": "Ford",
@@ -2295,7 +2295,7 @@
       "kind": "model",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.audiusa.com/en/models/": {
       "brand": "Audi",
@@ -2304,7 +2304,7 @@
       "market": "U.S. retail",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.chevrolet.com/vehicles": {
       "brand": "Chevrolet",
@@ -2313,8 +2313,8 @@
       "market": "U.S. retail",
       "status": 200,
       "fingerprint": "910520fcd0732587b5b37ef4dce373c421da430644b2e56b3c3e572764cbdc70",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ford.com/showroom/": {
       "brand": "Ford",
@@ -2323,7 +2323,7 @@
       "market": "U.S. retail",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.gmc.com/vehicles": {
       "brand": "GMC",
@@ -2332,8 +2332,8 @@
       "market": "U.S. retail",
       "status": 200,
       "fingerprint": "64073c2008e5ad6132beddf8ad1602e11ddf94f2d01efdb064048d4a5979382c",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.genesis.com/us/en/models": {
       "brand": "Genesis",
@@ -2342,7 +2342,7 @@
       "market": "U.S. retail",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://automobiles.honda.com/vehicles": {
       "brand": "Honda",
@@ -2351,7 +2351,7 @@
       "market": "U.S. retail",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.hyundaiusa.com/us/en/vehicles": {
       "brand": "Hyundai",
@@ -2360,8 +2360,8 @@
       "market": "U.S. retail",
       "status": 200,
       "fingerprint": "c568d31cb160817af9eb2c7a0399a9911e34cb97256b93b7973639f130fe020c",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.jeep.com/vehicle-selector.html": {
       "brand": "Jeep",
@@ -2369,9 +2369,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "status": 200,
-      "fingerprint": "4cb9f40a159fa1d00214581526f3ff582537ce78468473190ba3eaf8cf98be0a",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "86574fff0ece4fc37dd33ddc4d352f0c90b202fdd62cc61779636249f226bb4f",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.kia.com/us/en/vehicles": {
       "brand": "Kia",
@@ -2380,8 +2380,8 @@
       "market": "U.S. retail",
       "status": 200,
       "fingerprint": "e27f1dfa314910de16816e9a4ec2e62711bcaa787fcde95d7467dc8a65c74bc7",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.landroverusa.com/vehicles/index.html": {
       "brand": "Land Rover",
@@ -2390,8 +2390,8 @@
       "market": "U.S. retail",
       "status": 200,
       "fingerprint": "cd0960f7f70475f378f10f386cd10d073ab10ff816fe08c576151bc859d8264d",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.lexus.com/models": {
       "brand": "Lexus",
@@ -2400,8 +2400,8 @@
       "market": "U.S. retail",
       "status": 200,
       "fingerprint": "aabd0f29097f46baa41bb77c5560410af686ae89545f1a15491b62c3ab7666ac",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mazdausa.com/vehicles": {
       "brand": "Mazda",
@@ -2409,9 +2409,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "status": 200,
-      "fingerprint": "94539d719afb7dbd8a15996426d7993a6f8edea574afe67cf1873f6af169c7c0",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "8418d1bedf7868795e860cba5358b230e552f8ea9fc53d9dafc71fe0453560cf",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.mbusa.com/en/all-vehicles": {
       "brand": "Mercedes-Benz",
@@ -2420,8 +2420,8 @@
       "market": "U.S. retail",
       "status": 200,
       "fingerprint": "14f5fb6ad683d142eb633505db7259fb5400d73514522cbe62f7ff6ba9ed929a",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.nissanusa.com/vehicles.html": {
       "brand": "Nissan",
@@ -2429,9 +2429,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "status": 200,
-      "fingerprint": "181ba666aeb75a20726edcd7b127864b780224a83f6d2eb155e63be810f43d51",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "bc9cf17cdacdd4abc9d2ba0439a479336c1d258a0fb8416ba3770431abeb95f1",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.porsche.com/usa/models/": {
       "brand": "Porsche",
@@ -2440,7 +2440,7 @@
       "market": "U.S. retail",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.ramtrucks.com/vehicle-selector.html": {
       "brand": "Ram",
@@ -2449,8 +2449,8 @@
       "market": "U.S. retail",
       "status": 200,
       "fingerprint": "2c661f5c0c9fc75f9efb0ec2dd050aa59d8daf3421f024732dc2148d088394ad",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.subaru.com/vehicles.html": {
       "brand": "Subaru",
@@ -2459,7 +2459,7 @@
       "market": "U.S. retail",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.tesla.com/": {
       "brand": "Tesla",
@@ -2468,7 +2468,7 @@
       "market": "U.S. retail",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.toyota.com/all-vehicles/": {
       "brand": "Toyota",
@@ -2476,9 +2476,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "status": 200,
-      "fingerprint": "420d224915a69d22d938c67b8c75929c9f256af6d5f05a26b82e51fbf26de138",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "fingerprint": "674d23c2f0f7f14fdedd94b266612a3cca7e9ec2dc530709278a11f56916978b",
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.vw.com/en/models.html": {
       "brand": "Volkswagen",
@@ -2487,8 +2487,8 @@
       "market": "U.S. retail",
       "status": 200,
       "fingerprint": "cd185c6a3e2caa4bf2e2ab1a2594067a33bc82d37a348b14109fd2fd3ef12a9b",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.volvocars.com/us/cars/": {
       "brand": "Volvo",
@@ -2497,7 +2497,7 @@
       "market": "U.S. retail",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://www.bydglobal.com/en/car.html": {
       "brand": "BYD",
@@ -2506,8 +2506,8 @@
       "market": "Global / selected markets",
       "status": 200,
       "fingerprint": "774bada9c6501438d8e6805e9acba651f7f8641d090db863053bcdac94a4bf04",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://cars.tatamotors.com/": {
       "brand": "Tata Motors",
@@ -2516,7 +2516,7 @@
       "market": "India",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://auto.mahindra.com/suv": {
       "brand": "Mahindra",
@@ -2525,8 +2525,8 @@
       "market": "India",
       "status": 200,
       "fingerprint": "68266043c39ee7851081bb05fea61c7f82b7a149ab608cdb3e36d879f67c24be",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://ev.tatamotors.com/product-compare.html": {
       "brand": "Tata Motors",
@@ -2535,7 +2535,7 @@
       "market": "India",
       "status": 0,
       "fingerprint": "",
-      "checked_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00"
     },
     "https://auto.mahindra.com/": {
       "brand": "Mahindra",
@@ -2544,8 +2544,8 @@
       "market": "India",
       "status": 200,
       "fingerprint": "c3f7c5f5abeeabd30540bdfec78535746e76f807390be5c9136f1a736a86a9db",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     },
     "https://auto.mahindra.com/press-release/mahindra-leadership-team.html": {
       "brand": "Mahindra",
@@ -2554,8 +2554,8 @@
       "market": "India",
       "status": 200,
       "fingerprint": "2a5b99c5a9b0636605d0f9e884bbf8f9c89d98b6ac0fbf7e09acd48b9ea1b79f",
-      "checked_at": "2026-11-03T12:17:25+00:00",
-      "last_success_at": "2026-11-03T12:17:25+00:00"
+      "checked_at": "2026-11-04T12:28:25+00:00",
+      "last_success_at": "2026-11-04T12:28:25+00:00"
     }
   }
 }

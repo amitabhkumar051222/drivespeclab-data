@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-27",
+  "notes": "Not a nationwide DMV or tax service. Only rule examples with official references. No final OTD quote may be made without county/ZIP and transaction-specific fees.",
+  "rules": [
+    {
+      "state": "TX",
+      "jurisdiction": "statewide",
+      "tax_kind": "motor_vehicle_sales",
+      "rate": 0.0625,
+      "source": "https://comptroller.texas.gov/taxes/motor-vehicle/sales-use.php",
+      "status": "reference_only",
+      "taxable_base": "actual taxable selling price subject to state rules; not necessarily MSRP",
+      "fees": {
+        "base_registration_passenger_usd": 51.75,
+        "processing_fee_usd": 4.75,
+        "title_fee_usd": null,
+        "county_fee_usd": null,
+        "dealer_fee_usd": null
+      },
+      "fee_source": "https://www.txdmv.gov/motorists/register-your-vehicle"
+    }
+  ]
+}

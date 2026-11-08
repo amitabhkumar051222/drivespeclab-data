@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T11:17:23+00:00",
+  "generated": "2026-11-08T11:28:47+00:00",
   "count": 183,
   "changes": [
     {
@@ -188,9 +188,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "9d261f63f3fa689c3c7ec5f4a77d0ffaf5c459c33dd4ce66c5519dcaa49314c0",
+      "new_fingerprint": "b019c8edf49a184b52eae0159311cd55ca58f548fae8a6f437aad9caa40bbfe4",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-06T12:24:54+00:00"
+      "last_changed_at": "2026-11-08T11:28:47+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -198,9 +198,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "88f5395bd417a5cf2a3c2cf100bbae15cb66a3843276160ec459371f921df683",
+      "new_fingerprint": "1cee5b725d242392c4849b2c4a51ace7b8de18ed3ac9d90caa7239baafc6d0d6",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-07T11:17:23+00:00"
+      "last_changed_at": "2026-11-08T11:28:47+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -853,9 +853,9 @@
       "model": "4Runner",
       "kind": "model",
       "previous_fingerprint": "4d789325f6783b7dd63f7896a6c0378064f9d161c928860e76988a358e6a79e5",
-      "new_fingerprint": "412aaa5f5aec99ffd1de679ef2d90fbd61fba5e3dcf795ebce95e658028c2ba2",
+      "new_fingerprint": "ea5388a1a3b012145d3d81b3ddff6d876ea38d9a473789979e46054b9dcadb18",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-07T11:17:23+00:00"
+      "last_changed_at": "2026-11-08T11:28:47+00:00"
     },
     {
       "url": "https://www.toyota.com/corollacross/",

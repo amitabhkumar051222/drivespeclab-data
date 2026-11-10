@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T13:18:27+00:00",
+  "generated": "2026-11-10T12:55:52+00:00",
   "count": 183,
   "changes": [
     {
@@ -8,9 +8,9 @@
       "model": "",
       "kind": "brand",
       "previous_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "new_fingerprint": "c4640445294a2a66400bf94a5c56f7b3967e2d197b6d052e773d15e077ed4a57",
+      "new_fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-10T12:55:52+00:00"
     },
     {
       "url": "https://www.rangerover.com/en-us/range-rover-evoque/models-and-specifications.html",
@@ -48,9 +48,9 @@
       "model": "Trailblazer",
       "kind": "model",
       "previous_fingerprint": "ec0b821c047ab797509f7aad9267fa7c45f39e174e27d340cb0eab1e9d009020",
-      "new_fingerprint": "bf9c0b87c03ebf9adcc04327f50f7db3dd385920befce32f5efbb0c733cc3b79",
+      "new_fingerprint": "fd7736794fecf05dbdb0ffcca0bb5fc9d9288ac5cc419d889a4d8aeb3af61248",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-05T12:42:26+00:00"
+      "last_changed_at": "2026-11-10T12:55:52+00:00"
     },
     {
       "url": "https://www.chevrolet.com/suvs/equinox",
@@ -108,9 +108,9 @@
       "model": "Colorado",
       "kind": "model",
       "previous_fingerprint": "987d6284c2ef034d1ad040162a7d3543efd7fa4ed15560360f02783ca08c61bd",
-      "new_fingerprint": "3b0550c772b48485e3bee83e8bd69aca28e4cf2097078c2e4166a6ff0f1bfc49",
+      "new_fingerprint": "597acaa8a7672f59ecc4e6cb8a42b26847fd39e174bff69285c29f8ebae20398",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-31T10:33:54+00:00"
+      "last_changed_at": "2026-11-10T12:55:52+00:00"
     },
     {
       "url": "https://www.chevrolet.com/trucks/silverado/1500",
@@ -118,9 +118,9 @@
       "model": "Silverado 1500",
       "kind": "model",
       "previous_fingerprint": "39cafa1c406f149c4f7c11a00d7c895935bb9f8dd3b960b5155ce1d59de8f24c",
-      "new_fingerprint": "ec6badda6215bd73ab305e8886f8458be548782328b9650e91ead6c7a2f5723d",
+      "new_fingerprint": "16a6a958cbc5d17cb52e9a0a7050f4e34f43e12f82a9954ee4d718162192631f",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-03T12:17:25+00:00"
+      "last_changed_at": "2026-11-10T12:55:52+00:00"
     },
     {
       "url": "https://www.chevrolet.com/trucks/silverado/2500hd-3500hd",
@@ -178,9 +178,9 @@
       "model": "Corvette",
       "kind": "model",
       "previous_fingerprint": "d298203ca375c0591020d528cea8b6447da3cd1ccc282a78d07f9b01540c923e",
-      "new_fingerprint": "a1df4c8064e8c56d89a675acffb4baaf736313497e573e4f4aabdc4db83dd69b",
+      "new_fingerprint": "ccd57c9f23fe93d74a688e0bc6a060695e1a60e8ba0dd736387342259e298cf1",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-09T13:18:27+00:00"
+      "last_changed_at": "2026-11-10T12:55:52+00:00"
     },
     {
       "url": "https://www.jeep.com/gladiator.html",
@@ -188,9 +188,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "381795ba5086a7f1fc92736206491b0d29071f1b2f13d54f728bd12e89383f9b",
+      "new_fingerprint": "b019c8edf49a184b52eae0159311cd55ca58f548fae8a6f437aad9caa40bbfe4",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-09T13:18:27+00:00"
+      "last_changed_at": "2026-11-10T12:55:52+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -198,9 +198,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "b059bb61cf7a182678ff215aba0e1db1bafb2227a730dcd32e4133c86ac50d41",
+      "new_fingerprint": "b886c3395acdc34e06f724bc09e525790f0d4bb68d7a09146b02bb84c132dbfb",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-09T13:18:27+00:00"
+      "last_changed_at": "2026-11-10T12:55:52+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -773,9 +773,9 @@
       "model": "C-Class",
       "kind": "model",
       "previous_fingerprint": "60e120bb749f951650d5acff40464c0785f6d8b49d069c4df469bed2921e8b2a",
-      "new_fingerprint": "60e120bb749f951650d5acff40464c0785f6d8b49d069c4df469bed2921e8b2a",
+      "new_fingerprint": "da3a781ab1d80d6aa26f4665d0dc69e87c3d4c5931e9e83bf29c18371c87ed54",
       "detected_at": "2026-10-24T09:04:33+00:00",
-      "last_changed_at": "2026-11-06T12:24:54+00:00"
+      "last_changed_at": "2026-11-10T12:55:52+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/amg-gt/coupe",
@@ -803,9 +803,9 @@
       "model": "Mercedes-Maybach EQS SUV",
       "kind": "model",
       "previous_fingerprint": "358f52c58bc5a1e268d2781f2335c2418bbe30452c1e856ce3e8cfc8783d50d2",
-      "new_fingerprint": "358f52c58bc5a1e268d2781f2335c2418bbe30452c1e856ce3e8cfc8783d50d2",
+      "new_fingerprint": "289968221d6308adeb40dcf9618e35746246287f02f91dd1b63b5136686b07fe",
       "detected_at": "2026-10-24T09:04:33+00:00",
-      "last_changed_at": "2026-11-05T12:42:26+00:00"
+      "last_changed_at": "2026-11-10T12:55:52+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/outback/2026.html",
@@ -1446,9 +1446,9 @@
       "model": "CLE Cabriolet",
       "kind": "model",
       "previous_fingerprint": "d13d67c7438154cc0ef342ebfa45caee63650b646236043314616065c9823b53",
-      "new_fingerprint": "d13d67c7438154cc0ef342ebfa45caee63650b646236043314616065c9823b53",
+      "new_fingerprint": "e774aa3732b00d63d82babf8be5c3e5cca04707784bb852383ec9cdf72847256",
       "detected_at": "2026-10-29T11:03:34+00:00",
-      "last_changed_at": "2026-11-05T12:42:26+00:00"
+      "last_changed_at": "2026-11-10T12:55:52+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/gle/coupe",
@@ -1456,9 +1456,9 @@
       "model": "GLE Coupe",
       "kind": "model",
       "previous_fingerprint": "f1869621313b394164071873efb36ef38734d5206380d4f405b7e2ff38b1d621",
-      "new_fingerprint": "f1869621313b394164071873efb36ef38734d5206380d4f405b7e2ff38b1d621",
+      "new_fingerprint": "41673ce9f7eeaabbef29522b6f54ebaf7c69f55ec93bea8873c70c2bcae04e79",
       "detected_at": "2026-10-29T11:03:34+00:00",
-      "last_changed_at": "2026-10-30T10:59:29+00:00"
+      "last_changed_at": "2026-11-10T12:55:52+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/crosstrek/2026.html",
@@ -1759,9 +1759,9 @@
       "model": "CLA",
       "kind": "model",
       "previous_fingerprint": "ef46e977ebd5c49d1f4a6d6a156bc3f9d84d68d3ba478b16de9278c29ef8162a",
-      "new_fingerprint": "5732d1c926af85b2c6ecf639092cd97d140eb37218075386b3231d48df9f61c6",
+      "new_fingerprint": "ef46e977ebd5c49d1f4a6d6a156bc3f9d84d68d3ba478b16de9278c29ef8162a",
       "detected_at": "2026-11-02T12:49:00+00:00",
-      "last_changed_at": "2026-11-09T13:18:27+00:00"
+      "last_changed_at": "2026-11-10T12:55:52+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/glc/suv",
@@ -1840,9 +1840,9 @@
       "model": "Rogue Plug-in Hybrid",
       "kind": "model",
       "previous_fingerprint": "747b3dc4bc7aa18c5231f7daeb609baa5497ef098e0ddc5d1d616766524adab3",
-      "new_fingerprint": "8fd81f9c11da101b0a8bced38b81af544611faaf95e32455e45ca4a9efa1875b",
+      "new_fingerprint": "35e362335c71f14062115f510c7e72f00aa81baeb1c393c559c1e0b2f55016bb",
       "detected_at": "2026-11-06T12:24:54+00:00",
-      "last_changed_at": "2026-11-09T13:18:27+00:00"
+      "last_changed_at": "2026-11-10T12:55:52+00:00"
     }
   ]
 }

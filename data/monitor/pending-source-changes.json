@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T13:11:40+00:00",
+  "generated": "2026-11-13T12:33:56+00:00",
   "count": 185,
   "changes": [
     {
@@ -28,9 +28,9 @@
       "model": "Armada",
       "kind": "model",
       "previous_fingerprint": "ae796f8b2f65e00a668c1ced82334da8d13ca5fc74982174c64560a535eddeb7",
-      "new_fingerprint": "20f604d3ac667a6498e7b6d6feec27aaa55b693a28fe6c1b5b3bdfdd2f922210",
+      "new_fingerprint": "71711866ef5104dbfef45e915089d832247a1d110ac88d80eae4df11cb864fb9",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-12T13:11:40+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/suvs/trax",
@@ -38,9 +38,9 @@
       "model": "Trax",
       "kind": "model",
       "previous_fingerprint": "afc44522311ea9c2112de9e5fbabf6caba683dbcfec4562020c81a052aaeb2dc",
-      "new_fingerprint": "febd3f0c18ec0acc90ce8385085f4603a37e226cdd0cd846c6240debc24fc154",
+      "new_fingerprint": "8a9fad7ace0f3b0a6ef9297d1d317148fe2d45cf0168e1954bb0424392f10916",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-05T12:42:26+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/suvs/trailblazer",
@@ -48,9 +48,9 @@
       "model": "Trailblazer",
       "kind": "model",
       "previous_fingerprint": "ec0b821c047ab797509f7aad9267fa7c45f39e174e27d340cb0eab1e9d009020",
-      "new_fingerprint": "5377048b3ef5c2263ce2713027ddc9b759175edd454d91164d4feedbba019695",
+      "new_fingerprint": "9e43331dffe520c2ea7705eb67f3a191bdd78c0c6a66fc273b28c85ad40d86c4",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-12T13:11:40+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/suvs/equinox",
@@ -58,9 +58,9 @@
       "model": "Equinox",
       "kind": "model",
       "previous_fingerprint": "6bcfa0b152156600181ae298e6fd184a68d8d8dd4c3e1b39181d050c61540ce7",
-      "new_fingerprint": "436428a2f9fb94e272028aab7a24238fd51717535f349601d89e76cc1b7bfef8",
+      "new_fingerprint": "bf2dd00a7e50d00b63204df1ca98bbcf22badd5c1d4e9a0a051c0a7764868cc2",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-05T12:42:26+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/suvs/blazer",
@@ -68,9 +68,9 @@
       "model": "Blazer",
       "kind": "model",
       "previous_fingerprint": "ee4b5b466f4e91ff992cf10871c1212940712a1661c23c9daa5b870297e8eff4",
-      "new_fingerprint": "4c32d981a565449de22116b54718e7780960f9b407b50057659e5e950cd7d085",
+      "new_fingerprint": "a9629e032ae1fdaaef2808288d4503c57270023909935290b77d32387bb27adb",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-05T12:42:26+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/suvs/traverse",
@@ -78,9 +78,9 @@
       "model": "Traverse",
       "kind": "model",
       "previous_fingerprint": "2dcf0e933bd76d1e860baf18f9fac29e833ce3d8faf0f5b8dbb448577856c367",
-      "new_fingerprint": "c5f42738c9f565fb960711aa57c6135b7431ac1ca3ef7e34e55e2aebac87ed17",
+      "new_fingerprint": "67f8bc1fec3819f80e3a689462f877a135eb86091cef8788f917b29700c044ee",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-31T10:33:54+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/suvs/tahoe",
@@ -88,9 +88,9 @@
       "model": "Tahoe",
       "kind": "model",
       "previous_fingerprint": "ada4db2c176bd5c9c06cc498b4dc83b2c89d511edac18a9d89b7fb9512d0cba0",
-      "new_fingerprint": "c7c94d8d99cdf2834e1a89033722e9d4bfc65f956db431b12b75265f8c88d2a7",
+      "new_fingerprint": "e45fe7b3a3b88e6ea39e40634263866ecf2a07cf449c2530f729675a42bceb9b",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-05T12:42:26+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/suvs/suburban",
@@ -98,9 +98,9 @@
       "model": "Suburban",
       "kind": "model",
       "previous_fingerprint": "d84c163cea9abb2a8324048e5b8dde1207a417095c21b65793fd98fb093f38ce",
-      "new_fingerprint": "aca845ecaf28ffee2aea35443ea8e38ff801f777a3d5142019f2d8a4213afe5a",
+      "new_fingerprint": "5b6d3629cf2525e10abdf134aaecd9180de68a8a01a8efd37fa38119bbae9bb5",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-31T10:33:54+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/trucks/colorado",
@@ -108,9 +108,9 @@
       "model": "Colorado",
       "kind": "model",
       "previous_fingerprint": "987d6284c2ef034d1ad040162a7d3543efd7fa4ed15560360f02783ca08c61bd",
-      "new_fingerprint": "597acaa8a7672f59ecc4e6cb8a42b26847fd39e174bff69285c29f8ebae20398",
+      "new_fingerprint": "7b0eeb67c2720f91684c30f953b7088b639c0490d4e891d9bff0e36c4d490e88",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-10T12:55:52+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/trucks/silverado/1500",
@@ -118,9 +118,9 @@
       "model": "Silverado 1500",
       "kind": "model",
       "previous_fingerprint": "39cafa1c406f149c4f7c11a00d7c895935bb9f8dd3b960b5155ce1d59de8f24c",
-      "new_fingerprint": "16a6a958cbc5d17cb52e9a0a7050f4e34f43e12f82a9954ee4d718162192631f",
+      "new_fingerprint": "17e53b9f733b0e5aa6a0168230d6c3bf18cc0f0eb6f2df26d40c890a217409a3",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-10T12:55:52+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/trucks/silverado/2500hd-3500hd",
@@ -128,9 +128,9 @@
       "model": "Silverado HD",
       "kind": "model",
       "previous_fingerprint": "835b6626b93f1f4f272ad51dc2a040b38f536eca0d60ff23d2b88cd9c963de9a",
-      "new_fingerprint": "74b393db7651385ced0510122bf60bb67e68bafef6e9a25a356321c22d82e244",
+      "new_fingerprint": "578349a412ab2d65655d4125c90f68e86a76d29020822d76a394bdb891171c79",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-05T12:42:26+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/electric/silverado-ev",
@@ -138,9 +138,9 @@
       "model": "Silverado EV",
       "kind": "model",
       "previous_fingerprint": "e15634e40d42a0a6a9d7ee10f09baa8aabec77c7242b824693255894a382169e",
-      "new_fingerprint": "e5b5adc3aef009b0618a6598949d7d5b77d59cc9b25b5768a731432dea67c552",
+      "new_fingerprint": "33eef3fe98e170893731477b53c103edea4054ae21cc3a98b368506ae0dde4b7",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-31T10:33:54+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/electric/equinox-ev",
@@ -148,9 +148,9 @@
       "model": "Equinox EV",
       "kind": "model",
       "previous_fingerprint": "c6f20689fed6a2eec14ffb020ef34d3dbca98c77215fffbe1869c3c3c60c278a",
-      "new_fingerprint": "bd09cc4998973eabf691e49d548d73797e8a8f154b039138d8f2fbf250638f17",
+      "new_fingerprint": "15dc4ec9df9b278c54c08e299cb37ccde68f74eb71cc05630dfe0f3ddad0620c",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-05T12:42:26+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/electric/blazer-ev",
@@ -158,9 +158,9 @@
       "model": "Blazer EV",
       "kind": "model",
       "previous_fingerprint": "efb0c07174da5f14d581400fff22a23baae26ca67944b130efcd7c8e9818d674",
-      "new_fingerprint": "c31d4261ab66de34ae18e446787bdf297c100624c375ecb22906bb56676199aa",
+      "new_fingerprint": "8fc648b91492d511be6a2acb32e4c771288a93eb325a4f8e704ce01f8dbb1ccd",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-31T10:33:54+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/electric/bolt-ev",
@@ -168,9 +168,9 @@
       "model": "Bolt",
       "kind": "model",
       "previous_fingerprint": "955e07ec0c6a490d8af2ba24f798d21262f6cd7320700090c3048ffc2943b7ed",
-      "new_fingerprint": "0e4dbd1fb4a96fc92d45be0f1513040e63d818cae175b76e261b596fab7742ef",
+      "new_fingerprint": "bd24ddc5acac48e248d8712be2b09e5dba8cc04f07e83527edcab6fa532e8f03",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-05T12:42:26+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.chevrolet.com/performance/corvette",
@@ -178,9 +178,9 @@
       "model": "Corvette",
       "kind": "model",
       "previous_fingerprint": "d298203ca375c0591020d528cea8b6447da3cd1ccc282a78d07f9b01540c923e",
-      "new_fingerprint": "ccd57c9f23fe93d74a688e0bc6a060695e1a60e8ba0dd736387342259e298cf1",
+      "new_fingerprint": "f7be8da71df0b9a4cdbfdb8ef2fc269e9b783b6b4aed78119627a9176da3fe7d",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-10T12:55:52+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.jeep.com/gladiator.html",
@@ -188,9 +188,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "9d261f63f3fa689c3c7ec5f4a77d0ffaf5c459c33dd4ce66c5519dcaa49314c0",
+      "new_fingerprint": "18b7db9da9980bfdfdf73b03d0e10052fa3435523b0ce35fe5fa4d6ab8f42003",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-12T13:11:40+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -198,9 +198,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "14ed3963740316ad1a4e1facf376906dbe72208cb2c0c395e55984fd87d1a15f",
+      "new_fingerprint": "b2acd20c8dc8610a3f18a8dd89fdd8267c2744b84ba48512df2c0c9843e72a20",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-12T13:11:40+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -329,9 +329,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "previous_fingerprint": "bcbdcd34c1dd727150ee6cf654687d9d79993e9d11c17329599db3d65be9f2a5",
-      "new_fingerprint": "910520fcd0732587b5b37ef4dce373c421da430644b2e56b3c3e572764cbdc70",
+      "new_fingerprint": "1a6ef20ecedbe4deb21d679127141dcb2ea6eb26d7838132b422c9104c330a81",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-10-31T10:33:54+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.toyota.com/all-vehicles/",
@@ -500,9 +500,9 @@
       "model": "Acadia",
       "kind": "model",
       "previous_fingerprint": "c73a44391ef1e0737248d3f0f3da35ce3a352c54f167aa3adbec486d3ef67e41",
-      "new_fingerprint": "26e371de92f1ae578fdd66c7badd92148c709212f0ab95a67b2711c621a3eb51",
+      "new_fingerprint": "d27a68a3ac8b3790e7bce27e7e0cf6f8bf68abf2d8c6a5760f6f15c5b417fc2d",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-07T11:17:23+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.gmc.com/suvs/yukon",
@@ -530,9 +530,9 @@
       "model": "Sierra EV",
       "kind": "model",
       "previous_fingerprint": "0eb3f26a8de38c311ff898b05752b26aa1203077ba6db104b117ba857b24f8d1",
-      "new_fingerprint": "336e5dab92d51a1d1653dab3ae263a684b6aa2b84dac4eeb8e3fd8f9bebb355a",
+      "new_fingerprint": "1f20ad589bc08bab5eed17abdd7d5ec760e8314e3782024901a716e057007442",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-06T12:24:54+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.gmc.com/electric/hummer-ev/suv",
@@ -540,9 +540,9 @@
       "model": "HUMMER EV SUV",
       "kind": "model",
       "previous_fingerprint": "08b5d7e521341eaecda0d6c07fad7000e1602b0640de7a0cdc6b5e149f969177",
-      "new_fingerprint": "fba313cafabda906de51db4202a460c317f468e3b14eec73ed17a011432d2a9e",
+      "new_fingerprint": "c6b74071e8729cfa2027eedafb877ab9bfacf069018ddc852ac45d4dc96906c2",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-07T11:17:23+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.gmc.com/electric/hummer-ev/pickup-truck",
@@ -550,9 +550,9 @@
       "model": "HUMMER EV Pickup",
       "kind": "model",
       "previous_fingerprint": "063085d141105e177c6e85ac129a0dba189f260eed6be94eda71f3dfe54ce54c",
-      "new_fingerprint": "03a426278b7a32ea57a54f3d041d2fd14ef993a58fda79195e518c5fda264a5f",
+      "new_fingerprint": "3656ae1a95e153674fc84dd5d228d9a7e7887902ccb790dae15d54cd3a197ca3",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-07T11:17:23+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.gmc.com/vans/previous-year/savana/cargo",
@@ -713,9 +713,9 @@
       "model": "Canyon",
       "kind": "model",
       "previous_fingerprint": "73a49c1dcfa2b4d669267c42a5fee0d1b65ba2f5a0bbbfccb9d2c2b3c8f6be59",
-      "new_fingerprint": "f6d4f03653f74f370e21441bb5415040a03b64dc7bc5bba0ab9978ec13f29fe0",
+      "new_fingerprint": "f73f44c1c2682398c9d644e118acab3a2614f9a37b33c04137cd3fa22cf5a376",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-06T12:24:54+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.gmc.com/trucks/sierra/1500",
@@ -723,9 +723,9 @@
       "model": "Sierra 1500",
       "kind": "model",
       "previous_fingerprint": "7df18bd1cdb7617f35e4015463ca0c654b770f26f920f380aac6cce0595d08e1",
-      "new_fingerprint": "c7d08905d1c0da188004d2099cd12d51ca8f429b2ee02ab96f82fc6654f367e8",
+      "new_fingerprint": "b7dc7ed7d299b751d55d17b93c27e01cf2e0de5a9e25776c0b6422ab43a5f721",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-06T12:24:54+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.gmc.com/trucks/sierra/2500hd-3500hd",
@@ -733,9 +733,9 @@
       "model": "Sierra 2500HD",
       "kind": "model",
       "previous_fingerprint": "41818721498e10349822c2eb271e45d8fd643b789c7c160717ab12e8b5d43eed",
-      "new_fingerprint": "0bab670cc56cc66e4d42426d82c7439493dfc80df0c5f32c9e48d806f6a9a1df",
+      "new_fingerprint": "cd924843e7609f8bdd9d36640c57217f48baa80800fdb19f1e1ea379fa1ada0e",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-07T11:17:23+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.gmc.com/vans/previous-year/savana/passenger",
@@ -743,9 +743,9 @@
       "model": "Savana Passenger 2500",
       "kind": "model",
       "previous_fingerprint": "06b99d67ed610c414e0913a9952544f540ce12410afb0d4bb425d9ec0a1841da",
-      "new_fingerprint": "1c3f61401e238b6d3e0c3035cf4f4a1bb6196a109c30144454732c64e3e8eef5",
+      "new_fingerprint": "dc841653080b4daae256f6fb57110add029de29f9ea23e1d1d6c5d9816c5912f",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-07T11:17:23+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/s-class/sedan",
@@ -853,9 +853,9 @@
       "model": "4Runner",
       "kind": "model",
       "previous_fingerprint": "4d789325f6783b7dd63f7896a6c0378064f9d161c928860e76988a358e6a79e5",
-      "new_fingerprint": "2a4074f2f452f312ada4cd85eada9a65fd18b1140f5b2ac92f119754534d5c0e",
+      "new_fingerprint": "4a3f5ee8ddd70e2844676f3b240cc50cb1a20727e66b3f62b56a113e74c2bbfe",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-12T13:11:40+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.toyota.com/corollacross/",
@@ -953,9 +953,9 @@
       "model": "Tacoma",
       "kind": "model",
       "previous_fingerprint": "78c1dd705eaee45ec7ef43655c94325eac16ef47a2442401b3a816765632117b",
-      "new_fingerprint": "33dee97908ebdb941e2e4389dfaeb4378308c156c9c0b65566eda8ff7406bc9b",
+      "new_fingerprint": "69c2e48171333c0d8034d7572c83b12d49bf2a8a7ae9c3f0d577daa09943037d",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-12T13:11:40+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.toyota.com/crownsignia/",
@@ -1053,9 +1053,9 @@
       "model": "Mazda3 Sedan",
       "kind": "model",
       "previous_fingerprint": "696398917913ff1d5efe3f9b6d5adcddd528f5e8d10093f41ec606657cb03c0b",
-      "new_fingerprint": "ff2f80a5c88a9ea4b49f04c5be97409a4583e4380b0a952873e0af5ab69121fc",
+      "new_fingerprint": "95f71fbb7d64bb6eb558a1e76542140761147b9c26c4e7fd3cec9ce436c68b52",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/mazda3-hatchback",
@@ -1063,9 +1063,9 @@
       "model": "Mazda3 Hatchback",
       "kind": "model",
       "previous_fingerprint": "32f25cc813428216dc89e391465fc91c47ca95b437d7c24e18c660154f68a626",
-      "new_fingerprint": "640b61966d3e54e060ef43f5d7f2323f51e572e201dedb30f67569cb11339c6c",
+      "new_fingerprint": "3c3b3faac2a663c2c1c27606e422a979d31b2577456dc39ff630363012c0bd89",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/mx-5-miata",
@@ -1073,9 +1073,9 @@
       "model": "MX-5 Miata",
       "kind": "model",
       "previous_fingerprint": "06b3dacb9cf4d0d826b6af4118cb7652384e98eb093857c68789134f6cc9db41",
-      "new_fingerprint": "1492d51fda8e57108215a450d98c9266b0cc5a39a967b177af2400e79d75347e",
+      "new_fingerprint": "7f6497fd7fb0155c5dd98d7c900ab12760a317ec15b475a211451e4ad79685fc",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/mx-5-miata-rf",
@@ -1083,9 +1083,9 @@
       "model": "MX-5 Miata RF",
       "kind": "model",
       "previous_fingerprint": "c96055e2dbfdb6e251e326063124b0bb682b79d61dc9ba8358b9b5d6453b8162",
-      "new_fingerprint": "c85ed4a878bee03ac74f56e5b5c0365ba1d3beb063a371003fe2a253cfb42aff",
+      "new_fingerprint": "e9401618e9140b260f17898cc195f51b02d738fdd8605ac3d8c0a9c1ca245c92",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/cx-30",
@@ -1093,9 +1093,9 @@
       "model": "CX-30",
       "kind": "model",
       "previous_fingerprint": "f705cb7946dfaecf743d09846d553e2ca06ba3bad4955549812d9219e6c23323",
-      "new_fingerprint": "a3ccfcce70f9b93e7ff28dbcac90df403d084aa3d52fe2896173f7ade4f03e97",
+      "new_fingerprint": "099f21a51fd25287f71ea15a2914b34ca975f8f10d9eb140402c3886ad131024",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/cx-5",
@@ -1103,9 +1103,9 @@
       "model": "CX-5",
       "kind": "model",
       "previous_fingerprint": "3efe7832ea9c60e92b66ef7506448b42d8f51f58067379c0c9bced7b0707a22b",
-      "new_fingerprint": "39bfbf85fb66f955e61f92a1127a90367febb54034e98cc30db8bcce77c7fb1e",
+      "new_fingerprint": "cd244e472b19a6e681bf0b495fa9cd9d329ccac9afd78073d05023053793252e",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/cx-50",
@@ -1113,9 +1113,9 @@
       "model": "CX-50",
       "kind": "model",
       "previous_fingerprint": "32dabaa1f0ad5a5411f0e14a7ec787f47facb8f56602e541b13a5fd87481e3f5",
-      "new_fingerprint": "14d81b91bf505c0fee8c7412d5bbb003929522859918c12efa80baf514351a00",
+      "new_fingerprint": "7fcd479eba3207840f7c214e122c366e36923658d015c6153e4a1ecb21de921a",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/cx-50-hybrid",
@@ -1123,9 +1123,9 @@
       "model": "CX-50 Hybrid",
       "kind": "model",
       "previous_fingerprint": "11017684624832407a6491e6c0819df96294acaf8d04a3b11ae27ccd6284f64a",
-      "new_fingerprint": "74a9dfd2df1ccfb679fb27d3b13ddb88d9ebf92f34bb1ace257497a9a347de73",
+      "new_fingerprint": "fd8d7e4ad9fa8334bd52c56b15fe76c8720aaf0b73d8d70a6da8eaa8f3bbbef7",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/cx-70",
@@ -1133,9 +1133,9 @@
       "model": "CX-70",
       "kind": "model",
       "previous_fingerprint": "752adc598e4d4b39bcd52396114f5b547fb410361f0328413bd2c9a51d30cc28",
-      "new_fingerprint": "24f08baf38ffccb0cabf1ced3f1068f1739e65b6313b81b54b1df30d41436621",
+      "new_fingerprint": "c2f8317017dc2146bd6a4e5cac2fb58d7ce0d37a8cbd92c53c2d6ae602b3f3f0",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/cx-70-phev",
@@ -1143,9 +1143,9 @@
       "model": "CX-70 PHEV",
       "kind": "model",
       "previous_fingerprint": "cfd48e711a0de6b94e6d74052e0ee36625fd886a4f00437e942107d3be6fe972",
-      "new_fingerprint": "56e71cefc11f795071037f4a2729655bc45ac18f71297332f59a5eaa2888ea5f",
+      "new_fingerprint": "f64c93979ed6b069ae97dbb9dace373f3da7da5a4d5dd0a8369090e2eae67cf4",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/cx-90",
@@ -1153,9 +1153,9 @@
       "model": "CX-90",
       "kind": "model",
       "previous_fingerprint": "a296db41f2ab68e5b60031d3ec5a2d8e796022055926f886761bf3c16c1a0e7e",
-      "new_fingerprint": "7c71b5ca8f0e97f2b1407e276b2070c5208557696b2b80672f775fc137ae0831",
+      "new_fingerprint": "47945c650b28c71b1dd7d1cf8830cb53c78a7cbe07f8e85549567237b1666d2e",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/cx-90-phev",
@@ -1163,9 +1163,9 @@
       "model": "CX-90 PHEV",
       "kind": "model",
       "previous_fingerprint": "18d309fd1f82173c86f630ebd45503db7a72e7a4c1db4622e50370ef6b3ecbd8",
-      "new_fingerprint": "3bc397fcbcb6ee8593000bd01736d6ebd2b8b4f59fad494c990b23029807cbf7",
+      "new_fingerprint": "6e2b68320a2feb2b2c32a2d201abb4ee6e1fd56d8336e6c82caea99e8abf9d84",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles/venue/compare-specs",
@@ -1426,9 +1426,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "previous_fingerprint": "f6b8df84539a4bca23817390dc0efb32de840587b4e0dc525f670935c5d6fed8",
-      "new_fingerprint": "8418d1bedf7868795e860cba5358b230e552f8ea9fc53d9dafc71fe0453560cf",
+      "new_fingerprint": "b43cab97d1f501c7d648d5f07fc98c3ab0a373928e8c6b9335eb471096e83a9f",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-04T12:28:25+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.nissanusa.com/vehicles/cars/versa-sedan/specs-trims.html",
@@ -1436,9 +1436,9 @@
       "model": "Versa",
       "kind": "model",
       "previous_fingerprint": "aa757bc77af429ba8dce7a9c42fa868c29e665513a3b89171cee770983e3576a",
-      "new_fingerprint": "e3c62e3da3bbe4f6c83a94fb5d5560da080cddc2a359af8f450410b1600efde7",
+      "new_fingerprint": "f70820e8752481241375af333c3b8fa5b1d142e796882467790e7532e6463e31",
       "detected_at": "2026-10-29T11:03:34+00:00",
-      "last_changed_at": "2026-11-12T13:11:40+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/cle/cabriolet",
@@ -1517,9 +1517,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "previous_fingerprint": "8014fb9b4700db4987e97b9e912e9ff4b3d503998ce4767b198fdc37a77e39f8",
-      "new_fingerprint": "1b179b138c0004b5daba1b2c71ee3be956bea47c00c2928aff49cf46728c4268",
+      "new_fingerprint": "251e49532fa8fe4f8887b3247b35ce24f4dfcc2be325a2ca93572803f259c2ac",
       "detected_at": "2026-10-29T11:03:34+00:00",
-      "last_changed_at": "2026-11-12T13:11:40+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.ramtrucks.com/bmo.ram_1500_dt.html",
@@ -1608,9 +1608,9 @@
       "model": "Ram 1500 REV",
       "kind": "model",
       "previous_fingerprint": "a5565f2c11d1ab1fff854439f2ec377accd5b993b60301f1f1707bd63847c1ab",
-      "new_fingerprint": "bd1cb24dda39a5349be88a1811459df0e36ec7a2e2091557b9a3d535ed816246",
+      "new_fingerprint": "d697d34faab98693df31baf9d4b25d2fda407fc8162d22a0b1d2b375a1fedcce",
       "detected_at": "2026-10-31T10:33:54+00:00",
-      "last_changed_at": "2026-11-06T12:24:54+00:00"
+      "last_changed_at": "2026-11-13T12:33:56+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/e-class/sedan",

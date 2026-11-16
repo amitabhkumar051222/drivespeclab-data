@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T12:12:19+00:00",
+  "generated": "2026-11-16T13:05:17+00:00",
   "count": 185,
   "changes": [
     {
@@ -188,9 +188,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "639b753270d57be68a2b1b4fd92ec5c69d3d72cbd9b4afa141d4cdada76cff92",
+      "new_fingerprint": "96c47288367b31c227e36e9782feb2ee85184a57124c848a74edd247a672af56",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-15T12:12:19+00:00"
+      "last_changed_at": "2026-11-16T13:05:17+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -198,9 +198,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "14ed3963740316ad1a4e1facf376906dbe72208cb2c0c395e55984fd87d1a15f",
+      "new_fingerprint": "64fc41cde19b17002ec62cb064545a8525bb4bd1f10858f32bba70c0ca0fcb0f",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-15T12:12:19+00:00"
+      "last_changed_at": "2026-11-16T13:05:17+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -600,9 +600,9 @@
       "model": "GLS",
       "kind": "model",
       "previous_fingerprint": "4e981f1220efb6f18b355a880ec6c42e34587e95ba16994f5fcf7422a284590a",
-      "new_fingerprint": "7e0e8321092ea0f2782ed7d7edfd619eebdd4155145c270340cbc0d40fb8235d",
+      "new_fingerprint": "ac8b5d082c38158cd8fb2f608c25608063d281d13d829c66d422c58d681ec437",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-12T13:11:40+00:00"
+      "last_changed_at": "2026-11-16T13:05:17+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/eqb/suv",
@@ -620,9 +620,9 @@
       "model": "EQS SUV",
       "kind": "model",
       "previous_fingerprint": "47d19403e3a2195622d8ac3a8c5079db8b1f55a79789e3ba343b0d999af35c0d",
-      "new_fingerprint": "47d19403e3a2195622d8ac3a8c5079db8b1f55a79789e3ba343b0d999af35c0d",
+      "new_fingerprint": "8df252f8f4f8b18bdc28469f3d4f9676db09e493c31e27677af84b7d2365653a",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-06T12:24:54+00:00"
+      "last_changed_at": "2026-11-16T13:05:17+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/maybach-gls/suv",
@@ -652,9 +652,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "previous_fingerprint": "dfcd94edec82ac54edd101d76ca0449855837381368dbe3e3911f7d8628f8aa8",
-      "new_fingerprint": "d5d5d94b8c4a25e96ed418b32a1d318a54a9fc8d14028ce81582f2cccfd6b70d",
+      "new_fingerprint": "fe5287b1b7c88e07802fcc1c2b60a7463ad9d02e190de6197b3917b31ff23525",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-15T12:12:19+00:00"
+      "last_changed_at": "2026-11-16T13:05:17+00:00"
     },
     {
       "url": "https://www.vw.com/en/models.html",
@@ -753,9 +753,9 @@
       "model": "S-Class",
       "kind": "model",
       "previous_fingerprint": "153501aae648c32dca325b05743b14fd35b87e88fa39abff8b9518ab0f088056",
-      "new_fingerprint": "c761f907392ad3a9de96a14cc8a3f7f52e3a847b994e4f2434301166b797957e",
+      "new_fingerprint": "57919b93c052389dc78ee03257b0f60b27b7fdab6e2ee98d293dc89504482885",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-15T12:12:19+00:00"
+      "last_changed_at": "2026-11-16T13:05:17+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/eqe/sedan",
@@ -793,9 +793,9 @@
       "model": "SL Roadster",
       "kind": "model",
       "previous_fingerprint": "0a72ab0841afe04d302a22f4016e6c1c4bcdba6383a2e660c0bf5fddb9c8ba76",
-      "new_fingerprint": "0a72ab0841afe04d302a22f4016e6c1c4bcdba6383a2e660c0bf5fddb9c8ba76",
+      "new_fingerprint": "0aa5fea02472c8482e3b5c6977e186f9553b72cbab6029a63b6dfffbe36017c4",
       "detected_at": "2026-10-24T09:04:33+00:00",
-      "last_changed_at": "2026-10-25T09:21:25+00:00"
+      "last_changed_at": "2026-11-16T13:05:17+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv",
@@ -803,9 +803,9 @@
       "model": "Mercedes-Maybach EQS SUV",
       "kind": "model",
       "previous_fingerprint": "358f52c58bc5a1e268d2781f2335c2418bbe30452c1e856ce3e8cfc8783d50d2",
-      "new_fingerprint": "358f52c58bc5a1e268d2781f2335c2418bbe30452c1e856ce3e8cfc8783d50d2",
+      "new_fingerprint": "289968221d6308adeb40dcf9618e35746246287f02f91dd1b63b5136686b07fe",
       "detected_at": "2026-10-24T09:04:33+00:00",
-      "last_changed_at": "2026-11-11T12:06:00+00:00"
+      "last_changed_at": "2026-11-16T13:05:17+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/outback/2026.html",
@@ -1456,9 +1456,9 @@
       "model": "GLE Coupe",
       "kind": "model",
       "previous_fingerprint": "f1869621313b394164071873efb36ef38734d5206380d4f405b7e2ff38b1d621",
-      "new_fingerprint": "41673ce9f7eeaabbef29522b6f54ebaf7c69f55ec93bea8873c70c2bcae04e79",
+      "new_fingerprint": "f1869621313b394164071873efb36ef38734d5206380d4f405b7e2ff38b1d621",
       "detected_at": "2026-10-29T11:03:34+00:00",
-      "last_changed_at": "2026-11-15T12:12:19+00:00"
+      "last_changed_at": "2026-11-16T13:05:17+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/crosstrek/2026.html",
@@ -1800,9 +1800,9 @@
       "model": "G-Class",
       "kind": "model",
       "previous_fingerprint": "f7f15619becf8ef78e63f7e1fbd04bd93e6e352672ca86089d2fb3d0d7bb490b",
-      "new_fingerprint": "970f99fcd714ee49fba494a303f66aeb9b4e768b503453bcdec161c9338bdaf1",
+      "new_fingerprint": "f7f15619becf8ef78e63f7e1fbd04bd93e6e352672ca86089d2fb3d0d7bb490b",
       "detected_at": "2026-11-03T12:17:25+00:00",
-      "last_changed_at": "2026-11-15T12:12:19+00:00"
+      "last_changed_at": "2026-11-16T13:05:17+00:00"
     },
     {
       "url": "https://www.genesis.com/us/en/build-and-price/2026/g90",

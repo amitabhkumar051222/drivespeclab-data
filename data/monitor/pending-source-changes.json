@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T13:31:27+00:00",
-  "count": 188,
+  "generated": "2026-11-21T12:57:50+00:00",
+  "count": 199,
   "changes": [
     {
       "url": "https://en.byd.com/",
@@ -118,9 +118,9 @@
       "model": "Silverado 1500",
       "kind": "model",
       "previous_fingerprint": "39cafa1c406f149c4f7c11a00d7c895935bb9f8dd3b960b5155ce1d59de8f24c",
-      "new_fingerprint": "e8557686e0003824bd478aa9e3755bb886fa43f7d98f5af9e2e8bb8b535d55f4",
+      "new_fingerprint": "17202fb11898bf3a42e8abc23538549739ea9d5a9fdab2c0e0e7a218c2a3b28f",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-20T13:31:27+00:00"
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
     },
     {
       "url": "https://www.chevrolet.com/trucks/silverado/2500hd-3500hd",
@@ -188,9 +188,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "f16483f49d564e2258a92fa22ff22e5227e5db595e2451e27928b88a714d76fa",
+      "new_fingerprint": "99c9846fed6759033117f4d73b5e0f3e27fecf8b74184b272db75fd81cc2858a",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-20T13:31:27+00:00"
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -198,9 +198,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "db2426420589f5831ddb531529eed8e4fad30c54b4bf8cb1ba557d836eb9c519",
+      "new_fingerprint": "7acdf66659132334cc2584d3a913c69325015d41e271570aa6edcfae84ed7b26",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-20T13:31:27+00:00"
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -853,9 +853,9 @@
       "model": "4Runner",
       "kind": "model",
       "previous_fingerprint": "4d789325f6783b7dd63f7896a6c0378064f9d161c928860e76988a358e6a79e5",
-      "new_fingerprint": "e8483587b59ba9e547c7e2e2a35c295e21f2ea4d0f9615bdd15581621f1ac328",
+      "new_fingerprint": "b5285776b3ae3618030353cee50427785a7f8953aa5aab62a7153b87c215189d",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-20T13:31:27+00:00"
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
     },
     {
       "url": "https://www.toyota.com/corollacross/",
@@ -953,9 +953,9 @@
       "model": "Tacoma",
       "kind": "model",
       "previous_fingerprint": "78c1dd705eaee45ec7ef43655c94325eac16ef47a2442401b3a816765632117b",
-      "new_fingerprint": "c948205a460562b6ff8ecdf38a0b0fb0a838d0ead188bda7ebf0f3742443175b",
+      "new_fingerprint": "b767caab5a09937fac78ea91075e63d585fb6e1664818f155943f54ef97148b2",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-20T13:31:27+00:00"
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
     },
     {
       "url": "https://www.toyota.com/crownsignia/",
@@ -1894,6 +1894,116 @@
       "new_fingerprint": "e894eecf51962e69deb2396f6da38c9a771146b0803c666b9044962490af5c5f",
       "detected_at": "2026-11-18T13:22:48+00:00",
       "last_changed_at": "2026-11-18T13:22:48+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/2026-lexus-is-perfecting-the-sport-sedan/",
+      "brand": "Lexus",
+      "model": "IS",
+      "kind": "model",
+      "previous_fingerprint": "8c18426dc17f86e03a486270cfa75150e0dc25379a01e9fc7f527c9601109dd3",
+      "new_fingerprint": "43e4f176feee8fc1e94c1977ec196f0f94e27d951412a2be66c3113a0882c84c",
+      "detected_at": "2026-11-21T12:57:50+00:00",
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/tangible-elegance-the-2026-lexus-lc-500/",
+      "brand": "Lexus",
+      "model": "LC",
+      "kind": "model",
+      "previous_fingerprint": "865ab75cbb2f722a4a637416a28046d4b5819f694bb0ed8abaab7ad7e692315c",
+      "new_fingerprint": "c0a84d2191f20bf2f59b818fc1bf92b4278c7dd693b336a9bbb4ba7aa874135f",
+      "detected_at": "2026-11-21T12:57:50+00:00",
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/2026-lexus-ls-a-homage-to-the-original/",
+      "brand": "Lexus",
+      "model": "LS",
+      "kind": "model",
+      "previous_fingerprint": "4109711bc72eab113034aab01cfb9323788f38428b8a90a53c7cc2ca65c4b778",
+      "new_fingerprint": "ece9f0a6e9e9cafe9f0f54748f9ac84e08834f5f71d02c83541ae0f8d0bcb9c1",
+      "detected_at": "2026-11-21T12:57:50+00:00",
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/2026-lexus-ux-300h-a-powerful-hybrid-hatchback/",
+      "brand": "Lexus",
+      "model": "UX",
+      "kind": "model",
+      "previous_fingerprint": "be18eb3603a1d980d3b21e03de4ec6f92bf8cec1ff1e9e39a79e9162dfbe607b",
+      "new_fingerprint": "996d7ce333e28b7785ae2dc4e2378c4cb7988a80fc138f481a7525057a34e21d",
+      "detected_at": "2026-11-21T12:57:50+00:00",
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/2026-lexus-nx-adds-grades-and-drivetrain/",
+      "brand": "Lexus",
+      "model": "NX",
+      "kind": "model",
+      "previous_fingerprint": "9d2f9d73b26797730b2e9880fa985cddbaee7c0a9cdc4229ed1495fe6504f302",
+      "new_fingerprint": "87cbe289e27275fff04f61181d5e5f0cd48e84181ec1dd384c8477b8783dd5a4",
+      "detected_at": "2026-11-21T12:57:50+00:00",
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/2026-lexus-rx-extending-the-range/",
+      "brand": "Lexus",
+      "model": "RX",
+      "kind": "model",
+      "previous_fingerprint": "b73db460859ae9459917a463ff6c8ec108647dfe598972190b2f5e266b2e406a",
+      "new_fingerprint": "7c3c075eebb83a793e2791470d7f138c75cd17724fc87bccae5e64cf98999648",
+      "detected_at": "2026-11-21T12:57:50+00:00",
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/2026-lexus-rz-adds-more-power-and-performance-2/",
+      "brand": "Lexus",
+      "model": "RZ",
+      "kind": "model",
+      "previous_fingerprint": "6d57e66ba8fed08bdbd2aa9bb6bfb7df9dd3857a246de3f1fe93811f34f8837a",
+      "new_fingerprint": "be049f2b62ab84dbc26eb502ba6cb9507079fac732f753681cbe6b0b1ed0c828",
+      "detected_at": "2026-11-21T12:57:50+00:00",
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/style-utility-and-comfort-the-2026-lexus-tx/",
+      "brand": "Lexus",
+      "model": "TX",
+      "kind": "model",
+      "previous_fingerprint": "c136006e5522230196c550d20215f9a39099e41f3bf4343c376949077df5dd47",
+      "new_fingerprint": "56396ead174f4c01e6a44c59851f6a8788a3be5490c6e5d17cf86adaf995bc75",
+      "detected_at": "2026-11-21T12:57:50+00:00",
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/2026-lexus-gx/",
+      "brand": "Lexus",
+      "model": "GX",
+      "kind": "model",
+      "previous_fingerprint": "17ad1c11d3b6e94f3a321793a17d681fcd0452e7f2a090da70b7e2adfc00e19c",
+      "new_fingerprint": "21df3a9cd4a6ed71cbb0493ca18e3a7662bd9ac43530d57a002f5c16b2a32d2f",
+      "detected_at": "2026-11-21T12:57:50+00:00",
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/lexus-flagship-suv-returns-for-2026-with-an-f-sport-appearance-package/",
+      "brand": "Lexus",
+      "model": "LX",
+      "kind": "model",
+      "previous_fingerprint": "1afd3e4a3efeec4cf9cf6e8971d75bee031eec66099e585c78119a6980d19f3b",
+      "new_fingerprint": "a5ca9fa1ad52ab3e969024c3c84eb6c8f8595fb584a1f9e5af9d613fcb551c3e",
+      "detected_at": "2026-11-21T12:57:50+00:00",
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
+    },
+    {
+      "url": "https://pressroom.lexus.com/whats-new-for-2026/",
+      "brand": "Lexus",
+      "model": "RC",
+      "kind": "model",
+      "previous_fingerprint": "a7bc21c1bdc98f42f3dcd124b23f762d81f1ec275ef3c682795706fb82e7781d",
+      "new_fingerprint": "603b506452e64bef76f137bd4a44d7c8028eb234bf8f2522ee4c119885ea9dd9",
+      "detected_at": "2026-11-21T12:57:50+00:00",
+      "last_changed_at": "2026-11-21T12:57:50+00:00"
     }
   ]
 }

@@ -1,12 +1,12 @@
 # DriveSpecLab Gallery Health & Production Readiness
 
-Generated: 2026-11-20T12:06:32.351727+00:00
+Generated: 2026-11-21T11:40:35.655365+00:00
 
 - Models scanned: **282**
 - Models with galleries: **30**
 - Gallery URLs checked: **181**
-- Healthy image URLs: **162 (89.5%)**
-- Unhealthy image URLs: **19**
+- Healthy image URLs: **161 (89.0%)**
+- Unhealthy image URLs: **20**
 - Production-ready models: **26 / 278 (9.4%)**
 
 ## Production-ready models
@@ -51,6 +51,7 @@ Generated: 2026-11-20T12:06:32.351727+00:00
 - Honda Civic Sedan: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/9/96/2022_Honda_Civic_e-HEV_RS.jpg
 - Honda Civic Sedan: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/b/ba/2024_Honda_Civic_e-HEV_EL+.jpg
 - Honda Civic Sedan: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/c/ca/2024_Honda_Civic_e-HEV_RS.jpg
+- Honda Civic Sedan: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/2/24/2025_Honda_Civic_Hybrid_Sport_Touring_(facelift),_front_4.18.25.jpg
 - Honda Civic Sedan: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/b/ba/2025_Honda_Civic_Hybrid_Sport_Touring_(facelift),_rear_4.18.25.jpg
 - Honda Civic Sedan: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/d/de/2025_Honda_Civic_Sport_Touring_Hybrid_in_Blue_Lagoon,_front_left,_2024-09-24.jpg
 - Honda Accord: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/7/71/(USA-Massachusetts)_Private_Honda_Accord_MA-3DG444_2024-06-11.jpg

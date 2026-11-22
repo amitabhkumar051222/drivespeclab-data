@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T12:57:50+00:00",
+  "generated": "2026-11-22T12:49:24+00:00",
   "count": 199,
   "changes": [
     {
@@ -108,9 +108,9 @@
       "model": "Colorado",
       "kind": "model",
       "previous_fingerprint": "987d6284c2ef034d1ad040162a7d3543efd7fa4ed15560360f02783ca08c61bd",
-      "new_fingerprint": "6eb6856133a7972ee8728f54f90b836a689cf039782bf0ddddf5b94d5846c329",
+      "new_fingerprint": "0ce956226e03ccf1729e8f1e099f71f2996bdba1ea567ce4bac3adaec6415619",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-19T13:49:40+00:00"
+      "last_changed_at": "2026-11-22T12:49:24+00:00"
     },
     {
       "url": "https://www.chevrolet.com/trucks/silverado/1500",
@@ -198,9 +198,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "7acdf66659132334cc2584d3a913c69325015d41e271570aa6edcfae84ed7b26",
+      "new_fingerprint": "0d7315c8e163ff9664c562f272c92b7ad70ebdb04fc87f1a2256d7fac90e2eb5",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-21T12:57:50+00:00"
+      "last_changed_at": "2026-11-22T12:49:24+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -590,9 +590,9 @@
       "model": "GLE SUV",
       "kind": "model",
       "previous_fingerprint": "fad28bbf89a5c3f9b451ab1f9aff40321f473d2c2c3367fd09a3404c025192ef",
-      "new_fingerprint": "ffb07651fa9b9ebba1d087dd3fc0093bb2e6f08deea92a764239a61b876246df",
+      "new_fingerprint": "28224ab6d53482660e75938d35f5b398cbe8a9cd2aff935e7c8205915cd82f0c",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-19T13:49:40+00:00"
+      "last_changed_at": "2026-11-22T12:49:24+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/gls/suv",
@@ -753,9 +753,9 @@
       "model": "S-Class",
       "kind": "model",
       "previous_fingerprint": "153501aae648c32dca325b05743b14fd35b87e88fa39abff8b9518ab0f088056",
-      "new_fingerprint": "aca1ca524cdb28397ef9d32faf41d7332f994ff2098699d8237c8afe8a063530",
+      "new_fingerprint": "dc73f94ae09df6e047b0040c03b8a4fa06aab1d0c64a150b4dde866ecb159af2",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-20T13:31:27+00:00"
+      "last_changed_at": "2026-11-22T12:49:24+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/eqe/sedan",
@@ -783,9 +783,9 @@
       "model": "AMG GT Coupe",
       "kind": "model",
       "previous_fingerprint": "cb84e603088855abe108a9b1eb3019b751540c5c7fd867d9c129cf2888e34263",
-      "new_fingerprint": "0fda682a438df63edab71e7e204789857f8889d7a8fa0f3cba17ab3680777e04",
+      "new_fingerprint": "70175988a01737c35f590fb596dc3828e49c6101bc6a1eb95885a1c82e1900a4",
       "detected_at": "2026-10-24T09:04:33+00:00",
-      "last_changed_at": "2026-11-20T13:31:27+00:00"
+      "last_changed_at": "2026-11-22T12:49:24+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/sl/roadster",
@@ -793,9 +793,9 @@
       "model": "SL Roadster",
       "kind": "model",
       "previous_fingerprint": "0a72ab0841afe04d302a22f4016e6c1c4bcdba6383a2e660c0bf5fddb9c8ba76",
-      "new_fingerprint": "bb69184c890726f93936b606513efa8861746f4bd5764632d755f253f41e775d",
+      "new_fingerprint": "eaad72085ab595ad06f46975e38781c3981807e93e5c2692042ea746ba3e98e9",
       "detected_at": "2026-10-24T09:04:33+00:00",
-      "last_changed_at": "2026-11-19T13:49:40+00:00"
+      "last_changed_at": "2026-11-22T12:49:24+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/maybach-eqs/suv",
@@ -1638,9 +1638,9 @@
       "model": "GLC Coupe",
       "kind": "model",
       "previous_fingerprint": "bb4e880294148075fd2f4ab387869675d1fe30772d2c32166169b46662dda31a",
-      "new_fingerprint": "88996f40013d94a2d5ef5da49edeecee011c3946fd08ac9246aea16f12f49ba9",
+      "new_fingerprint": "232ffcb7eb5dd80b979130880363a1953733d98139f68f2083901184a4d906ff",
       "detected_at": "2026-10-31T10:33:54+00:00",
-      "last_changed_at": "2026-11-19T13:49:40+00:00"
+      "last_changed_at": "2026-11-22T12:49:24+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/eqe/suv",

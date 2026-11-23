@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T12:49:24+00:00",
+  "generated": "2026-11-23T15:16:00+00:00",
   "count": 199,
   "changes": [
     {
@@ -108,9 +108,9 @@
       "model": "Colorado",
       "kind": "model",
       "previous_fingerprint": "987d6284c2ef034d1ad040162a7d3543efd7fa4ed15560360f02783ca08c61bd",
-      "new_fingerprint": "0ce956226e03ccf1729e8f1e099f71f2996bdba1ea567ce4bac3adaec6415619",
+      "new_fingerprint": "6eb6856133a7972ee8728f54f90b836a689cf039782bf0ddddf5b94d5846c329",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-22T12:49:24+00:00"
+      "last_changed_at": "2026-11-23T15:16:00+00:00"
     },
     {
       "url": "https://www.chevrolet.com/trucks/silverado/1500",
@@ -188,9 +188,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "99c9846fed6759033117f4d73b5e0f3e27fecf8b74184b272db75fd81cc2858a",
+      "new_fingerprint": "f16483f49d564e2258a92fa22ff22e5227e5db595e2451e27928b88a714d76fa",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-21T12:57:50+00:00"
+      "last_changed_at": "2026-11-23T15:16:00+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -198,9 +198,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "0d7315c8e163ff9664c562f272c92b7ad70ebdb04fc87f1a2256d7fac90e2eb5",
+      "new_fingerprint": "d9391eba66591f98f7239b31d71d2343fff685c5460c788a2906c17727ed58a8",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-22T12:49:24+00:00"
+      "last_changed_at": "2026-11-23T15:16:00+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -590,9 +590,9 @@
       "model": "GLE SUV",
       "kind": "model",
       "previous_fingerprint": "fad28bbf89a5c3f9b451ab1f9aff40321f473d2c2c3367fd09a3404c025192ef",
-      "new_fingerprint": "28224ab6d53482660e75938d35f5b398cbe8a9cd2aff935e7c8205915cd82f0c",
+      "new_fingerprint": "ffb07651fa9b9ebba1d087dd3fc0093bb2e6f08deea92a764239a61b876246df",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-22T12:49:24+00:00"
+      "last_changed_at": "2026-11-23T15:16:00+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/gls/suv",
@@ -763,9 +763,9 @@
       "model": "EQE Sedan",
       "kind": "model",
       "previous_fingerprint": "56aa6f1d36edb89973283560aece4c8ea4c398fe811004406dbabbdb0aa03cfe",
-      "new_fingerprint": "829ca729068fe66f26f804de75e4d470bbfdb0d9cdaf0728e6a3996b7ed9d15e",
+      "new_fingerprint": "ed1501fff27d14eb0557d64af9c5a8a071c0eadbae107924fa17023bf6758c18",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-19T13:49:40+00:00"
+      "last_changed_at": "2026-11-23T15:16:00+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/c-class/sedan",
@@ -783,9 +783,9 @@
       "model": "AMG GT Coupe",
       "kind": "model",
       "previous_fingerprint": "cb84e603088855abe108a9b1eb3019b751540c5c7fd867d9c129cf2888e34263",
-      "new_fingerprint": "70175988a01737c35f590fb596dc3828e49c6101bc6a1eb95885a1c82e1900a4",
+      "new_fingerprint": "0fda682a438df63edab71e7e204789857f8889d7a8fa0f3cba17ab3680777e04",
       "detected_at": "2026-10-24T09:04:33+00:00",
-      "last_changed_at": "2026-11-22T12:49:24+00:00"
+      "last_changed_at": "2026-11-23T15:16:00+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/sl/roadster",
@@ -853,9 +853,9 @@
       "model": "4Runner",
       "kind": "model",
       "previous_fingerprint": "4d789325f6783b7dd63f7896a6c0378064f9d161c928860e76988a358e6a79e5",
-      "new_fingerprint": "b5285776b3ae3618030353cee50427785a7f8953aa5aab62a7153b87c215189d",
+      "new_fingerprint": "90808229725d3d30fd184cad0eeeef4c8b5bd0f6886b98775af2e1d94692423b",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-21T12:57:50+00:00"
+      "last_changed_at": "2026-11-23T15:16:00+00:00"
     },
     {
       "url": "https://www.toyota.com/corollacross/",
@@ -1393,9 +1393,9 @@
       "model": "Mercedes-Maybach S-Class",
       "kind": "model",
       "previous_fingerprint": "5efdeded6adec0f5d1317fa53c34b5001d3cb16de123b9861bc4dd203a8c031c",
-      "new_fingerprint": "93f67c4b5299b06fb988fae8e1411e3ca6ac2abb823301f5e06da6f49b10d539",
+      "new_fingerprint": "11f3fb088eb18c67e9f0fd4ed229efaf38efe2dd605c28bc3e02de182a711002",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-19T13:49:40+00:00"
+      "last_changed_at": "2026-11-23T15:16:00+00:00"
     },
     {
       "url": "https://www.hyundaiusa.com/us/en/vehicles",
@@ -1446,9 +1446,9 @@
       "model": "CLE Cabriolet",
       "kind": "model",
       "previous_fingerprint": "d13d67c7438154cc0ef342ebfa45caee63650b646236043314616065c9823b53",
-      "new_fingerprint": "220456e0859ffddcf0c6d8643e243a6821ba70d8f5557adf67a866a928581762",
+      "new_fingerprint": "9c7c3cc97737e8bb04bd679d558d64bd58a9c6193c23106c80c19d9654644da8",
       "detected_at": "2026-10-29T11:03:34+00:00",
-      "last_changed_at": "2026-11-19T13:49:40+00:00"
+      "last_changed_at": "2026-11-23T15:16:00+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/gle/coupe",
@@ -1638,9 +1638,9 @@
       "model": "GLC Coupe",
       "kind": "model",
       "previous_fingerprint": "bb4e880294148075fd2f4ab387869675d1fe30772d2c32166169b46662dda31a",
-      "new_fingerprint": "232ffcb7eb5dd80b979130880363a1953733d98139f68f2083901184a4d906ff",
+      "new_fingerprint": "88996f40013d94a2d5ef5da49edeecee011c3946fd08ac9246aea16f12f49ba9",
       "detected_at": "2026-10-31T10:33:54+00:00",
-      "last_changed_at": "2026-11-22T12:49:24+00:00"
+      "last_changed_at": "2026-11-23T15:16:00+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/eqe/suv",
@@ -1648,9 +1648,9 @@
       "model": "EQE SUV",
       "kind": "model",
       "previous_fingerprint": "8cda3ded756bc18b5d68e845de74fdfbee1e396fc00b8c03c7adfa043944fcc3",
-      "new_fingerprint": "c4a51c5a04b7a9bf02567202c175955a8b8cff8d7f0b012777cd5ef776f1d810",
+      "new_fingerprint": "dcdc0ccfeea3f3e2011525d047d110ccc9f92ed4bb4bb2ad81d999235d1abe29",
       "detected_at": "2026-10-31T10:33:54+00:00",
-      "last_changed_at": "2026-11-19T13:49:40+00:00"
+      "last_changed_at": "2026-11-23T15:16:00+00:00"
     },
     {
       "url": "https://auto.mahindra.com/",

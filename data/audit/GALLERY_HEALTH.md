@@ -1,12 +1,12 @@
 # DriveSpecLab Gallery Health & Production Readiness
 
-Generated: 2026-11-24T14:12:19.420321+00:00
+Generated: 2026-11-25T13:25:30.506586+00:00
 
 - Models scanned: **282**
 - Models with galleries: **30**
 - Gallery URLs checked: **181**
-- Healthy image URLs: **163 (90.1%)**
-- Unhealthy image URLs: **18**
+- Healthy image URLs: **161 (89.0%)**
+- Unhealthy image URLs: **20**
 - Production-ready models: **26 / 278 (9.4%)**
 
 ## Production-ready models
@@ -40,6 +40,7 @@ Generated: 2026-11-24T14:12:19.420321+00:00
 
 ## Unhealthy URLs
 
+- Honda Pilot: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/9/98/2023_Honda_Pilot_TrailSport,_rear_left,_05-08-2023.jpg
 - Honda Pilot: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/5/52/23_Honda_Pilot_TrailSport.jpg
 - Honda Passport: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/a/aa/%2726_Honda_Passport_TrailSport.jpg
 - Honda Passport: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/5/54/2025_Honda_Passport_TrailSport,_front_4.11.25.jpg
@@ -57,4 +58,5 @@ Generated: 2026-11-24T14:12:19.420321+00:00
 - Honda Accord: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/f/f1/2023_Honda_Accord_(rear_view).jpg
 - Honda Accord: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/0/02/2023_Honda_Accord_EX_in_Canyon_River_Blue_Metallic,_Front_Left,_04-07-2023.jpg
 - Honda Accord: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/c/c5/2023_Honda_Accord_EX_in_Crystal_Black_Pearl,_rear_left.jpg
+- Honda Accord: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/4/49/2023_Honda_Accord_EX_in_Meteoroid_Grey_Metallic,_Front_Left,_03-17-2023.jpg
 - Honda Accord: HTTP 429 — https://upload.wikimedia.org/wikipedia/commons/f/f6/2023_Honda_Accord_EX_in_Meteoroid_Grey_Metallic,_Front_Left2,_03-17-2023.jpg

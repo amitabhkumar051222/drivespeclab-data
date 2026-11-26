@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T14:52:29+00:00",
+  "generated": "2026-11-26T14:21:41+00:00",
   "count": 199,
   "changes": [
     {
@@ -18,9 +18,9 @@
       "model": "Range Rover Evoque",
       "kind": "model",
       "previous_fingerprint": "38958f6ca19c882904133d75ec73c60daa80cab36f16a1f4f5571868ddc4536f",
-      "new_fingerprint": "9c28afba26e62b8df147638956f1adc677f9b338a99a8c2fac3570002d31f4c5",
+      "new_fingerprint": "1711236f40046d9628a5218cab68f1b4be7bfa42337944c4e7d826677789fdef",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-20T13:31:27+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html",
@@ -188,9 +188,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "a45fd10d42da886e2e133ab1ae0936589ecd5aeeb85af936f866425ede7ef10a",
+      "new_fingerprint": "2b53336a84c256a1d975a8ce84248c023bffbc33ec8734e5ba36a2a793fc1b30",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-25T14:52:29+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -198,9 +198,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "1219c8f8a99e0b41023a0ca050458d710378636a64fd8de646cc86b2986c4ad6",
+      "new_fingerprint": "5872e093e1c68a1bacc8d3d55dd84096cbf71aaa39204b1745570b88237fd5a6",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-25T14:52:29+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -490,9 +490,9 @@
       "model": "Terrain",
       "kind": "model",
       "previous_fingerprint": "3f89890f7156859c1779509913680905a575f2bcd926aa9efd571438f95ca3d3",
-      "new_fingerprint": "ac872c6cf9b452c5e658a357911130f5d9edc1aea06c4cef9952fc92308783cc",
+      "new_fingerprint": "d8a917e7e002593dd12d7ee38d681a0315319d045e7792348612c53ad72da1cd",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-24T15:12:38+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.gmc.com/suvs/previous-year/acadia",
@@ -500,9 +500,9 @@
       "model": "Acadia",
       "kind": "model",
       "previous_fingerprint": "c73a44391ef1e0737248d3f0f3da35ce3a352c54f167aa3adbec486d3ef67e41",
-      "new_fingerprint": "07c45961fde3aae8686dacaa9a8dd6bb2dbcc8e543e4236b00864e4141a2f9a2",
+      "new_fingerprint": "d5b0da06f643e858cb7f17273e1d7ede61be5c2a54f3ec45744b4ebb9a579fc4",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-24T15:12:38+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.gmc.com/suvs/yukon",
@@ -510,9 +510,9 @@
       "model": "Yukon",
       "kind": "model",
       "previous_fingerprint": "02c4f8c9fe46ff674f23aa8f2e4af8c05532bf5f2fc0d6a58da94d1168ef9012",
-      "new_fingerprint": "6da4fb100135300015e346938e989c7f2f588e1a738842b7b4c3873cee465ff7",
+      "new_fingerprint": "95bf2369a66c30e9e757814a2d00c1bbfec10f40d97b34fc85d241d478e25c07",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-24T15:12:38+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.gmc.com/trucks/sierra-3500hd-chassis-cab",
@@ -520,9 +520,9 @@
       "model": "Sierra 3500HD Chassis Cab",
       "kind": "model",
       "previous_fingerprint": "b89341c6d545390ebd73f2f81e73e038e8a8026d4c52333e5712f29804e2960d",
-      "new_fingerprint": "2a4937914763f67532a81aa015e8241631d2661011a8d3a64de1f2e7e083df52",
+      "new_fingerprint": "d8eb052faee3cbf0e1b352d04fc2b81122c42a472517a0f2e56dd49e4354b734",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-24T15:12:38+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.gmc.com/electric/sierra-ev",
@@ -530,9 +530,9 @@
       "model": "Sierra EV",
       "kind": "model",
       "previous_fingerprint": "0eb3f26a8de38c311ff898b05752b26aa1203077ba6db104b117ba857b24f8d1",
-      "new_fingerprint": "1a347ff011346795b896a51641e77c20b91ecb8b1f8e9b1dfe131068dfecdae8",
+      "new_fingerprint": "ed5767ed698056f47212ca59b2bb0cc90d073785b378321a471d44f9b121b11a",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-24T15:12:38+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.gmc.com/electric/hummer-ev/suv",
@@ -540,9 +540,9 @@
       "model": "HUMMER EV SUV",
       "kind": "model",
       "previous_fingerprint": "08b5d7e521341eaecda0d6c07fad7000e1602b0640de7a0cdc6b5e149f969177",
-      "new_fingerprint": "91fb9e9b08c744bc773f206531072ff803c2980502a6ac3999194fa07c00b390",
+      "new_fingerprint": "d586be130e711df9b66d7ca51c9322d058219d5f82a29388d6a3b9e4feb4d33d",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-24T15:12:38+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.gmc.com/electric/hummer-ev/pickup-truck",
@@ -550,9 +550,9 @@
       "model": "HUMMER EV Pickup",
       "kind": "model",
       "previous_fingerprint": "063085d141105e177c6e85ac129a0dba189f260eed6be94eda71f3dfe54ce54c",
-      "new_fingerprint": "9fbb5f6735db9bbc2f0e67290be5f4caae750d148e2dc4c58938b2bc315ee5f6",
+      "new_fingerprint": "799d4c04db92e800ae1a6c76bce15898ef107fbb3bc509a1e10d477996b81040",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-24T15:12:38+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.gmc.com/vans/previous-year/savana/cargo",
@@ -560,9 +560,9 @@
       "model": "Savana Cargo 2500",
       "kind": "model",
       "previous_fingerprint": "16df64c888189dbb875b765671c62cd3b4333be736254a2a8836f2a0fb4d795b",
-      "new_fingerprint": "21e366baf562215d9a944f4d6f6e4313f680f308f4129f1c4f7a9f2a83ec3931",
+      "new_fingerprint": "65cfdac58a2d886259b987402c0ead042bfed36f75d737291356144e46a893ce",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-24T15:12:38+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/e-class/wagon",
@@ -610,9 +610,9 @@
       "model": "EQB",
       "kind": "model",
       "previous_fingerprint": "e93135ad15847ed1410e37a89cad24dffd88cda5ffb94a0a7b6b96d6c9343789",
-      "new_fingerprint": "e7a50e5a251e014a92fb2d2e8d64b5efe75330439fd123d96a2c0f479ed99399",
+      "new_fingerprint": "47344ef323fcafcaf0d3270f8f95b50158889347676c0a8ef1c9e60ddf1ccc33",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-19T13:49:40+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/eqs/suv",
@@ -663,9 +663,9 @@
       "kind": "brand-registry",
       "market": "U.S. retail",
       "previous_fingerprint": "20006c7eb5b2ae5f50e7382d5e2bdba4a8955b2321c8daac7952d03df8eacead",
-      "new_fingerprint": "69dee4fa42c6d4b229cba6f36e42246a99ea7bf55da93904f2bcc435f66fb47c",
+      "new_fingerprint": "015de811f5ea94af852e1dead60f884d320e15d23a73569952d9e7fe9a708749",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-19T13:49:40+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.rangerover.com/en-us/range-rover/models-and-specifications.html",
@@ -673,9 +673,9 @@
       "model": "Range Rover",
       "kind": "model",
       "previous_fingerprint": "49d64bc44cdc60c7239c31cbeea2c706a00386b9c2c2bc8a5ee67be9e8204e89",
-      "new_fingerprint": "e9a3f55300fbeeab5e9e6a91c60baa0176f0314612f45dc87600869ea680d9f4",
+      "new_fingerprint": "6383b54b0c78a1e67e0f9fa23bca9a946beb22310ff95ebace443c424cb5ef18",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-20T13:31:27+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.rangerover.com/en-us/range-rover-sport/models-and-specifications.html",
@@ -683,9 +683,9 @@
       "model": "Range Rover Sport",
       "kind": "model",
       "previous_fingerprint": "0a23a2bda145c0394b84bfda8000bd60fcd4129d7c7cdfce1915bab7e897ae04",
-      "new_fingerprint": "397c7f51573a91d7d8a014720159771e0228f3e92c2bfbead7b62150dadb96a2",
+      "new_fingerprint": "b6f08c9bde2dc37fb9f6a5de5140ec3936fe4ccef85457eb4e8e0fd3146a69f9",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-20T13:31:27+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.rangerover.com/en-us/range-rover-velar/models-and-specifications.html",
@@ -693,9 +693,9 @@
       "model": "Range Rover Velar",
       "kind": "model",
       "previous_fingerprint": "c0c9c4a4300b4b42a716b79f77fd1ec78be3e3ec553cf66441757a2878783638",
-      "new_fingerprint": "058adfb06121d7c12a21c1a50ae5d1d3b2c7d5e4d77e2c9bd646bedf6ba85d7c",
+      "new_fingerprint": "397e14967078595eb4fb7db24b614fb8806d80a4d2bcea801cd495803d2cf50b",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-20T13:31:27+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.kia.com/us/en/niro",
@@ -713,9 +713,9 @@
       "model": "Canyon",
       "kind": "model",
       "previous_fingerprint": "73a49c1dcfa2b4d669267c42a5fee0d1b65ba2f5a0bbbfccb9d2c2b3c8f6be59",
-      "new_fingerprint": "f5762b221b8457103c36710a72361b4285dfbcf54a6c329f2d774f9beac31117",
+      "new_fingerprint": "ecbd7ad14be8aaa2c2ae608d73094c280cbb9d13eb9ea29d2cc0957808646eff",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-24T15:12:38+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.gmc.com/trucks/sierra/1500",
@@ -723,9 +723,9 @@
       "model": "Sierra 1500",
       "kind": "model",
       "previous_fingerprint": "7df18bd1cdb7617f35e4015463ca0c654b770f26f920f380aac6cce0595d08e1",
-      "new_fingerprint": "ffdaf684516835f2824ddd810345cd6658d2f57f8c57e447145ff0471582a76d",
+      "new_fingerprint": "021940712a6ef3c9a853d4065d7636487b2b08f367070d6d3ae5fb7740a88bc6",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-24T15:12:38+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.gmc.com/trucks/sierra/2500hd-3500hd",
@@ -733,9 +733,9 @@
       "model": "Sierra 2500HD",
       "kind": "model",
       "previous_fingerprint": "41818721498e10349822c2eb271e45d8fd643b789c7c160717ab12e8b5d43eed",
-      "new_fingerprint": "0e75b8c32a58257c135c02207877f45c017490d5c2c8f69080b48823669564c1",
+      "new_fingerprint": "2ea660800ef89b09cacc8478a433746d0bbb67d53b9ab281c36f02bf0dd3f4d3",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-24T15:12:38+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.gmc.com/vans/previous-year/savana/passenger",
@@ -743,9 +743,9 @@
       "model": "Savana Passenger 2500",
       "kind": "model",
       "previous_fingerprint": "06b99d67ed610c414e0913a9952544f540ce12410afb0d4bb425d9ec0a1841da",
-      "new_fingerprint": "5e2e6ca4e0321e8f6ca1ad72b4e11ec46a251d1e95bf61cf3b2df128276f4ca3",
+      "new_fingerprint": "94e97c36f29e16dfa46c57b7124566b255c42fadea5e2b9acebc8182a50a6d02",
       "detected_at": "2026-10-23T09:31:34+00:00",
-      "last_changed_at": "2026-11-24T15:12:38+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/s-class/sedan",
@@ -853,9 +853,9 @@
       "model": "4Runner",
       "kind": "model",
       "previous_fingerprint": "4d789325f6783b7dd63f7896a6c0378064f9d161c928860e76988a358e6a79e5",
-      "new_fingerprint": "e8483587b59ba9e547c7e2e2a35c295e21f2ea4d0f9615bdd15581621f1ac328",
+      "new_fingerprint": "b5285776b3ae3618030353cee50427785a7f8953aa5aab62a7153b87c215189d",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-25T14:52:29+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.toyota.com/corollacross/",
@@ -953,9 +953,9 @@
       "model": "Tacoma",
       "kind": "model",
       "previous_fingerprint": "78c1dd705eaee45ec7ef43655c94325eac16ef47a2442401b3a816765632117b",
-      "new_fingerprint": "b767caab5a09937fac78ea91075e63d585fb6e1664818f155943f54ef97148b2",
+      "new_fingerprint": "c948205a460562b6ff8ecdf38a0b0fb0a838d0ead188bda7ebf0f3742443175b",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-21T12:57:50+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.toyota.com/crownsignia/",
@@ -1063,9 +1063,9 @@
       "model": "Mazda3 Hatchback",
       "kind": "model",
       "previous_fingerprint": "32f25cc813428216dc89e391465fc91c47ca95b437d7c24e18c660154f68a626",
-      "new_fingerprint": "82e38b8af74ae9d9886c388b99f23d0eed4fe3c6bd9e9d3af5700ebcc91529b3",
+      "new_fingerprint": "3618557b65c2c5838c6c3ffc27e47d2b850b9b74df192040893852c3b3ef4f34",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-25T14:52:29+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/mx-5-miata",
@@ -1729,9 +1729,9 @@
       "model": "Golf R",
       "kind": "model",
       "previous_fingerprint": "cf6039c7fc95b5b9b4afb1690a768b13345cbca34934d7b3354079ec66afdefb",
-      "new_fingerprint": "5d06449edf20535b3cfa693189cdbca33eefa27bfd3e9729614c3a3322e54bd7",
+      "new_fingerprint": "b87143cffd04a67feaa521ce704474cfd30ff378edbbc03afc63d7e118ba48c1",
       "detected_at": "2026-11-02T12:49:00+00:00",
-      "last_changed_at": "2026-11-02T12:49:00+00:00"
+      "last_changed_at": "2026-11-26T14:21:41+00:00"
     },
     {
       "url": "https://www.vw.com/en/builder.html/__app/golf-gti.app",

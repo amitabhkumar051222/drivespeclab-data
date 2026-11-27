@@ -1,6 +1,6 @@
 # DriveSpecLab Gallery Health & Production Readiness
 
-Generated: 2026-11-26T13:04:15.545033+00:00
+Generated: 2026-11-27T13:00:43.941383+00:00
 
 - Models scanned: **282**
 - Models with galleries: **30**

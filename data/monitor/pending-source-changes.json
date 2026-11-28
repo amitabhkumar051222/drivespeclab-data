@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T14:15:18+00:00",
+  "generated": "2026-11-28T13:31:24+00:00",
   "count": 199,
   "changes": [
     {
@@ -188,9 +188,9 @@
       "model": "Gladiator",
       "kind": "model",
       "previous_fingerprint": "2ee14a4575267bf15bc3d69178c95219f56f22fa0ad419c010e31a88fe4df89e",
-      "new_fingerprint": "e2cc45249b57b3b82ab06a99f6614ffbdef5441840163bd06295241fe502551e",
+      "new_fingerprint": "02c9d6d58db86b323f35333fbf2fbdac9526baecf8db689d4fab5b4268581a75",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-27T14:15:18+00:00"
+      "last_changed_at": "2026-11-28T13:31:24+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/index.html",
@@ -198,9 +198,9 @@
       "model": "Legacy",
       "kind": "model",
       "previous_fingerprint": "8171f345fb909b62c54c74d771c911b3f394a8a97d6670fcb38d9776497241c3",
-      "new_fingerprint": "5872e093e1c68a1bacc8d3d55dd84096cbf71aaa39204b1745570b88237fd5a6",
+      "new_fingerprint": "a38a62f23bcd6a72217806d5bbc6a2b2a59a0adab214f40d33a2390a6b1b2369",
       "detected_at": "2026-10-21T09:34:25+00:00",
-      "last_changed_at": "2026-11-26T14:21:41+00:00"
+      "last_changed_at": "2026-11-28T13:31:24+00:00"
     },
     {
       "url": "https://www.toyota.com/vehicles/bz/2027",
@@ -590,9 +590,9 @@
       "model": "GLE SUV",
       "kind": "model",
       "previous_fingerprint": "fad28bbf89a5c3f9b451ab1f9aff40321f473d2c2c3367fd09a3404c025192ef",
-      "new_fingerprint": "ffb07651fa9b9ebba1d087dd3fc0093bb2e6f08deea92a764239a61b876246df",
+      "new_fingerprint": "28224ab6d53482660e75938d35f5b398cbe8a9cd2aff935e7c8205915cd82f0c",
       "detected_at": "2026-10-22T09:35:17+00:00",
-      "last_changed_at": "2026-11-25T14:52:29+00:00"
+      "last_changed_at": "2026-11-28T13:31:24+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/gls/suv",
@@ -783,9 +783,9 @@
       "model": "AMG GT Coupe",
       "kind": "model",
       "previous_fingerprint": "cb84e603088855abe108a9b1eb3019b751540c5c7fd867d9c129cf2888e34263",
-      "new_fingerprint": "70175988a01737c35f590fb596dc3828e49c6101bc6a1eb95885a1c82e1900a4",
+      "new_fingerprint": "0fda682a438df63edab71e7e204789857f8889d7a8fa0f3cba17ab3680777e04",
       "detected_at": "2026-10-24T09:04:33+00:00",
-      "last_changed_at": "2026-11-25T14:52:29+00:00"
+      "last_changed_at": "2026-11-28T13:31:24+00:00"
     },
     {
       "url": "https://www.mbusa.com/en/vehicles/class/sl/roadster",
@@ -803,9 +803,9 @@
       "model": "Mercedes-Maybach EQS SUV",
       "kind": "model",
       "previous_fingerprint": "358f52c58bc5a1e268d2781f2335c2418bbe30452c1e856ce3e8cfc8783d50d2",
-      "new_fingerprint": "f9122a158e97c5a386bbee7f5c0a8a004d355f14924f66d4827df4cadd23bc01",
+      "new_fingerprint": "cfa31df3d5b9d030897d5142bb2217ddf1ee81eac2e04ab5736687a4bcd2fb05",
       "detected_at": "2026-10-24T09:04:33+00:00",
-      "last_changed_at": "2026-11-27T14:15:18+00:00"
+      "last_changed_at": "2026-11-28T13:31:24+00:00"
     },
     {
       "url": "https://www.subaru.com/vehicles/outback/2026.html",
@@ -853,9 +853,9 @@
       "model": "4Runner",
       "kind": "model",
       "previous_fingerprint": "4d789325f6783b7dd63f7896a6c0378064f9d161c928860e76988a358e6a79e5",
-      "new_fingerprint": "e8483587b59ba9e547c7e2e2a35c295e21f2ea4d0f9615bdd15581621f1ac328",
+      "new_fingerprint": "b5285776b3ae3618030353cee50427785a7f8953aa5aab62a7153b87c215189d",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-27T14:15:18+00:00"
+      "last_changed_at": "2026-11-28T13:31:24+00:00"
     },
     {
       "url": "https://www.toyota.com/corollacross/",
@@ -953,9 +953,9 @@
       "model": "Tacoma",
       "kind": "model",
       "previous_fingerprint": "78c1dd705eaee45ec7ef43655c94325eac16ef47a2442401b3a816765632117b",
-      "new_fingerprint": "b767caab5a09937fac78ea91075e63d585fb6e1664818f155943f54ef97148b2",
+      "new_fingerprint": "5d307ea4ac634583f693fb54d1c280906ec9819fa6dc3d8197c316161504335d",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-27T14:15:18+00:00"
+      "last_changed_at": "2026-11-28T13:31:24+00:00"
     },
     {
       "url": "https://www.toyota.com/crownsignia/",
@@ -1063,9 +1063,9 @@
       "model": "Mazda3 Hatchback",
       "kind": "model",
       "previous_fingerprint": "32f25cc813428216dc89e391465fc91c47ca95b437d7c24e18c660154f68a626",
-      "new_fingerprint": "3618557b65c2c5838c6c3ffc27e47d2b850b9b74df192040893852c3b3ef4f34",
+      "new_fingerprint": "dedcdd1fa0cc2661039309929460993e193900603a4377c18411072c8f80aabc",
       "detected_at": "2026-10-28T10:46:54+00:00",
-      "last_changed_at": "2026-11-26T14:21:41+00:00"
+      "last_changed_at": "2026-11-28T13:31:24+00:00"
     },
     {
       "url": "https://www.mazdausa.com/vehicles/mx-5-miata",
@@ -1800,9 +1800,9 @@
       "model": "G-Class",
       "kind": "model",
       "previous_fingerprint": "f7f15619becf8ef78e63f7e1fbd04bd93e6e352672ca86089d2fb3d0d7bb490b",
-      "new_fingerprint": "f94ec2d95141754ab338066fe89f5eb2ceed08251e664e349b10c5102799ad14",
+      "new_fingerprint": "17f4685d2beac5c95e39cf95352ef8e0805f7222c12fe5895dc17f4949169b4a",
       "detected_at": "2026-11-03T12:17:25+00:00",
-      "last_changed_at": "2026-11-27T14:15:18+00:00"
+      "last_changed_at": "2026-11-28T13:31:24+00:00"
     },
     {
       "url": "https://www.genesis.com/us/en/build-and-price/2026/g90",
